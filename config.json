@@ -1,0 +1,32 @@
+{
+  "keywords": [
+    "industrial strategy",
+    "manufacturing",
+    "advanced manufacturing",
+    "net zero",
+    "clean energy",
+    "hydrogen",
+    "semiconductors",
+    "supply chain",
+    "CHIPS",
+    "IRA",
+    "Made in China 2025",
+    "National Industrial Strategy",
+    "R&D",
+    "innovation funding"
+  ],
+  "rss_sources": [
+    "https://www.gov.uk/government/announcements.atom",
+    "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+    "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+    "https://www.gov.uk/government/organisations/innovation-uk.atom",
+    "https://single-market-economy.ec.europa.eu/news_en?format=rss",
+    "https://www.oecd.org/feeds/themes/industry-and-entrepreneurship.xml",
+    "https://www.whitehouse.gov/briefing-room/feed/",
+    "https://www.meti.go.jp/english/whatsnew/rss_e.xml",
+    "https://www.mof.go.kr/eng/rss.do"  // Example; replace as needed
+  ],
+  "html_sources": [
+    "https://example.com/some-industrial-strategy-page"
+  ]
+}

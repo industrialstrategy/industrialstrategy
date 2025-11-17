@@ -1,0 +1,4 @@
+# Add one RSS/Atom feed URL per line (optional, config.json is primary)
+https://www.gov.uk/government/announcements.atom
+https://single-market-economy.ec.europa.eu/news_en?format=rss
+https://www.whitehouse.gov/briefing-room/feed/

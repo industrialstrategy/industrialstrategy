@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-11-06T00:00:00Z",
+  "keywords": [
+    "industrial strategy"
+  ],
+  "count": 1,
+  "items": [
+    {
+      "title": "Welcome to the Industrial Strategy Tracker",
+      "summary": "Run scraper.py to populate this feed from your chosen RSS sources and keywords.",
+      "link": "https://example.org",
+      "source": "local",
+      "published": "2025-11-06T00:00:00Z",
+      "matched": [
+        "industrial strategy"
+      ]
+    }
+  ]
+}

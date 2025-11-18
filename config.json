@@ -24,9 +24,7 @@
     "https://www.oecd.org/feeds/themes/industry-and-entrepreneurship.xml",
     "https://www.whitehouse.gov/briefing-room/feed/",
     "https://www.meti.go.jp/english/whatsnew/rss_e.xml",
-    "https://www.mof.go.kr/eng/rss.do"  // Example; replace as needed
+    "https://www.mof.go.kr/eng/rss.do"
   ],
-  "html_sources": [
-    "https://example.com/some-industrial-strategy-page"
-  ]
+  "html_sources": []
 }

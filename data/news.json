@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T13:48:09.442058Z",
+  "generated_at": "2025-11-18T18:59:40.431930Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,62 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Consumer savings schemes legislation for businesses",
+      "summary": "Guidance on the new legal duties to protect money held in 'consumer savings schemes' under the Digital Markets Competition and Consumers Act 2024.",
+      "link": "https://www.gov.uk/government/publications/consumer-savings-schemes-legislation-for-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T17:01:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: FOI, EIR and Correspondence requests privacy notice",
+      "summary": "How the Department for Business and Trade (DBT) processes personal data when we answer Freedom of Information (FOI), Environmental Information Regulations (EIR) and Correspondence requests.",
+      "link": "https://www.gov.uk/government/publications/foi-eir-and-correspondence-requests-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T17:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Contact the Department for Business and Trade (DBT)",
+      "summary": "Use this form to send a message to the Department for Business and Trade.",
+      "link": "https://www.gov.uk/guidance/contact-the-department-for-business-and-trade-dbt",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T17:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: DBT worldwide offices",
+      "summary": "Contact details for Department for Business and Trade (DBT) offices around the world and a list of our HM Trade Commissioners.",
+      "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T16:59:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Heat networks regulation: technical standards",
+      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T16:42:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "New Energy Resilience Strategy to better protect infrastructure",
       "summary": "A new government strategy will help safeguard critical energy infrastructure and protect consumers and businesses from costly disruption.",
@@ -169,6 +225,16 @@
       "title": "Policy paper: NESO’s North Hyde report: government response",
       "summary": "The government’s action plan to address the findings of NESO’s review into the incident at North Hyde Substation and commitment to ensuring GB energy resilience now and in the future.",
       "link": "https://www.gov.uk/government/publications/nesos-north-hyde-report-government-response",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Standard: Draft: Heat network technical standard (TS1)",
+      "summary": "This draft technical standard sets out the minimum requirements necessary for the proper design, installation, and operation of Heat Networks.",
+      "link": "https://www.gov.uk/government/publications/heat-network-technical-standard-ts1",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-18T00:00:00+00:00",
       "matched": [],
@@ -344,26 +410,6 @@
       "ai_tags": []
     },
     {
-      "title": "Impact assessment: National Policy Statements for energy: appraisal of sustainability",
-      "summary": "The likely significant sustainability effects of developing new energy infrastructure of the types covered by the National Policy Statements for energy.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-appraisal-of-sustainability",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-13T12:00:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Planning for new energy infrastructure: 2025 revisions to National Policy Statements",
-      "summary": "We’re seeking views on the revised energy National Policy Statements that support decisions on major energy infrastructure.",
-      "link": "https://www.gov.uk/government/consultations/planning-for-new-energy-infrastructure-2025-revisions-to-national-policy-statements",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-13T11:56:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Strategic export controls: licensing statistics: 1 April to 30 June 2025",
       "summary": "Export control licensing data for 1 April to 30 June 2025.",
       "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2025",
@@ -405,54 +451,6 @@
       "link": "https://www.gov.uk/government/publications/strategic-export-control-statistics-statement-of-administrative-sources",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-13T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-12T13:17:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-12T13:17:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-12T13:17:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-12T13:17:29+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

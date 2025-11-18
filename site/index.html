@@ -112,9 +112,15 @@
       text-decoration: underline;
     }
     .card-summary {
-      margin: 0.2rem 0 0.4rem;
+      margin: 0.2rem 0 0.3rem;
       font-size: 0.9rem;
       color: #333;
+    }
+    .ai-summary {
+      margin: 0.15rem 0 0.4rem;
+      font-size: 0.86rem;
+      color: #2c3e50;
+      font-style: italic;
     }
     .card-meta {
       font-size: 0.8rem;
@@ -159,6 +165,11 @@
       background: #eef3ff;
       color: #253570;
       border: 1px solid #c9d4ff;
+    }
+    .badge-ai {
+      background: #e9f7ef;
+      border-color: #c6e9d4;
+      color: #196f3d;
     }
     .empty {
       margin-top: 1.5rem;
@@ -349,6 +360,14 @@
         summary.className = "card-summary";
         summary.textContent = item.summary || "";
 
+        const ai = document.createElement("p");
+        ai.className = "ai-summary";
+        if (item.ai_summary) {
+          ai.textContent = "Why this matters: " + item.ai_summary;
+        } else {
+          ai.style.display = "none";
+        }
+
         const metaLine = document.createElement("div");
         metaLine.className = "card-meta";
 
@@ -390,8 +409,10 @@
         }
 
         metaLine.appendChild(mainMeta);
+
         div.appendChild(h);
         if (item.summary) div.appendChild(summary);
+        div.appendChild(ai);
         div.appendChild(metaLine);
 
         const actions = document.createElement("div");
@@ -406,15 +427,28 @@
           div.appendChild(actions);
         }
 
+        const badges = document.createElement("div");
+        badges.className = "keyword-badges";
+
         if (item.matched && item.matched.length > 0) {
-          const badges = document.createElement("div");
-          badges.className = "keyword-badges";
           item.matched.forEach((kw) => {
             const span = document.createElement("span");
             span.className = "badge";
             span.textContent = kw;
             badges.appendChild(span);
           });
+        }
+
+        if (item.ai_tags && item.ai_tags.length > 0) {
+          item.ai_tags.forEach((tag) => {
+            const span = document.createElement("span");
+            span.className = "badge badge-ai";
+            span.textContent = tag;
+            badges.appendChild(span);
+          });
+        }
+
+        if (badges.children.length > 0) {
           div.appendChild(badges);
         }
 
@@ -434,7 +468,7 @@
 
       if (q) {
         filtered = filtered.filter((item) => {
-          const haystack = `${item.title || ""} ${item.summary || ""}`.toLowerCase();
+          const haystack = `${item.title || ""} ${item.summary || ""} ${item.ai_summary || ""}`.toLowerCase();
           return haystack.includes(q);
         });
       }

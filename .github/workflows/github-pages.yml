@@ -19,6 +19,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,21 +27,24 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
 
       - name: Run scraper
         run: python scraper.py
 
-      # Prepare the folder GitHub Pages will serve
       - name: Build static site
         run: |
           mkdir -p _site
           cp -r site/* _site/
           mkdir -p _site/data
           cp -r data/* _site/data/
+          # expose RSS feed at /feed.xml as well as /data/feed.xml
+          if [ -f data/feed.xml ]; then cp data/feed.xml _site/feed.xml; fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -53,6 +57,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

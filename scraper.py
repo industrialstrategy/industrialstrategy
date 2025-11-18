@@ -16,6 +16,29 @@ if USE_HTML_SCRAPING:
 CONFIG_PATH = os.environ.get("IS_CONFIG", "config.json")
 DATA_OUT = "data/news.json"
 
+# Try to load transformers for AI summaries
+try:
+    from transformers import pipeline
+    HAVE_TRANSFORMERS = True
+except ImportError:
+    HAVE_TRANSFORMERS = False
+
+_SUMMARIZER = None
+
+
+def get_summarizer():
+    """Lazy init for the summariser pipeline."""
+    global _SUMMARIZER
+    if not HAVE_TRANSFORMERS:
+        return None
+    if _SUMMARIZER is None:
+        # Small-ish summarisation model, fine on CPU in Actions
+        _SUMMARIZER = pipeline(
+            "summarization",
+            model="sshleifer/distilbart-cnn-12-6",
+        )
+    return _SUMMARIZER
+
 
 def load_config(path: str):
     with open(path, "r", encoding="utf-8") as f:
@@ -78,6 +101,9 @@ def entry_to_item(entry, source_url: str, keywords: list):
         "source": source_url,
         "published": iso,
         "matched": matched,
+        # Will fill these later if transformers is available
+        "ai_summary": "",
+        "ai_tags": [],
     }
     return item
 
@@ -110,6 +136,91 @@ def xml_escape(s: str) -> str:
                     .replace('"', "&quot;")
 
 
+def infer_ai_tags(text: str) -> list:
+    """
+    Cheap tag inference on top of the keyword logic.
+    No heavy model here, just heuristics.
+    """
+    t = text.lower()
+    tags = set()
+
+    def add_if(substr, label):
+        if substr in t:
+            tags.add(label)
+
+    add_if("hydrogen", "Hydrogen")
+    add_if("fuel cell", "Fuel cells")
+    add_if("net zero", "Net zero")
+    add_if("decarbonis", "Decarbonisation")
+    add_if("industrial strategy", "Industrial strategy")
+    add_if("manufactur", "Manufacturing")
+    add_if("supply chain", "Supply chains")
+    add_if("semiconductor", "Semiconductors")
+    add_if("chips act", "CHIPS / semiconductors")
+    add_if("ira ", "US IRA")
+    add_if("r&d", "R&D")
+    add_if("research and development", "R&D")
+    add_if("innovation", "Innovation")
+    add_if("clean energy", "Clean energy")
+    add_if("heat pump", "Heat pumps")
+    add_if("nuclear", "Nuclear")
+    add_if("small modular reactor", "SMRs")
+    add_if("trade", "Trade")
+    add_if("export", "Trade")
+
+    return sorted(tags)
+
+
+def add_ai_fields(items: list):
+    """
+    Add ai_summary and ai_tags for each item if transformers is available.
+    To keep runtime sensible we cap the number of items we summarise.
+    """
+    summariser = get_summarizer()
+    if summariser is None:
+        print("[INFO] transformers not available, skipping AI summaries.")
+        # Still add heuristic tags
+        for item in items:
+            text = f"{item.get('title','')} {item.get('summary','')}"
+            item["ai_tags"] = infer_ai_tags(text)
+        return
+
+    max_items = 50  # summarise only the most recent 50 to keep things light
+    for idx, item in enumerate(items):
+        text = f"{item.get('title','')}. {item.get('summary','')}".strip()
+        text = text.replace("\n", " ")
+        if not text or len(text) < 40:
+            item["ai_summary"] = ""
+        else:
+            try:
+                # keep input short for speed
+                input_text = text[:900]
+                out = summariser(
+                    input_text,
+                    max_length=50,
+                    min_length=8,
+                    do_sample=False,
+                )
+                summary_text = out[0]["summary_text"].strip()
+                item["ai_summary"] = summary_text
+            except Exception as e:
+                print(f"[WARN] summarisation failed for item {idx}: {e}")
+                item["ai_summary"] = ""
+
+        # heuristic tags on top
+        text_for_tags = f"{item.get('title','')} {item.get('summary','')}"
+        item["ai_tags"] = infer_ai_tags(text_for_tags)
+
+        if idx + 1 >= max_items:
+            # For older items, just tags, no summaries
+            break
+
+    # For remaining items (beyond max_items), at least add tags
+    for item in items[max_items:]:
+        text_for_tags = f"{item.get('title','')} {item.get('summary','')}"
+        item["ai_tags"] = infer_ai_tags(text_for_tags)
+
+
 def main():
     cfg = load_config(CONFIG_PATH)
     keywords = cfg.get("keywords", [])
@@ -126,7 +237,6 @@ def main():
         feed = fetch_feed(url)
         for entry in feed.get("entries", []):
             item = entry_to_item(entry, url, keywords)
-            # Always include the item; "matched" is just metadata
             items.append(item)
 
     # --- Optional HTML scraping (off by default) ---
@@ -138,17 +248,23 @@ def main():
             title, body, matched = scrape_html(url, keywords)
             if not title and not body:
                 continue
+            text = (body or "")[:1000]
             items.append({
                 "title": title or url,
-                "summary": (body or "")[:1000],
+                "summary": text,
                 "link": url,
                 "source": url,
                 "published": "",
                 "matched": matched,
+                "ai_summary": "",
+                "ai_tags": [],
             })
 
     # Sort newest first (blank published dates go last)
     items.sort(key=lambda x: x.get("published") or "", reverse=True)
+
+    # Add AI enrichments
+    add_ai_fields(items)
 
     os.makedirs("data", exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
@@ -169,7 +285,9 @@ def main():
     for item in items[:50]:
         title = xml_escape(item.get("title", ""))
         link = xml_escape(item.get("link", ""))
-        description = xml_escape(item.get("summary", ""))
+        description = xml_escape(
+            item.get("ai_summary") or item.get("summary") or ""
+        )
         pubdate = item.get("published") or generated_at
         rss_items.append(
             f"""

@@ -32,13 +32,32 @@
       border: 1px solid #ccc;
       box-sizing: border-box;
     }
-    .topic-filters {
+    .filters-block {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      margin-bottom: 0.75rem;
+    }
+    .filter-row {
       display: flex;
       flex-wrap: wrap;
       gap: 0.4rem;
-      margin-bottom: 0.5rem;
+      align-items: center;
     }
-    .topic-chip {
+    .filter-label {
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #777;
+      margin-right: 0.3rem;
+    }
+    .chip-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+    .chip {
       border-radius: 999px;
       padding: 0.25rem 0.7rem;
       font-size: 0.8rem;
@@ -47,10 +66,21 @@
       cursor: pointer;
       user-select: none;
     }
-    .topic-chip.active {
+    .chip.active {
       background: #111;
       color: #fff;
       border-color: #111;
+    }
+    .toggle {
+      font-size: 0.8rem;
+      color: #555;
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+    .toggle input[type="checkbox"] {
+      transform: scale(1.05);
+      cursor: pointer;
     }
     .meta {
       margin: 0.25rem 0 1rem;
@@ -82,13 +112,39 @@
       text-decoration: underline;
     }
     .card-summary {
-      margin: 0.2rem 0 0.3rem;
+      margin: 0.2rem 0 0.4rem;
       font-size: 0.9rem;
       color: #333;
     }
     .card-meta {
       font-size: 0.8rem;
       color: #777;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: center;
+    }
+    .card-meta-main {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+      align-items: center;
+    }
+    .source-link {
+      cursor: pointer;
+      text-decoration: underline;
+      text-decoration-style: dotted;
+    }
+    .card-actions {
+      margin-top: 0.3rem;
+      font-size: 0.8rem;
+    }
+    .card-actions a {
+      color: #0b5ed7;
+      text-decoration: none;
+    }
+    .card-actions a:hover {
+      text-decoration: underline;
     }
     .keyword-badges {
       margin-top: 0.25rem;
@@ -136,7 +192,27 @@
     />
   </div>
 
-  <div id="topics" class="topic-filters"></div>
+  <div class="filters-block">
+    <div class="filter-row">
+      <span class="filter-label">Topics</span>
+      <div id="topics" class="chip-bar"></div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Region</span>
+      <div id="countries" class="chip-bar"></div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Time</span>
+      <div id="dates" class="chip-bar"></div>
+    </div>
+    <div class="filter-row">
+      <label class="toggle">
+        <input type="checkbox" id="matched-only" />
+        Only show items matching keywords
+      </label>
+    </div>
+  </div>
+
   <p id="meta" class="meta"></p>
 
   <div id="items" class="items"></div>
@@ -152,12 +228,30 @@
   <script>
     let allItems = [];
     let activeTopic = null;
+    let activeCountryCode = "ALL";
+    let activeSourceLabel = null;
+    let showMatchedOnly = false;
+    let activeDateRange = "all"; // "all", "7", "30"
 
     const TOPIC_FILTERS = [
       { id: "net-zero", label: "Net zero", keyword: "net zero" },
       { id: "hydrogen", label: "Hydrogen", keyword: "hydrogen" },
       { id: "manufacturing", label: "Manufacturing", keyword: "manufacturing" },
       { id: "supply-chain", label: "Supply chain", keyword: "supply chain" }
+    ];
+
+    const COUNTRY_FILTERS = [
+      { id: "all", label: "All regions", code: "ALL" },
+      { id: "uk", label: "UK", code: "UK" },
+      { id: "eu", label: "EU", code: "EU" },
+      { id: "us", label: "US", code: "US" },
+      { id: "int", label: "Intl", code: "INT" }
+    ];
+
+    const DATE_FILTERS = [
+      { id: "all", label: "All time", days: null },
+      { id: "7", label: "Last 7 days", days: 7 },
+      { id: "30", label: "Last 30 days", days: 30 }
     ];
 
     function formatDate(iso) {
@@ -195,14 +289,14 @@
           return { country: "INT", label: "OECD" };
         }
         if (host.endsWith("meti.go.jp")) {
-          return { country: "JP", label: "METI Japan" };
+          return { country: "INT", label: "METI Japan" };
         }
         if (host.endsWith("mof.go.kr")) {
-          return { country: "KR", label: "Korea MOF" };
+          return { country: "INT", label: "Korea MOF" };
         }
-        return { country: "", label: host };
+        return { country: "INT", label: host };
       } catch (e) {
-        return { country: "", label: sourceUrl || "" };
+        return { country: "INT", label: sourceUrl || "" };
       }
     }
 
@@ -211,8 +305,6 @@
         case "UK": return "🇬🇧";
         case "US": return "🇺🇸";
         case "EU": return "🇪🇺";
-        case "JP": return "🇯🇵";
-        case "KR": return "🇰🇷";
         case "INT": return "🌐";
         default: return "";
       }
@@ -257,20 +349,62 @@
         summary.className = "card-summary";
         summary.textContent = item.summary || "";
 
-        const metaLine = document.createElement("p");
+        const metaLine = document.createElement("div");
         metaLine.className = "card-meta";
-        const bits = [];
-        if (item.published) bits.push(formatDate(item.published));
+
+        const mainMeta = document.createElement("div");
+        mainMeta.className = "card-meta-main";
+
+        if (item.published) {
+          const dateSpan = document.createElement("span");
+          dateSpan.textContent = formatDate(item.published);
+          mainMeta.appendChild(dateSpan);
+        }
+
         if (item.source) {
           const info = classifySource(item.source);
           const flag = countryFlag(info.country);
-          bits.push(`${flag ? flag + " " : ""}${info.label}`);
-        }
-        metaLine.textContent = bits.join(" • ");
 
+          if (item.published) {
+            const sep = document.createElement("span");
+            sep.textContent = "•";
+            mainMeta.appendChild(sep);
+          }
+
+          const srcSpan = document.createElement("span");
+          srcSpan.className = "source-link";
+          srcSpan.textContent = `${flag ? flag + " " : ""}${info.label}`;
+          srcSpan.dataset.sourceLabel = info.label;
+          srcSpan.addEventListener("click", () => {
+            activeSourceLabel = info.label;
+            activeCountryCode = "ALL";
+            const countryBar = document.getElementById("countries");
+            for (const child of countryBar.children) {
+              if (child instanceof HTMLElement) {
+                child.classList.toggle("active", child.dataset.countryCode === "ALL");
+              }
+            }
+            applyFilter();
+          });
+          mainMeta.appendChild(srcSpan);
+        }
+
+        metaLine.appendChild(mainMeta);
         div.appendChild(h);
         if (item.summary) div.appendChild(summary);
         div.appendChild(metaLine);
+
+        const actions = document.createElement("div");
+        actions.className = "card-actions";
+        if (item.link) {
+          const link = document.createElement("a");
+          link.href = item.link;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.textContent = "View on source site ↗";
+          actions.appendChild(link);
+          div.appendChild(actions);
+        }
 
         if (item.matched && item.matched.length > 0) {
           const badges = document.createElement("div");
@@ -313,6 +447,36 @@
         });
       }
 
+      if (showMatchedOnly) {
+        filtered = filtered.filter((item) => item.matched && item.matched.length > 0);
+      }
+
+      if (activeSourceLabel) {
+        filtered = filtered.filter((item) => {
+          if (!item.source) return false;
+          const info = classifySource(item.source);
+          return info.label === activeSourceLabel;
+        });
+      } else if (activeCountryCode !== "ALL") {
+        filtered = filtered.filter((item) => {
+          if (!item.source) return false;
+          const info = classifySource(item.source);
+          return info.country === activeCountryCode;
+        });
+      }
+
+      if (activeDateRange !== "all") {
+        const days = activeDateRange === "7" ? 7 : 30;
+        const now = new Date();
+        const cutoff = new Date(now.getTime() - days * 24 * 60 * 60 * 1000);
+        filtered = filtered.filter((item) => {
+          if (!item.published) return false;
+          const d = new Date(item.published);
+          if (Number.isNaN(d.getTime())) return false;
+          return d >= cutoff;
+        });
+      }
+
       renderItems(filtered, window._generatedAt || null);
     }
 
@@ -321,14 +485,14 @@
       TOPIC_FILTERS.forEach((t) => {
         const btn = document.createElement("button");
         btn.type = "button";
-        btn.className = "topic-chip";
+        btn.className = "chip";
         btn.textContent = t.label;
         btn.dataset.topicId = t.id;
         box.appendChild(btn);
       });
 
       box.addEventListener("click", (evt) => {
-        const btn = evt.target.closest(".topic-chip");
+        const btn = evt.target.closest(".chip");
         if (!btn) return;
 
         const id = btn.dataset.topicId;
@@ -350,8 +514,80 @@
       });
     }
 
+    function buildCountryFilters() {
+      const box = document.getElementById("countries");
+      COUNTRY_FILTERS.forEach((c) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "chip";
+        btn.textContent = c.label;
+        btn.dataset.countryCode = c.code;
+        if (c.code === "ALL") btn.classList.add("active");
+        box.appendChild(btn);
+      });
+
+      box.addEventListener("click", (evt) => {
+        const btn = evt.target.closest(".chip");
+        if (!btn) return;
+
+        const code = btn.dataset.countryCode || "ALL";
+        activeCountryCode = code;
+        activeSourceLabel = null;
+
+        for (const child of box.children) {
+          if (!(child instanceof HTMLElement)) continue;
+          child.classList.toggle(
+            "active",
+            child.dataset.countryCode === activeCountryCode
+          );
+        }
+
+        applyFilter();
+      });
+    }
+
+    function buildDateFilters() {
+      const box = document.getElementById("dates");
+      DATE_FILTERS.forEach((d) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "chip";
+        btn.textContent = d.label;
+        btn.dataset.rangeId = d.id;
+        if (d.id === "all") btn.classList.add("active");
+        box.appendChild(btn);
+      });
+
+      box.addEventListener("click", (evt) => {
+        const btn = evt.target.closest(".chip");
+        if (!btn) return;
+
+        const id = btn.dataset.rangeId || "all";
+        activeDateRange = id;
+
+        for (const child of box.children) {
+          if (!(child instanceof HTMLElement)) continue;
+          child.classList.toggle(
+            "active",
+            child.dataset.rangeId === activeDateRange
+          );
+        }
+
+        applyFilter();
+      });
+    }
+
     async function init() {
       buildTopicFilters();
+      buildCountryFilters();
+      buildDateFilters();
+
+      const matchedToggle = document.getElementById("matched-only");
+      matchedToggle.addEventListener("change", () => {
+        showMatchedOnly = matchedToggle.checked;
+        applyFilter();
+      });
+
       try {
         const res = await fetch("data/news.json?ts=" + Date.now());
         if (!res.ok) {

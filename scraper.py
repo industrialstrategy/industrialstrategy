@@ -3,7 +3,7 @@ import os
 import json
 import re
 from datetime import datetime, timezone
-from urllib.parse import urlparse  # (kept in case you want it later)
+from urllib.parse import urlparse  # kept in case you want it later
 import feedparser
 
 # Optional HTML scraping (off by default to respect ToS/robots).
@@ -103,6 +103,13 @@ def scrape_html(url: str, keywords: list):
         return None, None, []
 
 
+def xml_escape(s: str) -> str:
+    return (s or "").replace("&", "&amp;") \
+                    .replace("<", "&lt;") \
+                    .replace(">", "&gt;") \
+                    .replace('"', "&quot;")
+
+
 def main():
     cfg = load_config(CONFIG_PATH)
     keywords = cfg.get("keywords", [])
@@ -144,17 +151,52 @@ def main():
     items.sort(key=lambda x: x.get("published") or "", reverse=True)
 
     os.makedirs("data", exist_ok=True)
+    generated_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
     payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "generated_at": generated_at,
         "keywords": keywords,
         "count": len(items),
         "items": items,
     }
 
+    # Write JSON for the web app
     with open(DATA_OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"[OK] Wrote {DATA_OUT} with {len(items)} items")
+    # Also write a simple RSS feed (top 50 items)
+    rss_items = []
+    for item in items[:50]:
+        title = xml_escape(item.get("title", ""))
+        link = xml_escape(item.get("link", ""))
+        description = xml_escape(item.get("summary", ""))
+        pubdate = item.get("published") or generated_at
+        rss_items.append(
+            f"""
+    <item>
+      <title>{title}</title>
+      <link>{link}</link>
+      <description>{description}</description>
+      <pubDate>{xml_escape(pubdate)}</pubDate>
+    </item>"""
+        )
+
+    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Industrial Strategy Tracker</title>
+    <link>https://industrialstrategy.github.io/industrialstrategy/</link>
+    <description>Updates from government and industry sources.</description>
+    <lastBuildDate>{xml_escape(generated_at)}</lastBuildDate>
+    {''.join(rss_items)}
+  </channel>
+</rss>
+"""
+
+    with open("data/feed.xml", "w", encoding="utf-8") as f_rss:
+        f_rss.write(rss)
+
+    print(f"[OK] Wrote {DATA_OUT} with {len(items)} items and data/feed.xml")
 
 
 if __name__ == "__main__":

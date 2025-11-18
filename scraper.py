@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-import os, sys, json, time, re
+import os
+import json
+import re
 from datetime import datetime, timezone
-from urllib.parse import urlparse
+from urllib.parse import urlparse  # (kept in case you want it later)
 import feedparser
 
 # Optional HTML scraping (off by default to respect ToS/robots).
-# If you enable it, install: pip install beautifulsoup4 requests-html
+# If you enable it, install: pip install requests beautifulsoup4
 USE_HTML_SCRAPING = False
 if USE_HTML_SCRAPING:
     import requests
@@ -14,29 +16,33 @@ if USE_HTML_SCRAPING:
 CONFIG_PATH = os.environ.get("IS_CONFIG", "config.json")
 DATA_OUT = "data/news.json"
 
+
 def load_config(path: str):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+
 def norm(s: str) -> str:
     return (s or "").lower()
 
-def matches_keywords(text: str, keywords: list) -> bool:
+
+def matches_keywords(text: str, keywords: list) -> list:
+    """Return list of keywords that match this text."""
     t = norm(text)
+    matched = []
     for kw in keywords:
-        # Accept simple keywords or quoted phrases
-        kw = kw.strip()
-        if not kw:
+        kw_clean = kw.strip()
+        if not kw_clean:
             continue
-        if kw.startswith('"') and kw.endswith('"'):
-            phrase = kw[1:-1].lower()
+        if kw_clean.startswith('"') and kw_clean.endswith('"'):
+            phrase = kw_clean[1:-1].lower()
             if phrase in t:
-                return True
+                matched.append(kw_clean)
         else:
-            # keyword as tokens
-            if kw.lower() in t:
-                return True
-    return False
+            if kw_clean.lower() in t:
+                matched.append(kw_clean)
+    return matched
+
 
 def fetch_feed(url: str):
     try:
@@ -45,16 +51,11 @@ def fetch_feed(url: str):
         print(f"[WARN] feed error {url}: {e}")
         return {"entries": []}
 
-def safe_get(entry, *keys, default=""):
-    cur = entry
-    for k in keys:
-        cur = cur.get(k, {})
-    return cur if cur else default
 
 def entry_to_item(entry, source_url: str, keywords: list):
-    title = entry.get("title", "")
-    summary = entry.get("summary", "") or entry.get("description", "")
-    link = entry.get("link", "")
+    title = entry.get("title", "") or ""
+    summary = entry.get("summary", "") or entry.get("description", "") or ""
+    link = entry.get("link", "") or ""
     published = entry.get("published", "") or entry.get("updated", "")
     published_parsed = entry.get("published_parsed") or entry.get("updated_parsed")
 
@@ -65,34 +66,42 @@ def entry_to_item(entry, source_url: str, keywords: list):
     else:
         iso = ""
 
+    clean_summary = re.sub(r"<.*?>", "", summary)[:1000]
+
+    haystack = f"{title}\n{clean_summary}"
+    matched = matches_keywords(haystack, keywords)
+
     item = {
         "title": title,
-        "summary": re.sub("<.*?>", "", summary)[:1000],
+        "summary": clean_summary,
         "link": link,
         "source": source_url,
         "published": iso,
-        "matched": []
+        "matched": matched,
     }
-
-    haystack = f"{title}\n{summary}"
-    for kw in keywords:
-        if matches_keywords(haystack, [kw]):
-            item["matched"].append(kw)
-
     return item
 
-def scrape_html(url: str):
+
+def scrape_html(url: str, keywords: list):
     try:
-        r = requests.get(url, timeout=10, headers={"User-Agent": "IndustrialStrategyBot/0.1"})
+        r = requests.get(
+            url,
+            timeout=10,
+            headers={"User-Agent": "IndustrialStrategyBot/0.1"},
+        )
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
-        # Very naive extraction
         title = soup.title.text.strip() if soup.title else url
-        ps = " ".join([p.get_text(" ", strip=True) for p in soup.find_all("p")])[:1500]
-        return title, ps
+        ps = " ".join(
+            [p.get_text(" ", strip=True) for p in soup.find_all("p")]
+        )[:1500]
+        text = f"{title}\n{ps}"
+        matched = matches_keywords(text, keywords)
+        return title, ps, matched
     except Exception as e:
         print(f"[WARN] html scrape fail {url}: {e}")
-        return None, None
+        return None, None, []
+
 
 def main():
     cfg = load_config(CONFIG_PATH)
@@ -102,45 +111,51 @@ def main():
 
     items = []
 
+    # --- RSS / Atom feeds ---
     for url in sources:
-        if not url.strip():
+        url = (url or "").strip()
+        if not url:
             continue
         feed = fetch_feed(url)
         for entry in feed.get("entries", []):
             item = entry_to_item(entry, url, keywords)
-            if item["matched"]:
-                items.append(item)
+            # Always include the item; "matched" is just metadata
+            items.append(item)
 
+    # --- Optional HTML scraping (off by default) ---
     if USE_HTML_SCRAPING:
         for url in html_sources:
-            title, body = scrape_html(url)
+            url = (url or "").strip()
+            if not url:
+                continue
+            title, body, matched = scrape_html(url, keywords)
             if not title and not body:
                 continue
-            text = f"{title}\n{body or ''}"
-            matched = [kw for kw in keywords if matches_keywords(text, [kw])]
-            if matched:
-                items.append({
-                    "title": title or url,
-                    "summary": (body or "")[:1000],
-                    "link": url,
-                    "source": url,
-                    "published": "",
-                    "matched": matched
-                })
+            items.append({
+                "title": title or url,
+                "summary": (body or "")[:1000],
+                "link": url,
+                "source": url,
+                "published": "",
+                "matched": matched,
+            })
 
-    # sort newest first
+    # Sort newest first (blank published dates go last)
     items.sort(key=lambda x: x.get("published") or "", reverse=True)
 
     os.makedirs("data", exist_ok=True)
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "keywords": keywords,
+        "count": len(items),
+        "items": items,
+    }
+
     with open(DATA_OUT, "w", encoding="utf-8") as f:
-        json.dump({
-            "generated_at": datetime.utcnow().isoformat() + "Z",
-            "keywords": keywords,
-            "count": len(items),
-            "items": items
-        }, f, ensure_ascii=False, indent=2)
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
     print(f"[OK] Wrote {DATA_OUT} with {len(items)} items")
+
 
 if __name__ == "__main__":
     main()

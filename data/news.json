@@ -1,18 +1,462 @@
 {
-  "generated_at": "2025-11-06T00:00:00Z",
+  "generated_at": "2025-11-18T13:48:09.442058Z",
   "keywords": [
-    "industrial strategy"
+    "industrial strategy",
+    "manufacturing",
+    "advanced manufacturing",
+    "net zero",
+    "clean energy",
+    "hydrogen",
+    "semiconductors",
+    "supply chain",
+    "CHIPS",
+    "IRA",
+    "Made in China 2025",
+    "National Industrial Strategy",
+    "R&D",
+    "innovation funding"
   ],
-  "count": 1,
+  "count": 40,
   "items": [
     {
-      "title": "Welcome to the Industrial Strategy Tracker",
-      "summary": "Run scraper.py to populate this feed from your chosen RSS sources and keywords.",
-      "link": "https://example.org",
-      "source": "local",
-      "published": "2025-11-06T00:00:00Z",
+      "title": "New Energy Resilience Strategy to better protect infrastructure",
+      "summary": "A new government strategy will help safeguard critical energy infrastructure and protect consumers and businesses from costly disruption.",
+      "link": "https://www.gov.uk/government/news/new-energy-resilience-strategy-to-better-protect-infrastructure",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T13:15:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK Internal Market Act 2020: review and consultation",
+      "summary": "We are seeking views on what is and what is not working well about the UK Internal Market Act, so that we can quickly decide on next steps to make processes work better.",
+      "link": "https://www.gov.uk/government/consultations/uk-internal-market-act-2020-review-and-consultation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T10:54:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T10:23:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Help to Grow: Management course enrolments and participant completions",
+      "summary": "Statistics on the uptake of the Help to Grow: Management programme, course enrolments and participant completions.",
+      "link": "https://www.gov.uk/government/publications/help-to-grow-management-course-enrolments-and-participant-completions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: legal costs framework",
+      "summary": "This guidance sets out the legal costs the Department for Business and Trade (DBT) will cover for Capture Redress Scheme applicants.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-legal-costs-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T09:10:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T09:09:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T09:01:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Exploring the role of alternative clean heating solutions",
+      "summary": "We are seeking views on low carbon heating technologies that could be used to decarbonise heat in the small number of properties that may not be suitable for heat pumps and heat networks.",
+      "link": "https://www.gov.uk/government/consultations/exploring-the-role-of-alternative-clean-heating-solutions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T09:00:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation",
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators",
+      "summary": "New government funding will help make the boldest ideas in UK life sciences a reality.",
+      "link": "https://www.gov.uk/government/news/multi-million-pound-backing-for-cutting-edge-projects-by-uk-scientists-and-innovators",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T09:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Boiler Upgrade Scheme and certification requirements for clean heat schemes",
+      "summary": "We're seeking views on proposed amendments to the existing Boiler Upgrade Scheme (BUS) and to certification requirements for BUS and other clean heat schemes.",
+      "link": "https://www.gov.uk/government/consultations/boiler-upgrade-scheme-and-certification-requirements-for-clean-heat-schemes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T07:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: gas appliances",
+      "summary": "Notices of publication and a consolidated list for designated standards for gas appliances.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-gas-appliances",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T00:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
+      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-18T00:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Discounts for families to keep warm in winter and cool in summer",
+      "summary": "Boiler Upgrade Scheme has been expanded to include air-to-air heat pumps and heat batteries giving families more choice in how they upgrade their home.",
+      "link": "https://www.gov.uk/government/news/discounts-for-families-to-keep-warm-in-winter-and-cool-in-summer",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T00:01:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Policy paper: NESO’s North Hyde report: government response",
+      "summary": "The government’s action plan to address the findings of NESO’s review into the incident at North Hyde Substation and commitment to ensuring GB energy resilience now and in the future.",
+      "link": "https://www.gov.uk/government/publications/nesos-north-hyde-report-government-response",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-18T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK considers joining agreement to boost trade opportunities for British businesses",
+      "summary": "Call for Evidence opens to seek views on the merits of acceding to the PEM Convention",
+      "link": "https://www.gov.uk/government/news/uk-considers-joining-agreement-to-boost-trade-opportunities-for-british-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-17T16:58:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
+      "summary": "Country action plans launched at COP30 with the Global Clean Power Alliance (GCPA) finance mission.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-17T16:54:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DRIVE35 Accounting Officer advice summary",
+      "summary": "A summary of the Accounting Officer's evaluation of the DRIVE35 (Driving Research & Investment in Vehicle Electrification) project.",
+      "link": "https://www.gov.uk/government/publications/drive35-accounting-officer-advice-summary",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-17T15:59:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK Sustainability Disclosures Policy and Implementation Committee (PIC) meeting minutes for 2025",
+      "summary": "Public summary meeting minutes from the UK Sustainability Disclosures Policy and Implementation Committee (PIC).",
+      "link": "https://www.gov.uk/government/publications/uk-sustainability-disclosures-policy-and-implementation-committee-pic-meeting-minutes-for-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-17T11:29:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Pan-Euro Mediterranean Convention on Rules of Origin (PEM)",
+      "summary": "The Department for Business and Trade (DBT) is seeking views on the potential impacts of UK accession to the Regional Convention on Pan-Euro Mediterranean Preferential Rules of Origin (PEM).",
+      "link": "https://www.gov.uk/government/calls-for-evidence/pan-euro-mediterranean-convention-on-rules-of-origin-pem",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-17T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Schools to cut bills with Great British Energy solar panels",
+      "summary": "Schools across England to cut bills with Great British Energy solar panels.",
+      "link": "https://www.gov.uk/government/news/schools-to-cut-bills-with-great-british-energy-solar-panels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-17T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: supply chains mission vision",
+      "summary": "The vision statement from governments and organisations participating in work on the Global Clean Power Alliance supply chains mission.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-supply-chains-mission-vision",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-15T11:30:00+00:00",
       "matched": [
-        "industrial strategy"
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: prompt payment data, July to September 2025",
+      "summary": "How long the Department for Energy Security and Net Zero (DESNZ) takes to pay invoices.",
+      "link": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-july-to-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-14T12:08:47+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: prompt payment data, April to June 2025",
+      "summary": "How long the Department for Energy Security and Net Zero (DESNZ) takes to pay invoices.",
+      "link": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-april-to-june-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-14T12:08:25+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Guidance: Contributing to the IPCC",
+      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-14T11:18:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, CCUS for National Greenhouse Gas Inventories (additional guidance): call for experts",
+      "summary": "The UK has been invited to nominate experts for participation in the production of the 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, CCUS for National Greenhouse Gas Inventories (additional guidance).",
+      "link": "https://www.gov.uk/government/publications/2027-ipcc-methodology-report-on-carbon-dioxide-removal-technologies-ccus-for-national-greenhouse-gas-inventories-additional-guidance-call-for-expe",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-14T11:17:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Consultation on the National Survey of Registered Businesses (NSRB)",
+      "summary": "The government is seeking views on the proposed changes to the DBT National Survey of Registered Businesses’ exporting behaviours, attitudes and needs.",
+      "link": "https://www.gov.uk/government/consultations/consultation-on-the-national-survey-of-registered-businesses-nsrb",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-14T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2025)",
+      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP30 in Belém.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-14T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel terms of reference",
+      "summary": "The panel is an independent decision-making body that decides the total amount of financial redress payable to Capture Redress Scheme applicants.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-13T15:42:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Impact assessment: National Policy Statements for energy: habitats regulations assessments",
+      "summary": "A habitats regulations assessment is required for proposed plans or projects likely to have a significant effect on international sites of scientific interest.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-habitats-regulations-assessment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-13T12:01:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Impact assessment: National Policy Statements for energy: appraisal of sustainability",
+      "summary": "The likely significant sustainability effects of developing new energy infrastructure of the types covered by the National Policy Statements for energy.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-appraisal-of-sustainability",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-13T12:00:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Planning for new energy infrastructure: 2025 revisions to National Policy Statements",
+      "summary": "We’re seeking views on the revised energy National Policy Statements that support decisions on major energy infrastructure.",
+      "link": "https://www.gov.uk/government/consultations/planning-for-new-energy-infrastructure-2025-revisions-to-national-policy-statements",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-13T11:56:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 April to 30 June 2025",
+      "summary": "Export control licensing data for 1 April to 30 June 2025.",
+      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-13T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Strategic export controls: licensing statistics",
+      "summary": "Export control licensing statistics compiled by the Export Control Joint Unit (ECJU).",
+      "link": "https://www.gov.uk/guidance/strategic-export-controls-licensing-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-13T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Licensing statistics quality and methodology information",
+      "summary": "How Export Control Joint Unit (ECJU) source, process and quality check data for the creation of the strategic export controls licensing statistics.",
+      "link": "https://www.gov.uk/government/publications/strategic-export-controls-quality-and-methodology-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-13T09:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Licensing statistics statement of administrative sources",
+      "summary": "Data sources available to Export Control Joint Unit (ECJU) for the production of the strategic export controls licensing statistics.",
+      "link": "https://www.gov.uk/government/publications/strategic-export-control-statistics-statement-of-administrative-sources",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-13T09:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-12T13:17:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-12T13:17:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-12T13:17:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-12T13:17:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
       ]
     }
   ]

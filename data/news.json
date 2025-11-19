@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T13:49:32.207502Z",
+  "generated_at": "2025-11-19T18:55:23.365064Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,80 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Sizewell C: Funded Decommissioning Programme (FDP)",
+      "summary": "The financing arrangements required to meet the full costs of decommissioning, waste management and disposal costs.",
+      "link": "https://www.gov.uk/government/publications/sizewell-c-funded-decommissioning-programme-fdp",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T17:23:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Putting fans first: consultation on the resale of live events tickets",
+      "summary": "The government is consulting on proposals to strengthen consumer protections in relation to ticket resales.",
+      "link": "https://www.gov.uk/government/consultations/putting-fans-first-consultation-on-the-resale-of-live-events-tickets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T17:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Government bans ticket touting to protect fans from rip-offs",
+      "summary": "New rules to make it illegal to resell tickets for live events above original cost",
+      "link": "https://www.gov.uk/government/news/government-bans-ticket-touting-to-protect-fans-from-rip-offs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T17:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Government bans ticket touting to protect fans from rip-off prices",
+      "summary": "Music and sport fans will no longer be ripped off on the ticket resale market thanks to new measures making it illegal to resell tickets for live events above original cost",
+      "link": "https://www.gov.uk/government/news/government-bans-ticket-touting-to-protect-fans-from-rip-off-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T17:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Putting fans first: call for evidence on pricing practices in the live events sector",
+      "summary": "The government is seeking evidence about pricing practices in the live events sector.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/putting-fans-first-call-for-evidence-on-pricing-practices-in-the-live-events-sector",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T17:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Electricity transmission license exemption: Dogger Bank A offshore wind farm",
+      "summary": "A proposal to provide a time-limited exemption to Dogger Bank A offshore wind farm from the requirement to hold a transmission licence.",
+      "link": "https://www.gov.uk/government/publications/electricity-transmission-license-exemption-dogger-bank-a-offshore-wind-farm",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T16:40:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: UK/New Zealand clean energy partnership: memorandum of cooperation",
+      "summary": "UK Secretary of State Ed Miliband signed an MoC with New Zealand on clean energy cooperation at COP30.",
+      "link": "https://www.gov.uk/government/publications/uknew-zealand-clean-energy-partnership-memorandum-of-cooperation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T14:05:44+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
     {
       "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
       "summary": "DESNZ intends to launch a new ECC Teesside selection process in early 2026 to identify carbon capture projects for future connection.",
@@ -305,41 +379,11 @@
       ]
     },
     {
-      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators",
-      "summary": "New government funding will help make the boldest ideas in UK life sciences a reality.",
-      "link": "https://www.gov.uk/government/news/multi-million-pound-backing-for-cutting-edge-projects-by-uk-scientists-and-innovators",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T09:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Boiler Upgrade Scheme and certification requirements for clean heat schemes",
       "summary": "We're seeking views on proposed amendments to the existing Boiler Upgrade Scheme (BUS) and to certification requirements for BUS and other clean heat schemes.",
       "link": "https://www.gov.uk/government/consultations/boiler-upgrade-scheme-and-certification-requirements-for-clean-heat-schemes",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-18T07:00:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: gas appliances",
-      "summary": "Notices of publication and a consolidated list for designated standards for gas appliances.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-gas-appliances",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T00:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
-      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T00:05:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -377,18 +421,6 @@
       "ai_tags": []
     },
     {
-      "title": "UK considers joining agreement to boost trade opportunities for British businesses",
-      "summary": "Call for Evidence opens to seek views on the merits of acceding to the PEM Convention",
-      "link": "https://www.gov.uk/government/news/uk-considers-joining-agreement-to-boost-trade-opportunities-for-british-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-17T16:58:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
       "summary": "Country action plans launched at COP30 with the Global Clean Power Alliance (GCPA) finance mission.",
       "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
@@ -407,48 +439,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: supply chains mission vision",
-      "summary": "The vision statement from governments and organisations participating in work on the Global Clean Power Alliance supply chains mission.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-supply-chains-mission-vision",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-15T11:30:00+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Transparency data: DESNZ: prompt payment data, July to September 2025",
-      "summary": "How long the Department for Energy Security and Net Zero (DESNZ) takes to pay invoices.",
-      "link": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-14T12:08:47+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Transparency data: DESNZ: prompt payment data, April to June 2025",
-      "summary": "How long the Department for Energy Security and Net Zero (DESNZ) takes to pay invoices.",
-      "link": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-april-to-june-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-14T12:08:25+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
     }
   ]
 }

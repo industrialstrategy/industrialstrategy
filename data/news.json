@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T06:58:54.504719Z",
+  "generated_at": "2025-11-19T13:49:32.207502Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,141 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
+      "summary": "DESNZ intends to launch a new ECC Teesside selection process in early 2026 to identify carbon capture projects for future connection.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T13:01:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: People with significant control: summary guidance",
+      "summary": "This guidance gives an overview of people with significant control (PSC) requirements for companies. If you have a simple ownership and control structure, further guidance may not be needed.",
+      "link": "https://www.gov.uk/government/publications/people-with-significant-control-summary-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T11:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Register of people with significant control",
+      "summary": "This guidance is for individuals who may be people with significant control (PSC). It explains the PSC requirements and how to comply with them.",
+      "link": "https://www.gov.uk/government/publications/register-of-people-with-significant-control",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T11:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: People with significant control: eligible Scottish partnerships guidance",
+      "summary": "This guidance is for eligible Scottish partnerships (ESPs) and individuals who may be the people with significant control (PSCs) of ESPs. It provides an explanation of the PSC requirements and how to comply with them.",
+      "link": "https://www.gov.uk/government/publications/people-with-significant-control-eligible-scottish-partnerships-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T11:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: People with significant control: guidance on regime for legal entities",
+      "summary": "This guidance provides a detailed explanation of the people with significant control (PSC) requirements. Very complicated or large ownership or control structures may need independent advice.",
+      "link": "https://www.gov.uk/government/publications/people-with-significant-control-guidance-on-regime-for-legal-entities",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T11:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Heat networks pipelines",
+      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T10:46:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Renewable Energy Planning Database: quarterly extract",
+      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
+      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T10:46:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Advanced Nuclear Technologies",
+      "summary": "Information about Advanced Nuclear Technologies, previously known as Small Modular Reactors.",
+      "link": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-19T10:24:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear",
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Research: Social enterprise: market trends 2023",
+      "summary": "A report examining the size and characteristics of the social enterprise sector.",
+      "link": "https://www.gov.uk/government/publications/social-enterprise-market-trends-2023",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T10:01:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Social enterprise: market trends 2021",
+      "summary": "A report examining the size and characteristics of the social enterprise sector.",
+      "link": "https://www.gov.uk/government/publications/social-enterprise-market-trends-2021",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T10:00:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: draft code of practice on electronic and workplace balloting for statutory union ballots",
+      "summary": "We are consulting on a draft code of practice on electronic and workplace balloting for statutory trade union ballots.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-electronic-and-workplace-balloting-for-statutory-union-ballots",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Employment rights for unpaid carers review: terms of reference",
+      "summary": "Government review of carer’s leave and unemployment rights for unpaid carers.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-for-unpaid-carers-review-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK Sustainability Disclosures Policy and Implementation Committee (PIC) meeting minutes for 2025",
+      "summary": "Public summary meeting minutes from the UK Sustainability Disclosures Policy and Implementation Committee (PIC).",
+      "link": "https://www.gov.uk/government/publications/uk-sustainability-disclosures-policy-and-implementation-committee-pic-meeting-minutes-for-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-19T09:02:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Consumer savings schemes legislation for businesses",
       "summary": "Guidance on the new legal duties to protect money held in 'consumer savings schemes' under the Digital Markets Competition and Consumers Act 2024.",
@@ -264,38 +399,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: DRIVE35 Accounting Officer advice summary",
-      "summary": "A summary of the Accounting Officer's evaluation of the DRIVE35 (Driving Research & Investment in Vehicle Electrification) project.",
-      "link": "https://www.gov.uk/government/publications/drive35-accounting-officer-advice-summary",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-17T15:59:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UK Sustainability Disclosures Policy and Implementation Committee (PIC) meeting minutes for 2025",
-      "summary": "Public summary meeting minutes from the UK Sustainability Disclosures Policy and Implementation Committee (PIC).",
-      "link": "https://www.gov.uk/government/publications/uk-sustainability-disclosures-policy-and-implementation-committee-pic-meeting-minutes-for-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-17T11:29:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Pan-Euro Mediterranean Convention on Rules of Origin (PEM)",
-      "summary": "The Department for Business and Trade (DBT) is seeking views on the potential impacts of UK accession to the Regional Convention on Pan-Euro Mediterranean Preferential Rules of Origin (PEM).",
-      "link": "https://www.gov.uk/government/calls-for-evidence/pan-euro-mediterranean-convention-on-rules-of-origin-pem",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-17T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Schools to cut bills with Great British Energy solar panels",
       "summary": "Schools across England to cut bills with Great British Energy solar panels.",
       "link": "https://www.gov.uk/government/news/schools-to-cut-bills-with-great-british-energy-solar-panels",
@@ -345,116 +448,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Net zero"
-      ]
-    },
-    {
-      "title": "Guidance: Contributing to the IPCC",
-      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
-      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-14T11:18:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, CCUS for National Greenhouse Gas Inventories (additional guidance): call for experts",
-      "summary": "The UK has been invited to nominate experts for participation in the production of the 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, CCUS for National Greenhouse Gas Inventories (additional guidance).",
-      "link": "https://www.gov.uk/government/publications/2027-ipcc-methodology-report-on-carbon-dioxide-removal-technologies-ccus-for-national-greenhouse-gas-inventories-additional-guidance-call-for-expe",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-14T11:17:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Consultation on the National Survey of Registered Businesses (NSRB)",
-      "summary": "The government is seeking views on the proposed changes to the DBT National Survey of Registered Businesses’ exporting behaviours, attitudes and needs.",
-      "link": "https://www.gov.uk/government/consultations/consultation-on-the-national-survey-of-registered-businesses-nsrb",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-14T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2025)",
-      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP30 in Belém.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-14T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel terms of reference",
-      "summary": "The panel is an independent decision-making body that decides the total amount of financial redress payable to Capture Redress Scheme applicants.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-13T15:42:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Impact assessment: National Policy Statements for energy: habitats regulations assessments",
-      "summary": "A habitats regulations assessment is required for proposed plans or projects likely to have a significant effect on international sites of scientific interest.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-habitats-regulations-assessment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-13T12:01:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 April to 30 June 2025",
-      "summary": "Export control licensing data for 1 April to 30 June 2025.",
-      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-13T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Strategic export controls: licensing statistics",
-      "summary": "Export control licensing statistics compiled by the Export Control Joint Unit (ECJU).",
-      "link": "https://www.gov.uk/guidance/strategic-export-controls-licensing-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-13T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Licensing statistics quality and methodology information",
-      "summary": "How Export Control Joint Unit (ECJU) source, process and quality check data for the creation of the strategic export controls licensing statistics.",
-      "link": "https://www.gov.uk/government/publications/strategic-export-controls-quality-and-methodology-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-13T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Licensing statistics statement of administrative sources",
-      "summary": "Data sources available to Export Control Joint Unit (ECJU) for the production of the strategic export controls licensing statistics.",
-      "link": "https://www.gov.uk/government/publications/strategic-export-control-statistics-statement-of-administrative-sources",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-13T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

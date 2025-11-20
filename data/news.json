@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T13:44:08.565799Z",
+  "generated_at": "2025-11-20T18:58:32.260187Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: CPTPP joint ministerial statements: trade and investment dialogues with the EU and ASEAN, 20 November 2025",
+      "summary": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) joint ministerial statements on trade and investment dialogues with the EU and ASEAN (Association of Southeast Asian Nations) announced on 20 November 2025 at the CPTPP Ministerial Commission meeting in Melbourne, Australia.",
+      "link": "https://www.gov.uk/government/publications/cptpp-joint-ministerial-statements-trade-and-investment-dialogues-with-the-eu-and-asean-20-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-20T13:44:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Notice: Notice to exporters 2025/30: updates to export control regulations",
       "summary": "The Export Control Joint Unit's (ECJU's) updates on legislative changes to export controls.",
@@ -304,18 +316,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: FOI, EIR and Correspondence requests privacy notice",
-      "summary": "How the Department for Business and Trade (DBT) processes personal data when we answer Freedom of Information (FOI), Environmental Information Regulations (EIR) and Correspondence requests.",
-      "link": "https://www.gov.uk/government/publications/foi-eir-and-correspondence-requests-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T17:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Guidance: Heat networks regulation: technical standards",

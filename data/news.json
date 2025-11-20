@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T06:59:05.243001Z",
+  "generated_at": "2025-11-20T13:44:08.565799Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,64 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Notice to exporters 2025/30: updates to export control regulations",
+      "summary": "The Export Control Joint Unit's (ECJU's) updates on legislative changes to export controls.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202530-updates-to-export-control-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-20T09:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
+      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
+      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-20T09:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-20T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Great British Insulation Scheme release: November 2025",
+      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-20T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-20T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "New Business Growth Service roadshow kicks off to support firms in the North East",
       "summary": "Small Businesses across the UK will benefit from a new support service, bringing together central, devolved, and local support in one place for the first time.",
@@ -260,30 +318,6 @@
       ]
     },
     {
-      "title": "Contact the Department for Business and Trade (DBT)",
-      "summary": "Use this form to send a message to the Department for Business and Trade.",
-      "link": "https://www.gov.uk/guidance/contact-the-department-for-business-and-trade-dbt",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T17:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: DBT worldwide offices",
-      "summary": "Contact details for Department for Business and Trade (DBT) offices around the world and a list of our HM Trade Commissioners.",
-      "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T16:59:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Heat networks regulation: technical standards",
       "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
       "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
@@ -304,31 +338,11 @@
       "ai_tags": []
     },
     {
-      "title": "UK Internal Market Act 2020: review and consultation",
-      "summary": "We are seeking views on what is and what is not working well about the UK Internal Market Act, so that we can quickly decide on next steps to make processes work better.",
-      "link": "https://www.gov.uk/government/consultations/uk-internal-market-act-2020-review-and-consultation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T10:54:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Jackdaw Field Development",
       "summary": "Project Summary",
       "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-18T10:23:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Help to Grow: Management course enrolments and participant completions",
-      "summary": "Statistics on the uptake of the Help to Grow: Management programme, course enrolments and participant completions.",
-      "link": "https://www.gov.uk/government/publications/help-to-grow-management-course-enrolments-and-participant-completions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T09:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -424,16 +438,6 @@
       "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-17T16:54:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Schools to cut bills with Great British Energy solar panels",
-      "summary": "Schools across England to cut bills with Great British Energy solar panels.",
-      "link": "https://www.gov.uk/government/news/schools-to-cut-bills-with-great-british-energy-solar-panels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-17T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

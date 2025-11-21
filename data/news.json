@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T13:40:32.025435Z",
+  "generated_at": "2025-11-21T18:52:47.176117Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,65 @@
   "count": 40,
   "items": [
     {
+      "title": "Research: Research into data standards for Smart Data",
+      "summary": "Research evaluating how existing data standards can support future Smart Data schemes.",
+      "link": "https://www.gov.uk/government/publications/research-into-data-standards-for-smart-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-21T16:36:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Thousands of British jobs secured as billions of pounds worth of aero deals announced at Dubai Airshow",
+      "summary": "Engineers and manufacturing workers across the UK will benefit from a flurry of major new aircraft deals announced this week at the Dubai Airshow.",
+      "link": "https://www.gov.uk/government/news/thousands-of-british-jobs-secured-as-billions-of-pounds-worth-of-aero-deals-announced-at-dubai-airshow",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-21T16:08:20+00:00",
+      "matched": [
+        "manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Employ someone: step by step",
+      "summary": "Employ someone: agree a contract, right to work checks, DBS checks, workplace pensions, set up PAYE, tell HMRC",
+      "link": "https://www.gov.uk/employ-someone",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-21T16:06:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Help to Grow: Management – evaluation reports",
+      "summary": "A series of reports presenting findings from the independent evaluation of Help to Grow: Management.",
+      "link": "https://www.gov.uk/government/publications/help-to-grow-management-evaluation-reports",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-21T15:06:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Decision: Jackdaw Field Development",
       "summary": "Project Summary",
       "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-21T11:51:45+00:00",
+      "published": "2025-11-21T15:06:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Dogger Bank Creyke Beck: Non-Material Change, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for a non-material change to an offshore wind farm project.",
+      "link": "https://www.gov.uk/government/publications/dogger-bank-creyke-beck-non-material-change-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-21T14:45:30+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -308,48 +362,6 @@
       ]
     },
     {
-      "title": "Research: Social enterprise: market trends 2023",
-      "summary": "A report examining the size and characteristics of the social enterprise sector.",
-      "link": "https://www.gov.uk/government/publications/social-enterprise-market-trends-2023",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T10:01:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Social enterprise: market trends 2021",
-      "summary": "A report examining the size and characteristics of the social enterprise sector.",
-      "link": "https://www.gov.uk/government/publications/social-enterprise-market-trends-2021",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T10:00:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: draft code of practice on electronic and workplace balloting for statutory union ballots",
-      "summary": "We are consulting on a draft code of practice on electronic and workplace balloting for statutory trade union ballots.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-electronic-and-workplace-balloting-for-statutory-union-ballots",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Employment rights for unpaid carers review: terms of reference",
-      "summary": "Government review of carer’s leave and unemployment rights for unpaid carers.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-for-unpaid-carers-review-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Heat networks regulation: technical standards",
       "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
       "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
@@ -433,16 +445,6 @@
       "ai_tags": [
         "Heat pumps"
       ]
-    },
-    {
-      "title": "Policy paper: NESO’s North Hyde report: government response",
-      "summary": "The government’s action plan to address the findings of NESO’s review into the incident at North Hyde Substation and commitment to ensuring GB energy resilience now and in the future.",
-      "link": "https://www.gov.uk/government/publications/nesos-north-hyde-report-government-response",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

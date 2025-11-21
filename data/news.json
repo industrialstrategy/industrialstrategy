@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T07:22:41.814097Z",
+  "generated_at": "2025-11-21T13:40:32.025435Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-21T11:51:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
+      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-21T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: CPTPP: joint ministerial statement in Melbourne, 21 November 2025",
+      "summary": "A jointly prepared statement following the meeting in Melbourne, Australia, on 21 November 2025 of Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) members.",
+      "link": "https://www.gov.uk/government/publications/cptpp-joint-ministerial-statement-in-melbourne-21-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-21T09:30:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: duty to inform workers of right to join a union",
+      "summary": "There’s a new duty on employers to inform workers of their right to join a trade union. This consultation is about how it should work in practice.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-duty-to-inform-workers-of-right-to-join-a-union",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-21T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Capacity Market: new technologies 2025",
+      "summary": "We're seeking to identify any new emerging generating technologies that may be eligible to participate in capacity market auctions.",
+      "link": "https://www.gov.uk/government/consultations/capacity-market-new-technologies-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-21T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: CPTPP joint ministerial statements: trade and investment dialogues with the EU and ASEAN, 20 November 2025",
       "summary": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) joint ministerial statements on trade and investment dialogues with the EU and ASEAN (Association of Southeast Asian Nations) announced on 20 November 2025 at the CPTPP Ministerial Commission meeting in Melbourne, Australia.",
@@ -298,26 +350,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: UK Sustainability Disclosures Policy and Implementation Committee (PIC) meeting minutes for 2025",
-      "summary": "Public summary meeting minutes from the UK Sustainability Disclosures Policy and Implementation Committee (PIC).",
-      "link": "https://www.gov.uk/government/publications/uk-sustainability-disclosures-policy-and-implementation-committee-pic-meeting-minutes-for-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T09:02:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Consumer savings schemes legislation for businesses",
-      "summary": "Guidance on the new legal duties to protect money held in 'consumer savings schemes' under the Digital Markets Competition and Consumers Act 2024.",
-      "link": "https://www.gov.uk/government/publications/consumer-savings-schemes-legislation-for-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-18T17:01:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Heat networks regulation: technical standards",
       "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
       "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
@@ -333,16 +365,6 @@
       "link": "https://www.gov.uk/government/news/new-energy-resilience-strategy-to-better-protect-infrastructure",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-18T13:15:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T10:23:11+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -418,26 +440,6 @@
       "link": "https://www.gov.uk/government/publications/nesos-north-hyde-report-government-response",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Standard: Draft: Heat network technical standard (TS1)",
-      "summary": "This draft technical standard sets out the minimum requirements necessary for the proper design, installation, and operation of Heat Networks.",
-      "link": "https://www.gov.uk/government/publications/heat-network-technical-standard-ts1",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
-      "summary": "Country action plans launched at COP30 with the Global Clean Power Alliance (GCPA) finance mission.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-17T16:54:38+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T18:53:02.878341Z",
+  "generated_at": "2025-11-23T03:55:07.927067Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,30 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK Critical Minerals Strategy",
+      "summary": "The government's new strategy sets the UK’s long-term ambition to ensure we have the critical minerals we need to drive economic growth and the clean energy transition.",
+      "link": "https://www.gov.uk/government/publications/uk-critical-minerals-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-22T22:30:02+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "From smartphones to fridges: UK to end overreliance on imports of critical minerals",
+      "summary": "The Government has launched the UK’s new Critical Minerals Strategy.",
+      "link": "https://www.gov.uk/government/news/from-smartphones-to-fridges-uk-to-end-overreliance-on-imports-of-critical-minerals",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-22T22:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Research into data standards for Smart Data",
       "summary": "Research evaluating how existing data standards can support future Smart Data schemes.",
@@ -302,26 +326,6 @@
       "title": "Guidance: Register of people with significant control",
       "summary": "This guidance is for individuals who may be people with significant control (PSC). It explains the PSC requirements and how to comply with them.",
       "link": "https://www.gov.uk/government/publications/register-of-people-with-significant-control",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T11:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: People with significant control: eligible Scottish partnerships guidance",
-      "summary": "This guidance is for eligible Scottish partnerships (ESPs) and individuals who may be the people with significant control (PSCs) of ESPs. It provides an explanation of the PSC requirements and how to comply with them.",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-eligible-scottish-partnerships-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T11:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: People with significant control: guidance on regime for legal entities",
-      "summary": "This guidance provides a detailed explanation of the people with significant control (PSC) requirements. Very complicated or large ownership or control structures may need independent advice.",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-guidance-on-regime-for-legal-entities",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-19T11:30:03+00:00",
       "matched": [],

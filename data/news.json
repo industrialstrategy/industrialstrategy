@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T06:59:56.048098Z",
+  "generated_at": "2025-11-24T13:52:19.659198Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,16 +19,46 @@
   "count": 40,
   "items": [
     {
-      "title": "Government acts on top business concern and cuts electricity bills for thousands of manufacturers by up to 25%",
-      "summary": "The Government launches a consultation on the British Industrial Competitiveness Scheme to cut electricity bills for 7,000 manufacturers and boost finance access with a £4 billion British Business Bank plan.",
-      "link": "https://www.gov.uk/government/news/government-acts-on-top-business-concern-and-cuts-electricity-bills-for-thousands-of-manufacturers-by-up-to-25",
+      "title": "Notice: Trade remedies notices: anti-dumping duty on imports of biodiesel originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on imports of biodiesel originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-registration-of-imports-of-biodiesel-originating-from-china",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-24T00:01:03+00:00",
+      "published": "2025-11-24T12:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Manufacturing"
+        "Trade"
       ]
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information September 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-24T10:26:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information October 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-24T10:25:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
+      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
+      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-24T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Taskforce calls for radical reset of nuclear regulation in UK",
@@ -52,6 +82,18 @@
       "ai_summary": "",
       "ai_tags": [
         "Nuclear"
+      ]
+    },
+    {
+      "title": "Government acts on top business concern and cuts electricity bills for thousands of manufacturers by up to 25%",
+      "summary": "The Government launches a consultation on the British Industrial Competitiveness Scheme to cut electricity bills for 7,000 manufacturers and boost finance access with a £4 billion British Business Bank plan.",
+      "link": "https://www.gov.uk/government/news/government-acts-on-top-business-concern-and-cuts-electricity-bills-for-thousands-of-manufacturers-by-up-to-25",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-24T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
       ]
     },
     {
@@ -259,7 +301,7 @@
       "summary": "Small Businesses across the UK will benefit from a new support service, bringing together central, devolved, and local support in one place for the first time.",
       "link": "https://www.gov.uk/government/news/new-business-growth-service-roadshow-kicks-off-to-support-firms-in-the-north-east",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-20T00:01:03+00:00",
+      "published": "2025-11-20T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -278,36 +320,6 @@
       "title": "Putting fans first: consultation on the resale of live events tickets",
       "summary": "The government is consulting on proposals to strengthen consumer protections in relation to ticket resales.",
       "link": "https://www.gov.uk/government/consultations/putting-fans-first-consultation-on-the-resale-of-live-events-tickets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T17:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government bans ticket touting to protect fans from rip-offs",
-      "summary": "New rules to make it illegal to resell tickets for live events above original cost",
-      "link": "https://www.gov.uk/government/news/government-bans-ticket-touting-to-protect-fans-from-rip-offs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T17:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government bans ticket touting to protect fans from rip-off prices",
-      "summary": "Music and sport fans will no longer be ripped off on the ticket resale market thanks to new measures making it illegal to resell tickets for live events above original cost",
-      "link": "https://www.gov.uk/government/news/government-bans-ticket-touting-to-protect-fans-from-rip-off-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T17:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Putting fans first: call for evidence on pricing practices in the live events sector",
-      "summary": "The government is seeking evidence about pricing practices in the live events sector.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/putting-fans-first-call-for-evidence-on-pricing-practices-in-the-live-events-sector",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-19T17:00:06+00:00",
       "matched": [],
@@ -344,16 +356,6 @@
       "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-19T13:01:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: People with significant control: summary guidance",
-      "summary": "This guidance gives an overview of people with significant control (PSC) requirements for companies. If you have a simple ownership and control structure, further guidance may not be needed.",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-summary-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T11:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T13:52:19.659198Z",
+  "generated_at": "2025-11-24T18:59:45.083713Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-24T15:58:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-24T15:58:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
+      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
+      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-24T15:46:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Trade remedies notices: anti-dumping duty on imports of biodiesel originating from China",
       "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on imports of biodiesel originating from China.",
@@ -51,28 +81,6 @@
       "ai_tags": []
     },
     {
-      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
-      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
-      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-24T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Taskforce calls for radical reset of nuclear regulation in UK",
-      "summary": "Nuclear Regulatory Taskforce publishes final report and calls for radical reset of overly complex nuclear regulatory system.",
-      "link": "https://www.gov.uk/government/news/taskforce-calls-for-radical-reset-of-nuclear-regulation-in-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-24T00:01:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
       "title": "Independent report: Nuclear Regulatory Review 2025",
       "summary": "The Nuclear Regulatory Taskforce has examined all aspects of the regulation of civil and defence nuclear and produced this review.",
       "link": "https://www.gov.uk/government/publications/nuclear-regulatory-taskforce",
@@ -97,17 +105,15 @@
       ]
     },
     {
-      "title": "Policy paper: UK Critical Minerals Strategy",
-      "summary": "The government's new strategy sets the UK’s long-term ambition to ensure we have the critical minerals we need to drive economic growth and the clean energy transition.",
-      "link": "https://www.gov.uk/government/publications/uk-critical-minerals-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-22T22:30:02+00:00",
-      "matched": [
-        "clean energy"
-      ],
+      "title": "Taskforce calls for radical reset of nuclear regulation in UK",
+      "summary": "Nuclear Regulatory Taskforce publishes final report and calls for radical reset of overly complex nuclear regulatory system.",
+      "link": "https://www.gov.uk/government/news/taskforce-calls-for-radical-reset-of-nuclear-regulation-in-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-24T00:00:00+00:00",
+      "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Clean energy"
+        "Nuclear"
       ]
     },
     {
@@ -119,6 +125,20 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK Critical Minerals Strategy",
+      "summary": "The government's new strategy sets the UK’s long-term ambition to ensure we have the critical minerals we need to drive economic growth and the clean energy transition.",
+      "link": "https://www.gov.uk/government/publications/uk-critical-minerals-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-22T00:00:00+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
     },
     {
       "title": "Research: Research into data standards for Smart Data",
@@ -419,26 +439,6 @@
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-18T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T09:09:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: environmental submissions and determinations",
-      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T09:01:27+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T07:02:13.503286Z",
+  "generated_at": "2025-11-25T13:52:22.542446Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on ceramic tableware and kitchenware from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on ceramic tableware and kitchenware from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-ceramic-tableware-and-kitchenware-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-25T12:35:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Independent report: UK-India FTA: report under Section 42 of Agriculture Act 2020",
+      "summary": "Report pursuant to Section 42 of the Agriculture Act 2020 with respect to the UK-India Comprehensive Economic and Trade Agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-india-fta-report-under-section-42-of-agriculture-act-2020",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-25T12:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Net Zero Innovation Portfolio and the Advanced Nuclear Fund: final report, 2021 to 2025",
+      "summary": "This report sets out the progress and impact achieved by the Net Zero Innovation Portfolio (NZIP) and Advanced Nuclear Fund (ANF), over the course of 2021 to 2025.",
+      "link": "https://www.gov.uk/government/publications/net-zero-innovation-portfolio-and-the-advanced-nuclear-fund-final-report-2021-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T00:00:00+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Net zero",
+        "Nuclear"
+      ]
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -317,31 +367,11 @@
       ]
     },
     {
-      "title": "New Business Growth Service roadshow kicks off to support firms in the North East",
-      "summary": "Small Businesses across the UK will benefit from a new support service, bringing together central, devolved, and local support in one place for the first time.",
-      "link": "https://www.gov.uk/government/news/new-business-growth-service-roadshow-kicks-off-to-support-firms-in-the-north-east",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-20T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Sizewell C: Funded Decommissioning Programme (FDP)",
       "summary": "The financing arrangements required to meet the full costs of decommissioning, waste management and disposal costs.",
       "link": "https://www.gov.uk/government/publications/sizewell-c-funded-decommissioning-programme-fdp",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-19T17:23:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Putting fans first: consultation on the resale of live events tickets",
-      "summary": "The government is consulting on proposals to strengthen consumer protections in relation to ticket resales.",
-      "link": "https://www.gov.uk/government/consultations/putting-fans-first-consultation-on-the-resale-of-live-events-tickets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-19T17:00:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -432,29 +462,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Exploring the role of alternative clean heating solutions",
-      "summary": "We are seeking views on low carbon heating technologies that could be used to decarbonise heat in the small number of properties that may not be suitable for heat pumps and heat networks.",
-      "link": "https://www.gov.uk/government/consultations/exploring-the-role-of-alternative-clean-heating-solutions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T09:00:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation",
-        "Heat pumps"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T13:52:22.542446Z",
+  "generated_at": "2025-11-25T18:57:38.864678Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,82 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T17:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "UK ETS scope expansion: emissions from international maritime voyages",
+      "summary": "The UK ETS Authority is seeking input on proposals for expanding the UK Emissions Trading Scheme to emissions from international maritime.",
+      "link": "https://www.gov.uk/government/consultations/uk-ets-scope-expansion-emissions-from-international-maritime-voyages",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T17:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK ETS scope expansion: maritime sector",
+      "summary": "The UK ETS Authority is seeking input on proposals for expanding the UK Emissions Trading Scheme to the maritime sector.",
+      "link": "https://www.gov.uk/government/consultations/uk-ets-scope-expansion-maritime-sector",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T17:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T17:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Heat Networks Zoning Pilot",
+      "summary": "The zone identification pilot set out to develop a consistent, standardised methodology to identify areas where heat networks are expected to provide the lowest cost, low carbon heat to buildings.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-zoning-pilot",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T16:14:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Industrial Strategy",
+      "summary": "Strategy document setting out a new economic approach to backing the UK’s strengths, with ambitious plans for 8 high-growth sectors.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-25T15:52:48+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: workforce management information, October 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-25T13:59:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Trade remedies notices: anti-dumping duty on ceramic tableware and kitchenware from China",
       "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on ceramic tableware and kitchenware from China.",
@@ -355,18 +431,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-20T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: Sizewell C: Funded Decommissioning Programme (FDP)",
       "summary": "The financing arrangements required to meet the full costs of decommissioning, waste management and disposal costs.",
       "link": "https://www.gov.uk/government/publications/sizewell-c-funded-decommissioning-programme-fdp",
@@ -399,69 +463,6 @@
       "ai_tags": [
         "Clean energy"
       ]
-    },
-    {
-      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
-      "summary": "DESNZ intends to launch a new ECC Teesside selection process in early 2026 to identify carbon capture projects for future connection.",
-      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-19T13:01:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Heat networks pipelines",
-      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-19T10:46:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Renewable Energy Planning Database: quarterly extract",
-      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
-      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-19T10:46:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Advanced Nuclear Technologies",
-      "summary": "Information about Advanced Nuclear Technologies, previously known as Small Modular Reactors.",
-      "link": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-19T10:24:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear",
-        "SMRs"
-      ]
-    },
-    {
-      "title": "Guidance: Heat networks regulation: technical standards",
-      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T16:42:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "New Energy Resilience Strategy to better protect infrastructure",
-      "summary": "A new government strategy will help safeguard critical energy infrastructure and protect consumers and businesses from costly disruption.",
-      "link": "https://www.gov.uk/government/news/new-energy-resilience-strategy-to-better-protect-infrastructure",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-18T13:15:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

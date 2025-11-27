@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T07:01:45.966024Z",
+  "generated_at": "2025-11-27T13:48:40.331236Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,53 +19,266 @@
   "count": 40,
   "items": [
     {
+      "title": "Guidance: Marine geological carbon dioxide stores: consenting lifecycle",
+      "summary": "Technical guide for the carbon dioxide storage industry.",
+      "link": "https://www.gov.uk/government/publications/marine-geological-carbon-dioxide-stores-consenting-lifecycle",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T12:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on PET polyester from India",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on PET polyester from India.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-pet-polyester-from-india",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-27T11:19:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Electricity transmission network infrastructure: Community funds",
+      "summary": "Government expectations for how communities living near electricity transmission network infrastructure developments should benefit as a result of hosting these developments.",
+      "link": "https://www.gov.uk/government/publications/electricity-transmission-network-infrastructure-community-funds",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T11:04:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Domestic energy affordability support schemes: impact and economic evaluation",
+      "summary": "The final impact and economic evaluation report for the evaluations of the domestic energy affordability support schemes in the UK (2022 to 2024).",
+      "link": "https://www.gov.uk/government/publications/domestic-energy-affordability-support-schemes-impact-and-economic-evaluation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T11:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, September 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-27T10:40:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Warm Homes: Social Housing Fund Wave 3 (closed to applications)",
+      "summary": "Funding for local authorities and social housing landlords to improve the energy performance of social homes in England.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T10:11:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Warm Homes: Social Housing Fund Wave 3 – successful Social Housing Landlords including local authorities and housing associations",
+      "summary": "List of Social Housing Landlords, including local authorities and housing associations offered funding under WH:SHF to be delivered 2025 until 2028.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3-successful-social-housing-landlords-including-local-authorities-and-housing-associations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T10:11:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, August 2025",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-august-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-27T09:32:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Domestic energy price indices",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "International domestic energy prices",
+      "summary": "DESNZ publishes comparisons of industrial energy prices by consumer size against other EU and G7 countries, using data from both Eurostat and the International Energy Agency (IEA).",
+      "link": "https://www.gov.uk/government/statistical-data-sets/international-domestic-energy-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "International non-domestic energy prices",
+      "summary": "DESNZ publishes comparisons of non-domestic energy prices by consumer size against other EU and G7 countries, using data from both Eurostat and the International Energy Agency (IEA).",
+      "link": "https://www.gov.uk/government/statistical-data-sets/international-industrial-energy-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK total energy",
+      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 27 November 2025",
+      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-27-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:05+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
+      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
+      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
+      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
+      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK gas",
+      "summary": "Data on the UK's gas sector, including production, trade and demand.",
+      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK electricity",
+      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
+      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK weather",
+      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Smart meters in Great Britain, quarterly update September 2025",
+      "summary": "Quarterly statistics on the roll-out of smart meters in Great Britain, covering both operating and installed meters.",
+      "link": "https://www.gov.uk/government/statistics/smart-meters-in-great-britain-quarterly-update-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme statistics: October 2025",
+      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Green Homes Grant Local Authority Delivery (LAD) and Home Upgrade Grant (HUG) release, November 2025",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via Green Homes Grant Local Authority Delivery (LAD) and Home Upgrade Grant (HUG) schemes in England.",
+      "link": "https://www.gov.uk/government/statistics/green-homes-grant-local-authority-delivery-lad-and-home-upgrade-grant-hug-release-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Look up considerations for trade licences under the Russia sanctions",
+      "summary": "As part of the statutory guidance, a look-up guide listing all considerations for trade licences for certain prohibitions, and links to general licences available.",
+      "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-27T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
       "title": "Correspondence: Ministerial letter on cyber security to small businesses",
       "summary": "Ministers and the National Cyber Security Centre have written an open letter to small businesses and business representative organisations about cyber security.",
       "link": "https://www.gov.uk/government/publications/ministerial-letter-on-cyber-security-to-small-businesses",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-26T17:08:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T17:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "UK Emissions Trading Scheme: free allocation review",
-      "summary": "The UK ETS Authority is seeking views on proposals to alter free allocation methodology for stationary sectors to better target those most at risk of carbon leakage.",
-      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-free-allocation-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T17:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK Emissions Trading Scheme: free allocation review - carbon leakage",
-      "summary": "The UK ETS Authority is seeking views on using the Carbon Leakage List to determine UK ETS free allocation eligibility, and proposals for free allocation adjustment for sectors covered by the UK Carbon Border Adjustment Mechanism.",
-      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-free-allocation-review-carbon-leakage",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T17:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK ETS 2025 Baseline Data Collection and HSE/USE scheme status: how to meet the data submission requirements",
-      "summary": "Guidance for operators on meeting the requirements for the baseline data collection and scheme status application submission window, 1 April - 30 June 2025.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-2025-baseline-data-collection-and-hseuse-scheme-status-how-to-meet-the-data-submission-requirements",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T17:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -95,40 +308,6 @@
       "ai_tags": []
     },
     {
-      "title": "Renewables Obligation (RO) scheme: indexation changes",
-      "summary": "We're seeking views on proposed changes to inflation indexation for the Renewables Obligation (RO) scheme.",
-      "link": "https://www.gov.uk/government/consultations/renewables-obligation-ro-scheme-indexation-changes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T14:30:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "North Sea Future Plan for fair, managed and prosperous transition",
-      "summary": "Government sets out plan to manage existing North Sea oil and gas fields,  protect jobs and grow clean energy industries.",
-      "link": "https://www.gov.uk/government/news/north-sea-future-plan-for-fair-managed-and-prosperous-transition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T14:00:18+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Building the North Sea’s energy future",
-      "summary": "We are seeking views on delivering the government’s commitment to support a prosperous and managed North Sea transition.",
-      "link": "https://www.gov.uk/government/consultations/building-the-north-seas-energy-future",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T14:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
       "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
       "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
@@ -151,45 +330,11 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Nuclear industry: principles to guide the application of As Low As Reasonably Practicable (ALARP) and Best Available Techniques (BAT)",
-      "summary": "A set of principles on effective ways of working to guide the application of ALARP and BAT in the nuclear industry.",
-      "link": "https://www.gov.uk/government/publications/nuclear-industry-principles-to-guide-the-application-of-as-low-as-reasonably-practicable-alarp-and-best-available-techniques-bat",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T13:43:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Policy paper: Prime Minister's strategic steer to the nuclear sector",
-      "summary": "Following the Nuclear Regulatory Taskforce review, the Prime Minister issued a strategic steer calling for system-wide reset to accelerate safe and efficient delivery through proportionate regulation and stronger collaboration.",
-      "link": "https://www.gov.uk/government/publications/prime-ministers-strategic-steer-to-the-nuclear-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T13:42:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
       "title": "Policy paper: Reform of non-compete clauses in employment contracts: working paper",
       "summary": "This working paper seeks views on different options to reform non-compete clauses in employment contracts.",
       "link": "https://www.gov.uk/government/publications/reform-of-non-compete-clauses-in-employment-contracts-working-paper",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-26T13:41:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Gas system in transition: security of supply",
-      "summary": "We are seeking views on our assessment of GB’s long-term supply of gas, and proposed policy actions to protect our gas and energy security during the transition.",
-      "link": "https://www.gov.uk/government/consultations/gas-system-in-transition-security-of-supply",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T13:40:46+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -210,16 +355,6 @@
       "link": "https://www.gov.uk/government/calls-for-evidence/reforming-the-licensing-system",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-26T13:40:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Solar on car parks and electric vehicle charging",
-      "summary": "We're seeking views on a proposal to mandate the installation of solar canopies on new outdoor car parks, subject to certain exemptions, as well as views around current planning policy relating to EV charging infrastructure.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T13:39:44+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -248,71 +383,11 @@
       "ai_tags": []
     },
     {
-      "title": "Low Carbon Contracts Company and Electricity Settlements Company operational costs: 2026/27, 2027/28 and 2028/29",
-      "summary": "We are seeking views on the operational cost levies for the Low Carbon Contracts Company and the Electricity Settlements Company 2026/27, 2027/28 and 2028/29.",
-      "link": "https://www.gov.uk/government/consultations/low-carbon-contracts-company-and-electricity-settlements-company-operational-costs-202627-202728-and-202829",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-26T09:43:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Business support for co-operatives and non-financial mutuals",
       "summary": "This call for evidence invites responses on the experiences of co-operatives, non-financial mutuals and stakeholders in starting, growing and mutualising.",
       "link": "https://www.gov.uk/government/calls-for-evidence/business-support-for-co-operatives-and-non-financial-mutuals",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-26T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK ETS scope expansion: emissions from international maritime voyages",
-      "summary": "The UK ETS Authority is seeking input on proposals for expanding the UK Emissions Trading Scheme to emissions from international maritime.",
-      "link": "https://www.gov.uk/government/consultations/uk-ets-scope-expansion-emissions-from-international-maritime-voyages",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T17:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK ETS scope expansion: maritime sector",
-      "summary": "The UK ETS Authority is seeking input on proposals for expanding the UK Emissions Trading Scheme to the maritime sector.",
-      "link": "https://www.gov.uk/government/consultations/uk-ets-scope-expansion-maritime-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T17:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
-      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T17:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Heat Networks Zoning Pilot",
-      "summary": "The zone identification pilot set out to develop a consistent, standardised methodology to identify areas where heat networks are expected to provide the lowest cost, low carbon heat to buildings.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-zoning-pilot",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T16:14:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: workforce management information, October 2025",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-october-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T13:59:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -340,42 +415,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Net Zero Innovation Portfolio and the Advanced Nuclear Fund: final report, 2021 to 2025",
-      "summary": "This report sets out the progress and impact achieved by the Net Zero Innovation Portfolio (NZIP) and Advanced Nuclear Fund (ANF), over the course of 2021 to 2025.",
-      "link": "https://www.gov.uk/government/publications/net-zero-innovation-portfolio-and-the-advanced-nuclear-fund-final-report-2021-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-25T00:00:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Net zero",
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-24T15:58:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
@@ -408,52 +447,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: workforce management information October 2025",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-october-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-24T10:25:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government acts on top business concern and cuts electricity bills for thousands of manufacturers by up to 25%",
-      "summary": "The Government launches a consultation on the British Industrial Competitiveness Scheme to cut electricity bills for 7,000 manufacturers and boost finance access with a £4 billion British Business Bank plan.",
-      "link": "https://www.gov.uk/government/news/government-acts-on-top-business-concern-and-cuts-electricity-bills-for-thousands-of-manufacturers-by-up-to-25",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-24T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "From smartphones to fridges: UK to end overreliance on imports of critical minerals",
-      "summary": "The Government has launched the UK’s new Critical Minerals Strategy.",
-      "link": "https://www.gov.uk/government/news/from-smartphones-to-fridges-uk-to-end-overreliance-on-imports-of-critical-minerals",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-22T22:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Critical Minerals Strategy",
-      "summary": "The government's new strategy sets the UK’s long-term ambition to ensure we have the critical minerals we need to drive economic growth and the clean energy transition.",
-      "link": "https://www.gov.uk/government/publications/uk-critical-minerals-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-22T00:00:00+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
     }
   ]
 }

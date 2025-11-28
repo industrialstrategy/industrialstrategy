@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T07:01:56.320713Z",
+  "generated_at": "2025-11-28T13:43:47.240166Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,92 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2022",
+      "summary": "2022 statistics on the UK’s utilisation of tariff preferences for imports and exports under PTAs, including trade in goods between Great Britain and the EU under the TCA.",
+      "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2022",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-28T11:32:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2021",
+      "summary": "2021 statistics on the UK’s utilisation of tariff preferences for imports and exports under PTAs, including trade in goods between Great Britain and the EU under the TCA.",
+      "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2021",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-28T11:31:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme statistics: October 2025",
+      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T09:56:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Trade and Sustainable Development Domestic Advisory Group (TSD DAG): minutes, 19 September 2025",
+      "summary": "Minutes of the second meeting between the TSD DAG and the Department for Business and Trade (DBT).",
+      "link": "https://www.gov.uk/government/publications/trade-and-sustainable-development-domestic-advisory-group-tsd-dag-minutes-19-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-28T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): Ensuring fair access to CO2 infrastructure",
+      "summary": "We are seeking views on the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 to ensure fair access to CO2 pipelines and storage sites.",
+      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-ensuring-fair-access-to-co2-infrastructure",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Smart Secure Electricity Systems Programme (SSES): enduring governance",
+      "summary": "We're seeking views on the Enduring Governance of the SSES Programme, and the technical and security governance functions to be part of these arrangements.",
+      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-programme-sses-enduring-governance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Smart Secure Electricity Systems (SSES) enduring governance: Balancing and Settlement Code modification",
+      "summary": "The Secretary of State has made changes to the Balancing and Settlement Code (BSC) using his power under section 245(1)(e) of the Energy Act 2023.",
+      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-enduring-governance-balancing-and-settlement-code-modification",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: September 2025",
+      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at September 2025",
+      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-28T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "An update on the Employment Rights Bill",
       "summary": "Agreement reached with key stakeholders on the unfair dismissal elements of the Employment Rights Bill.",
@@ -232,46 +318,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK weather",
-      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Smart meters in Great Britain, quarterly update September 2025",
-      "summary": "Quarterly statistics on the roll-out of smart meters in Great Britain, covering both operating and installed meters.",
-      "link": "https://www.gov.uk/government/statistics/smart-meters-in-great-britain-quarterly-update-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme statistics: October 2025",
-      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
-      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-october-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Look up considerations for trade licences under the Russia sanctions",
       "summary": "As part of the statutory guidance, a look-up guide listing all considerations for trade licences for certain prohibitions, and links to general licences available.",
       "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
@@ -401,52 +447,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on ceramic tableware and kitchenware from China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on ceramic tableware and kitchenware from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-ceramic-tableware-and-kitchenware-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-25T12:35:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Independent report: UK-India FTA: report under Section 42 of Agriculture Act 2020",
-      "summary": "Report pursuant to Section 42 of the Agriculture Act 2020 with respect to the UK-India Comprehensive Economic and Trade Agreement.",
-      "link": "https://www.gov.uk/government/publications/uk-india-fta-report-under-section-42-of-agriculture-act-2020",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-25T12:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
-      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
-      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-24T15:46:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on imports of biodiesel originating from China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on imports of biodiesel originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-registration-of-imports-of-biodiesel-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-24T12:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

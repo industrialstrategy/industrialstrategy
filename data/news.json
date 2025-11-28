@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T13:43:47.240166Z",
+  "generated_at": "2025-11-28T18:58:46.895618Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,62 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Determinations of the UK ETS carbon price",
+      "summary": "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
+      "link": "https://www.gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T17:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
+      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-28T16:48:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK gas",
+      "summary": "Data on the UK's gas sector, including production, trade and demand.",
+      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T14:00:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
+      "summary": "GGSS quarterly year-ahead expenditure forecast and degression threshold comparison, and, when applicable, notification of tariff changes.",
+      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-11-28T14:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Smart Data Challenge Prize selects Moverly’s digital property pack as winner",
+      "summary": "A Smart Data prototype that generates “Digital Sale Ready Packs” to make it easier to buy and sell a home has been named the winner of the Smart Data Challenge Prize by the Department for Business and Trade.",
+      "link": "https://www.gov.uk/government/news/smart-data-challenge-prize-selects-moverlys-digital-property-pack-as-winner",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-11-28T13:49:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Official Statistics: Preference utilisation of UK trade in goods, 2022",
       "summary": "2022 statistics on the UK’s utilisation of tariff preferences for imports and exports under PTAs, including trade in goods between Great Britain and the EU under the TCA.",
@@ -282,42 +338,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
-      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
-      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
-      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
-      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Look up considerations for trade licences under the Russia sanctions",
       "summary": "As part of the statutory guidance, a look-up guide listing all considerations for trade licences for certain prohibitions, and links to general licences available.",
       "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
@@ -427,26 +447,6 @@
         "Manufacturing",
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Whistleblowing: list of prescribed people and bodies",
-      "summary": "List of prescribed people and bodies you can report malpractice to, other than your employer.",
-      "link": "https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T10:40:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Business support for co-operatives and non-financial mutuals",
-      "summary": "This call for evidence invites responses on the experiences of co-operatives, non-financial mutuals and stakeholders in starting, growing and mutualising.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/business-support-for-co-operatives-and-non-financial-mutuals",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

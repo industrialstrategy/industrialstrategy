@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-01T13:53:59.862293Z",
+  "generated_at": "2025-12-01T19:05:33.889677Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "UK-USA Mutual Recognition Agreement on marine equipment",
+      "summary": "Documents relating to the UK-USA Mutual Recognition Agreement (MRA) on marine equipment.",
+      "link": "https://www.gov.uk/guidance/uk-usa-mutual-recognition-agreement-on-marine-equipment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T16:36:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T15:08:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T15:08:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
       "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
@@ -125,6 +155,16 @@
       "ai_tags": [
         "Trade"
       ]
+    },
+    {
+      "title": "Landmark UK-US pharmaceuticals deal to safeguard medicines access and drive vital investment for UK patients and businesses",
+      "summary": "Milestone deal secures UK’s medicines access for patients, with a wide range of groundbreaking new treatments to reach NHS front-line quicker.",
+      "link": "https://www.gov.uk/government/news/landmark-uk-us-pharmaceuticals-deal-to-safeguard-medicines-access-and-drive-vital-investmentfor-uk-patients-and-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Guidance: Determinations of the UK ETS carbon price",
@@ -371,26 +411,6 @@
       "ai_tags": []
     },
     {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Look up considerations for trade licences under the Russia sanctions",
       "summary": "As part of the statutory guidance, a look-up guide listing all considerations for trade licences for certain prohibitions, and links to general licences available.",
       "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
@@ -418,28 +438,6 @@
       "link": "https://www.gov.uk/government/consultations/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-26T15:24:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
-      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
-      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T13:56:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: Review of raw cane sugar ATQ and related considerations: 2025",
-      "summary": "A summary of the responses received by stakeholders in the 2025 engagement exercise and 2024 consultation on the future of the raw cane sugar ATQ and related considerations.",
-      "link": "https://www.gov.uk/government/publications/review-of-raw-cane-sugar-atq-and-related-considerations-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T13:56:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

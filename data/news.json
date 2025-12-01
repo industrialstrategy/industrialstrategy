@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-01T07:04:02.412242Z",
+  "generated_at": "2025-12-01T13:53:59.862293Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,114 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T13:42:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Smart Secure Electricity Systems (SSES) Programme: first phase energy smart appliances regulations",
+      "summary": "We're seeking feedback on the SSES Programme’s draft Phase 1 energy smart appliances regulations and impact assessment.",
+      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-first-phase-energy-smart-appliances-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T13:02:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Industrial Strategy",
+      "summary": "Strategy document setting out a new economic approach to backing the UK’s strengths, with ambitious plans for 8 high-growth sectors.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T12:36:08+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Guidance: Music Export Growth Scheme (MEGS) privacy notice",
+      "summary": "This privacy notice confirms how the Department for Business and Trade (DBT) collects and uses personal data from applications submitted under the scheme.",
+      "link": "https://www.gov.uk/government/publications/music-export-growth-scheme-megs-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T12:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Make Work Pay: leave for bereavement including pregnancy loss",
+      "summary": "We are seeking views on the details of a new entitlement to bereavement leave, including for pregnancy loss before 24 weeks.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-leave-for-bereavement-including-pregnancy-loss",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T11:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES): Round 11",
+      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
+      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T10:22:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T10:12:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Energy Related Products Policy and Energy Technology List (ETL): privacy notice",
+      "summary": "Find details here about the Energy Related Products Policy and Energy Technology List privacy policy and how we collect and process your data.",
+      "link": "https://www.gov.uk/government/publications/energy-technology-list-etl-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-01T10:06:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Draft amendment to the Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001",
+      "summary": "This consultation seeks feedback on the legal drafting of an Order amending the Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001.",
+      "link": "https://www.gov.uk/government/consultations/draft-amendment-to-the-competition-act-1998-public-transport-ticketing-schemes-block-exemption-order-2001",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2025/31: UK exporter pays compound settlement for breaches of export controls",
+      "summary": "HM Revenue and Customs (HMRC) settlement from UK exporter for breaches relating to the UK export controls.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202531-uk-exporter-pays-compound-settlement-for-breaches-of-export-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-01T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Determinations of the UK ETS carbon price",
       "summary": "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
@@ -283,61 +391,6 @@
       "ai_tags": []
     },
     {
-      "title": "International domestic energy prices",
-      "summary": "DESNZ publishes comparisons of industrial energy prices by consumer size against other EU and G7 countries, using data from both Eurostat and the International Energy Agency (IEA).",
-      "link": "https://www.gov.uk/government/statistical-data-sets/international-domestic-energy-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "International non-domestic energy prices",
-      "summary": "DESNZ publishes comparisons of non-domestic energy prices by consumer size against other EU and G7 countries, using data from both Eurostat and the International Energy Agency (IEA).",
-      "link": "https://www.gov.uk/government/statistical-data-sets/international-industrial-energy-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK total energy",
-      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 27 November 2025",
-      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-27-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-27T09:30:05+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
-        "Trade"
-      ]
-    },
-    {
       "title": "Look up considerations for trade licences under the Russia sanctions",
       "summary": "As part of the statutory guidance, a look-up guide listing all considerations for trade licences for certain prohibitions, and links to general licences available.",
       "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
@@ -358,20 +411,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy",
-      "summary": "Strategy document setting out a new economic approach to backing the UK’s strengths, with ambitious plans for 8 high-growth sectors.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T15:57:50+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
     },
     {
       "title": "Promoting electronic invoicing across UK businesses and the public sector",
@@ -404,49 +443,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Reform of non-compete clauses in employment contracts: working paper",
-      "summary": "This working paper seeks views on different options to reform non-compete clauses in employment contracts.",
-      "link": "https://www.gov.uk/government/publications/reform-of-non-compete-clauses-in-employment-contracts-working-paper",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T13:41:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: National Licensing Policy Framework for the hospitality and leisure sectors",
-      "summary": "Strategic vision for a modern, permissive licensing system that safeguards communities while enabling hospitality and leisure to thrive.",
-      "link": "https://www.gov.uk/government/publications/national-licensing-policy-framework-for-the-hospitality-and-leisure-sectors",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T13:40:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Reforming the licensing system",
-      "summary": "Seeking views and evidence to develop a modern, proportionate and enabling licensing system under the Licensing Act 2003.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/reforming-the-licensing-system",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T13:40:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Peter Kyle addresses guests at the SMMT Annual Dinner",
-      "summary": "The Business and Trade Secretary delivers the key note speech at the Society of Motor Manufacturers and Traders (SMMT) annual dinner.",
-      "link": "https://www.gov.uk/government/speeches/peter-kyle-addresses-guests-at-the-smmt-annual-dinner",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-26T11:25:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing",
-        "Trade"
-      ]
     }
   ]
 }

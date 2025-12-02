@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T13:54:21.871794Z",
+  "generated_at": "2025-12-02T19:03:52.240011Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Climate Science Research Programme (CSRP) evaluation: summary report",
+      "summary": "A summary report evaluating the Climate Science Research Programme (CSRP).",
+      "link": "https://www.gov.uk/government/publications/climate-science-research-programme-csrp-evaluation-summary-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-02T17:02:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Capacity Market: proposals to integrate low carbon technologies and enhance delivery assurance ahead of Prequalification 2026",
       "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
@@ -362,16 +372,6 @@
       "title": "Smart Secure Electricity Systems Programme (SSES): enduring governance",
       "summary": "We're seeking views on the Enduring Governance of the SSES Programme, and the technical and security governance functions to be part of these arrangements.",
       "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-programme-sses-enduring-governance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T09:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Smart Secure Electricity Systems (SSES) enduring governance: Balancing and Settlement Code modification",
-      "summary": "The Secretary of State has made changes to the Balancing and Settlement Code (BSC) using his power under section 245(1)(e) of the Energy Act 2023.",
-      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-enduring-governance-balancing-and-settlement-code-modification",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-11-28T09:00:04+00:00",
       "matched": [],

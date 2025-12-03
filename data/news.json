@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T13:54:23.980529Z",
+  "generated_at": "2025-12-03T19:01:50.070505Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Interoperable Demand Side Response programme: successful projects",
+      "summary": "Successful projects supporting the development and demonstration of energy smart appliances for the delivery of the Interoperable Demand Side Response programme.",
+      "link": "https://www.gov.uk/government/publications/interoperable-demand-side-response-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T16:39:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Biomass Feedstocks Innovation Programme: successful projects",
+      "summary": "£36 million in funding for projects to support innovation in the production of sustainable domestic biomass.",
+      "link": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T16:39:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T16:13:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Red Diesel Replacement competition: successful projects",
+      "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
+      "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T15:21:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Helios Renewable Energy Project: decision on an application for development consent under the Planning Act 2008",
+      "summary": "Decision on an application for a solar farm in North Yorkshire under the Planning Act 2008.",
+      "link": "https://www.gov.uk/government/publications/helios-renewable-energy-project-decision-on-an-application-for-development-consent-under-the-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T15:20:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
       "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
@@ -88,20 +140,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Energising Britain: Your voice in our Clean Energy Superpower Mission",
-      "summary": "Find out how the government is helping people access the benefits of climate and nature action.",
-      "link": "https://www.gov.uk/government/publications/energising-britain-your-voice-in-our-clean-energy-superpower-mission",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T10:00:02+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
       "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
       "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
       "link": "https://www.gov.uk/government/publications/women-on-boards-executive-search-firms-signed-up-to-the-code-of-conduct",
@@ -143,6 +181,20 @@
       "ai_summary": "",
       "ai_tags": [
         "Net zero"
+      ]
+    },
+    {
+      "title": "Policy paper: Energising Britain: Your voice in our Clean Energy Superpower Mission",
+      "summary": "Find out how the government is helping people access the benefits of climate and nature action.",
+      "link": "https://www.gov.uk/government/publications/energising-britain-your-voice-in-our-clean-energy-superpower-mission",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T00:00:00+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
       ]
     },
     {
@@ -276,16 +328,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
-      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-01T13:42:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Smart Secure Electricity Systems (SSES) Programme: first phase energy smart appliances regulations",
       "summary": "We're seeking feedback on the SSES Programme’s draft Phase 1 energy smart appliances regulations and impact assessment.",
       "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-first-phase-energy-smart-appliances-regulations",
@@ -332,26 +374,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Ambient gamma radiation dose rates across the UK",
-      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
-      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-01T10:12:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Energy Related Products Policy and Energy Technology List (ETL): privacy notice",
-      "summary": "Find details here about the Energy Related Products Policy and Energy Technology List privacy policy and how we collect and process your data.",
-      "link": "https://www.gov.uk/government/publications/energy-technology-list-etl-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-01T10:06:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Draft amendment to the Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001",
       "summary": "This consultation seeks feedback on the legal drafting of an Order amending the Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001.",
       "link": "https://www.gov.uk/government/consultations/draft-amendment-to-the-competition-act-1998-public-transport-ticketing-schemes-block-exemption-order-2001",
@@ -384,33 +406,11 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Determinations of the UK ETS carbon price",
-      "summary": "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
-      "link": "https://www.gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T17:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
       "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-28T16:48:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T14:00:34+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

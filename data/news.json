@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T07:02:11.584107Z",
+  "generated_at": "2025-12-03T13:54:23.980529Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,133 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
+      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T13:18:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Industrial Strategy Advisory Council launches landmark partnership to accelerate UK innovation and growth",
+      "summary": "The Industrial Strategy Advisory Council (ISAC) has partnered with the University of Manchester to access its research and expertise and drive forward recommendations for the Government’s Industrial Strategy.",
+      "link": "https://www.gov.uk/government/news/industrial-strategy-advisory-council-launches-landmark-partnership-to-accelerate-uk-innovation-and-growth",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T11:00:03+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy",
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Hydrogen Economic Regulatory Framework: developing an effective framework for pipeline networks",
+      "summary": "We’re seeking views on the economic regulatory market framework for 100% hydrogen pipeline networks, established under the Gas Act 1986.",
+      "link": "https://www.gov.uk/government/consultations/hydrogen-economic-regulatory-framework-developing-an-effective-framework-for-pipeline-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T11:00:03+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ register of board members’ interests, 2025 to 2026",
+      "summary": "A register of the private interests declared by DESNZ board members.",
+      "link": "https://www.gov.uk/government/publications/desnz-register-of-board-members-interests-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T10:49:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Overseas business risk for Belgium",
+      "summary": "Information on key security and political risks which UK businesses may face when operating in Belgium.",
+      "link": "https://www.gov.uk/government/publications/overseas-business-risk-belgium",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T10:01:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Scheme supporting UK artists begins new funding round",
+      "summary": "Scheme supporting BRIT and Mercury Prize-winning artists begins new funding round",
+      "link": "https://www.gov.uk/government/news/scheme-supporting-uk-artists-begins-new-funding-round",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Energising Britain: Your voice in our Clean Energy Superpower Mission",
+      "summary": "Find out how the government is helping people access the benefits of climate and nature action.",
+      "link": "https://www.gov.uk/government/publications/energising-britain-your-voice-in-our-clean-energy-superpower-mission",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T10:00:02+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
+      "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
+      "link": "https://www.gov.uk/government/publications/women-on-boards-executive-search-firms-signed-up-to-the-code-of-conduct",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T09:49:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Mercedes electric vehicle investment to create over 150 British Jobs",
+      "summary": "Over 150 jobs will be created across Northamptonshire and Oxfordshire through a new UK-Germany electric vehicle technology project led by Mercedes.",
+      "link": "https://www.gov.uk/government/news/mercedes-electric-vehicle-investment-to-create-over-150-british-jobs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T09:44:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: November 2025",
+      "summary": "Statistics and analysis on the construction sector for November 2025.",
+      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-03T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
+      "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
+      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-appointment-letters-for-senior-responsible-owners-sros",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-03T09:15:48+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Research: Climate Science Research Programme (CSRP) evaluation: summary report",
       "summary": "A summary report evaluating the Climate Science Research Programme (CSRP).",
@@ -291,16 +418,6 @@
       ]
     },
     {
-      "title": "Notice: Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
-      "summary": "GGSS quarterly year-ahead expenditure forecast and degression threshold comparison, and, when applicable, notification of tariff changes.",
-      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T14:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Smart Data Challenge Prize selects Moverly’s digital property pack as winner",
       "summary": "A Smart Data prototype that generates “Digital Sale Ready Packs” to make it easier to buy and sell a home has been named the winner of the Smart Data Challenge Prize by the Department for Business and Trade.",
       "link": "https://www.gov.uk/government/news/smart-data-challenge-prize-selects-moverlys-digital-property-pack-as-winner",
@@ -330,112 +447,6 @@
       "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2021",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-11-28T11:31:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme statistics: October 2025",
-      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
-      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-october-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T09:56:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Trade and Sustainable Development Domestic Advisory Group (TSD DAG): minutes, 19 September 2025",
-      "summary": "Minutes of the second meeting between the TSD DAG and the Department for Business and Trade (DBT).",
-      "link": "https://www.gov.uk/government/publications/trade-and-sustainable-development-domestic-advisory-group-tsd-dag-minutes-19-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-28T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Carbon capture, usage and storage (CCUS): Ensuring fair access to CO2 infrastructure",
-      "summary": "We are seeking views on the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 to ensure fair access to CO2 pipelines and storage sites.",
-      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-ensuring-fair-access-to-co2-infrastructure",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T09:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Smart Secure Electricity Systems Programme (SSES): enduring governance",
-      "summary": "We're seeking views on the Enduring Governance of the SSES Programme, and the technical and security governance functions to be part of these arrangements.",
-      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-programme-sses-enduring-governance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-11-28T09:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: September 2025",
-      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at September 2025",
-      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-28T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "An update on the Employment Rights Bill",
-      "summary": "Agreement reached with key stakeholders on the unfair dismissal elements of the Employment Rights Bill.",
-      "link": "https://www.gov.uk/government/news/an-update-on-the-employment-rights-bill",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-27T17:12:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: countervailing duty on PET polyester from India",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on PET polyester from India.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-pet-polyester-from-india",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-27T11:19:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, September 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-27T10:40:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, August 2025",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-august-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-27T09:32:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Look up considerations for trade licences under the Russia sanctions",
-      "summary": "As part of the statutory guidance, a look-up guide listing all considerations for trade licences for certain prohibitions, and links to general licences available.",
-      "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-27T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T13:54:38.338051Z",
+  "generated_at": "2025-12-04T19:03:32.868789Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,77 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
+      "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
+      "link": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T17:01:13+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "UK Emissions Trading Scheme: future markets policy",
+      "summary": "The UK ETS Authority is seeking views on the development of UK Emissions Trading Scheme markets policies.",
+      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-future-markets-policy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T17:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Extending the UK Emissions Trading Scheme cap beyond 2030",
+      "summary": "We're seeking views on extending the UK Emissions Trading Scheme beyond the end of Phase I.",
+      "link": "https://www.gov.uk/government/consultations/extending-the-uk-emissions-trading-scheme-cap-beyond-2030",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T17:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T17:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T17:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Hydrogen BECCS Innovation Programme: projects awarded funding",
+      "summary": "This programme supported innovation in hydrogen BECCS (bioenergy with carbon capture and storage) technologies with £31 million in funding.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T16:35:49+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen",
+        "Innovation"
+      ]
+    },
     {
       "title": "Nuclear 2025 conference: Energy Secretary speech",
       "summary": "Energy Secretary Ed Miliband spoke at the Nuclear Industry Association's Nuclear 2025 conference.",
@@ -298,56 +369,6 @@
       ]
     },
     {
-      "title": "Research: Climate Science Research Programme (CSRP) evaluation: summary report",
-      "summary": "A summary report evaluating the Climate Science Research Programme (CSRP).",
-      "link": "https://www.gov.uk/government/publications/climate-science-research-programme-csrp-evaluation-summary-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T17:02:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: proposals to integrate low carbon technologies and enhance delivery assurance ahead of Prequalification 2026",
-      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-proposals-to-integrate-low-carbon-technologies-and-enhance-delivery-assurance-ahead-of-prequalification-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T11:56:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Common biomass sustainability framework",
-      "summary": "We're seeking views on a common biomass sustainability framework to strengthen existing biomass criteria and ensure greater consistency across sectors.",
-      "link": "https://www.gov.uk/government/consultations/common-biomass-sustainability-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T11:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Technology and energy ministers discuss grid reform at AI Energy Council meeting",
-      "summary": "The latest meeting of the AI Energy Council - the final round of discussions for 2025 - has taken place in London.",
-      "link": "https://www.gov.uk/government/news/technology-and-energy-ministers-discuss-grid-reform-at-ai-energy-council-meeting",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T10:59:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES): Round 11",
-      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
-      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T10:07:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Package travel legislation: consultation on proposed amendments",
       "summary": "The government is consulting on proposed changes to the 2018 Package Travel and Linked Travel Arrangements Regulations (2018 PTRs).",
       "link": "https://www.gov.uk/government/consultations/package-travel-legislation-consultation-on-proposed-amendments",
@@ -363,16 +384,6 @@
       "link": "https://www.gov.uk/government/publications/capture-redress-scheme-application-form",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-02T09:34:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T09:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

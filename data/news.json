@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T07:02:43.290020Z",
+  "generated_at": "2025-12-04T13:54:38.338051Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,8 +19,108 @@
   "count": 40,
   "items": [
     {
+      "title": "Nuclear 2025 conference: Energy Secretary speech",
+      "summary": "Energy Secretary Ed Miliband spoke at the Nuclear Industry Association's Nuclear 2025 conference.",
+      "link": "https://www.gov.uk/government/speeches/nuclear-2025-conference-energy-secretary-speech",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T13:35:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Correspondence: Strategic Spatial Energy Plan (SSEP): timeline extension",
+      "summary": "Letter to the National Energy System Operator (NESO) on extending the SSEP timeline to integrate updated data, ensuring a stronger, more credible energy plan.",
+      "link": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T13:16:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Flex Markets Unlocked Innovation Programme: successful projects",
+      "summary": "This programme funded and supported the design and development of innovative technical solutions that could facilitate system-wide coordination and standardisation across multiple flexibility markets.",
+      "link": "https://www.gov.uk/government/publications/flex-markets-unlocked-innovation-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T13:13:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Small business access to finance",
+      "summary": "This call for evidence seeks views, evidence and experiences of applying for and accessing debt finance in the UK for small businesses.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/small-business-access-to-finance",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-04T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Public Sector Decarbonisation Scheme: Phase 4  - projects awarded funding",
+      "summary": "The Public Sector Decarbonisation Scheme provides grants for public sector bodies to fund heat decarbonisation and energy efficiency measures.",
+      "link": "https://www.gov.uk/government/publications/public-sector-decarbonisation-scheme-phase-4",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T12:01:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
+      "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-04T11:58:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): privacy notice",
+      "summary": "What data is collected when you apply for the Horizon Convictions Redress Scheme (HCRS) – how it's used, where it's stored, your rights.",
+      "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-04T10:55:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Summary of European Commission guidance on the EU CBAM for UK exporters",
+      "summary": "This page is intended to help UK exporters of goods in scope of the EU Carbon Border Adjustment Mechanism (CBAM) to identify relevant EU guidance and information.",
+      "link": "https://www.gov.uk/government/publications/summary-of-european-commission-guidance-on-the-eu-cbam-for-uk-exporters",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-04T10:54:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Heat pump deployment statistics: September 2025",
+      "summary": "Statistical releases on heat pump installations in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-04T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
       "title": "Notice: Interoperable Demand Side Response programme: successful projects",
-      "summary": "Successful projects supporting the development and demonstration of energy smart appliances for the delivery of the Interoperable Demand Side Response programme.",
+      "summary": "This programme funded the development and testing of energy smart appliances and energy management systems for interoperable demand side response.",
       "link": "https://www.gov.uk/government/publications/interoperable-demand-side-response-programme-successful-projects",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-03T16:39:34+00:00",
@@ -278,61 +378,11 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Evaluation of the Green Heat Network Fund (GHNF) scheme",
-      "summary": "Findings from evaluation research into the administration, delivery and impacts of the Green Heat Network Fund transition scheme and main scheme.",
-      "link": "https://www.gov.uk/government/publications/evaluation-of-the-green-heat-network-fund-ghnf-transition-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Heat Network Efficiency Scheme (HNES) evaluation",
-      "summary": "Findings from the interim evaluations into the administration, delivery and impacts of the Heat Network Efficiency Scheme (HNES).",
-      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-02T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK-USA Mutual Recognition Agreement on marine equipment",
       "summary": "Documents relating to the UK-USA Mutual Recognition Agreement (MRA) on marine equipment.",
       "link": "https://www.gov.uk/guidance/uk-usa-mutual-recognition-agreement-on-marine-equipment",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-01T16:36:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: environmental submissions and determinations",
-      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-01T15:08:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-01T15:08:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Smart Secure Electricity Systems (SSES) Programme: first phase energy smart appliances regulations",
-      "summary": "We're seeking feedback on the SSES Programme’s draft Phase 1 energy smart appliances regulations and impact assessment.",
-      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-first-phase-energy-smart-appliances-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-01T13:02:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -404,54 +454,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
-      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-28T16:48:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Smart Data Challenge Prize selects Moverly’s digital property pack as winner",
-      "summary": "A Smart Data prototype that generates “Digital Sale Ready Packs” to make it easier to buy and sell a home has been named the winner of the Smart Data Challenge Prize by the Department for Business and Trade.",
-      "link": "https://www.gov.uk/government/news/smart-data-challenge-prize-selects-moverlys-digital-property-pack-as-winner",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-28T13:49:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2022",
-      "summary": "2022 statistics on the UK’s utilisation of tariff preferences for imports and exports under PTAs, including trade in goods between Great Britain and the EU under the TCA.",
-      "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2022",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-28T11:32:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2021",
-      "summary": "2021 statistics on the UK’s utilisation of tariff preferences for imports and exports under PTAs, including trade in goods between Great Britain and the EU under the TCA.",
-      "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2021",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-11-28T11:31:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

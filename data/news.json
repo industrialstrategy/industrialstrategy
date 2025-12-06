@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T18:56:53.187264Z",
+  "generated_at": "2025-12-06T03:36:46.057853Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Government urges the nation to back Britain’s small firms this Small Business Saturday",
+      "summary": "Government calls on public to back Britain's businesses on Small Buisness Saturday",
+      "link": "https://www.gov.uk/government/news/government-urges-the-nation-to-back-britains-small-firms-this-small-business-saturday",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-06T00:01:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
       "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
@@ -455,16 +465,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Landmark UK-US pharmaceuticals deal to safeguard medicines access and drive vital investment for UK patients and businesses",
-      "summary": "Milestone deal secures UK’s medicines access for patients, with a wide range of groundbreaking new treatments to reach NHS front-line quicker.",
-      "link": "https://www.gov.uk/government/news/landmark-uk-us-pharmaceuticals-deal-to-safeguard-medicines-access-and-drive-vital-investmentfor-uk-patients-and-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-01T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

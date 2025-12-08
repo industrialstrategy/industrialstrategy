@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T07:04:58.802358Z",
+  "generated_at": "2025-12-08T13:52:08.251333Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Warm Home Discount (WHD): cost recovery",
+      "summary": "We are seeking views on whether WHD costs should move from standing charges to the per-unit rate.",
+      "link": "https://www.gov.uk/government/consultations/warm-home-discount-whd-cost-recovery",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-08T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 7: statutory notices",
+      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 7.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-statutory-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-08T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Amending the ECO4 Order to allow cost recovery via grant funding",
+      "summary": "We are seeking views on making a small change to the Energy Company Obligation (ECO4) Order, to specify which government grants cannot fund the scheme.",
+      "link": "https://www.gov.uk/government/consultations/amending-the-eco4-order-to-allow-cost-recovery-via-grant-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-08T10:00:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
+      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
+      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-08T09:29:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
+      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-08T09:24:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Government urges the nation to back Britain’s small firms this Small Business Saturday",
       "summary": "Government calls on public to back Britain's businesses on Small Buisness Saturday",
@@ -252,16 +302,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-03T13:18:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Industrial Strategy Advisory Council launches landmark partnership to accelerate UK innovation and growth",
       "summary": "The Industrial Strategy Advisory Council (ISAC) has partnered with the University of Manchester to access its research and expertise and drive forward recommendations for the Government’s Industrial Strategy.",
       "link": "https://www.gov.uk/government/news/industrial-strategy-advisory-council-launches-landmark-partnership-to-accelerate-uk-innovation-and-growth",
@@ -275,30 +315,6 @@
         "Industrial strategy",
         "Innovation"
       ]
-    },
-    {
-      "title": "Hydrogen Economic Regulatory Framework: developing an effective framework for pipeline networks",
-      "summary": "We’re seeking views on the economic regulatory market framework for 100% hydrogen pipeline networks, established under the Gas Act 1986.",
-      "link": "https://www.gov.uk/government/consultations/hydrogen-economic-regulatory-framework-developing-an-effective-framework-for-pipeline-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T11:00:03+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Transparency data: DESNZ register of board members’ interests, 2025 to 2026",
-      "summary": "A register of the private interests declared by DESNZ board members.",
-      "link": "https://www.gov.uk/government/publications/desnz-register-of-board-members-interests-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T10:49:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: Overseas business risk for Belgium",
@@ -349,34 +365,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
-      "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
-      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-appointment-letters-for-senior-responsible-owners-sros",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T09:15:48+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Policy paper: Energising Britain: Your voice in our Clean Energy Superpower Mission",
-      "summary": "Find out how the government is helping people access the benefits of climate and nature action.",
-      "link": "https://www.gov.uk/government/publications/energising-britain-your-voice-in-our-clean-energy-superpower-mission",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T00:00:00+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
     },
     {
       "title": "Package travel legislation: consultation on proposed amendments",

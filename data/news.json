@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T13:52:08.251333Z",
+  "generated_at": "2025-12-08T18:58:07.746190Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Apply for ATI programme funding",
+      "summary": "The Aerospace Technology Institute (ATI) programme co-funds civil aerospace research and technology development in the UK. You must read this guidance before you apply.",
+      "link": "https://www.gov.uk/guidance/apply-for-ati-programme-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-08T16:37:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2025",
+      "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-08T16:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",
+      "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-08T16:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-08T16:19:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-08T16:13:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Warm Home Discount (WHD): cost recovery",
       "summary": "We are seeking views on whether WHD costs should move from standing charges to the per-unit rate.",
@@ -282,26 +332,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Red Diesel Replacement competition: successful projects",
-      "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
-      "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T15:21:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Helios Renewable Energy Project: decision on an application for development consent under the Planning Act 2008",
-      "summary": "Decision on an application for a solar farm in North Yorkshire under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/helios-renewable-energy-project-decision-on-an-application-for-development-consent-under-the-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T15:20:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Industrial Strategy Advisory Council launches landmark partnership to accelerate UK innovation and growth",
       "summary": "The Industrial Strategy Advisory Council (ISAC) has partnered with the University of Manchester to access its research and expertise and drive forward recommendations for the Government’s Industrial Strategy.",
       "link": "https://www.gov.uk/government/news/industrial-strategy-advisory-council-launches-landmark-partnership-to-accelerate-uk-innovation-and-growth",
@@ -416,38 +446,6 @@
       "link": "https://www.gov.uk/government/publications/music-export-growth-scheme-megs-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-01T12:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Make Work Pay: leave for bereavement including pregnancy loss",
-      "summary": "We are seeking views on the details of a new entitlement to bereavement leave, including for pregnancy loss before 24 weeks.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-leave-for-bereavement-including-pregnancy-loss",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-01T11:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Draft amendment to the Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001",
-      "summary": "This consultation seeks feedback on the legal drafting of an Order amending the Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001.",
-      "link": "https://www.gov.uk/government/consultations/draft-amendment-to-the-competition-act-1998-public-transport-ticketing-schemes-block-exemption-order-2001",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-01T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2025/31: UK exporter pays compound settlement for breaches of export controls",
-      "summary": "HM Revenue and Customs (HMRC) settlement from UK exporter for breaches relating to the UK export controls.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202531-uk-exporter-pays-compound-settlement-for-breaches-of-export-controls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-01T09:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

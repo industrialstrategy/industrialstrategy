@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T07:02:09.627364Z",
+  "generated_at": "2025-12-09T13:52:59.620097Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,66 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Extended CE marking recognition for Ecodesign regulations",
+      "summary": "We’re seeking views on a proposal to extend recognition of CE marking for ecodesign regulations so that it applies to new measures made under ESPR.",
+      "link": "https://www.gov.uk/government/consultations/extended-ce-marking-recognition-for-ecodesign-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-09T12:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Get support from the Information and Support Service",
+      "summary": "The Information and Support Service can support those who do not have legal representation and are applying to redress schemes relating to the Horizon scandal.",
+      "link": "https://www.gov.uk/guidance/get-support-from-the-information-and-support-service",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-09T10:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Information and Support Service: privacy notice",
+      "summary": "What data is collected when you contact the Information and Support Service - how it’s used, where it’s stored and your rights.",
+      "link": "https://www.gov.uk/government/publications/information-and-support-service-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-09T10:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-09T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
+      "summary": "Country action plans launched at COP30 with the Global Clean Power Alliance (GCPA) finance mission.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-09T09:24:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2025)",
+      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP30 in Belém.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-09T09:24:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Apply for ATI programme funding",
       "summary": "The Aerospace Technology Institute (ATI) programme co-funds civil aerospace research and technology development in the UK. You must read this guidance before you apply.",
@@ -123,7 +183,7 @@
       "summary": "Government calls on public to back Britain's businesses on Small Buisness Saturday",
       "link": "https://www.gov.uk/government/news/government-urges-the-nation-to-back-britains-small-firms-this-small-business-saturday",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-06T00:01:02+00:00",
+      "published": "2025-12-06T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -288,50 +348,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Heat pump deployment statistics: September 2025",
-      "summary": "Statistical releases on heat pump installations in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-04T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Notice: Interoperable Demand Side Response programme: successful projects",
-      "summary": "This programme funded the development and testing of energy smart appliances and energy management systems for interoperable demand side response.",
-      "link": "https://www.gov.uk/government/publications/interoperable-demand-side-response-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T16:39:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Biomass Feedstocks Innovation Programme: successful projects",
-      "summary": "£36 million in funding for projects to support innovation in the production of sustainable domestic biomass.",
-      "link": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T16:39:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
-      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-03T16:13:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Industrial Strategy Advisory Council launches landmark partnership to accelerate UK innovation and growth",
       "summary": "The Industrial Strategy Advisory Council (ISAC) has partnered with the University of Manchester to access its research and expertise and drive forward recommendations for the Government’s Industrial Strategy.",
       "link": "https://www.gov.uk/government/news/industrial-strategy-advisory-council-launches-landmark-partnership-to-accelerate-uk-innovation-and-growth",
@@ -425,32 +441,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy",
-      "summary": "Strategy document setting out a new economic approach to backing the UK’s strengths, with ambitious plans for 8 high-growth sectors.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-01T12:36:08+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Guidance: Music Export Growth Scheme (MEGS) privacy notice",
-      "summary": "This privacy notice confirms how the Department for Business and Trade (DBT) collects and uses personal data from applications submitted under the scheme.",
-      "link": "https://www.gov.uk/government/publications/music-export-growth-scheme-megs-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-01T12:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T07:03:00.712845Z",
+  "generated_at": "2025-12-10T13:55:12.820400Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,102 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Financial support for nuclear lifetime extensions",
+      "summary": "We're seeking views on amending the Contract for Difference (CfD) legislation to enable existing nuclear generating assets to be eligible for CfDs to incentivise investment into lifetime extensions.",
+      "link": "https://www.gov.uk/government/consultations/financial-support-for-nuclear-lifetime-extensions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-10T11:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Smart Secure Electricity Systems (SSES) Programme: draft load control licence regulations and conditions",
+      "summary": "We're seeking views on the proposed regulations, including the licence conditions designed to protect consumers and the electricity system.",
+      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-draft-load-control-licence-regulations-and-conditions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-10T11:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Great British Energy backs Scotland, Wales and Northern Ireland",
+      "summary": "Great British Energy backs renewable schemes in Scotland, Wales and Northern Ireland.",
+      "link": "https://www.gov.uk/government/news/great-british-energy-backs-scotland-wales-and-northern-ireland",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-10T10:56:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Growth Gateway: UK-Kenya green tech opportunities​",
+      "summary": "Kenya’s cold chain market, projected to reach £130 million to £250 million by 2030, offers UK investors opportunities to reduce food loss, boost exports, and increase sustainable growth.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-uk-kenya-green-tech-opportunities",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-10T09:03:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Green Gas Support Scheme: budget management",
+      "summary": "Details of the budget management mechanisms of the Green Gas Support Scheme.",
+      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-budget-management",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-10T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Green Gas Support Scheme (GGSS): open to applications",
+      "summary": "This scheme provides tariff support for biomethane produced via anaerobic digestion which is injected into the gas grid.",
+      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-10T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Growth Gateway: Trade and investment opportunities in North and West African horticulture",
+      "summary": "North West Africa’s horticulture sector offers a £37 billion opportunity in cold chain logistics and financing, with strong growth potential in Nigeria, Ghana and Morocco.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-trade-and-investment-opportunities-in-north-and-west-african-horticulture",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-10T08:54:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Growth Gateway: Guide to inclusive investing in Africa",
+      "summary": "A practical guide for investors to unlock Africa’s tech potential through inclusive strategies that support women-led and women-centric businesses in high-growth sectors.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-guide-to-inclusive-investing-in-africa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-10T08:52:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Growth Gateway: Mpumalanga economic landscape",
+      "summary": "Mpumalanga’s economy faces a pivotal shift from coal to green and diversified sectors, unlocking high-potential opportunities for SMMEs and investors under South Africa’s Just Energy Transition.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-mpumalanga-economic-landscape",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-10T07:37:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Growth Gateway: ASEAN cooperation on industrial project-based initiatives scoping paper",
       "summary": "ASEAN’s new framework for industrial project-based cooperation aims to accelerate regional economic integration, create resilient supply chains, and unlock up to 15% GDP growth and 6 million jobs by 2030.",
@@ -283,55 +379,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Hydrogen BECCS Innovation Programme: projects awarded funding",
-      "summary": "This programme supported innovation in hydrogen BECCS (bioenergy with carbon capture and storage) technologies with £31 million in funding.",
-      "link": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-04T16:35:49+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen",
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Nuclear 2025 conference: Energy Secretary speech",
-      "summary": "Energy Secretary Ed Miliband spoke at the Nuclear Industry Association's Nuclear 2025 conference.",
-      "link": "https://www.gov.uk/government/speeches/nuclear-2025-conference-energy-secretary-speech",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-04T13:35:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Correspondence: Strategic Spatial Energy Plan (SSEP): timeline extension",
-      "summary": "Letter to the National Energy System Operator (NESO) on extending the SSEP timeline to integrate updated data, ensuring a stronger, more credible energy plan.",
-      "link": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-04T13:16:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Flex Markets Unlocked Innovation Programme: successful projects",
-      "summary": "This programme funded and supported the design and development of innovative technical solutions that could facilitate system-wide coordination and standardisation across multiple flexibility markets.",
-      "link": "https://www.gov.uk/government/publications/flex-markets-unlocked-innovation-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-04T13:13:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
       "title": "Small business access to finance",
       "summary": "This call for evidence seeks views, evidence and experiences of applying for and accessing debt finance in the UK for small businesses.",
       "link": "https://www.gov.uk/government/calls-for-evidence/small-business-access-to-finance",
@@ -340,18 +387,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Public Sector Decarbonisation Scheme: Phase 4  - projects awarded funding",
-      "summary": "The Public Sector Decarbonisation Scheme provides grants for public sector bodies to fund heat decarbonisation and energy efficiency measures.",
-      "link": "https://www.gov.uk/government/publications/public-sector-decarbonisation-scheme-phase-4",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-04T12:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
     },
     {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
@@ -406,46 +441,6 @@
       "link": "https://www.gov.uk/government/publications/overseas-business-risk-belgium",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-03T10:01:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Scheme supporting UK artists begins new funding round",
-      "summary": "Scheme supporting BRIT and Mercury Prize-winning artists begins new funding round",
-      "link": "https://www.gov.uk/government/news/scheme-supporting-uk-artists-begins-new-funding-round",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-03T10:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
-      "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
-      "link": "https://www.gov.uk/government/publications/women-on-boards-executive-search-firms-signed-up-to-the-code-of-conduct",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-03T09:49:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Mercedes electric vehicle investment to create over 150 British Jobs",
-      "summary": "Over 150 jobs will be created across Northamptonshire and Oxfordshire through a new UK-Germany electric vehicle technology project led by Mercedes.",
-      "link": "https://www.gov.uk/government/news/mercedes-electric-vehicle-investment-to-create-over-150-british-jobs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-03T09:44:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: November 2025",
-      "summary": "Statistics and analysis on the construction sector for November 2025.",
-      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-03T09:30:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

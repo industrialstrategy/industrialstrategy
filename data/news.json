@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T03:51:34.875650Z",
+  "generated_at": "2025-12-10T07:03:00.712845Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Growth Gateway: ASEAN cooperation on industrial project-based initiatives scoping paper",
+      "summary": "ASEAN’s new framework for industrial project-based cooperation aims to accelerate regional economic integration, create resilient supply chains, and unlock up to 15% GDP growth and 6 million jobs by 2030.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-asean-cooperation-on-industrial-project-based-initiatives-scoping-paper",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-10T06:38:04+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
     {
       "title": "Research: New quantitative trade model used in the upgraded UK-Republic of Korea FTA modelling paper",
       "summary": "Technical note detailing the background, data and parameters used to model the upgraded UK-Republic of Korea Free Trade Agreement in an NQTM.",
@@ -432,16 +446,6 @@
       "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-november-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-03T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Package travel legislation: consultation on proposed amendments",
-      "summary": "The government is consulting on proposed changes to the 2018 Package Travel and Linked Travel Arrangements Regulations (2018 PTRs).",
-      "link": "https://www.gov.uk/government/consultations/package-travel-legislation-consultation-on-proposed-amendments",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-02T10:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

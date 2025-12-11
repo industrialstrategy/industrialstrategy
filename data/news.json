@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T13:56:58.331672Z",
+  "generated_at": "2025-12-11T19:02:49.956831Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,30 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "First Clean Energy Jobs Fair held at Port of Tyne",
+      "summary": "Energy Secretary and Minister for Industry attended first Clean Energy Jobs Fair at the Port of Tyne in North East England.",
+      "link": "https://www.gov.uk/government/news/first-clean-energy-jobs-fair-held-at-port-of-tyne",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-11T16:32:17+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Notice: Boiler Upgrade Scheme: approval to over-allocate vouchers, December 2025",
+      "summary": "This notice confirms changes to the Boiler Upgrade Scheme (BUS) in December 2025.",
+      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-approval-to-over-allocate-vouchers-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-11T15:14:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Enhanced UK-Turkey Free Trade Agreement negotiations update",
       "summary": "An update following the third round of negotiations on an Enhanced Free Trade Agreement with Turkey.",
@@ -421,26 +445,6 @@
       "link": "https://www.gov.uk/government/consultations/warm-home-discount-whd-cost-recovery",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-08T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 7: statutory notices",
-      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 7.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-statutory-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-08T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Amending the ECO4 Order to allow cost recovery via grant funding",
-      "summary": "We are seeking views on making a small change to the Energy Company Obligation (ECO4) Order, to specify which government grants cannot fund the scheme.",
-      "link": "https://www.gov.uk/government/consultations/amending-the-eco4-order-to-allow-cost-recovery-via-grant-funding",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-08T10:00:16+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

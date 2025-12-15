@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T13:57:50.109611Z",
+  "generated_at": "2025-12-15T19:03:14.053061Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Heat networks regulation: technical standards",
+      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-15T16:44:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DRIVE35: Summary Business Case",
+      "summary": "Summary of the Business Case for the DRIVE35 (Driving Research and Investment in Vehicle Electrification) Funding Programme.",
+      "link": "https://www.gov.uk/government/publications/drive35-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-15T15:36:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Update from business groups on the Employment Rights Bill",
       "summary": "Publication of correspondence between six key business organisations and the Secretary of State for Business and Trade on the Employment Rights Bill.",
@@ -237,20 +257,6 @@
       "ai_tags": []
     },
     {
-      "title": "First Clean Energy Jobs Fair held at Port of Tyne",
-      "summary": "Energy Secretary and Minister for Industry attended first Clean Energy Jobs Fair at the Port of Tyne in North East England.",
-      "link": "https://www.gov.uk/government/news/first-clean-energy-jobs-fair-held-at-port-of-tyne",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-11T16:32:17+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
       "title": "Enhanced UK-Turkey Free Trade Agreement negotiations update",
       "summary": "An update following the third round of negotiations on an Enhanced Free Trade Agreement with Turkey.",
       "link": "https://www.gov.uk/government/news/enhanced-uk-turkey-free-trade-agreement-negotiations-update",
@@ -441,16 +447,6 @@
       "link": "https://www.gov.uk/government/publications/information-and-support-service-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-09T10:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Apply for ATI programme funding",
-      "summary": "The Aerospace Technology Institute (ATI) programme co-funds civil aerospace research and technology development in the UK. You must read this guidance before you apply.",
-      "link": "https://www.gov.uk/guidance/apply-for-ati-programme-funding",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-08T16:37:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

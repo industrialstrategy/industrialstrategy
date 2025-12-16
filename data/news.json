@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T07:04:29.388757Z",
+  "generated_at": "2025-12-16T13:56:16.245796Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,240 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T12:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Department for Business and Trade (DBT) prompt payment data July to September 2025",
+      "summary": "How long the Department for Business and Trade (DBT) took to pay invoices in the period July to September 2025.",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-dbt-prompt-payment-data-july-to-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T10:47:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, September 2025",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T10:47:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, October 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T10:47:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Pan-Euro Mediterranean Convention on Rules of Origin (PEM)",
+      "summary": "The Department for Business and Trade (DBT) is seeking views on the potential impacts of UK accession to the Regional Convention on Pan-Euro Mediterranean Preferential Rules of Origin (PEM).",
+      "link": "https://www.gov.uk/government/calls-for-evidence/pan-euro-mediterranean-convention-on-rules-of-origin-pem",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T10:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Proposed refinements for Allocation Round 8 and future rounds",
+      "summary": "We're seeking views on several refinements to ensure that the CfD continues to reflect current policy and that the scheme continues to function as originally intended.",
+      "link": "https://www.gov.uk/government/consultations/proposed-refinements-for-allocation-round-8-and-future-rounds",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-16T10:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-16T09:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2025/33: open general export licences (OGELs) updated",
+      "summary": "The Export Control Joint Unit (ECJU) has updated 8 OGELs.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202533-open-general-export-licences-ogels-updated",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence (export of dual-use items to EU member states)",
+      "summary": "Licence for the export of of dual-use items to EU member states.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items-to-eu-member-states",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence PCBs and components for military goods",
+      "summary": "Licence allowing the export or transfer of printed circuit boards (PCBs) and components for military goods.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-pcbs-and-components-for-military-goods",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence export after repair/replacement under warranty: dual-use items",
+      "summary": "Licence allowing the export of dual-use items imported into the UK for repair or replacement under warranty.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-repair-replacement-under-warranty-dual-use-items",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence export for repair/replacement under warranty: dual-use items",
+      "summary": "Licence allowing the export of dual-use items returned to the original country of import for repair or replacement under warranty.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-for-repair-replacement-under-warranty-dual-use-items",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence military goods: A400M collaborative programme",
+      "summary": "Licence allowing the export or transfer of goods, software or technology for the A400M collaborative programme.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods-a400m-collaborative-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence (dual-use items: India)",
+      "summary": "This licence permits the export of certain dual-use items to India.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-dual-use-items-india",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence (export after exhibition: dual-use items)",
+      "summary": "Licence allowing the export of dual-use items if they have been temporarily imported into the UK for exhibition or demonstration.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-exhibition-dual-use-items",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK security export statistics 2024",
+      "summary": "Estimates of UK and rest of world security exports for 2024.",
+      "link": "https://www.gov.uk/government/statistics/uk-security-export-statistics-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Changes to energy infrastructure planning application fees",
+      "summary": "We are seeking views on proposed changes to fees for energy infrastructure planning applications.",
+      "link": "https://www.gov.uk/government/consultations/changes-to-energy-infrastructure-planning-application-fees",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-16T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Open general export licence technology for dual-use items",
+      "summary": "Licence allowing the export of technology for dual-use items.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-technology-for-dual-use-items",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme: contacting the independent Senior Lawyer",
+      "summary": "Information about how to raise an issue with the independent Senior Lawyer to the Horizon Shortfall Scheme (HSS).",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-contacting-the-independent-senior-lawyer",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:11:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme: issues under review",
+      "summary": "Information about issues that the independent Senior Lawyer (ISL) is currently reviewing.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-issues-under-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:11:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme: independent Senior Lawyer scope of work",
+      "summary": "The role of the independent Senior Lawyer (ISL) and the procedures and processes they will follow.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-independent-senior-lawyer-scope-of-work",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T09:11:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Cutting edge cancer treatments set to be produced out of uranium",
       "summary": "Precision treatments tackling the hardest-to-treat cancers set to be produced from hundreds of tonnes of reprocessed uranium from nuclear reactors",
@@ -45,11 +279,11 @@
       ]
     },
     {
-      "title": "UK lands trade deal with South Korea to boost jobs and exports",
-      "summary": "UK lands momentous trade deal with South Korea to boost jobs and exports",
-      "link": "https://www.gov.uk/government/news/uk-lands-trade-deal-with-south-korea-to-boost-jobs-and-exports",
+      "title": "New council of experts to advocate for the creative industries",
+      "summary": "The Creative Industries Council (CIC) is a key forum that brings together Government and the businesses and trade bodies of the UK’s creative industries",
+      "link": "https://www.gov.uk/government/news/new-council-of-experts-to-advocate-for-the-creative-industries",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T22:30:04+00:00",
+      "published": "2025-12-16T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -57,40 +291,24 @@
       ]
     },
     {
-      "title": "Top Benefits for the UK-South Korea Free Trade Deal",
-      "summary": "Top Benefits for the UK-South Korea Free Trade Deal",
-      "link": "https://www.gov.uk/government/news/top-benefits-for-the-uk-south-korea-free-trade-deal",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T22:30:04+00:00",
+      "title": "Independent report: Review of AI deployment in the electricity networks: terms of reference",
+      "summary": "Terms of reference for the independent review.",
+      "link": "https://www.gov.uk/government/publications/review-of-ai-deployment-in-the-electricity-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-16T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
+      "ai_tags": []
     },
     {
-      "title": "Research: New quantitative trade model (NQTM) used in the upgraded UK-Republic of Korea FTA modelling paper",
-      "summary": "Technical note detailing the background, data and parameters used to model the upgraded UK-Republic of Korea Free Trade Agreement in an NQTM.",
-      "link": "https://www.gov.uk/government/publications/new-quantitative-trade-model-nqtm-used-in-the-upgraded-uk-republic-of-korea-fta-modelling-paper",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T22:30:04+00:00",
+      "title": "Notice: CCUS Humber capture project market survey",
+      "summary": "A short market-sounding exercise to update the Department’s understanding of the Humber region’s carbon capture projects.",
+      "link": "https://www.gov.uk/government/publications/ccus-humber-capture-project-market-survey",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-16T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: UK-Republic of Korea trade deal: conclusion summary",
-      "summary": "The conclusion summary explains the provisions and chapters in the UK-Republic of Korea trade deal.",
-      "link": "https://www.gov.uk/government/publications/uk-republic-of-korea-trade-deal-conclusion-summary",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T22:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
+      "ai_tags": []
     },
     {
       "title": "Guidance: Heat networks regulation: technical standards",
@@ -101,28 +319,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DRIVE35: Summary Business Case",
-      "summary": "Summary of the Business Case for the DRIVE35 (Driving Research and Investment in Vehicle Electrification) Funding Programme.",
-      "link": "https://www.gov.uk/government/publications/drive35-summary-business-case",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T15:36:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Update from business groups on the Employment Rights Bill",
-      "summary": "Publication of correspondence between six key business organisations and the Secretary of State for Business and Trade on the Employment Rights Bill.",
-      "link": "https://www.gov.uk/government/news/update-from-business-groups-on-the-employment-rights-bill",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T13:14:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Guidance: DESNZ Public Attitudes Tracker: technical report, Winter 2024 to Summer 2025",
@@ -153,18 +349,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Top Benefits for the UK-South Korea Free Trade Agreement",
-      "summary": "Top Benefits for the UK-South Korea Free Trade Agreement",
-      "link": "https://www.gov.uk/government/news/top-benefits-for-the-uk-south-korea-free-trade-agreement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-15T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Guidance: HNTAS: Draft Consumer Connection technical specifications for new build heat networks",
@@ -265,201 +449,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Draft Consumer Connection assessment procedures for new build heat networks",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-connection-assessment-procedures-for-new-build-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-15T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Draft Energy Centre assessment procedures for new build heat networks",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-draft-energy-centre-assessment-procedures-for-new-build-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-15T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Regulations: ecodesign of energy-consuming products",
-      "summary": "Guidance for manufacturers, their authorised representatives and importers.",
-      "link": "https://www.gov.uk/guidance/placing-energy-related-products-on-the-uk-market",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-12T14:04:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Regulations: energy information",
-      "summary": "Guidance for suppliers and dealers.",
-      "link": "https://www.gov.uk/guidance/the-energy-labelling-of-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-12T14:03:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Clean Heat Market Mechanism: heat pump installation certification scheme",
-      "summary": "This page outlines details of the certification scheme for the Clean Heat Market Mechanism (CHMM) provided by the Microgeneration Certification Scheme (MCS).",
-      "link": "https://www.gov.uk/government/publications/clean-heat-market-mechanism-heat-pump-installation-certification-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-12T11:48:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Trade with South Korea",
-      "summary": "How you import from and export to South Korea.",
-      "link": "https://www.gov.uk/guidance/summary-of-uk-south-korea-trade-agreement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-12T09:52:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Enhanced UK-Turkey Free Trade Agreement negotiations update",
-      "summary": "An update following the third round of negotiations on an Enhanced Free Trade Agreement with Turkey.",
-      "link": "https://www.gov.uk/government/news/enhanced-uk-turkey-free-trade-agreement-negotiations-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T12:23:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the United Arab Emirates",
-      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the UAE.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-provisional-anti-dumping-duty-on-certain-engine-oils-and-hydraulic-fluids-from-lithuania-and-the-united-arab-emirates-uae",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T11:00:04+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2025/32: UK accedes to the Agreement on Defence Export Controls",
-      "summary": "The UK has formally acceded to the Agreement on Defence Export Controls.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202532-uk-accedes-to-the-agreement-on-defence-export-controls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T10:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: July to September 2025",
-      "summary": "Headline summary of market access barriers resolved during Quarter 2 (July to September) of the financial year ending 2026.",
-      "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Stronger, faster trade defences for UK businesses",
-      "summary": "Government's first steer to the Trade Remedies Authority to make trade defence system simpler and faster for UK producers and manufacturers",
-      "link": "https://www.gov.uk/government/news/stronger-faster-trade-defences-for-uk-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T09:11:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: Strategic steer to the Trade Remedies Authority (TRA)",
-      "summary": "This strategic steer sets out the government’s growth-focused priorities for the Trade Remedies Authority (TRA).",
-      "link": "https://www.gov.uk/government/publications/strategic-steer-to-the-trade-remedies-authority-tra",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T09:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: Government response to the Willow Review",
-      "summary": "Government’s response to the recommendations of The Willow Review, an independent, government-backed review exploring the benefits of sustainability for small and medium-sized enterprises.",
-      "link": "https://www.gov.uk/government/publications/government-response-to-the-willow-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "New funding to help small businesses cut their costs",
-      "summary": "Small businesses across the UK will benefit from new Government funding and support to help them invest in sustainability, to cut their operating costs and boost their business.",
-      "link": "https://www.gov.uk/government/news/new-funding-to-help-small-businesses-cut-their-costs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-11T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
-      "summary": "Find the UK’s preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020.",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-10T15:08:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Growth Gateway: UK-Kenya green tech opportunities​",
-      "summary": "Kenya’s cold chain market, projected to reach £130 million to £250 million by 2030, offers UK investors opportunities to reduce food loss, boost exports, and increase sustainable growth.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-uk-kenya-green-tech-opportunities",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-10T09:03:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Growth Gateway: Trade and investment opportunities in North and West African horticulture",
-      "summary": "North West Africa’s horticulture sector offers a £37 billion opportunity in cold chain logistics and financing, with strong growth potential in Nigeria, Ghana and Morocco.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-trade-and-investment-opportunities-in-north-and-west-african-horticulture",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-10T08:54:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

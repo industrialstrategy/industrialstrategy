@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T19:03:14.053061Z",
+  "generated_at": "2025-12-16T04:00:37.423714Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Nissan launches £450m next-generation LEAF in major vote of confidence in UK’s Industrial Strategy",
+      "summary": "Nissan have launched their next-generation LEAF in Sunderland, marking a major boost for the UK’s automotive industry.",
+      "link": "https://www.gov.uk/government/news/nissan-launches-450m-next-generation-leafin-major-vote-of-confidence-in-uks-industrial-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-16T00:01:07+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "UK lands trade deal with South Korea to boost jobs and exports",
+      "summary": "UK lands momentous trade deal with South Korea to boost jobs and exports",
+      "link": "https://www.gov.uk/government/news/uk-lands-trade-deal-with-south-korea-to-boost-jobs-and-exports",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-15T22:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Top Benefits for the UK-South Korea Free Trade Deal",
+      "summary": "Top Benefits for the UK-South Korea Free Trade Deal",
+      "link": "https://www.gov.uk/government/news/top-benefits-for-the-uk-south-korea-free-trade-deal",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-15T22:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: New quantitative trade model (NQTM) used in the upgraded UK-Republic of Korea FTA modelling paper",
+      "summary": "Technical note detailing the background, data and parameters used to model the upgraded UK-Republic of Korea Free Trade Agreement in an NQTM.",
+      "link": "https://www.gov.uk/government/publications/new-quantitative-trade-model-nqtm-used-in-the-upgraded-uk-republic-of-korea-fta-modelling-paper",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-15T22:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: UK-Republic of Korea trade deal: conclusion summary",
+      "summary": "The conclusion summary explains the provisions and chapters in the UK-Republic of Korea trade deal.",
+      "link": "https://www.gov.uk/government/publications/uk-republic-of-korea-trade-deal-conclusion-summary",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-15T22:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Heat networks regulation: technical standards",
       "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
@@ -79,6 +141,18 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Top Benefits for the UK-South Korea Free Trade Agreement",
+      "summary": "Top Benefits for the UK-South Korea Free Trade Agreement",
+      "link": "https://www.gov.uk/government/news/top-benefits-for-the-uk-south-korea-free-trade-agreement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-15T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
       "title": "Guidance: HNTAS: Draft Consumer Connection technical specifications for new build heat networks",
@@ -384,72 +458,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Growth Gateway: Guide to inclusive investing in Africa",
-      "summary": "A practical guide for investors to unlock Africa’s tech potential through inclusive strategies that support women-led and women-centric businesses in high-growth sectors.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-guide-to-inclusive-investing-in-africa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-10T08:52:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: Mpumalanga economic landscape",
-      "summary": "Mpumalanga’s economy faces a pivotal shift from coal to green and diversified sectors, unlocking high-potential opportunities for SMMEs and investors under South Africa’s Just Energy Transition.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-mpumalanga-economic-landscape",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-10T07:37:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: ASEAN cooperation on industrial project-based initiatives scoping paper",
-      "summary": "ASEAN’s new framework for industrial project-based cooperation aims to accelerate regional economic integration, create resilient supply chains, and unlock up to 15% GDP growth and 6 million jobs by 2030.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-asean-cooperation-on-industrial-project-based-initiatives-scoping-paper",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-10T06:38:04+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: legal costs framework",
-      "summary": "This guidance sets out the legal costs the Department for Business and Trade (DBT) will cover for Capture Redress Scheme applicants.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-legal-costs-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-09T14:29:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Get support from the Information and Support Service",
-      "summary": "The Information and Support Service can support those who do not have legal representation and are applying to redress schemes relating to the Horizon scandal.",
-      "link": "https://www.gov.uk/guidance/get-support-from-the-information-and-support-service",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-09T10:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Information and Support Service: privacy notice",
-      "summary": "What data is collected when you contact the Information and Support Service - how it’s used, where it’s stored and your rights.",
-      "link": "https://www.gov.uk/government/publications/information-and-support-service-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-09T10:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

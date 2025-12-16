@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T04:00:37.423714Z",
+  "generated_at": "2025-12-16T07:04:29.388757Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Cutting edge cancer treatments set to be produced out of uranium",
+      "summary": "Precision treatments tackling the hardest-to-treat cancers set to be produced from hundreds of tonnes of reprocessed uranium from nuclear reactors",
+      "link": "https://www.gov.uk/government/news/cutting-edge-cancer-treatments-set-to-be-produced-out-of-uranium",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-16T06:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
     {
       "title": "Nissan launches £450m next-generation LEAF in major vote of confidence in UK’s Industrial Strategy",
       "summary": "Nissan have launched their next-generation LEAF in Sunderland, marking a major boost for the UK’s automotive industry.",
@@ -319,16 +331,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Improving the visibility of distributed energy assets",
-      "summary": "We are seeking views on a range of options for improving the visibility of distributed energy assets connected to electricity networks.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/improving-the-visibility-of-distributed-energy-assets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-12T09:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Enhanced UK-Turkey Free Trade Agreement negotiations update",

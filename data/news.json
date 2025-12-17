@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T07:03:11.500484Z",
+  "generated_at": "2025-12-17T13:50:32.210200Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,41 +19,263 @@
   "count": 40,
   "items": [
     {
+      "title": "UK appoints Amy Barklam as new Trade Commissioner for LATAC",
+      "summary": "Amy Barklam has been appointed HM Trade Commissioner for Latin America & the Caribbean and Consul General São Paulo.",
+      "link": "https://www.gov.uk/government/news/uk-appoints-amy-barklam-as-new-trade-commissioner-for-latac",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T12:52:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report",
+      "summary": "This page sets out the government’s progress on the Grenfell Tower Inquiry’s Phase 2 recommendations and updates on Phase 1 recommendations.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T12:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Operating a spaceport: rules and regulations",
+      "summary": "Regulations you must comply with when operating a spaceport.",
+      "link": "https://www.gov.uk/guidance/operating-a-spaceport-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T11:38:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Launching or returning a rocket or space plane: rules and regulations",
+      "summary": "Regulations you must comply with when launching or returning a rocket or space plane.",
+      "link": "https://www.gov.uk/guidance/launching-or-returning-a-rocket-or-space-plane-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T11:38:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Contracts for Difference and Capacity Market scheme update 2025",
+      "summary": "Annual update to Parliament on the progress made by government on the policy mechanisms implemented under the Electricity Market Reform programme.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-and-capacity-market-scheme-update-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T11:25:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: UK Emissions Trading Scheme and Carbon Price Support: apply for compensation",
+      "summary": "How to apply for compensation for the indirect costs of the UK Emissions Trading Scheme (UK ETS) and the Carbon Price Support (CPS) mechanism.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T11:10:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: UK Emissions Trading Scheme and Carbon Price Support: apply for compensation",
+      "summary": "How to apply for compensation for the indirect costs of the UK Emissions Trading Scheme (UK ETS) and the Carbon Price Support (CPS) mechanism.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T11:10:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:49:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with M to O)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with J to L)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Green Gas Support Scheme: budget management",
+      "summary": "Details of the budget management mechanisms of the Green Gas Support Scheme.",
+      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-budget-management",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Green Gas Levy (GGL): rates and exemptions",
+      "summary": "The Green Gas Levy (GGL) applies to licensed fossil fuel gas suppliers in Great Britain from 30 November 2021, and funds the Green Gas Support Scheme (GGSS).",
+      "link": "https://www.gov.uk/government/publications/green-gas-levy-ggl-rates-and-exemptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, March 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-march-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T09:11:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aerospace Technology Institute (ATI) Strategic Programme",
+      "summary": "Funding for research and technology development to maintain and grow the UK’s competitive positions in civil aerospace.",
+      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-strategic-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T08:55:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aerospace Technology Institute (ATI) Non-CO2 Programme",
+      "summary": "Funding for research and technology development to maintain and grow the UK’s competitive positions in civil aerospace.",
+      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-programme-funding-for-non-co2-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T08:54:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aerospace Technology Institute (ATI) SME Programme",
+      "summary": "Offers funding for civil aerospace research and technology development in the UK.",
+      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-sme-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T08:54:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "500 jobs protected at Grangemouth as UK Government partners with INEOS to save vital plant’s future",
       "summary": "Vital chemical production at Grangemouth protected as Government provides over £120m support package in £150m joint investment",
       "link": "https://www.gov.uk/government/news/500-jobs-protected-at-grangemouth-as-uk-government-partners-with-ineos-to-save-vital-plants-future",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T00:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: senior officials’ business expenses, hospitality, and meetings, July to September 2025",
-      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/dbt-senior-officials-business-expenses-hospitality-and-meetings-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T16:00:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: special advisers' gifts, hospitality and meetings, July to September 2025",
-      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
-      "link": "https://www.gov.uk/government/publications/dbt-special-advisers-gifts-hospitality-and-meetings-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T16:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: ministerial overseas travel and meetings, July to September 2025",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T16:00:07+00:00",
+      "published": "2025-12-17T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -77,28 +299,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: Business appointment rules advice, July to September 2025",
-      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
-      "link": "https://www.gov.uk/government/publications/dbt-business-appointment-rules-advice-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T16:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT gender pay gap report and data 2025",
-      "summary": "The Department for Business and Trade (DBT) has prepared this report as part of the legal requirement for public authorities to publish their gender pay gap on an annual basis.",
-      "link": "https://www.gov.uk/government/publications/dbt-gender-pay-gap-report-and-data-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T16:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Transparency data: DESNZ: spending over £500, September 2025",
@@ -189,72 +389,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Consolidated list of strategic military and dual-use items that require export authorisation",
-      "summary": "Assess your goods, software and technology to determine whether or not they are controlled and require a licence to export.",
-      "link": "https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T14:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
-      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
-      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T12:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Department for Business and Trade (DBT) prompt payment data July to September 2025",
-      "summary": "How long the Department for Business and Trade (DBT) took to pay invoices in the period July to September 2025.",
-      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-dbt-prompt-payment-data-july-to-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T10:47:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, September 2025",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T10:47:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, October 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-october-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T10:47:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Pan-Euro Mediterranean Convention on Rules of Origin (PEM)",
-      "summary": "The Department for Business and Trade (DBT) is seeking views on the potential impacts of UK accession to the Regional Convention on Pan-Euro Mediterranean Preferential Rules of Origin (PEM).",
-      "link": "https://www.gov.uk/government/calls-for-evidence/pan-euro-mediterranean-convention-on-rules-of-origin-pem",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T10:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Proposed refinements for Allocation Round 8 and future rounds",
       "summary": "We're seeking views on several refinements to ensure that the CfD continues to reflect current policy and that the scheme continues to function as originally intended.",
       "link": "https://www.gov.uk/government/consultations/proposed-refinements-for-allocation-round-8-and-future-rounds",
@@ -273,102 +407,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2025/33: open general export licences (OGELs) updated",
-      "summary": "The Export Control Joint Unit (ECJU) has updated 8 OGELs.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202533-open-general-export-licences-ogels-updated",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence (export of dual-use items to EU member states)",
-      "summary": "Licence for the export of of dual-use items to EU member states.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items-to-eu-member-states",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence PCBs and components for military goods",
-      "summary": "Licence allowing the export or transfer of printed circuit boards (PCBs) and components for military goods.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-pcbs-and-components-for-military-goods",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence export after repair/replacement under warranty: dual-use items",
-      "summary": "Licence allowing the export of dual-use items imported into the UK for repair or replacement under warranty.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-repair-replacement-under-warranty-dual-use-items",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence export for repair/replacement under warranty: dual-use items",
-      "summary": "Licence allowing the export of dual-use items returned to the original country of import for repair or replacement under warranty.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-for-repair-replacement-under-warranty-dual-use-items",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence military goods: A400M collaborative programme",
-      "summary": "Licence allowing the export or transfer of goods, software or technology for the A400M collaborative programme.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods-a400m-collaborative-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence (dual-use items: India)",
-      "summary": "This licence permits the export of certain dual-use items to India.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-dual-use-items-india",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence (export after exhibition: dual-use items)",
-      "summary": "Licence allowing the export of dual-use items if they have been temporarily imported into the UK for exhibition or demonstration.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-exhibition-dual-use-items",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Changes to energy infrastructure planning application fees",
@@ -408,46 +446,6 @@
       "link": "https://www.gov.uk/government/publications/ccus-humber-capture-project-market-survey",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-16T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: gender pay gap report and data, 2025",
-      "summary": "Data on the difference in employees’ average earnings from April 2024 to March 2025.",
-      "link": "https://www.gov.uk/government/publications/desnz-gender-pay-gap-report-and-data-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-16T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Heat networks regulation: technical standards",
-      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance with these requirements.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-15T16:44:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: DESNZ Public Attitudes Tracker: technical report, Winter 2024 to Summer 2025",
-      "summary": "A technical report to accompany the Winter 2024, Spring 2025 and Summer 2025 waves of the DESNZ Public Attitudes Tracker.",
-      "link": "https://www.gov.uk/government/publications/desnz-public-attitudes-tracker-technical-report-winter-2024-to-summer-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-15T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: environmental submissions and determinations",
-      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-15T08:58:38+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

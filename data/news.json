@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T19:02:32.327324Z",
+  "generated_at": "2025-12-17T03:49:10.518847Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "500 jobs protected at Grangemouth as UK Government partners with INEOS to save vital plant’s future",
+      "summary": "Vital chemical production at Grangemouth protected as Government provides over £120m support package in £150m joint investment",
+      "link": "https://www.gov.uk/government/news/500-jobs-protected-at-grangemouth-as-uk-government-partners-with-ineos-to-save-vital-plants-future",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T00:01:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DBT: senior officials’ business expenses, hospitality, and meetings, July to September 2025",
       "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
@@ -352,18 +362,6 @@
       "title": "Guidance: Open general export licence (export after exhibition: dual-use items)",
       "summary": "Licence allowing the export of dual-use items if they have been temporarily imported into the UK for exhibition or demonstration.",
       "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-exhibition-dual-use-items",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-16T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK security export statistics 2024",
-      "summary": "Estimates of UK and rest of world security exports for 2024.",
-      "link": "https://www.gov.uk/government/statistics/uk-security-export-statistics-2024",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-16T09:30:04+00:00",
       "matched": [],

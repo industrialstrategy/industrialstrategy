@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T13:50:32.210200Z",
+  "generated_at": "2025-12-17T19:02:50.250095Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,16 +19,56 @@
   "count": 40,
   "items": [
     {
-      "title": "UK appoints Amy Barklam as new Trade Commissioner for LATAC",
-      "summary": "Amy Barklam has been appointed HM Trade Commissioner for Latin America & the Caribbean and Consul General São Paulo.",
-      "link": "https://www.gov.uk/government/news/uk-appoints-amy-barklam-as-new-trade-commissioner-for-latac",
+      "title": "Decision: Five Estuaries Offshore Wind Farm: development consent order, Planning Act 2008",
+      "summary": "Decision on an application for an offshore wind farm electricity generating station under the Planning Act 2008.",
+      "link": "https://www.gov.uk/government/publications/five-estuaries-offshore-wind-farm-development-consent-order-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T16:16:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Operating an orbital space object: rules and regulations",
+      "summary": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
+      "link": "https://www.gov.uk/guidance/operating-an-orbital-space-object-rules-and-regulations",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T12:52:18+00:00",
+      "published": "2025-12-17T15:33:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Unlocking business: reform driven by you",
+      "summary": "This questionnaire asks businesses large and small to tell government about regulation which is not fit for purpose and unjustifiably inhibits growth, innovation and investment.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/unlocking-business-reform-driven-by-you",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-17T15:16:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Trade"
+        "Innovation"
       ]
+    },
+    {
+      "title": "Corporate report: Statutory security of supply report: 2025",
+      "summary": "Annual report to Parliament on the supply of electricity, gas and oil to meet the demands of consumers in Great Britain.",
+      "link": "https://www.gov.uk/government/publications/statutory-security-of-supply-report-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T14:19:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Energy bill reductions: statement to energy suppliers",
+      "summary": "Statement to energy suppliers on how we expect savings to be passed on to consumers.",
+      "link": "https://www.gov.uk/government/publications/energy-bill-reductions-statement-to-energy-suppliers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-17T14:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report",
@@ -271,16 +311,6 @@
       "ai_tags": []
     },
     {
-      "title": "500 jobs protected at Grangemouth as UK Government partners with INEOS to save vital plant’s future",
-      "summary": "Vital chemical production at Grangemouth protected as Government provides over £120m support package in £150m joint investment",
-      "link": "https://www.gov.uk/government/news/500-jobs-protected-at-grangemouth-as-uk-government-partners-with-ineos-to-save-vital-plants-future",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ: special advisers' gifts, hospitality and meetings, July to September 2025",
       "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
       "link": "https://www.gov.uk/government/publications/desnz-special-advisers-gifts-hospitality-and-meetings-july-to-september-2025",
@@ -414,38 +444,6 @@
       "link": "https://www.gov.uk/government/consultations/changes-to-energy-infrastructure-planning-application-fees",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-16T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Cutting edge cancer treatments set to be produced out of uranium",
-      "summary": "Precision treatments tackling the hardest-to-treat cancers set to be produced from hundreds of tonnes of reprocessed uranium from nuclear reactors",
-      "link": "https://www.gov.uk/government/news/cutting-edge-cancer-treatments-set-to-be-produced-out-of-uranium",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-16T06:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Independent report: Review of AI deployment in the electricity networks: terms of reference",
-      "summary": "Terms of reference for the independent review.",
-      "link": "https://www.gov.uk/government/publications/review-of-ai-deployment-in-the-electricity-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-16T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: CCUS Humber capture project market survey",
-      "summary": "A short market-sounding exercise to update the Department’s understanding of the Humber region’s carbon capture projects.",
-      "link": "https://www.gov.uk/government/publications/ccus-humber-capture-project-market-survey",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-16T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

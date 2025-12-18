@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T12:41:39.204911Z",
+  "generated_at": "2025-12-18T18:31:27.502042Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,15 +19,79 @@
   "count": 40,
   "items": [
     {
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-18T17:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Recognition of UK professional qualifications in EU member states",
+      "summary": "Information to help you identify recognition routes available for UK professional qualifications in European Union (EU) member states.",
+      "link": "https://www.gov.uk/government/publications/recognition-of-uk-professional-qualifications-in-eu-member-states",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-18T16:49:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Businesses, unions and civil society leaders welcome Royal Assent of Employment Rights Act",
       "summary": "Leaders from across the business community, trade union movement and wider civil society have welcomed the Employment Rights Act receiving Royal Assent.",
       "link": "https://www.gov.uk/government/news/businesses-unions-and-civil-society-leaders-welcome-royal-assent-of-employment-rights-act",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T11:46:20+00:00",
+      "published": "2025-12-18T15:46:22+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
         "Trade"
+      ]
+    },
+    {
+      "title": "Promotional material: Employment Rights Bill: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Bill.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-18T14:33:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Reasonable steps to be taken by a trade union: code of practice",
+      "summary": "Guidance for trade unions on “reasonable steps” in relation to minimum service levels.",
+      "link": "https://www.gov.uk/government/publications/reasonable-steps-to-be-taken-by-a-trade-union-code-of-practice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-18T14:05:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Correspondence: Long duration electricity storage: open letter to industry",
+      "summary": "Open letter from the Minister for Energy, Michael Shanks, explaining how the government is supporting long duration electricity storage.",
+      "link": "https://www.gov.uk/government/publications/long-duration-electricity-storage-open-letter-to-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-18T13:45:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: National Policy Statement for nuclear energy generation (EN-7)",
+      "summary": "Government policy on the need for and standards applicable to nuclear energy generation projects seeking development consent.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statement-for-nuclear-energy-generation-en-7",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-18T13:24:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
       ]
     },
     {
@@ -253,36 +317,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: LSOA estimates of properties not connected to the gas network",
-      "summary": "LSOA level estimates for the number of domestic properties not connected to the gas grid.",
-      "link": "https://www.gov.uk/government/statistics/lsoa-estimates-of-households-not-connected-to-the-gas-network",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Regional and local authority gas consumption statistics",
-      "summary": "Estimates of gas consumption at region and local authority levels in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/regional-and-local-authority-gas-consumption-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Postcode level electricity statistics: 2018",
-      "summary": "Postcode level electricity statistics for 2018, covering all domestic meters, and split by standard and economy 7 meters.",
-      "link": "https://www.gov.uk/government/statistics/postcode-level-electricity-statistics-2018-experimental",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: General trade licence Russia sanctions – fertilisers",
       "summary": "Licence relating to the provision of certain financial services to a person connected with Russia for the supply or delivery of fertiliser goods.",
       "link": "https://www.gov.uk/government/publications/general-trade-licence-russia-sanctions-fertilisers",
@@ -404,42 +438,6 @@
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with M to O)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-17T09:30:09+00:00",
       "matched": [],

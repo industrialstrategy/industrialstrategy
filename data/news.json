@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T12:40:41.906886Z",
+  "generated_at": "2025-12-19T18:30:17.131301Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,92 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: UK-Faroe Islands committee documents",
+      "summary": "Decisions, documents and meeting minutes from the Faroe Islands-UK committees.",
+      "link": "https://www.gov.uk/government/publications/uk-faroe-islands-committee-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-19T17:09:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Stacked gas consumption statistics data",
+      "summary": "Gas consumption data for 2005 to 2024 as a single table, with years stacked one above the other.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/stacked-gas-consumption-statistics-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T16:37:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Lower and Middle Super Output Areas gas consumption",
+      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) gas data.",
+      "link": "https://www.gov.uk/government/statistics/lower-and-middle-super-output-areas-gas-consumption",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T16:36:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Regional and local authority gas consumption statistics",
+      "summary": "Estimates of gas consumption at region and local authority levels in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/regional-and-local-authority-gas-consumption-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T16:36:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Subnational electricity and gas consumption summary report 2024",
+      "summary": "Provides estimates of annual electricity and gas consumption below national level.",
+      "link": "https://www.gov.uk/government/statistics/subnational-electricity-and-gas-consumption-summary-report-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T16:36:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Government response to resale of live events tickets consultation: analytical note",
+      "summary": "​​Analytical note setting out the Department for Business and Trade’s (DBT) methodology for estimating the impact of new rules to ban ticket touting.",
+      "link": "https://www.gov.uk/government/publications/government-response-to-resale-of-live-events-tickets-consultation-analytical-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-19T15:37:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T14:48:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Hydrogen production business model",
+      "summary": "Updates on the hydrogen production business model, including the Low Carbon Hydrogen Agreement.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-production-business-model",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T14:29:44+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
     {
       "title": "Research: Energy Innovation Needs Assessments 2025",
       "summary": "The Energy Innovation Needs Assessments (EINAs) are an independent assessment of the role of innovation in key technologies in the UK’s future energy system.",
@@ -60,16 +146,6 @@
       "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-18T17:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Recognition of UK professional qualifications in EU member states",
-      "summary": "Information to help you identify recognition routes available for UK professional qualifications in European Union (EU) member states.",
-      "link": "https://www.gov.uk/government/publications/recognition-of-uk-professional-qualifications-in-eu-member-states",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T16:49:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -283,66 +359,6 @@
       "ai_tags": []
     },
     {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Postcode level gas statistics: 2020",
-      "summary": "2020 domestic gas consumption statistics at postcode level.",
-      "link": "https://www.gov.uk/government/statistics/postcode-level-gas-statistics-2020-experimental",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: MSOA estimates of properties not connected to the gas network",
-      "summary": "MSOA level estimates for the number of domestic properties not connected to the gas grid.",
-      "link": "https://www.gov.uk/government/statistics/msoa-estimates-of-households-not-connected-to-the-gas-network",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Postcode level gas statistics: 2023",
-      "summary": "2023 domestic gas consumption statistics at postcode level.",
-      "link": "https://www.gov.uk/government/statistics/postcode-level-gas-statistics-2023",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Lower and Middle Super Output Areas gas consumption",
-      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) gas data.",
-      "link": "https://www.gov.uk/government/statistics/lower-and-middle-super-output-areas-gas-consumption",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Postcode level electricity statistics: 2019",
-      "summary": "Postcode level electricity statistics for 2019, covering all domestic meters, and split by standard and economy 7 meters.",
-      "link": "https://www.gov.uk/government/statistics/postcode-level-electricity-statistics-2019-experimental",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: General trade licence Russia sanctions – fertilisers",
       "summary": "Licence relating to the provision of certain financial services to a person connected with Russia for the supply or delivery of fertiliser goods.",
       "link": "https://www.gov.uk/government/publications/general-trade-licence-russia-sanctions-fertilisers",
@@ -360,6 +376,16 @@
       "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-18T08:50:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Recognition of UK professional qualifications in EU member states",
+      "summary": "Information to help you identify recognition routes available for UK professional qualifications in European Union (EU) member states.",
+      "link": "https://www.gov.uk/government/publications/recognition-of-uk-professional-qualifications-in-eu-member-states",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-18T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -425,28 +451,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Form: UK Emissions Trading Scheme and Carbon Price Support: apply for compensation",
-      "summary": "How to apply for compensation for the indirect costs of the UK Emissions Trading Scheme (UK ETS) and the Carbon Price Support (CPS) mechanism.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T11:10:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T09:49:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

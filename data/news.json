@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T06:34:19.998063Z",
+  "generated_at": "2025-12-22T12:41:49.896123Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,66 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DBT: workforce management information November 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-22T11:05:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information October 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-22T11:04:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Clean Heat Market Mechanism: who it applies to, annual tasks",
+      "summary": "Check if you're affected by the Clean Heat Market Mechanism (CHMM). See what actions you must take each scheme year.",
+      "link": "https://www.gov.uk/guidance/clean-heat-market-mechanism-who-it-applies-to-annual-tasks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T09:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Clean Heat Market Mechanism: report online, get credits",
+      "summary": "Use the Manage the Clean Heat Market Mechanism (M-CHMM) service to register for an account to report boiler sales and get credits.",
+      "link": "https://www.gov.uk/guidance/clean-heat-market-mechanism-report-online-get-credits",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T09:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Clean Heat Market Mechanism: compliance, enforcement and appeals",
+      "summary": "How the Clean Heat Market Mechanism (CHMM) is enforced, what to do if you're unhappy with a decision and how to appeal.",
+      "link": "https://www.gov.uk/guidance/clean-heat-market-mechanism-compliance-enforcement-and-appeals",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T09:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Clean Heat Market Mechanism: fossil fuel boiler sales, targets and credits",
+      "summary": "How to monitor and report on the sales of fossil fuel boilers. How the low carbon target affects you, when you get credits and how to use them. How to pay for a credit shortfall.",
+      "link": "https://www.gov.uk/guidance/clean-heat-market-mechanism-fossil-fuel-boiler-sales-targets-and-credits",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T09:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Decision: UK-Faroe Islands committee documents",
       "summary": "Decisions, documents and meeting minutes from the Faroe Islands-UK committees.",
@@ -139,6 +199,26 @@
       "ai_tags": [
         "Trade"
       ]
+    },
+    {
+      "title": "Decision: Norfolk Boreas: Non-Material Change, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for a non-material change to an offshore wind farm project.",
+      "link": "https://www.gov.uk/government/publications/norfolk-boreas-non-material-change-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Norfolk Vanguard: Non-Material Change, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for a non-material change to an offshore wind farm project.",
+      "link": "https://www.gov.uk/government/publications/norfolk-vanguard-non-material-change-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-19T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Notice: UK ETS Allocation Table for operators of installations",
@@ -295,70 +375,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Subnational methodology and guidance",
-      "summary": "Information on subnational energy consumption statistics.",
-      "link": "https://www.gov.uk/government/publications/regional-energy-data-guidance-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Quarterly domestic energy switching statistics",
-      "summary": "Quarterly and annual estimates of the total number of switches by electricity and gas customers.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/quarterly-domestic-energy-switching-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Prices of fuels purchased by manufacturing industry",
-      "summary": "Quarterly and annual prices of fuels purchased by manufacturing industry, in original units and p/kWh, split into consumption sizebands.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-manufacturing-industry",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [
-        "manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Prices of fuels purchased by major power producers",
-      "summary": "Quarterly and annual prices of fuels purchased by power generators.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-major-power-producers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Industrial energy price indices",
-      "summary": "Quarterly and annual price indices for industrial fuels, in real and current terms, including and excluding the Climate Change Levy (CCL).",
-      "link": "https://www.gov.uk/government/statistical-data-sets/industrial-energy-price-indices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Gas and electricity prices in the non-domestic sector",
-      "summary": "Quarterly and annual gas and electricity prices for the non-domestic sector, including and excluding the Climate Change Levy (CCL), split into consumption size bands.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/gas-and-electricity-prices-in-the-non-domestic-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: General trade licence Russia sanctions – fertilisers",
       "summary": "Licence relating to the provision of certain financial services to a person connected with Russia for the supply or delivery of fertiliser goods.",
       "link": "https://www.gov.uk/government/publications/general-trade-licence-russia-sanctions-fertilisers",
@@ -428,26 +444,6 @@
       "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-17T12:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Operating a spaceport: rules and regulations",
-      "summary": "Regulations you must comply with when operating a spaceport.",
-      "link": "https://www.gov.uk/guidance/operating-a-spaceport-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T11:38:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Launching or returning a rocket or space plane: rules and regulations",
-      "summary": "Regulations you must comply with when launching or returning a rocket or space plane.",
-      "link": "https://www.gov.uk/guidance/launching-or-returning-a-rocket-or-space-plane-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T11:38:49+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

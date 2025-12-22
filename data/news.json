@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T12:41:49.896123Z",
+  "generated_at": "2025-12-22T18:30:53.642400Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,74 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK-Ireland Contact Group on Radiological Matters, Winter 2025: communiqué",
+      "summary": "This communiqué summarises the meeting of the UK-Ireland Contact Group on Radiological Matters which took place on 20 November 2025.",
+      "link": "https://www.gov.uk/government/publications/uk-ireland-contact-group-on-radiological-matters-winter-2025-communique",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T14:57:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: workforce management information, November 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T14:52:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Boom lifts and baubles: keeping Britain’s festive spirit aloft",
+      "summary": "UK launches anti-dumping and anti-subsidy investigation into imported boom lifts to defend British manufacturers.",
+      "link": "https://www.gov.uk/government/news/boom-lifts-and-baubles-keeping-britains-festive-spirit-aloft",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-22T13:59:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on optical fibre cables from China",
+      "summary": "Application of a definitive anti-subsidy measure on Optical Fibre Cables from the People’s Republic of China under the Taxation (Cross-border Trade) Act 2018.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-optical-fibre-cables-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-22T13:45:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duties on optical fibre cables from China",
+      "summary": "Application of a definitive anti-dumping measure on optical fibre cables from the People’s Republic of China under the Taxation (Cross-border Trade) Act 2018.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duties-on-optical-fibre-cables-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-22T13:44:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
+      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-22T13:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Transparency data: DBT: workforce management information November 2025",
       "summary": "Reports on departmental staff numbers and costs.",
@@ -355,26 +423,6 @@
       "ai_tags": []
     },
     {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: General trade licence Russia sanctions – fertilisers",
       "summary": "Licence relating to the provision of certain financial services to a person connected with Russia for the supply or delivery of fertiliser goods.",
       "link": "https://www.gov.uk/government/publications/general-trade-licence-russia-sanctions-fertilisers",
@@ -402,48 +450,6 @@
       "link": "https://www.gov.uk/government/publications/recognition-of-uk-professional-qualifications-in-eu-member-states",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "New laws bring the world of work into the 21st century",
-      "summary": "Over 15 million people across the UK are expected to benefit as the Employment Rights Act receives Royal Assent.",
-      "link": "https://www.gov.uk/government/news/new-lawsbringthe-world-of-work-into-the-21stcentury",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Operating an orbital space object: rules and regulations",
-      "summary": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
-      "link": "https://www.gov.uk/guidance/operating-an-orbital-space-object-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T15:33:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Unlocking business: reform driven by you",
-      "summary": "This questionnaire asks businesses large and small to tell government about regulation which is not fit for purpose and unjustifiably inhibits growth, innovation and investment.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/unlocking-business-reform-driven-by-you",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T15:16:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report",
-      "summary": "This page sets out the government’s progress on the Grenfell Tower Inquiry’s Phase 2 recommendations and updates on Phase 1 recommendations.",
-      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-17T12:00:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

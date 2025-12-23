@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T06:33:40.810006Z",
+  "generated_at": "2025-12-23T12:42:09.853712Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,105 @@
   "count": 40,
   "items": [
     {
+      "title": "Transparency data: DBT non-consolidated performance related pay 2024 to 2025",
+      "summary": "Information on non-consolidated performance related pay at the Department for Business and Trade (DBT) and its agencies.",
+      "link": "https://www.gov.uk/government/publications/dbt-non-consolidated-performance-related-pay-2024-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T12:14:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT non-consolidated performance related pay 2023 to 2024",
+      "summary": "Information on non-consolidated performance related pay at the Department for Business and Trade (DBT) and its agencies.",
+      "link": "https://www.gov.uk/government/publications/dbt-non-consolidated-performance-related-pay-2023-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T12:13:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals: proving your identity",
+      "summary": "Guidance on how to prove your identity and the relevant ID verification checks needed as part of the Horizon Shortfall Scheme Appeals process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-proving-your-identity",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T11:37:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Get support from the Information and Support Service",
+      "summary": "The Information and Support Service can support those who do not have legal representation and are applying to redress schemes relating to the Horizon scandal.",
+      "link": "https://www.gov.uk/guidance/get-support-from-the-information-and-support-service",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T11:13:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "How to apply to the Horizon Shortfall Scheme Appeals (HSSA) process",
+      "summary": "Guidance for postmasters and their representatives on the Horizon Shortfall Scheme Appeals (HSSA) process.",
+      "link": "https://www.gov.uk/guidance/how-to-apply-to-the-horizon-shortfall-scheme-appeals-hssa-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T11:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T11:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Horizon Shortfall Scheme Appeals (HSSA): registration form",
+      "summary": "Registration form postmasters’ representatives must complete to begin the Horizon Shortfall Scheme Appeals (HSSA) process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-registration-form",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T11:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-23T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Pension boost for mineworkers lands before Christmas",
       "summary": "Almost 40,000 former mineworkers across the UK receive first pension increase.",
       "link": "https://www.gov.uk/government/news/pension-boost-for-mineworkers-lands-before-christmas",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-23T00:01:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Inheritance tax reliefs threshold to rise to £2.5m for farmers and businesses",
+      "summary": "£1m Agricultural and Business Property Reliefs threshold increased to £2.5m from April 2026 – allowing spouses or civil partners to pass on up to £5m in qualifying agricultural or business assets between them",
+      "link": "https://www.gov.uk/government/news/inheritance-tax-reliefs-threshold-to-rise-to-25m-for-farmers-and-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-23T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -152,6 +246,16 @@
       "link": "https://www.gov.uk/guidance/clean-heat-market-mechanism-fossil-fuel-boiler-sales-targets-and-credits",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-22T09:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Hornsea Three Offshore Wind Farm: application for a safety zone, Energy Act 2004",
+      "summary": "Decision by the Secretary of State pursuant to section 95 of the Energy Act 2004, on an application for the establishment of a safety zone.",
+      "link": "https://www.gov.uk/government/publications/hornsea-three-offshore-wind-farm-application-for-a-safety-zone-energy-act-2004",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-22T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -331,125 +435,11 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: Reasonable steps to be taken by a trade union: code of practice",
-      "summary": "Guidance for trade unions on “reasonable steps” in relation to minimum service levels.",
-      "link": "https://www.gov.uk/government/publications/reasonable-steps-to-be-taken-by-a-trade-union-code-of-practice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T14:05:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Correspondence: Long duration electricity storage: open letter to industry",
       "summary": "Open letter from the Minister for Energy, Michael Shanks, explaining how the government is supporting long duration electricity storage.",
       "link": "https://www.gov.uk/government/publications/long-duration-electricity-storage-open-letter-to-industry",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-18T13:45:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: National Policy Statement for nuclear energy generation (EN-7)",
-      "summary": "Government policy on the need for and standards applicable to nuclear energy generation projects seeking development consent.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statement-for-nuclear-energy-generation-en-7",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T13:24:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on aluminium foil from China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on aluminium foil from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-aluminium-foil-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T11:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: UK-Republic of Korea upgraded Free Trade Agreement: technical note",
-      "summary": "This technical note sets out the Department for Business and Trade’s (DBT) headline results of the economic impact of the upgraded UK-Republic of Korea (RoK) Free Trade Agreement (FTA).",
-      "link": "https://www.gov.uk/government/publications/uk-republic-of-korea-upgraded-free-trade-agreement-technical-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T10:37:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: Interministerial Group for Trade communiqué: 2 June 2025",
-      "summary": "A note of the meeting held by the Interministerial Group for Trade.",
-      "link": "https://www.gov.uk/government/publications/interministerial-group-for-trade-communique-2-june-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T10:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2025/34: update to general trade licence Russia sanctions – fertilisers",
-      "summary": "The Export Control Joint Unit (ECJU) has updated the general trade licence Russia sanctions – financial services and funds related to fertilisers.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202534-update-to-general-trade-licence-russia-sanctions-fertilisers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T09:57:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Justification of Practices Involving Ionising Radiation application register",
-      "summary": "Applications and decisions made under Regulations 9, 10 and 12 of the Justification of Practices involving Ionising Radiation Regulations (JoPIIRR) 2004.",
-      "link": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:33:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: General trade licence Russia sanctions – fertilisers",
-      "summary": "Licence relating to the provision of certain financial services to a person connected with Russia for the supply or delivery of fertiliser goods.",
-      "link": "https://www.gov.uk/government/publications/general-trade-licence-russia-sanctions-fertilisers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T08:50:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Recognition of UK professional qualifications in EU member states",
-      "summary": "Information to help you identify recognition routes available for UK professional qualifications in European Union (EU) member states.",
-      "link": "https://www.gov.uk/government/publications/recognition-of-uk-professional-qualifications-in-eu-member-states",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-18T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

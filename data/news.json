@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T18:30:53.642400Z",
+  "generated_at": "2025-12-23T01:26:23.143402Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Pension boost for mineworkers lands before Christmas",
+      "summary": "Almost 40,000 former mineworkers across the UK receive first pension increase.",
+      "link": "https://www.gov.uk/government/news/pension-boost-for-mineworkers-lands-before-christmas",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-23T00:01:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: UK-Ireland Contact Group on Radiological Matters, Winter 2025: communiqué",
       "summary": "This communiqué summarises the meeting of the UK-Ireland Contact Group on Radiological Matters which took place on 20 November 2025.",
@@ -408,16 +418,6 @@
       "link": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2025-12-18T09:33:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: AI Energy Council meetings minutes",
-      "summary": "Minutes of the meetings for the AI Energy Council.",
-      "link": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-18T09:33:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

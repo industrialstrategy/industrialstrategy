@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T06:34:44.347093Z",
+  "generated_at": "2025-12-29T12:42:53.422809Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2025-12-29T11:11:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Enforcement Policy Statement – Employment Agency Standards (EAS) Inspectorate",
+      "summary": "The general regulatory principles of the EAS Inspectorate.",
+      "link": "https://www.gov.uk/government/publications/enforcement-policy-statement-employment-agency-standards-eas-inspectorate",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-29T10:38:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Decision: UK-Japan CEPA documents",
       "summary": "Decisions, documents and meeting minutes from the UK-Japan Comprehensive Economic Partnership Agreement (CEPA).",
@@ -353,16 +373,6 @@
       ]
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-19T14:48:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: Hydrogen production business model",
       "summary": "Updates on the hydrogen production business model, including the Low Carbon Hydrogen Agreement.",
       "link": "https://www.gov.uk/government/publications/hydrogen-production-business-model",
@@ -392,18 +402,6 @@
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-19T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-19T09:30:03+00:00",
       "matched": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T18:30:49.387631Z",
+  "generated_at": "2025-12-30T01:26:24.269424Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: New Year Honours 2026: Department for Business and Trade",
+      "summary": "Recipients on the New Year 2026 Honours List sponsored by the Department for Business and Trade (DBT).",
+      "link": "https://www.gov.uk/government/publications/new-year-honours-2026-department-for-business-and-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2025-12-29T22:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -396,18 +408,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-19T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {

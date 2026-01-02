@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T06:33:46.853188Z",
+  "generated_at": "2026-01-02T12:40:26.355711Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Switzerland: providing services and travelling for business",
+      "summary": "Guidance for UK businesses on rules for selling services to Switzerland.",
+      "link": "https://www.gov.uk/guidance/switzerland-providing-services-after-eu-exit",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-02T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: Horizon redress schemes: progress reports for 2025",
       "summary": "Reports on how redress in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA) process are progressing.",
@@ -288,18 +298,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Manufacturing"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: countervailing duty on optical fibre cables from China",
-      "summary": "Application of a definitive anti-subsidy measure on Optical Fibre Cables from the People’s Republic of China under the Taxation (Cross-border Trade) Act 2018.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-optical-fibre-cables-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-22T13:45:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {

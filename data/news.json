@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T06:38:47.636878Z",
+  "generated_at": "2026-01-05T12:44:37.664620Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Warm Homes: Local Grant: privacy notice for end-users (householders, landlords and installers)",
+      "summary": "How we will use your personal data provided to us by local authorities and delivery partners under the Warm Homes: Local Grant, and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-privacy-notice-for-end-users-householders-landlords-and-installers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-05T11:36:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
+      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
+      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-05T10:40:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Switzerland: providing services and travelling for business",
       "summary": "Guidance for UK businesses on rules for selling services to Switzerland.",
@@ -415,26 +437,6 @@
       "ai_tags": [
         "Innovation"
       ]
-    },
-    {
-      "title": "Decision: Norfolk Boreas: Non-Material Change, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application for a non-material change to an offshore wind farm project.",
-      "link": "https://www.gov.uk/government/publications/norfolk-boreas-non-material-change-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-19T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Norfolk Vanguard: Non-Material Change, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application for a non-material change to an offshore wind farm project.",
-      "link": "https://www.gov.uk/government/publications/norfolk-vanguard-non-material-change-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2025-12-19T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

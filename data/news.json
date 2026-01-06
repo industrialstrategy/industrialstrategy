@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-06T06:34:03.429054Z",
+  "generated_at": "2026-01-06T12:43:12.308474Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,21 +19,31 @@
   "count": 40,
   "items": [
     {
-      "title": "Statutory guidance: People with significant control: LLP statutory guidance 2026",
-      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for limited liability partnerships (LLPs).",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-llp-statutory-guidance-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-05T16:57:30+00:00",
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T09:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: People with significant control: company statutory guidance 2026",
-      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for companies.",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-company-statutory-guidance-2026",
+      "title": "Enforcing the minimum wage",
+      "summary": "The minimum wage can be enforced by HM Revenue and Customs (HMRC) compliance officers or by a worker making a claim in an employment tribunal or court.",
+      "link": "https://www.gov.uk/guidance/calculating-the-minimum-wage/enforcing-the-minimum-wage",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-05T16:57:17+00:00",
+      "published": "2026-01-06T09:21:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Calculating the minimum wage",
+      "summary": "Guidance on calculating the minimum wage, to help employers meet National Minimum Wage legislation.",
+      "link": "https://www.gov.uk/guidance/calculating-the-minimum-wage",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-06T09:21:13+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -271,21 +281,31 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 2",
-      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Standard voluntary code of conduct: executive search firms",
       "summary": "The voluntary code of conduct for executive search firms lays out steps for search firms to follow across the search process.",
       "link": "https://www.gov.uk/government/publications/standard-voluntary-code-of-conduct-executive-search-firms",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-05T14:04:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: People with significant control: LLP statutory guidance 2026",
+      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for limited liability partnerships (LLPs).",
+      "link": "https://www.gov.uk/government/publications/people-with-significant-control-llp-statutory-guidance-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-05T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: People with significant control: company statutory guidance 2026",
+      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for companies.",
+      "link": "https://www.gov.uk/government/publications/people-with-significant-control-company-statutory-guidance-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-05T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -405,30 +425,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT non-consolidated performance related pay 2024 to 2025",
-      "summary": "Information on non-consolidated performance related pay at the Department for Business and Trade (DBT) and its agencies.",
-      "link": "https://www.gov.uk/government/publications/dbt-non-consolidated-performance-related-pay-2024-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-23T12:14:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT non-consolidated performance related pay 2023 to 2024",
-      "summary": "Information on non-consolidated performance related pay at the Department for Business and Trade (DBT) and its agencies.",
-      "link": "https://www.gov.uk/government/publications/dbt-non-consolidated-performance-related-pay-2023-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-23T12:13:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

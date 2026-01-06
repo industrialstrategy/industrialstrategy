@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-06T12:43:12.308474Z",
+  "generated_at": "2026-01-06T18:31:23.671737Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Impact assessment: National Policy Statements for energy: habitats regulations assessments",
+      "summary": "A habitats regulations assessment is required for proposed plans or projects likely to have a significant effect on international sites of scientific interest.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-habitats-regulations-assessment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T14:01:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Impact assessment: National Policy Statements for energy: appraisal of sustainability",
+      "summary": "The likely significant sustainability effects of developing new energy infrastructure of the types covered by the National Policy Statements for energy.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-appraisal-of-sustainability",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T14:00:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: National Policy Statement for electricity networks infrastructure (EN-5), 2025",
+      "summary": "Planning guidance for developers of nationally significant electricity network infrastructure projects.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statement-for-electricity-networks-infrastructure-en-5-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T14:00:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: National Policy Statement for renewable energy infrastructure (EN-3), 2025",
+      "summary": "Planning guidance for developers of nationally significant renewable energy infrastructure projects.",
+      "link": "https://www.gov.uk/government/publications/national-policy-statement-for-renewable-energy-infrastructure-en-3-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T14:00:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Overarching National Policy Statement for energy (EN-1), 2025",
+      "summary": "Planning guidance for developers of nationally significant energy infrastructure projects.",
+      "link": "https://www.gov.uk/government/publications/overarching-national-policy-statement-for-energy-en-1-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T14:00:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK gas",
+      "summary": "Data on the UK's gas sector, including production, trade and demand.",
+      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-06T13:50:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
@@ -216,66 +278,6 @@
       "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-assessment-procedures-for-milestone-3b",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-05T15:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft assessment procedures for Milestone 3A",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-assessment-procedures-for-milestone-3a",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Heat networks regulation: technical standards",
-      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft assessment procedures for Milestone 4",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-assessment-procedures-for-milestone-4",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 4",
-      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-4",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 3B",
-      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-3b",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 3A",
-      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-3a",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-07T12:43:57.758975Z",
+  "generated_at": "2026-01-07T18:32:34.325506Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,100 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the United Arab Emirates",
+      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the UAE.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-provisional-anti-dumping-duty-on-certain-engine-oils-and-hydraulic-fluids-from-lithuania-and-the-united-arab-emirates-uae",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T16:24:18+00:00",
+      "matched": [
+        "IRA"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Start a new job: step by step",
+      "summary": "What to do when starting a job: checks your employer may do, employment contracts, what to do with your P45 or starter checklist.",
+      "link": "https://www.gov.uk/start-a-job",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T16:21:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
+      "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
+      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-appointment-letters-for-senior-responsible-owners-sros",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-07T15:40:45+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Notice: Direct Air Capture and Greenhouse Gas Removal Innovation Programme: selected projects",
+      "summary": "This competition provides funding for developing technologies that enable the removal of greenhouse gases from the atmosphere in the UK.",
+      "link": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-07T15:05:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
+      "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
+      "link": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-07T15:05:03+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Employment Rights Act 2025: impact assessments",
+      "summary": "Impact assessments and analytical documents relating to the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/guidance/employment-rights-bill-impact-assessments",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T14:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Promotional material: Employment Rights Bill: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Bill.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T14:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Assessing the legal and economic implications of the Employment Rights Act 2025",
+      "summary": "This paper sets out the legal and economic implications of the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/assessing-the-legal-and-economic-implications-of-the-employment-rights-act-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T14:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Training on export control compliance",
       "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
@@ -235,26 +329,6 @@
       "ai_tags": []
     },
     {
-      "title": "Managing your organisation",
-      "summary": "How to manage your organisation.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/managing-your-organisation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Overview",
-      "summary": "About Fuel Finder, who needs to use it and what you need to do.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Capture financial redress data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Capture software.",
       "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2025",
@@ -290,16 +364,6 @@
       "link": "https://www.gov.uk/government/consultations/draft-technology-transfer-agreements-block-exemption-order",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-05T16:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft assessment procedures for Milestone 3B",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-assessment-procedures-for-milestone-3b",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T15:00:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -375,60 +439,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Business payment practices and performance: directors' reporting requirements",
-      "summary": "Guidance on the statutory requirement for companies to include payment data headline statistics in their directors’ reports.",
-      "link": "https://www.gov.uk/government/publications/business-payment-practices-and-performance-directors-reporting-requirements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-30T13:20:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: Masterclass, Fundraising in Africa",
-      "summary": "A practical 4‑step guide to help African founders, especially women, plan capital needs, choose the right financing and engage investors to raise funds effectively.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-masterclass-fundraising-in-africa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-30T12:01:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Fourth edition of the annual dialogue between the Department for Business and Trade and the Direction générale des Entreprises",
-      "summary": "The UK hosted the fourth edition of the annual dialogue between the UK Department for Business and Trade and the French Direction générale des Entreprises.",
-      "link": "https://www.gov.uk/government/news/fourth-edition-of-the-annual-dialogue-between-the-department-for-business-and-trade-and-the-direction-generale-des-entreprises",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-30T11:37:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: New Year Honours 2026: Department for Business and Trade",
-      "summary": "Recipients on the New Year 2026 Honours List sponsored by the Department for Business and Trade (DBT).",
-      "link": "https://www.gov.uk/government/publications/new-year-honours-2026-department-for-business-and-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-29T22:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Corporate report: Enforcement Policy Statement – Employment Agency Standards (EAS) Inspectorate",
-      "summary": "The general regulatory principles of the EAS Inspectorate.",
-      "link": "https://www.gov.uk/government/publications/enforcement-policy-statement-employment-agency-standards-eas-inspectorate",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-29T10:38:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

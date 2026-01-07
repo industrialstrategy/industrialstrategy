@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-07T06:33:34.663292Z",
+  "generated_at": "2026-01-07T12:43:57.758975Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Training on export control compliance",
+      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
+      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T10:36:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Growth Gateway: Women economic empowerment in Africa, fund enablement, key learnings",
+      "summary": "Gender-lens investing in Africa needs change from investors, startup ecosystem actors, and venture capital (VC) partners to close a gap where women-led businesses receive less than 2% of VC funding.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-women-economic-empowerment-in-africa-fund-enablement-key-learnings",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-07T09:57:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Impact assessment: National Policy Statements for energy: habitats regulations assessments",
       "summary": "A habitats regulations assessment is required for proposed plans or projects likely to have a significant effect on international sites of scientific interest.",
@@ -404,26 +426,6 @@
       "link": "https://www.gov.uk/government/publications/enforcement-policy-statement-employment-agency-standards-eas-inspectorate",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2025-12-29T10:38:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: UK-Japan CEPA documents",
-      "summary": "Decisions, documents and meeting minutes from the UK-Japan Comprehensive Economic Partnership Agreement (CEPA).",
-      "link": "https://www.gov.uk/government/publications/uk-japan-cepa-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-23T16:02:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK support to Ukraine: factsheet",
-      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
-      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-23T14:04:16+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

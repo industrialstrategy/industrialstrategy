@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T12:43:47.827554Z",
+  "generated_at": "2026-01-08T18:28:49.290496Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,42 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Heat Pump Ready Programme: successful projects",
+      "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-08T16:43:54+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Innovation",
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
+      "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-08T16:20:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-08T13:31:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Trade union law: transition to Employment Rights Act 2025",
       "summary": "Transitional and saving arrangements for the trade union measures of the Employment Rights Act 2025 coming into force on 18 February 2026: for employers, unions and workers.",
@@ -329,28 +365,6 @@
       "ai_tags": []
     },
     {
-      "title": "Registering your forecourts",
-      "summary": "How to register and manage your forecourts.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/registering-your-forecourts",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "How to report your fuel prices and forecourt details",
-      "summary": "Guidance for Motor Fuel Traders (MFTs) explaining how to update fuel prices and manage details of forecourts using Fuel Finder.",
-      "link": "https://www.gov.uk/guidance/fuel-finder",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Transparency data: Post Office Capture financial redress data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Capture software.",
       "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2025",
@@ -426,16 +440,6 @@
       "link": "https://www.gov.uk/guidance/switzerland-providing-services-after-eu-exit",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-02T09:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Horizon redress schemes: progress reports for 2025",
-      "summary": "Reports on how redress in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA) process are progressing.",
-      "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-reports-for-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-31T11:27:15+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

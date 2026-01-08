@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T06:34:17.348639Z",
+  "generated_at": "2026-01-08T12:43:47.827554Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Trade union law: transition to Employment Rights Act 2025",
+      "summary": "Transitional and saving arrangements for the trade union measures of the Employment Rights Act 2025 coming into force on 18 February 2026: for employers, unions and workers.",
+      "link": "https://www.gov.uk/guidance/trade-union-law-transition-to-employment-rights-act-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-08T11:33:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Orkney Transmission Link project: contingent liability",
+      "summary": "Proposal for a capped contingent liability regarding a policy indemnity to Scottish and Southern Electricity Networks Transmission (SSENT) for the Orkney Transmission Link project.",
+      "link": "https://www.gov.uk/government/publications/orkney-transmission-link-project-contingent-liability",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-08T11:14:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: East Anglia THREE Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application by East Anglia THREE Limited under the Planning Act 2008.",
+      "link": "https://www.gov.uk/government/publications/east-anglia-three-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-08T09:58:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK Sustainability Reporting Standards",
+      "summary": "Information on the UK government’s framework to create UK Sustainability Reporting Standards (UK SRS) by assessing and endorsing the global corporate reporting baseline of IFRS Sustainability Disclosure Standards.",
+      "link": "https://www.gov.uk/guidance/uk-sustainability-reporting-standards",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-08T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-08T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
+      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-08T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the United Arab Emirates",
       "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the UAE.",
@@ -289,46 +351,6 @@
       ]
     },
     {
-      "title": "Types of account",
-      "summary": "The different types of user accounts in Fuel Finder.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/types-of-account",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Reporting your fuel prices",
-      "summary": "How to report fuel prices.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/reporting-your-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "If you fail to report",
-      "summary": "What happens if you fail to meet your legal obligations.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/if-you-fail-to-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "If you're unable to report changes",
-      "summary": "What to do if you're unable to update fuel prices or forecourt details due to a technical failure.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/if-you-re-unable-to-report-changes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Capture financial redress data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Capture software.",
       "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2025",
@@ -417,28 +439,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: GLO compensation scheme: progress reports for 2024",
-      "summary": "Reports on how claims to Group Litigation Order (GLO) scheme are progressing.",
-      "link": "https://www.gov.uk/government/publications/glo-compensation-scheme-progress-reports-for-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-31T11:27:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: tariff-rate quotas on steel goods",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the tariff-rate quotas on steel goods.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-tariff-rate-quotas-on-steel-goods",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2025-12-31T11:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

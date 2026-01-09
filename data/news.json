@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T06:33:42.921421Z",
+  "generated_at": "2026-01-09T12:42:44.397809Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Contributing to the IPCC",
+      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-09T11:44:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: IPCC Methodology Report on Inventories for Short-lived Climate Forcers: expert review",
+      "summary": "The Intergovernmental Panel on Climate Change (IPCC) has announced an expert review of its 'Methodology Report on Inventories for Short-lived Climate Forcers'.",
+      "link": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-expert-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-09T11:44:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Backing your business: our plan for small and medium-sized businesses",
+      "summary": "Strategy setting out a long-term plan for government support for small and medium-sized businesses.",
+      "link": "https://www.gov.uk/government/publications/backing-your-business-our-plan-for-small-and-medium-sized-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-09T11:08:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate Power Purchase Agreements",
+      "summary": "This call for evidence seeks views on how to improve the GB Corporate Power Purchase Agreement market.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/corporate-power-purchase-agreements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-09T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate Power Purchase Agreements",
+      "summary": "This call for evidence seeks views on how to improve the GB Corporate Power Purchase Agreement market.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/corporate-power-purchase-agreements",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-09T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Heat Pump Ready Programme: successful projects",
       "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
@@ -335,36 +385,6 @@
       "ai_tags": []
     },
     {
-      "title": "Report your fuel prices and forecourt details",
-      "summary": "Use the Fuel Finder service to report fuel prices and manage details for your forecourts.",
-      "link": "https://www.gov.uk/guidance/report-your-fuel-prices-and-forecourt-details",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Help and support",
-      "summary": "Contact the Fuel Finder Team.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/help-and-support",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Signing up",
-      "summary": "How to sign up with Fuel Finder.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/signing-up",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:27:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Capture financial redress data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Capture software.",
       "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2025",
@@ -420,26 +440,6 @@
       "link": "https://www.gov.uk/government/publications/people-with-significant-control-llp-statutory-guidance-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-05T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: People with significant control: company statutory guidance 2026",
-      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for companies.",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-company-statutory-guidance-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-05T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Switzerland: providing services and travelling for business",
-      "summary": "Guidance for UK businesses on rules for selling services to Switzerland.",
-      "link": "https://www.gov.uk/guidance/switzerland-providing-services-after-eu-exit",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-02T09:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

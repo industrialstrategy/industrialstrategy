@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T06:36:36.168371Z",
+  "generated_at": "2026-01-12T12:44:48.595858Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
+      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-12T11:44:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-12T10:50:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-12T10:49:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-12T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Climate transition and global financial stability: literature review",
+      "summary": "A review of the current literature and evidence on the impact of climate risk on global financial stability, particularly in Emerging Market and Developing Economies.",
+      "link": "https://www.gov.uk/government/publications/climate-transition-and-global-financial-stability-literature-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-12T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Stronger parental leave rights to give millions of working families the “security they deserve”",
       "summary": "New day one rights to parental leave set to enter force from April.",
@@ -305,16 +355,6 @@
       "ai_tags": []
     },
     {
-      "title": "Promotional material: Employment Rights Bill: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Bill.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T14:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: Assessing the legal and economic implications of the Employment Rights Act 2025",
       "summary": "This paper sets out the legal and economic implications of the Employment Rights Act 2025.",
       "link": "https://www.gov.uk/government/publications/assessing-the-legal-and-economic-implications-of-the-employment-rights-act-2025",
@@ -397,53 +437,11 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T13:50:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Enforcing the minimum wage",
       "summary": "The minimum wage can be enforced by HM Revenue and Customs (HMRC) compliance officers or by a worker making a claim in an employment tribunal or court.",
       "link": "https://www.gov.uk/guidance/calculating-the-minimum-wage/enforcing-the-minimum-wage",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-06T09:21:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Calculating the minimum wage",
-      "summary": "Guidance on calculating the minimum wage, to help employers meet National Minimum Wage legislation.",
-      "link": "https://www.gov.uk/guidance/calculating-the-minimum-wage",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-06T09:21:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Fuel Finder: privacy notice",
-      "summary": "How we will use your personal data and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/fuel-finder-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-05T16:30:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

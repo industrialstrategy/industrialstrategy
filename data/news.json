@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T12:44:48.595858Z",
+  "generated_at": "2026-01-12T18:33:05.203320Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,74 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-12T17:15:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Independent report: Impacts of minimum wages: review of the international evidence",
+      "summary": "An independent report on the impacts of minimum wages, to inform the UK government’s decisions on the remit of the Low Pay Commission beyond 2020.",
+      "link": "https://www.gov.uk/government/publications/impacts-of-minimum-wages-review-of-the-international-evidence",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-12T17:01:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
+      "summary": "Streamlined Routes (also known as Streamlined Subsidy Schemes) are a type of subsidy scheme made by the UK government for use by any UK public authority.",
+      "link": "https://www.gov.uk/government/publications/subsidy-control-act-2022-streamlined-routes",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-12T15:41:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-12T13:54:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ non-consolidated performance related pay, 2024 to 2025",
+      "summary": "Information on non-consolidated performance related pay data for the Department for Energy Security and Net Zero (DESNZ).",
+      "link": "https://www.gov.uk/government/publications/desnz-non-consolidated-performance-related-pay-2024-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-12T12:44:56+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ non-consolidated performance related pay, 2023 to 2024",
+      "summary": "Information on non-consolidated performance related pay data for the Department for Energy Security and Net Zero (DESNZ).",
+      "link": "https://www.gov.uk/government/publications/desnz-non-consolidated-performance-related-pay-2023-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-12T12:44:53+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
       "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
@@ -44,16 +112,6 @@
       "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-12T10:49:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Promotional material: Employment Rights Act 2025: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-12T09:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -377,16 +435,6 @@
       ]
     },
     {
-      "title": "Guidance: Growth Gateway: Women economic empowerment in Africa, fund enablement, key learnings",
-      "summary": "Gender-lens investing in Africa needs change from investors, startup ecosystem actors, and venture capital (VC) partners to close a gap where women-led businesses receive less than 2% of VC funding.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-women-economic-empowerment-in-africa-fund-enablement-key-learnings",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T09:57:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Impact assessment: National Policy Statements for energy: habitats regulations assessments",
       "summary": "A habitats regulations assessment is required for proposed plans or projects likely to have a significant effect on international sites of scientific interest.",
       "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-habitats-regulations-assessment",
@@ -402,46 +450,6 @@
       "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-appraisal-of-sustainability",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-06T14:00:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: National Policy Statement for electricity networks infrastructure (EN-5), 2025",
-      "summary": "Planning guidance for developers of nationally significant electricity network infrastructure projects.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statement-for-electricity-networks-infrastructure-en-5-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T14:00:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: National Policy Statement for renewable energy infrastructure (EN-3), 2025",
-      "summary": "Planning guidance for developers of nationally significant renewable energy infrastructure projects.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statement-for-renewable-energy-infrastructure-en-3-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T14:00:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Overarching National Policy Statement for energy (EN-1), 2025",
-      "summary": "Planning guidance for developers of nationally significant energy infrastructure projects.",
-      "link": "https://www.gov.uk/government/publications/overarching-national-policy-statement-for-energy-en-1-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T14:00:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Enforcing the minimum wage",
-      "summary": "The minimum wage can be enforced by HM Revenue and Customs (HMRC) compliance officers or by a worker making a claim in an employment tribunal or court.",
-      "link": "https://www.gov.uk/guidance/calculating-the-minimum-wage/enforcing-the-minimum-wage",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-06T09:21:13+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

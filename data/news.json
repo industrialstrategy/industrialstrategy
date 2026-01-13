@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T06:33:48.475894Z",
+  "generated_at": "2026-01-13T12:44:48.920517Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-13T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: UK Emissions Trading Scheme: UK offshore installations – location codes",
+      "summary": "A list of UK offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
+      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-13T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
@@ -131,7 +153,7 @@
       "summary": "New day one rights to parental leave set to enter force from April.",
       "link": "https://www.gov.uk/government/news/stronger-parental-leave-rights-to-give-millions-of-working-families-the-security-they-deserve",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-11T22:30:05+00:00",
+      "published": "2026-01-11T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -433,26 +455,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Impact assessment: National Policy Statements for energy: habitats regulations assessments",
-      "summary": "A habitats regulations assessment is required for proposed plans or projects likely to have a significant effect on international sites of scientific interest.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-habitats-regulations-assessment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T14:01:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Impact assessment: National Policy Statements for energy: appraisal of sustainability",
-      "summary": "The likely significant sustainability effects of developing new energy infrastructure of the types covered by the National Policy Statements for energy.",
-      "link": "https://www.gov.uk/government/publications/national-policy-statements-for-energy-appraisal-of-sustainability",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-06T14:00:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

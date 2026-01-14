@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T06:33:38.355221Z",
+  "generated_at": "2026-01-14T12:43:45.726565Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,21 @@
   "count": 40,
   "items": [
     {
-      "title": "Business Secretary wants UK to go ‘toe to toe’ with America on growth",
-      "summary": "In a speech to top business leaders the Business Secretary will lay out how the Government’s Modern Industrial Strategy will double down on the UK’s world-leading strengths in 2026 and not only scale up businesses, but keep them anchored in the UK.",
-      "link": "https://www.gov.uk/government/news/business-secretary-wants-uk-to-go-toe-to-toe-with-america-on-growth",
+      "title": "Guidance: Agents for professional sports persons",
+      "summary": "Guidance to agents for professional sports persons to comply with the Employment Agencies Act 1973 (the act) and Conduct of Employment Agencies and Employment Businesses Regulations 2003 (the conduct regulations).",
+      "link": "https://www.gov.uk/government/publications/agents-for-professional-sports-persons",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T00:01:02+00:00",
+      "published": "2026-01-14T10:24:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Industrial Strategy quarterly update: October to December 2025",
+      "summary": "An update on delivery of commitments in the Industrial Strategy.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T10:00:00+00:00",
       "matched": [
         "industrial strategy"
       ],
@@ -31,6 +41,124 @@
       "ai_tags": [
         "Industrial strategy"
       ]
+    },
+    {
+      "title": "Research: Unabated gas: cost and technical assumptions",
+      "summary": "Cost assumptions for new unabated gas projects, as well as the costs of extending the life of existing unabated gas projects in Great Britain.",
+      "link": "https://www.gov.uk/government/publications/unabated-gas-cost-and-technical-assumptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:02:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Gas carbon capture plant capital expenditure benchmarking: methodology",
+      "summary": "An outline of the approach used to benchmark capital expenditure (CAPEX) for gas fired power plants with post combustion carbon capture and storage (CCS).",
+      "link": "https://www.gov.uk/government/publications/gas-carbon-capture-plant-capital-expenditure-benchmarking-methodology",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:02:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Offshore wind cost and technical assumptions: peer review",
+      "summary": "A peer review assessing and providing assurances regarding the robustness of the offshore wind research conducted by Arup.",
+      "link": "https://www.gov.uk/government/publications/offshore-wind-cost-and-technical-assumptions-peer-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:01:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Offshore wind: cost and technical assumptions",
+      "summary": "This report provides an update to information on renewable energy generation costs and technical assumptions for offshore wind.",
+      "link": "https://www.gov.uk/government/publications/offshore-wind-cost-and-technical-assumptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:01:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Hydrogen to power: cost and technical assumptions",
+      "summary": "This report provides an update to information on cost and barriers for hydrogen to power.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-to-power-cost-and-technical-assumptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:00:57+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Research: Electricity generation costs 2025",
+      "summary": "Report on levelised cost estimates for electricity generation technologies, detailing methodology, data and assumptions.",
+      "link": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:00:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 7: results",
+      "summary": "Outcome of Contracts for Difference (CfD) Allocation Round 7 which commenced on 24 July 2025.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-results",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:00:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 7: statutory notices",
+      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 7.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-statutory-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T07:00:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: December 2025",
+      "summary": "Statistics and analysis on the construction sector for December 2025.",
+      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Business Secretary wants UK to go ‘toe to toe’ with America on growth",
+      "summary": "In a speech to top business leaders the Business Secretary will lay out how the Government’s Modern Industrial Strategy will double down on the UK’s world-leading strengths in 2026 and not only scale up businesses, but keep them anchored in the UK.",
+      "link": "https://www.gov.uk/government/news/business-secretary-wants-uk-to-go-toe-to-toe-with-america-on-growth",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T00:00:00+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy",
+      "summary": "A record 8.4GW of offshore wind secured in Europe’s biggest ever offshore wind auction.",
+      "link": "https://www.gov.uk/government/news/record-breaking-auction-for-offshore-wind-secured-to-take-back-control-of-britains-energy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
@@ -277,37 +405,11 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Heat Pump Ready Programme: successful projects",
-      "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-08T16:43:54+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Innovation",
-        "Net zero"
-      ]
-    },
-    {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-08T16:20:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
-      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-08T13:31:09+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -325,50 +427,10 @@
       ]
     },
     {
-      "title": "Policy paper: Orkney Transmission Link project: contingent liability",
-      "summary": "Proposal for a capped contingent liability regarding a policy indemnity to Scottish and Southern Electricity Networks Transmission (SSENT) for the Orkney Transmission Link project.",
-      "link": "https://www.gov.uk/government/publications/orkney-transmission-link-project-contingent-liability",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-08T11:14:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: East Anglia THREE Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application by East Anglia THREE Limited under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/east-anglia-three-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-08T09:58:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK Sustainability Reporting Standards",
       "summary": "Information on the UK government’s framework to create UK Sustainability Reporting Standards (UK SRS) by assessing and endorsing the global corporate reporting baseline of IFRS Sustainability Disclosure Standards.",
       "link": "https://www.gov.uk/guidance/uk-sustainability-reporting-standards",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-08T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-08T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
-      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-08T09:30:01+00:00",
       "matched": [],
       "ai_summary": "",
@@ -387,76 +449,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Start a new job: step by step",
-      "summary": "What to do when starting a job: checks your employer may do, employment contracts, what to do with your P45 or starter checklist.",
-      "link": "https://www.gov.uk/start-a-job",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T16:21:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
-      "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
-      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-appointment-letters-for-senior-responsible-owners-sros",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-07T15:40:45+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Notice: Direct Air Capture and Greenhouse Gas Removal Innovation Programme: selected projects",
-      "summary": "This competition provides funding for developing technologies that enable the removal of greenhouse gases from the atmosphere in the UK.",
-      "link": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-07T15:05:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
-      "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
-      "link": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-07T15:05:03+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Employment Rights Act 2025: impact assessments",
-      "summary": "Impact assessments and analytical documents relating to the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/guidance/employment-rights-bill-impact-assessments",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T14:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Assessing the legal and economic implications of the Employment Rights Act 2025",
-      "summary": "This paper sets out the legal and economic implications of the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/assessing-the-legal-and-economic-implications-of-the-employment-rights-act-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T14:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T12:43:45.726565Z",
+  "generated_at": "2026-01-14T18:34:02.693414Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,51 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Electricity licence exemptions",
+      "summary": "Electricity companies, under certain criteria, can be exempt from electricity generation, transmission, distribution or supply licences.",
+      "link": "https://www.gov.uk/guidance/electricity-licence-exemptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T16:47:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report",
+      "summary": "This page sets out the government’s progress on the Grenfell Tower Inquiry’s Phase 2 recommendations and updates on Phase 1 recommendations.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T16:24:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report translations",
+      "summary": "Translations of the December 2025 Grenfell Tower Inquiry Government Progress Report summary update.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report-translations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T16:23:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Ministerial letter on the Industrial Strategy Advisory Council",
+      "summary": "A letter from the Chancellor of the Exchequer and the Secretary of State for Business and Trade setting out the mandate of the Industrial Strategy Advisory Council.",
+      "link": "https://www.gov.uk/government/publications/ministerial-letter-on-the-industrial-strategy-advisory-council",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T13:46:25+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy",
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Agents for professional sports persons",
       "summary": "Guidance to agents for professional sports persons to comply with the Employment Agencies Act 1973 (the act) and Conduct of Employment Agencies and Employment Businesses Regulations 2003 (the conduct regulations).",
@@ -97,16 +142,6 @@
       ]
     },
     {
-      "title": "Research: Electricity generation costs 2025",
-      "summary": "Report on levelised cost estimates for electricity generation technologies, detailing methodology, data and assumptions.",
-      "link": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:00:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Contracts for Difference (CfD) Allocation Round 7: results",
       "summary": "Outcome of Contracts for Difference (CfD) Allocation Round 7 which commenced on 24 July 2025.",
       "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-results",
@@ -151,9 +186,33 @@
       ]
     },
     {
+      "title": "Business Secretary bolsters advisory council to grow UK industry",
+      "summary": "The Business Secretary has appointed three new business leaders to the Industrial Strategy Advisory Council.",
+      "link": "https://www.gov.uk/government/news/business-secretary-bolsters-advisory-council-to-grow-uk-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T00:00:00+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
       "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy",
       "summary": "A record 8.4GW of offshore wind secured in Europe’s biggest ever offshore wind auction.",
       "link": "https://www.gov.uk/government/news/record-breaking-auction-for-offshore-wind-secured-to-take-back-control-of-britains-energy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-14T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Electricity generation costs 2025",
+      "summary": "Report on levelised cost estimates for electricity generation technologies, detailing methodology, data and assumptions.",
+      "link": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-14T00:00:00+00:00",
       "matched": [],
@@ -393,62 +452,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Corporate Power Purchase Agreements",
-      "summary": "This call for evidence seeks views on how to improve the GB Corporate Power Purchase Agreement market.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/corporate-power-purchase-agreements",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-09T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
-      "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-08T16:20:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Trade union law: transition to Employment Rights Act 2025",
-      "summary": "Transitional and saving arrangements for the trade union measures of the Employment Rights Act 2025 coming into force on 18 February 2026: for employers, unions and workers.",
-      "link": "https://www.gov.uk/guidance/trade-union-law-transition-to-employment-rights-act-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-08T11:33:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "UK Sustainability Reporting Standards",
-      "summary": "Information on the UK government’s framework to create UK Sustainability Reporting Standards (UK SRS) by assessing and endorsing the global corporate reporting baseline of IFRS Sustainability Disclosure Standards.",
-      "link": "https://www.gov.uk/guidance/uk-sustainability-reporting-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-08T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the United Arab Emirates",
-      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain engine oils and hydraulic fluids originating from Lithuania and the UAE.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-provisional-anti-dumping-duty-on-certain-engine-oils-and-hydraulic-fluids-from-lithuania-and-the-united-arab-emirates-uae",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T16:24:18+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

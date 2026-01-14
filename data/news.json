@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T18:32:38.532342Z",
+  "generated_at": "2026-01-14T01:31:03.314069Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Business Secretary wants UK to go ‘toe to toe’ with America on growth",
+      "summary": "In a speech to top business leaders the Business Secretary will lay out how the Government’s Modern Industrial Strategy will double down on the UK’s world-leading strengths in 2026 and not only scale up businesses, but keep them anchored in the UK.",
+      "link": "https://www.gov.uk/government/news/business-secretary-wants-uk-to-go-toe-to-toe-with-america-on-growth",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-14T00:01:02+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
     {
       "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
       "summary": "Streamlined Routes (also known as Streamlined Subsidy Schemes) are a type of subsidy scheme made by the UK government for use by any UK public authority.",
@@ -443,18 +457,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Training on export control compliance",
-      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
-      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-07T10:36:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

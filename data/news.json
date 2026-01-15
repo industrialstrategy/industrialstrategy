@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T12:43:49.418181Z",
+  "generated_at": "2026-01-15T18:36:47.370978Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,32 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Record renewables auction supports 7,000 jobs and £3bn investment",
+      "summary": "Workers across Britain will benefit from billions of pounds of private sector investment in ports and supply chains.",
+      "link": "https://www.gov.uk/government/news/record-renewables-auction-supports-7000-jobs-and-3bn-investment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-15T13:57:47+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Guidance: Training on export control compliance",
+      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
+      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-15T13:44:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Research: Retained EU law and assimilated law dashboard",
       "summary": "This dashboard shows a list of retained EU law (REUL) and assimilated law. These are laws that the UK saved to ensure legislative continuity immediately after Brexit.",
@@ -282,16 +308,6 @@
       ]
     },
     {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 7: results",
-      "summary": "Outcome of Contracts for Difference (CfD) Allocation Round 7 which commenced on 24 July 2025.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-results",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:00:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Contracts for Difference (CfD) Allocation Round 7: statutory notices",
       "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 7.",
       "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-statutory-notices",
@@ -430,18 +446,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Picketing: draft revised code of practice",
-      "summary": "The revised code of practice on picketing provides practical guidance on picketing in trade disputes, updated following the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/picketing-draft-revised-code-of-practice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-09T16:44:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

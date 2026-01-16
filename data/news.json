@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:42:38.759657Z",
+  "generated_at": "2026-01-16T18:32:52.644687Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "UK marks first year of 100 Year Partnership in Kyiv for reform",
+      "summary": "The UK is stepping up its support for Ukraine as both countries mark the first anniversary of the landmark 100 Year Partnership.",
+      "link": "https://www.gov.uk/government/news/uk-marks-first-year-of-100-year-partnership-in-kyiv-for-reform",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-16T15:36:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Late payments: tackling poor payment practices",
+      "summary": "We are seeking views on legislative measures which address late, long and disputed business-to-business payments, and the use of retention clauses in construction contracts.",
+      "link": "https://www.gov.uk/government/consultations/late-payments-tackling-poor-payment-practices",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-16T13:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Corporate report: Independent Commission for Aid Impact's review of UK aid for international energy transitions: UK government response",
       "summary": "The UK government response to the Independent Commission for Aid Impact's review of UK aid for international energy transitions.",
@@ -424,28 +444,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Stronger parental leave rights to give millions of working families the “security they deserve”",
-      "summary": "New day one rights to parental leave set to enter force from April.",
-      "link": "https://www.gov.uk/government/news/stronger-parental-leave-rights-to-give-millions-of-working-families-the-security-they-deserve",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-11T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Code of practice: industrial action ballots and notice to employers",
-      "summary": "Practical guidance to trade unions and employers to promote the improvement of industrial relations and good practice in the conduct of trade union industrial action ballots.",
-      "link": "https://www.gov.uk/government/publications/code-of-practice-industrial-action-ballots-and-notice-to-employers--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-09T16:51:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:33:58.349054Z",
+  "generated_at": "2026-01-16T12:42:38.759657Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Corporate report: Independent Commission for Aid Impact's review of UK aid for international energy transitions: UK government response",
+      "summary": "The UK government response to the Independent Commission for Aid Impact's review of UK aid for international energy transitions.",
+      "link": "https://www.gov.uk/government/publications/independent-commission-for-aid-impacts-review-of-uk-aid-for-international-energy-transitions-uk-government-response",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-16T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Designated standards: lifts",
       "summary": "Notices of publication and a consolidated list for designated standards for lifts.",
@@ -369,16 +379,6 @@
       "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy",
       "summary": "A record 8.4GW of offshore wind secured in Europe’s biggest ever offshore wind auction.",
       "link": "https://www.gov.uk/government/news/record-breaking-auction-for-offshore-wind-secured-to-take-back-control-of-britains-energy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Electricity generation costs 2025",
-      "summary": "Report on levelised cost estimates for electricity generation technologies, detailing methodology, data and assumptions.",
-      "link": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-14T00:00:00+00:00",
       "matched": [],

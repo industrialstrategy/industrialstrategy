@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T18:36:47.370978Z",
+  "generated_at": "2026-01-16T01:28:59.587855Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: lifts",
+      "summary": "Notices of publication and a consolidated list for designated standards for lifts.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-lifts",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-16T00:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Record renewables auction supports 7,000 jobs and £3bn investment",
       "summary": "Workers across Britain will benefit from billions of pounds of private sector investment in ports and supply chains.",
@@ -436,16 +446,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Code of practice: picketing",
-      "summary": "Guidance on picketing for employers, workers or members of the public who may be affected by a picket or any associated activities.",
-      "link": "https://www.gov.uk/government/publications/code-of-practice-picketing",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-09T16:44:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

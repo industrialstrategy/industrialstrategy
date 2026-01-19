@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T06:38:50.254064Z",
+  "generated_at": "2026-01-19T12:46:52.223723Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,82 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Country Graduation from the Developing Countries Trading Scheme: Indonesia",
+      "summary": "This notice sets out the upcoming country graduation of Indonesia from the Developing Countries Trading Scheme(DCTS).",
+      "link": "https://www.gov.uk/government/publications/country-graduation-from-the-developing-countries-trading-scheme-indonesia",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T12:21:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Rules of origin changes under the Developing Countries Trading Scheme are now in effect",
+      "summary": "This guidance explains improvements to the Developing Countries Trading Scheme (DCTS) rules of origin announced in July 2025.",
+      "link": "https://www.gov.uk/government/publications/rules-of-origin-changes-under-the-developing-countries-trading-scheme-are-now-in-effect",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T12:20:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T11:54:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T11:54:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Standard: UK Low Carbon Hydrogen Standard",
+      "summary": "The UK Low Carbon Hydrogen Standard for hydrogen producers to use for greenhouse gas emissions reporting, including a calculator tool.",
+      "link": "https://www.gov.uk/government/publications/uk-low-carbon-hydrogen-standard-emissions-reporting-and-sustainability-criteria",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T10:48:40+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Heat Networks Delivery Unit",
+      "summary": "Support and guidance for local authorities developing heat networks.",
+      "link": "https://www.gov.uk/guidance/heat-networks-delivery-unit",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T10:04:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Business Support Service: privacy notice",
+      "summary": "How the Department for Business and Trade (DBT) will use your personal data when you contact the Business Support Service, and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/business-support-service-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T09:50:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "UK marks first year of 100 Year Partnership in Kyiv for reform",
       "summary": "The UK is stepping up its support for Ukraine as both countries mark the first anniversary of the landmark 100 Year Partnership.",
@@ -324,40 +400,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Offshore wind: cost and technical assumptions",
-      "summary": "This report provides an update to information on renewable energy generation costs and technical assumptions for offshore wind.",
-      "link": "https://www.gov.uk/government/publications/offshore-wind-cost-and-technical-assumptions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:01:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Hydrogen to power: cost and technical assumptions",
-      "summary": "This report provides an update to information on cost and barriers for hydrogen to power.",
-      "link": "https://www.gov.uk/government/publications/hydrogen-to-power-cost-and-technical-assumptions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:00:57+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 7: statutory notices",
-      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 7.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-statutory-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:00:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Building materials and components statistics: December 2025",
       "summary": "Statistics and analysis on the construction sector for December 2025.",
       "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-december-2025",
@@ -396,51 +438,11 @@
       ]
     },
     {
-      "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy",
-      "summary": "A record 8.4GW of offshore wind secured in Europe’s biggest ever offshore wind auction.",
-      "link": "https://www.gov.uk/government/news/record-breaking-auction-for-offshore-wind-secured-to-take-back-control-of-britains-energy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
       "summary": "Streamlined Routes (also known as Streamlined Subsidy Schemes) are a type of subsidy scheme made by the UK government for use by any UK public authority.",
       "link": "https://www.gov.uk/government/publications/subsidy-control-act-2022-streamlined-routes",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-13T17:05:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Independent report: Impacts of minimum wages: review of the international evidence",
-      "summary": "An independent report on the impacts of minimum wages, to inform the UK government’s decisions on the remit of the Low Pay Commission beyond 2020.",
-      "link": "https://www.gov.uk/government/publications/impacts-of-minimum-wages-review-of-the-international-evidence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-12T17:01:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Promotional material: Employment Rights Act 2025: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-12T13:54:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-12T11:44:28+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

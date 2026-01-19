@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T12:46:52.223723Z",
+  "generated_at": "2026-01-19T18:32:13.014845Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,88 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: EM on power supply ecodesign requirements (C(2025)6759 & 7938)",
+      "summary": "The Government's summary of a European Commission Regulation laying down ecodesign requirements for various power supplies, chargers, charging pads and cables.",
+      "link": "https://www.gov.uk/government/publications/em-on-power-supply-ecodesign-requirements-c20256759-7938",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T17:23:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "£6 million repaid to workers as Government cracks down on employers underpaying their staff",
+      "summary": "Nearly 500 employers fined over £10 million for failing to pay the National Minimum Wage",
+      "link": "https://www.gov.uk/government/news/6-million-repaid-to-workers-as-government-cracks-down-on-employers-underpaying-their-staff",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T16:49:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK ETS: Activity level report template",
+      "summary": "For operators to use to submit activity level reports to their regulator.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T15:55:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Training on export control compliance",
+      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
+      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T15:05:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel assessment framework",
+      "summary": "The independent panel assessment framework ensures fair and consistent assessment of claims from postmasters affected by Capture-related shortfalls between 1992 and 2000.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-assessment-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T14:37:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: UK Offshore Energy Strategic Environmental Assessment: research",
+      "summary": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
+      "link": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T14:00:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): Ensuring fair access to CO2 infrastructure",
+      "summary": "We are seeking views on the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 to ensure fair access to CO2 pipelines and storage sites.",
+      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-ensuring-fair-access-to-co2-infrastructure",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-19T12:54:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Changes to rules of origin under the Developing Countries Trading Scheme (DCTS)",
+      "summary": "This guidance provides the technical detail of improvements to rules of origin under the Developing Countries Trading Scheme (DCTS).",
+      "link": "https://www.gov.uk/government/publications/rules-of-origin-under-the-developing-countries-trading-scheme-dcts-are-improving",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-19T12:49:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Country Graduation from the Developing Countries Trading Scheme: Indonesia",
       "summary": "This notice sets out the upcoming country graduation of Indonesia from the Developing Countries Trading Scheme(DCTS).",
@@ -95,16 +177,6 @@
       ]
     },
     {
-      "title": "UK marks first year of 100 Year Partnership in Kyiv for reform",
-      "summary": "The UK is stepping up its support for Ukraine as both countries mark the first anniversary of the landmark 100 Year Partnership.",
-      "link": "https://www.gov.uk/government/news/uk-marks-first-year-of-100-year-partnership-in-kyiv-for-reform",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-16T15:36:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Late payments: tackling poor payment practices",
       "summary": "We are seeking views on legislative measures which address late, long and disputed business-to-business payments, and the use of retention clauses in construction contracts.",
       "link": "https://www.gov.uk/government/consultations/late-payments-tackling-poor-payment-practices",
@@ -135,30 +207,14 @@
       "ai_tags": []
     },
     {
-      "title": "Record renewables auction supports 7,000 jobs and £3bn investment",
-      "summary": "Workers across Britain will benefit from billions of pounds of private sector investment in ports and supply chains.",
-      "link": "https://www.gov.uk/government/news/record-renewables-auction-supports-7000-jobs-and-3bn-investment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T13:57:47+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Guidance: Training on export control compliance",
-      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
-      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
+      "title": "UK marks first anniversary of 100 Year Partnership in Kyiv with new backing for reform and reconstruction",
+      "summary": "The UK is stepping up its support for Ukraine as both countries mark the first anniversary of the landmark 100 Year Partnership.",
+      "link": "https://www.gov.uk/government/news/uk-marks-first-year-of-100-year-partnership-in-kyiv-for-reform",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-15T13:44:48+00:00",
+      "published": "2026-01-16T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
+      "ai_tags": []
     },
     {
       "title": "Research: Retained EU law and assimilated law dashboard",
@@ -301,14 +357,28 @@
       "ai_tags": []
     },
     {
-      "title": "Electricity licence exemptions",
-      "summary": "Electricity companies, under certain criteria, can be exempt from electricity generation, transmission, distribution or supply licences.",
-      "link": "https://www.gov.uk/guidance/electricity-licence-exemptions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T16:47:18+00:00",
+      "title": "Policy paper: EM on defence-related products and procurement (COM(2025)823)",
+      "summary": "The Government's summary of a European Commission proposal to simplify intra EU transfers of defence-related products and security and defence procurement.",
+      "link": "https://www.gov.uk/government/publications/em-on-defence-related-products-and-procurement-com2025823",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-15T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Record renewables auction supports 7,000 jobs and £3bn investment",
+      "summary": "Workers across Britain will benefit from billions of pounds of private sector investment in ports and supply chains.",
+      "link": "https://www.gov.uk/government/news/record-renewables-auction-supports-7000-jobs-and-3bn-investment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-15T00:00:00+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
     },
     {
       "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report",
@@ -368,84 +438,6 @@
       "ai_tags": [
         "Industrial strategy"
       ]
-    },
-    {
-      "title": "Research: Unabated gas: cost and technical assumptions",
-      "summary": "Cost assumptions for new unabated gas projects, as well as the costs of extending the life of existing unabated gas projects in Great Britain.",
-      "link": "https://www.gov.uk/government/publications/unabated-gas-cost-and-technical-assumptions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:02:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Gas carbon capture plant capital expenditure benchmarking: methodology",
-      "summary": "An outline of the approach used to benchmark capital expenditure (CAPEX) for gas fired power plants with post combustion carbon capture and storage (CCS).",
-      "link": "https://www.gov.uk/government/publications/gas-carbon-capture-plant-capital-expenditure-benchmarking-methodology",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:02:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Offshore wind cost and technical assumptions: peer review",
-      "summary": "A peer review assessing and providing assurances regarding the robustness of the offshore wind research conducted by Arup.",
-      "link": "https://www.gov.uk/government/publications/offshore-wind-cost-and-technical-assumptions-peer-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-14T07:01:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: December 2025",
-      "summary": "Statistics and analysis on the construction sector for December 2025.",
-      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Business Secretary wants UK to go ‘toe to toe’ with America on growth",
-      "summary": "In a speech to top business leaders the Business Secretary will lay out how the Government’s Modern Industrial Strategy will double down on the UK’s world-leading strengths in 2026 and not only scale up businesses, but keep them anchored in the UK.",
-      "link": "https://www.gov.uk/government/news/business-secretary-wants-uk-to-go-toe-to-toe-with-america-on-growth",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T00:00:00+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Business Secretary bolsters advisory council to grow UK industry",
-      "summary": "The Business Secretary has appointed three new business leaders to the Industrial Strategy Advisory Council.",
-      "link": "https://www.gov.uk/government/news/business-secretary-bolsters-advisory-council-to-grow-uk-industry",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T00:00:00+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
-      "summary": "Streamlined Routes (also known as Streamlined Subsidy Schemes) are a type of subsidy scheme made by the UK government for use by any UK public authority.",
-      "link": "https://www.gov.uk/government/publications/subsidy-control-act-2022-streamlined-routes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-13T17:05:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

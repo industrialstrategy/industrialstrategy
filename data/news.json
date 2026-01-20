@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T18:32:13.014845Z",
+  "generated_at": "2026-01-20T01:28:24.026501Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,48 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Strategy to boost UK education abroad in major £40bn growth drive",
+      "summary": "Bold new strategy will grow education exports to £40bn a year by 2030, supporting UK jobs and investment.",
+      "link": "https://www.gov.uk/government/news/strategy-to-boost-uk-education-abroad-in-major-40bn-growth-drive",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T00:01:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Business Secretary backs British scaleups with growth package and red tape review",
+      "summary": "British entrepreneurs, workers and communities will benefit from a sweeping package of growth measures, as the Government acts to invest in key growth sectors and slash red tape to help businesses scale up.",
+      "link": "https://www.gov.uk/government/news/business-secretary-backs-british-scaleups-with-growth-package-and-red-tape-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T00:01:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: The UK's International Education Strategy 2026",
+      "summary": "Strategy setting out the government’s plans for UK international education and how it will support the sector access global opportunities.",
+      "link": "https://www.gov.uk/government/publications/the-uks-international-education-strategy-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T00:01:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Refining our competition regime",
+      "summary": "We are seeking views on measures to improve the pace,  predictability, proportionality and process of the UK’s competition regime.",
+      "link": "https://www.gov.uk/government/consultations/refining-our-competition-regime",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T00:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: EM on power supply ecodesign requirements (C(2025)6759 & 7938)",
       "summary": "The Government's summary of a European Commission Regulation laying down ecodesign requirements for various power supplies, chargers, charging pads and cables.",
@@ -389,55 +431,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report translations",
-      "summary": "Translations of the December 2025 Grenfell Tower Inquiry Government Progress Report summary update.",
-      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report-translations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T16:23:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Ministerial letter on the Industrial Strategy Advisory Council",
-      "summary": "A letter from the Chancellor of the Exchequer and the Secretary of State for Business and Trade setting out the mandate of the Industrial Strategy Advisory Council.",
-      "link": "https://www.gov.uk/government/publications/ministerial-letter-on-the-industrial-strategy-advisory-council",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T13:46:25+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Agents for professional sports persons",
-      "summary": "Guidance to agents for professional sports persons to comply with the Employment Agencies Act 1973 (the act) and Conduct of Employment Agencies and Employment Businesses Regulations 2003 (the conduct regulations).",
-      "link": "https://www.gov.uk/government/publications/agents-for-professional-sports-persons",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T10:24:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy quarterly update: October to December 2025",
-      "summary": "An update on delivery of commitments in the Industrial Strategy.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-october-to-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T10:00:00+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
     }
   ]
 }

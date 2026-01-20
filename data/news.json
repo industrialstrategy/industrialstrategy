@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T12:46:52.649227Z",
+  "generated_at": "2026-01-20T18:36:01.086975Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,42 @@
   "count": 40,
   "items": [
     {
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-20T17:15:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
+      "summary": "Find the UK’s preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020.",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T16:23:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: registration of imports of boom lifts originating from China",
+      "summary": "Trade remedies notice published by the Secretary of State for Business and Trade relating to the registration of imports of boom lifts originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-registration-of-imports-of-boom-lifts-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T15:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
       "title": "Guidance: Capacity Market: appeals process",
       "summary": "Guidance on appeals process for capacity providers with a capacity agreement or a conditional capacity agreement.",
       "link": "https://www.gov.uk/government/publications/capacity-market-appeals-process",
@@ -34,18 +70,6 @@
       "link": "https://www.gov.uk/government/publications/uk-indonesia-economic-growth-partnership",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-20T10:00:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Trade Envoy programme appointments",
-      "summary": "The Secretary of State for Business and Trade has announced the appointment of five new UK Trade Envoys.",
-      "link": "https://www.gov.uk/government/news/trade-envoy-programme-appointments",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T09:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -115,6 +139,18 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Trade Envoy programme appointments",
+      "summary": "The Secretary of State for Business and Trade has announced the appointment of five new UK Trade Envoys.",
+      "link": "https://www.gov.uk/government/news/trade-envoy-programme-appointments",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
       "title": "Policy paper: EM on power supply ecodesign requirements (C(2025)6759 & 7938)",
@@ -325,26 +361,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Retained EU Law (REUL) and Assimilated Law Parliamentary Reports",
-      "summary": "The Reports fulfil a statutory duty to provide updates as set out in the REUL Act.",
-      "link": "https://www.gov.uk/government/publications/retained-eu-law-reul-parliamentary-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-15T10:41:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: People with significant control: company statutory guidance 2026",
-      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for companies.",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-company-statutory-guidance-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-15T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ: spending over £25,000, March 2025",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2025",
@@ -420,16 +436,6 @@
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-november-2024",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, June 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-june-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

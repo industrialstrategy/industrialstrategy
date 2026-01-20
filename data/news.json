@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T06:35:57.316692Z",
+  "generated_at": "2026-01-20T12:46:52.649227Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,62 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Capacity Market: appeals process",
+      "summary": "Guidance on appeals process for capacity providers with a capacity agreement or a conditional capacity agreement.",
+      "link": "https://www.gov.uk/government/publications/capacity-market-appeals-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-20T10:52:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK-Indonesia Economic Growth Partnership",
+      "summary": "The Economic Growth Partnership (EGP) sets out the UK and Indonesia’s shared priorities for trade, investment and economic cooperation.",
+      "link": "https://www.gov.uk/government/publications/uk-indonesia-economic-growth-partnership",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T10:00:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Trade Envoy programme appointments",
+      "summary": "The Secretary of State for Business and Trade has announced the appointment of five new UK Trade Envoys.",
+      "link": "https://www.gov.uk/government/news/trade-envoy-programme-appointments",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-20T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Update on the Government’s plans for audit reform legislation",
+      "summary": "Letter from the Minister for Small Business and Economic Transformation to the Chair of the Business and Trade Committee on the Government's plans for audit reform legislation.",
+      "link": "https://www.gov.uk/government/news/update-on-the-governments-plans-for-audit-reform-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-20T09:03:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Strategy to boost UK education abroad in major £40bn growth drive",
       "summary": "Bold new strategy will grow education exports to £40bn a year by 2030, supporting UK jobs and investment.",
@@ -289,16 +345,6 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: People with significant control: LLP statutory guidance 2026",
-      "summary": "This draft statutory guidance explains how ‘significant influence or control’ should be interpreted for limited liability partnerships (LLPs).",
-      "link": "https://www.gov.uk/government/publications/people-with-significant-control-llp-statutory-guidance-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-15T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ: spending over £25,000, March 2025",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2025",
@@ -384,50 +430,6 @@
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-june-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-15T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK greenhouse gas emissions statistics: planned methodology changes",
-      "summary": "2026 changes to methods used to estimate UK greenhouse gas emissions.",
-      "link": "https://www.gov.uk/government/publications/planned-methodology-changes-for-uk-greenhouse-gas-emissions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: EM on defence-related products and procurement (COM(2025)823)",
-      "summary": "The Government's summary of a European Commission proposal to simplify intra EU transfers of defence-related products and security and defence procurement.",
-      "link": "https://www.gov.uk/government/publications/em-on-defence-related-products-and-procurement-com2025823",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-15T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Record renewables auction supports 7,000 jobs and £3bn investment",
-      "summary": "Workers across Britain will benefit from billions of pounds of private sector investment in ports and supply chains.",
-      "link": "https://www.gov.uk/government/news/record-renewables-auction-supports-7000-jobs-and-3bn-investment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T00:00:00+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Policy paper: Grenfell Tower Inquiry Government Progress Report",
-      "summary": "This page sets out the government’s progress on the Grenfell Tower Inquiry’s Phase 2 recommendations and updates on Phase 1 recommendations.",
-      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-14T16:24:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

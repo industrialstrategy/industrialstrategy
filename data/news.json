@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T06:36:35.720061Z",
+  "generated_at": "2026-01-21T12:46:52.370395Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,21 +19,61 @@
   "count": 40,
   "items": [
     {
-      "title": "Guidance: Designated standards: radio equipment",
-      "summary": "Notices of publication and a consolidated list for designated standards for radio equipment.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-radio-equipment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-21T00:05:05+00:00",
+      "title": "Reforms to the Energy Performance of Buildings regime",
+      "summary": "Consultation on changes to Energy Performance Certificates (EPCs), Display Energy Certificates (DECs), and air conditioning inspection reports (ACIRs).",
+      "link": "https://www.gov.uk/government/consultations/reforms-to-the-energy-performance-of-buildings-regime",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T12:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Families to save in biggest home upgrade plan in British history",
-      "summary": "Government launches Warm Homes Plan to upgrade the nation's homes, help families cut their energy bills, and tackle fuel poverty.",
-      "link": "https://www.gov.uk/government/news/families-to-save-in-biggest-home-upgrade-plan-in-british-history",
+      "title": "Policy paper: Warm Homes Plan",
+      "summary": "This plan sets out how we will cut energy bills and upgrade homes.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-plan",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-20T22:30:00+00:00",
+      "published": "2026-01-21T10:53:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
+      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
+      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T10:27:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notification of direction: increasing the hourly rate of a military fuel tank driver in an ESCALIN deployment to hauliers",
+      "summary": "Direction notifying participating fuel hauliers of an increase in the rate charged for the use of military drivers under Operation ESCALIN.",
+      "link": "https://www.gov.uk/government/publications/notification-of-direction-increasing-the-hourly-rate-of-a-military-fuel-tank-driver-in-an-escalin-deployment-to-hauliers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T09:28:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Convictions Redress Scheme (HCRS): applying for financial redress",
+      "summary": "Follow these steps to register for the Horizon Convictions Redress Scheme (HCRS) and apply for your financial redress.",
+      "link": "https://www.gov.uk/guidance/horizon-convictions-redress-scheme-hcrs-applying-for-financial-redress",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T09:01:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: radio equipment",
+      "summary": "Notices of publication and a consolidated list for designated standards for radio equipment.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-radio-equipment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T00:05:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -171,6 +211,16 @@
       "ai_tags": [
         "Trade"
       ]
+    },
+    {
+      "title": "Families to save in biggest home upgrade plan in British history",
+      "summary": "Government launches 'Warm Homes Plan' to upgrade the nation's homes, help families cut their energy bills, and tackle fuel poverty.",
+      "link": "https://www.gov.uk/government/news/families-to-save-in-biggest-home-upgrade-plan-in-british-history",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-20T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Policy paper: EM on power supply ecodesign requirements (C(2025)6759 & 7938)",
@@ -361,16 +411,6 @@
       "ai_tags": []
     },
     {
-      "title": "UK marks first anniversary of 100 Year Partnership in Kyiv with new backing for reform and reconstruction",
-      "summary": "The UK is stepping up its support for Ukraine as both countries mark the first anniversary of the landmark 100 Year Partnership.",
-      "link": "https://www.gov.uk/government/news/uk-marks-first-year-of-100-year-partnership-in-kyiv-for-reform",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-16T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ: spending over £25,000, March 2025",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2025",
@@ -394,46 +434,6 @@
       "title": "Transparency data: DESNZ: spending over £25,000, January 2025",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-january-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, May 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-may-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, February 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-february-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, December 2024",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-december-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, October 2024",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-october-2024",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-15T09:30:07+00:00",
       "matched": [],

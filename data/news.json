@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T12:46:52.370395Z",
+  "generated_at": "2026-01-21T18:42:17.930979Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,44 +19,270 @@
   "count": 40,
   "items": [
     {
-      "title": "Reforms to the Energy Performance of Buildings regime",
-      "summary": "Consultation on changes to Energy Performance Certificates (EPCs), Display Energy Certificates (DECs), and air conditioning inspection reports (ACIRs).",
-      "link": "https://www.gov.uk/government/consultations/reforms-to-the-energy-performance-of-buildings-regime",
+      "title": "Research: Evaluation of the Boiler Upgrade Scheme, 2025",
+      "summary": "The second set of interim findings from the evaluation of the Boiler Upgrade Scheme and accompanying survey data tables.",
+      "link": "https://www.gov.uk/government/publications/evaluation-of-the-boiler-upgrade-scheme-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T12:00:00+00:00",
+      "published": "2026-01-21T16:53:27+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Warm Homes Plan",
-      "summary": "This plan sets out how we will cut energy bills and upgrade homes.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-plan",
+      "title": "Notice: Convention on Supplementary Compensation for Nuclear Damage (CSC): entry into force",
+      "summary": "This is a notice that the Convention on Supplementary Compensation for Nuclear Damage (CSC) entered into force in respect of the UK on 1 January 2026.",
+      "link": "https://www.gov.uk/government/publications/convention-on-supplementary-compensation-for-nuclear-damage-csc-entry-into-force",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T10:53:08+00:00",
+      "published": "2026-01-21T16:48:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T15:28:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
-      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
-      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T10:27:34+00:00",
+      "title": "Notice: Notices made under s32A of the Taxation (Cross-border Trade) Act 2018",
+      "summary": "Notices made which have the force of law under s32A of the Taxation (Cross-border Trade) Act 2018.",
+      "link": "https://www.gov.uk/government/publications/notices-made-under-s32a-of-the-taxation-cross-border-trade-act-2018",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T14:51:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel chair framework",
+      "summary": "This framework sets out how the chair will oversee the governance and consistency of the Capture Redress Scheme independent panel.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-chair-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T13:49:28+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Notice: Notification of direction: increasing the hourly rate of a military fuel tank driver in an ESCALIN deployment to hauliers",
-      "summary": "Direction notifying participating fuel hauliers of an increase in the rate charged for the use of military drivers under Operation ESCALIN.",
-      "link": "https://www.gov.uk/government/publications/notification-of-direction-increasing-the-hourly-rate-of-a-military-fuel-tank-driver-in-an-escalin-deployment-to-hauliers",
+      "title": "Guidance: HNTAS: Existing heat networks - draft overview of technical specifications",
+      "summary": "An overview of the draft technical requirements for Heat Network Technical Assurance Scheme (HNTAS) milestones 2-4.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-overview-of-technical-specifications",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T09:28:54+00:00",
+      "published": "2026-01-21T13:40:32+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Promotional material: Heat network zoning: promotional resources",
+      "summary": "A collection of digital assets for download and use in promoting heat network zoning within organisations or networks.",
+      "link": "https://www.gov.uk/government/publications/heat-network-zoning-promotional-resources",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: Existing heat networks - draft overview of assessment procedures",
+      "summary": "An overview of the draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-overview-of-assessment-procedures",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: Existing heat networks - draft assessment procedures for Milestone 4",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-assessment-procedures-for-milestone-4",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: Existing heat networks - draft assessment procedures for Milestone 2",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-assessment-procedures-for-milestone-2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 3B",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-3b",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 3A",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-3a",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 2",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:23:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Consumer Heat Systems",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-heat-system-assessment-procedures-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Communal Distribution Networks",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-communal-distribution-network-assessment-procedures-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for District Distribution Networks",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-district-distribution-network-assessment-procedures-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Energy Centres",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-energy-centre-assessment-procedures-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft technical specifications for Consumer Heat Systems",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network developers, contractors and operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-heat-system-technical-specifications-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft technical specifications for Consumer Connections",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network developers, contractors and operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-connection-technical-specifications-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft technical specifications for District Distribution Networks",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network developers, contractors and operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-district-distribution-network-technical-specifications-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft technical specifications for Energy Centres",
+      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network developers, contractors and operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-energy-centre-technical-specifications-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Consumer Connections",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-connection-assessment-procedures-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:22:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Substations",
+      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
+      "link": "https://www.gov.uk/government/publications/hntas-draft-substation-assessment-procedures-for-new-build-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-21T13:21:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: privacy notice",
+      "summary": "What data is collected when you apply for the Capture Redress Scheme – how it’s used, where it’s stored and your rights.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T13:06:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
+      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T13:05:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK-Japan trade and economic relations meeting: 20 January 2026",
+      "summary": "This document summarises the discussion that took place during the meeting between the UK and Japan in Davos.",
+      "link": "https://www.gov.uk/government/publications/uk-japan-trade-and-economic-relations-meeting-20-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-21T13:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
       "title": "Horizon Convictions Redress Scheme (HCRS): applying for financial redress",
@@ -77,18 +303,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-20T17:15:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
     },
     {
       "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
@@ -115,16 +329,6 @@
       ]
     },
     {
-      "title": "Guidance: Capacity Market: appeals process",
-      "summary": "Guidance on appeals process for capacity providers with a capacity agreement or a conditional capacity agreement.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-appeals-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-20T10:52:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: UK-Indonesia Economic Growth Partnership",
       "summary": "The Economic Growth Partnership (EGP) sets out the UK and Indonesia’s shared priorities for trade, investment and economic cooperation.",
       "link": "https://www.gov.uk/government/publications/uk-indonesia-economic-growth-partnership",
@@ -135,16 +339,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-20T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Update on the Government’s plans for audit reform legislation",
@@ -213,41 +407,11 @@
       ]
     },
     {
-      "title": "Families to save in biggest home upgrade plan in British history",
-      "summary": "Government launches 'Warm Homes Plan' to upgrade the nation's homes, help families cut their energy bills, and tackle fuel poverty.",
-      "link": "https://www.gov.uk/government/news/families-to-save-in-biggest-home-upgrade-plan-in-british-history",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-20T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: EM on power supply ecodesign requirements (C(2025)6759 & 7938)",
-      "summary": "The Government's summary of a European Commission Regulation laying down ecodesign requirements for various power supplies, chargers, charging pads and cables.",
-      "link": "https://www.gov.uk/government/publications/em-on-power-supply-ecodesign-requirements-c20256759-7938",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T17:23:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "£6 million repaid to workers as Government cracks down on employers underpaying their staff",
       "summary": "Nearly 500 employers fined over £10 million for failing to pay the National Minimum Wage",
       "link": "https://www.gov.uk/government/news/6-million-repaid-to-workers-as-government-cracks-down-on-employers-underpaying-their-staff",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-19T16:49:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK ETS: Activity level report template",
-      "summary": "For operators to use to submit activity level reports to their regulator.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T15:55:31+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -270,172 +434,6 @@
       "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-assessment-framework",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-19T14:37:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: UK Offshore Energy Strategic Environmental Assessment: research",
-      "summary": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
-      "link": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T14:00:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Carbon capture, usage and storage (CCUS): Ensuring fair access to CO2 infrastructure",
-      "summary": "We are seeking views on the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 to ensure fair access to CO2 pipelines and storage sites.",
-      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-ensuring-fair-access-to-co2-infrastructure",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T12:54:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Changes to rules of origin under the Developing Countries Trading Scheme (DCTS)",
-      "summary": "This guidance provides the technical detail of improvements to rules of origin under the Developing Countries Trading Scheme (DCTS).",
-      "link": "https://www.gov.uk/government/publications/rules-of-origin-under-the-developing-countries-trading-scheme-dcts-are-improving",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T12:49:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Country Graduation from the Developing Countries Trading Scheme: Indonesia",
-      "summary": "This notice sets out the upcoming country graduation of Indonesia from the Developing Countries Trading Scheme(DCTS).",
-      "link": "https://www.gov.uk/government/publications/country-graduation-from-the-developing-countries-trading-scheme-indonesia",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T12:21:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Rules of origin changes under the Developing Countries Trading Scheme are now in effect",
-      "summary": "This guidance explains improvements to the Developing Countries Trading Scheme (DCTS) rules of origin announced in July 2025.",
-      "link": "https://www.gov.uk/government/publications/rules-of-origin-changes-under-the-developing-countries-trading-scheme-are-now-in-effect",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T12:20:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: environmental submissions and determinations",
-      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T11:54:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T11:54:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Standard: UK Low Carbon Hydrogen Standard",
-      "summary": "The UK Low Carbon Hydrogen Standard for hydrogen producers to use for greenhouse gas emissions reporting, including a calculator tool.",
-      "link": "https://www.gov.uk/government/publications/uk-low-carbon-hydrogen-standard-emissions-reporting-and-sustainability-criteria",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T10:48:40+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Heat Networks Delivery Unit",
-      "summary": "Support and guidance for local authorities developing heat networks.",
-      "link": "https://www.gov.uk/guidance/heat-networks-delivery-unit",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-19T10:04:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Business Support Service: privacy notice",
-      "summary": "How the Department for Business and Trade (DBT) will use your personal data when you contact the Business Support Service, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/business-support-service-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T09:50:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Late payments: tackling poor payment practices",
-      "summary": "We are seeking views on legislative measures which address late, long and disputed business-to-business payments, and the use of retention clauses in construction contracts.",
-      "link": "https://www.gov.uk/government/consultations/late-payments-tackling-poor-payment-practices",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-16T13:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Independent Commission for Aid Impact's review of UK aid for international energy transitions: UK government response",
-      "summary": "The UK government response to the Independent Commission for Aid Impact's review of UK aid for international energy transitions.",
-      "link": "https://www.gov.uk/government/publications/independent-commission-for-aid-impacts-review-of-uk-aid-for-international-energy-transitions-uk-government-response",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-16T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: lifts",
-      "summary": "Notices of publication and a consolidated list for designated standards for lifts.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-lifts",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-16T00:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, March 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, April 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-april-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, January 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-january-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-15T09:30:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

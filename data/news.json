@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T06:34:38.940053Z",
+  "generated_at": "2026-01-22T12:46:32.779023Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,104 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Open general export licence (export after exhibition: dual-use items)",
+      "summary": "Licence allowing the export of dual-use items if they have been temporarily imported into the UK for exhibition or demonstration.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-exhibition-dual-use-items",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T10:57:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on ammonium nitrate from Russia",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on ammonium nitrate from Russia.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-ammonium-nitrate-from-russia",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T10:47:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Decision: UK-Japan CEPA documents",
+      "summary": "Decisions, documents and meeting minutes from the UK-Japan Comprehensive Economic Partnership Agreement (CEPA).",
+      "link": "https://www.gov.uk/government/publications/uk-japan-cepa-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T10:44:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Great British Insulation Scheme release: January 2026",
+      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-22T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release January 2026",
+      "summary": "Household Energy Efficiency Statistics, headline release (January 2026).",
+      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-22T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Independent report: Alternative models of commercial finance on the UK economy: research on economic impacts",
+      "summary": "Econometric research by NIESR on the effect of alternative systems of commercial finance on lending to businesses, investment, and gross domestic product (GDP).",
+      "link": "https://www.gov.uk/government/publications/alternative-models-of-commercial-finance-on-the-uk-economy-research-on-economic-impacts",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Impact assessment: Steel Industry (Special Measures) Bill, 2025: final impact assessment",
+      "summary": "Impact assessment for the Steel Industry (Special Measures) Bill, outlining the case for legislation, expected impacts and monitoring of the special measures.",
+      "link": "https://www.gov.uk/government/publications/steel-industry-special-measures-bill-2025-final-impact-assessment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T09:05:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Evaluation of the Boiler Upgrade Scheme, 2025",
       "summary": "The second set of interim findings from the evaluation of the Boiler Upgrade Scheme and accompanying survey data tables.",
@@ -233,26 +331,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Consumer Connections",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-connection-assessment-procedures-for-new-build-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T13:22:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Substations",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-draft-substation-assessment-procedures-for-new-build-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T13:21:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Capture Redress Scheme: privacy notice",
       "summary": "What data is collected when you apply for the Capture Redress Scheme – how it’s used, where it’s stored and your rights.",
       "link": "https://www.gov.uk/government/publications/capture-redress-scheme-privacy-notice",
@@ -363,80 +441,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Business Secretary backs British scaleups with growth package and red tape review",
-      "summary": "British entrepreneurs, workers and communities will benefit from a sweeping package of growth measures, as the Government acts to invest in key growth sectors and slash red tape to help businesses scale up.",
-      "link": "https://www.gov.uk/government/news/business-secretary-backs-british-scaleups-with-growth-package-and-red-tape-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T00:01:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: The UK's International Education Strategy 2026",
-      "summary": "Strategy setting out the government’s plans for UK international education and how it will support the sector access global opportunities.",
-      "link": "https://www.gov.uk/government/publications/the-uks-international-education-strategy-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T00:01:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Refining our competition regime",
-      "summary": "We are seeking views on measures to improve the pace,  predictability, proportionality and process of the UK’s competition regime.",
-      "link": "https://www.gov.uk/government/consultations/refining-our-competition-regime",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T00:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Trade Envoy programme appointments",
-      "summary": "The Secretary of State for Business and Trade has announced the appointment of five new UK Trade Envoys.",
-      "link": "https://www.gov.uk/government/news/trade-envoy-programme-appointments",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "£6 million repaid to workers as Government cracks down on employers underpaying their staff",
-      "summary": "Nearly 500 employers fined over £10 million for failing to pay the National Minimum Wage",
-      "link": "https://www.gov.uk/government/news/6-million-repaid-to-workers-as-government-cracks-down-on-employers-underpaying-their-staff",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T16:49:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Training on export control compliance",
-      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
-      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T15:05:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel assessment framework",
-      "summary": "The independent panel assessment framework ensures fair and consistent assessment of claims from postmasters affected by Capture-related shortfalls between 1992 and 2000.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-assessment-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-19T14:37:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

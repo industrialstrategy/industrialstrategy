@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T12:46:32.779023Z",
+  "generated_at": "2026-01-22T18:32:46.637162Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Starter guide to UK sanctions",
+      "summary": "A guide for businesses and organisations that need to understand more about what sanctions are and how they work.",
+      "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T14:06:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on rainbow trout from Turkey",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on rainbow trout from Turkey.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-rainbow-trout-from-turkey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-22T14:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Open general export licence (export after exhibition: dual-use items)",
       "summary": "Licence allowing the export of dual-use items if they have been temporarily imported into the UK for exhibition or demonstration.",
@@ -412,30 +434,6 @@
       "link": "https://www.gov.uk/government/publications/uk-indonesia-economic-growth-partnership",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-20T10:00:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Update on the Government’s plans for audit reform legislation",
-      "summary": "Letter from the Minister for Small Business and Economic Transformation to the Chair of the Business and Trade Committee on the Government's plans for audit reform legislation.",
-      "link": "https://www.gov.uk/government/news/update-on-the-governments-plans-for-audit-reform-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T09:03:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Strategy to boost UK education abroad in major £40bn growth drive",
-      "summary": "Bold new strategy will grow education exports to £40bn a year by 2030, supporting UK jobs and investment.",
-      "link": "https://www.gov.uk/government/news/strategy-to-boost-uk-education-abroad-in-major-40bn-growth-drive",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-20T00:01:10+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

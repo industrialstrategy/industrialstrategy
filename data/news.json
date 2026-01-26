@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T12:45:33.657280Z",
+  "generated_at": "2026-01-26T18:34:54.034023Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Heat networks optimisation: guidance to help operators improve performance",
+      "summary": "Short guidance notes and videos setting out practical steps to help heat network operators improve performance of heat networks.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-optimisation-guidance-to-help-operators-improve-performance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-26T17:10:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Research into governance models for Smart Data",
+      "summary": "Research into the design of a cross-economy Smart Data governance model.",
+      "link": "https://www.gov.uk/government/publications/research-into-governance-models-for-smart-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-26T16:30:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information December 2025",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-26T16:27:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK lenders step up with £11 billion push to back British businesses",
+      "summary": "UK banks agree £11 billion lending packages to support small business growth, particularly for small and mid-sized enterprises.",
+      "link": "https://www.gov.uk/government/news/uk-lenders-step-up-with-11-billion-push-to-back-british-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-26T15:00:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
@@ -333,16 +373,6 @@
       ]
     },
     {
-      "title": "Guidance: Capture Redress Scheme: independent panel chair framework",
-      "summary": "This framework sets out how the chair will oversee the governance and consistency of the Capture Redress Scheme independent panel.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-chair-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-21T13:49:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: HNTAS: Existing heat networks - draft overview of technical specifications",
       "summary": "An overview of the draft technical requirements for Heat Network Technical Assurance Scheme (HNTAS) milestones 2-4.",
       "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-overview-of-technical-specifications",
@@ -418,36 +448,6 @@
       "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-2",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-21T13:23:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: New build heat networks - draft assessment procedures for Consumer Heat Systems",
-      "summary": "Draft procedures that Heat Network Technical Assurance Scheme (HNTAS) registered assessors will need to follow to assess a heat network’s compliance with HNTAS technical requirements.",
-      "link": "https://www.gov.uk/government/publications/hntas-draft-consumer-heat-system-assessment-procedures-for-new-build-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T13:22:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: privacy notice",
-      "summary": "What data is collected when you apply for the Capture Redress Scheme – how it’s used, where it’s stored and your rights.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-21T13:06:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-21T13:05:10+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

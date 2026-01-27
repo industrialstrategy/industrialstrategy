@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T18:34:54.034023Z",
+  "generated_at": "2026-01-27T01:44:13.194133Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Heat network customers to be shielded from unfair price hikes",
+      "summary": "Greater consumer protections introduced for heat network customers across Great Britain for the first time, supporting half a million consumers.",
+      "link": "https://www.gov.uk/government/news/heat-network-customers-to-be-shielded-from-unfair-price-hikes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-26T22:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Heat networks optimisation: guidance to help operators improve performance",
       "summary": "Short guidance notes and videos setting out practical steps to help heat network operators improve performance of heat networks.",
@@ -438,16 +448,6 @@
       "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-3a",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-21T13:23:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft technical specifications for Milestone 2",
-      "summary": "Draft Heat Network Technical Assurance Scheme (HNTAS) regulatory technical requirements to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-technical-specifications-for-milestone-2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T13:23:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

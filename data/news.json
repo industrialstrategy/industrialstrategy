@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T06:36:30.516496Z",
+  "generated_at": "2026-01-28T12:46:49.079288Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: UK-Andean countries committee documents",
+      "summary": "Decisions, documents and meeting minutes from UK-Andean countries committees.",
+      "link": "https://www.gov.uk/government/publications/uk-andean-countries-committee-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-28T12:22:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on wire rod products originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on wire rod products originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-hot-rolled-iron-and-steel-bars-and-rods-in-coils-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-28T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Government saves 300 jobs on the Isle of Wight",
+      "summary": "Government intervention alongside investment from Vestas has saved over 300 jobs at their Isle of Wight factory.",
+      "link": "https://www.gov.uk/government/news/government-saves-300-jobs-on-the-isle-of-wight",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-28T10:44:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
+      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-28T10:23:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Renewables Obligation (RO) scheme: indexation changes",
+      "summary": "We're seeking views on proposed changes to inflation indexation for the Renewables Obligation (RO) scheme.",
+      "link": "https://www.gov.uk/government/consultations/renewables-obligation-ro-scheme-indexation-changes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-28T07:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Feed-in Tariffs (FiT) scheme: indexation changes",
+      "summary": "We're seeking views on proposed changes to inflation indexation for the Feed-in Tariffs (FiT) scheme.",
+      "link": "https://www.gov.uk/government/consultations/feed-in-tariffs-fit-scheme-indexation-changes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-28T07:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Changes to energy infrastructure planning application fees",
       "summary": "We are seeking views on proposed changes to fees for energy infrastructure planning applications.",
@@ -94,7 +156,7 @@
     },
     {
       "title": "Notice: Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on welded tubes and pipes from Belarus and China (formerly Belarus, China, and Russia)",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on welded tubes and pipes from Belarus and China (formerly Belarus, China, and Russia).",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-27T13:00:03+00:00",
@@ -131,7 +193,7 @@
       "summary": "Greater consumer protections introduced for heat network customers across Great Britain for the first time, supporting half a million consumers.",
       "link": "https://www.gov.uk/government/news/heat-network-customers-to-be-shielded-from-unfair-price-hikes",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-26T22:30:05+00:00",
+      "published": "2026-01-26T22:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -171,7 +233,7 @@
       "summary": "UK banks agree £11 billion lending packages to support small business growth, particularly for small and mid-sized enterprises.",
       "link": "https://www.gov.uk/government/news/uk-lenders-step-up-with-11-billion-push-to-back-british-businesses",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-26T15:00:10+00:00",
+      "published": "2026-01-26T15:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -383,18 +445,6 @@
       ]
     },
     {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-22T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Official Statistics: Great British Insulation Scheme release: January 2026",
       "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
       "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-january-2026",
@@ -410,60 +460,6 @@
       "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-january-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-22T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-22T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Independent report: Alternative models of commercial finance on the UK economy: research on economic impacts",
-      "summary": "Econometric research by NIESR on the effect of alternative systems of commercial finance on lending to businesses, investment, and gross domestic product (GDP).",
-      "link": "https://www.gov.uk/government/publications/alternative-models-of-commercial-finance-on-the-uk-economy-research-on-economic-impacts",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-22T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Evaluation of the Boiler Upgrade Scheme, 2025",
-      "summary": "The second set of interim findings from the evaluation of the Boiler Upgrade Scheme and accompanying survey data tables.",
-      "link": "https://www.gov.uk/government/publications/evaluation-of-the-boiler-upgrade-scheme-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T16:53:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Convention on Supplementary Compensation for Nuclear Damage (CSC): entry into force",
-      "summary": "This is a notice that the Convention on Supplementary Compensation for Nuclear Damage (CSC) entered into force in respect of the UK on 1 January 2026.",
-      "link": "https://www.gov.uk/government/publications/convention-on-supplementary-compensation-for-nuclear-damage-csc-entry-into-force",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T16:48:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Guidance: HNTAS: Existing heat networks - draft overview of technical specifications",
-      "summary": "An overview of the draft technical requirements for Heat Network Technical Assurance Scheme (HNTAS) milestones 2-4.",
-      "link": "https://www.gov.uk/government/publications/hntas-existing-heat-networks-draft-overview-of-technical-specifications",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-21T13:40:32+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

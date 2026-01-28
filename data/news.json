@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T12:46:49.079288Z",
+  "generated_at": "2026-01-28T18:37:54.517798Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-28T15:47:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "​​Improving the energy efficiency of socially rented homes in England",
+      "summary": "​​This consultation seeks views on government’s proposal to set a minimum energy efficiency standard (MEES) for socially rented homes for the first time.​",
+      "link": "https://www.gov.uk/government/consultations/improving-the-energy-efficiency-of-socially-rented-homes-in-england",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-28T15:32:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on biodiesel products originating from the USA and Canada",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on biodiesel originating from the USA including biodiesel products consigned from Canada.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-biodiesel-from-canada-and-usa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-28T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on biodiesel products originating from the USA and Canada",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on biodiesel products from the USA, including biodiesel products consigned from Canada.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-biodiesel-from-canada-and-usa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-28T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Decision: UK-Andean countries committee documents",
       "summary": "Decisions, documents and meeting minutes from UK-Andean countries committees.",
@@ -419,50 +463,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Open general export licence (export after exhibition: dual-use items)",
-      "summary": "Licence allowing the export of dual-use items if they have been temporarily imported into the UK for exhibition or demonstration.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-after-exhibition-dual-use-items",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-22T10:57:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on ammonium nitrate from Russia",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on ammonium nitrate from Russia.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-ammonium-nitrate-from-russia",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-22T10:47:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Great British Insulation Scheme release: January 2026",
-      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-january-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-22T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release January 2026",
-      "summary": "Household Energy Efficiency Statistics, headline release (January 2026).",
-      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-january-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-22T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

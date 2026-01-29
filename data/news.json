@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T12:55:55.894906Z",
+  "generated_at": "2026-01-29T18:44:18.489442Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Heat Pump Ready Programme",
+      "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-29T17:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-29T17:08:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: East Anglia Two offshore wind farm: 2026 post-consent condition compliance, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for post-consent condition compliance.",
+      "link": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-2026-post-consent-condition-compliance-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-29T16:39:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: UK-Vietnam FTA Committee on Trade and Sustainable Development (TSD) – joint report, 24 June 2025",
       "summary": "Summary of the third meeting of the United Kingdom-Vietnam Free Trade Agreement (UKVFTA) Committee on Trade and Sustainable Development.",
@@ -352,26 +384,6 @@
       ]
     },
     {
-      "title": "Policy paper: North Sea Future Board: terms of reference",
-      "summary": "A Ministerial-led group of experts who will provide knowledge and expertise to support the energy transition across the North Sea.",
-      "link": "https://www.gov.uk/government/publications/north-sea-future-board-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "New North Sea board launched to drive a fair and prosperous transition",
-      "summary": "New board of experts to drive forward the government's plan for a prosperous and sustainable future in the North Sea",
-      "link": "https://www.gov.uk/government/news/new-north-sea-board-launched-to-drive-a-fair-and-prosperous-transition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T00:01:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Trade remedies notices: countervailing duty on biodiesel products originating from the USA and Canada",
       "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on biodiesel originating from the USA including biodiesel products consigned from Canada.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-biodiesel-from-canada-and-usa",
@@ -445,18 +457,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-27T13:43:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on welded tubes and pipes from Belarus and China (formerly Belarus, China, and Russia).",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-27T13:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

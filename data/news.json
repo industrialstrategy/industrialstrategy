@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T18:37:54.517798Z",
+  "generated_at": "2026-01-29T01:51:50.620638Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "New North Sea board launched to drive a fair and prosperous transition",
+      "summary": "New board of experts to drive forward the government's plan for a prosperous and sustainable future in the North Sea",
+      "link": "https://www.gov.uk/government/news/new-north-sea-board-launched-to-drive-a-fair-and-prosperous-transition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-29T00:01:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Ambient gamma radiation dose rates across the UK",
       "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
@@ -393,18 +403,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "UK and US nuclear experts sign landmark partnership",
-      "summary": "Nuclear Transport Solutions sign new strategic agreement on development of transport package designed to safely move the next generation of nuclear fuel.",
-      "link": "https://www.gov.uk/government/news/uk-and-us-nuclear-experts-sign-landmark-partnership",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-23T15:17:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
     },
     {
       "title": "Policy paper: UK Critical Minerals Strategy",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T18:44:18.489442Z",
+  "generated_at": "2026-01-30T01:52:15.330895Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Energy bill support extended for millions of families",
+      "summary": "Warm Home Discount has been extended so millions of families will receive the £150 energy bill discount for the rest of the decade.",
+      "link": "https://www.gov.uk/government/news/energy-bill-support-extended-for-millions-of-families",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-01-29T22:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Heat Pump Ready Programme",
       "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
@@ -358,18 +368,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: January 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-january-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
     },
     {
       "title": "Research: Monitoring report: UK-Australia, UK-New Zealand and UK-Japan FTAs",

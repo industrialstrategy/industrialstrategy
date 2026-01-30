@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T12:52:10.184468Z",
+  "generated_at": "2026-01-30T18:41:54.815235Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,86 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Trade with Norway",
+      "summary": "How you import from and export to Norway.",
+      "link": "https://www.gov.uk/guidance/trade-with-norway",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:59:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Trade with Liechtenstein",
+      "summary": "How you import from and export to Liechtenstein",
+      "link": "https://www.gov.uk/guidance/trade-with-liechtenstein",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:57:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Export advice for SMEs doing business in the UK and overseas",
+      "summary": "This toolkit contains, advice, top tips and support for SMEs looking to grow their business in the UK and export to exciting markets such as the USA.",
+      "link": "https://www.gov.uk/government/publications/export-advice-for-smes-doing-business-in-the-uk-and-overseas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:52:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Start exporting to Africa",
+      "summary": "Find out about market opportunities, trade partnership agreements, support from the UK government, and export regulations and taxes in African countries.",
+      "link": "https://www.gov.uk/guidance/start-exporting-to-africa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:39:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Navigating NATO procurement",
+      "summary": "This guide aims to help UK companies interested in accessing NATO-funded business opportunities.",
+      "link": "https://www.gov.uk/government/publications/navigating-nato-procurement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:23:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aid funded business",
+      "summary": "Guidance for UK companies on winning business from international aid and development projects.",
+      "link": "https://www.gov.uk/guidance/aid-funded-business",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:21:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Europe funding",
+      "summary": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
+      "link": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T16:19:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Corporate report: DESNZ: framework documents",
       "summary": "Information about how the Department for Energy Security and Net Zero (DESNZ) works with its public bodies.",
@@ -376,91 +456,11 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Notice to exporters 2026/01: exporter notices and e‑alert sign‑up",
-      "summary": "Users should sign up to the Export Control Joint Unit's (ECJU) e‑alert service to receive important updates on training and changes to the licensing regime.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202601-exporter-notices-and-e-alert-sign-up",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Accredited official statistics: Energy Trends: UK total energy",
       "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
       "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-29T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Monitoring report: UK-Australia, UK-New Zealand and UK-Japan FTAs",
-      "summary": "This report covers the first 2 years of the UK’s free trade agreements (FTAs) with Australia and New Zealand and the first 4 years of the UK’s FTA with Japan.",
-      "link": "https://www.gov.uk/government/publications/monitoring-report-uk-australia-uk-new-zealand-and-uk-japan-ftas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: countervailing duty on biodiesel products originating from the USA and Canada",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on biodiesel originating from the USA including biodiesel products consigned from Canada.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-biodiesel-from-canada-and-usa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-28T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on biodiesel products originating from the USA and Canada",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on biodiesel products from the USA, including biodiesel products consigned from Canada.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-biodiesel-from-canada-and-usa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-28T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Decision: UK-Andean countries committee documents",
-      "summary": "Decisions, documents and meeting minutes from UK-Andean countries committees.",
-      "link": "https://www.gov.uk/government/publications/uk-andean-countries-committee-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-28T12:22:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on wire rod products originating from China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on wire rod products originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-hot-rolled-iron-and-steel-bars-and-rods-in-coils-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-28T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-28T10:23:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

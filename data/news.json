@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T06:39:05.952799Z",
+  "generated_at": "2026-01-31T12:44:34.673826Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: DBT goods regulation mailbox privacy notice",
+      "summary": "How the Department for Business and Trade (DBT) as a ‘data controller’ processes personal data for the purposes of responding to your email query specifically sent to the Goods Regulation mailbox.",
+      "link": "https://www.gov.uk/government/publications/dbt-goods-regulation-mailbox-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-31T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Billions in exports and investment deals secured as PM concludes visit to China",
       "summary": "Billions of pounds worth of export and investment deals for the UK have been secured, as the Prime Minister wraps up his visit to China.",
@@ -364,18 +376,6 @@
       "title": "Guidance: Licensing statistics quality and methodology information",
       "summary": "How Export Control Joint Unit (ECJU) source, process and quality check data for the creation of the strategic export controls licensing statistics.",
       "link": "https://www.gov.uk/government/publications/strategic-export-controls-quality-and-methodology-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T09:30:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Licensing statistics revisions policy",
-      "summary": "How Export Control Joint Unit (ECJU) correct errors and show amendments in our published strategic export controls licensing statistics.",
-      "link": "https://www.gov.uk/government/publications/strategic-export-controls-licensing-statistics-revisions-policy",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-29T09:30:17+00:00",
       "matched": [],

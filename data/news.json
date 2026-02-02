@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T07:03:10.752755Z",
+  "generated_at": "2026-02-02T12:57:13.027018Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,196 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T12:18:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T12:13:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Report your fuel prices and forecourt details",
+      "summary": "Use the Fuel Finder service to report fuel prices and manage details for your forecourts.",
+      "link": "https://www.gov.uk/guidance/report-your-fuel-prices-and-forecourt-details",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T09:55:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Report an error in fuel prices or forecourt details",
+      "summary": "Use the Fuel Finder service to report any issue you notice with a forecourt’s information.",
+      "link": "https://www.gov.uk/guidance/report-an-error-in-fuel-prices-or-forecourt-details",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T09:55:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Access the latest fuel prices and forecourt data via API or email",
+      "summary": "Use the Fuel Finder service to get the latest retail fuel prices and forecourt details across the UK.",
+      "link": "https://www.gov.uk/guidance/access-the-latest-fuel-prices-and-forecourt-data-via-api-or-email",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T09:54:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "How to report your fuel prices and forecourt details",
+      "summary": "Guidance for Motor Fuel Traders (MFTs) explaining how to update fuel prices and manage details of forecourts using Fuel Finder.",
+      "link": "https://www.gov.uk/guidance/fuel-finder",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T09:53:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Reporting your fuel prices",
+      "summary": "How to report fuel prices.",
+      "link": "https://www.gov.uk/guidance/fuel-finder/reporting-your-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T09:53:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Overview",
+      "summary": "About Fuel Finder, who needs to use it and what you need to do.",
+      "link": "https://www.gov.uk/guidance/fuel-finder/overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T09:53:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with J to L)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with M to O)",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: DBT goods regulation mailbox privacy notice",
       "summary": "How the Department for Business and Trade (DBT) as a ‘data controller’ processes personal data for the purposes of responding to your email query specifically sent to the Goods Regulation mailbox.",
@@ -175,26 +365,6 @@
       ]
     },
     {
-      "title": "Research: Research into governance models for Smart Data",
-      "summary": "Research into the design of a cross-economy Smart Data governance model.",
-      "link": "https://www.gov.uk/government/publications/research-into-governance-models-for-smart-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T11:17:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Assurance of sustainability reporting",
-      "summary": "This consultation seeks views on the government's proposal for greater regulatory oversight of third-party assurance services for sustainability-related financial disclosures.",
-      "link": "https://www.gov.uk/government/consultations/assurance-of-sustainability-reporting",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T11:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Capacity Market: proposal regarding locational changes of Capacity Market Units",
       "summary": "We are seeking views on a proposed change to remove the ability for the location of a CMU to be changed after Prequalification. This change is proposed to come into force in Winter 2025 for all existing and new agreements.",
       "link": "https://www.gov.uk/government/consultations/capacity-market-proposal-regarding-locational-changes-of-capacity-market-units",
@@ -247,53 +417,11 @@
       ]
     },
     {
-      "title": "Promotional material: Employment Rights Act 2025: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T17:08:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: East Anglia Two offshore wind farm: 2026 post-consent condition compliance, Planning Act 2008",
       "summary": "Decision by the Secretary of State on an application for post-consent condition compliance.",
       "link": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-2026-post-consent-condition-compliance-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-29T16:39:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UK-Vietnam FTA Committee on Trade and Sustainable Development (TSD) – joint report, 24 June 2025",
-      "summary": "Summary of the third meeting of the United Kingdom-Vietnam Free Trade Agreement (UKVFTA) Committee on Trade and Sustainable Development.",
-      "link": "https://www.gov.uk/government/publications/uk-vietnam-fta-committee-on-trade-and-sustainable-development-tsd-joint-report-24-june-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T11:51:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Impact assessment and options assessment calculator",
-      "summary": "Help for policy officials to calculate figures for impact assessments (IAs) and options assessments (OAs).",
-      "link": "https://www.gov.uk/government/publications/impact-assessment-calculator--3",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T10:57:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Minister McDonald speech at ADS annual dinner 2026",
-      "summary": "Industry Minister Chris McDonald's speech at the ADS Annual Dinner, 27 January 2026.",
-      "link": "https://www.gov.uk/government/speeches/minister-mcdonald-speech-at-ads-annual-dinner-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T10:04:57+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -319,18 +447,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Open licence returns",
-      "summary": "How to submit open licence returns on the SPIRE export licensing system.",
-      "link": "https://www.gov.uk/government/publications/open-licence-returns",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T09:30:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Domestic energy price indices",
       "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
       "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
@@ -346,121 +462,6 @@
       "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-29T09:30:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/02: updated guidance on open licence returns",
-      "summary": "Guidance updated to clarify which licences require returns and what information exporters must provide.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202602-updated-guidance-on-open-licence-returns",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T09:30:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Licensing statistics quality and methodology information",
-      "summary": "How Export Control Joint Unit (ECJU) source, process and quality check data for the creation of the strategic export controls licensing statistics.",
-      "link": "https://www.gov.uk/government/publications/strategic-export-controls-quality-and-methodology-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-29T09:30:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 29 January 2026",
-      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-29-january-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:11+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
-      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
-      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
-      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
-      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK weather",
-      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK total energy",
-      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:10+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

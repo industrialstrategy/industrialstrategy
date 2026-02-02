@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T12:57:13.027018Z",
+  "generated_at": "2026-02-02T18:42:56.999303Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Enhanced Free Trade Agreement with Switzerland round update",
+      "summary": "Update following round 9 of negotiations on an enhanced Free Trade Agreement with Switzerland.",
+      "link": "https://www.gov.uk/government/news/enhanced-free-trade-agreement-with-switzerland-round-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T18:03:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK lenders step up with £11 billion push to back British businesses",
+      "summary": "UK banks agree £11 billion lending packages to support small business growth, particularly for small and mid-sized enterprises.",
+      "link": "https://www.gov.uk/government/news/uk-lenders-step-up-with-11-billion-push-to-back-british-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-02T15:31:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Low Carbon Contracts Company and Electricity Settlements Company operational costs: 2026/27, 2027/28 and 2028/29",
+      "summary": "We're seeking views on the operational cost levies for the Low Carbon Contracts Company and the Electricity Settlements Company 2026/27, 2027/28 and 2028/29.",
+      "link": "https://www.gov.uk/government/consultations/low-carbon-contracts-company-and-electricity-settlements-company-operational-costs-202627-202728-and-202829",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-02T14:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -221,18 +253,6 @@
       ]
     },
     {
-      "title": "Billions in exports and investment deals secured as PM concludes visit to China",
-      "summary": "Billions of pounds worth of export and investment deals for the UK have been secured, as the Prime Minister wraps up his visit to China.",
-      "link": "https://www.gov.uk/government/news/billions-in-exports-and-investment-deals-secured-as-pm-concludes-visit-to-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T22:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Promotional material: Prime Minister visit to China: trade and investment factsheet",
       "summary": "Summary of the trade and investment outcomes of the Prime Minister's visit to China in January 2026.",
       "link": "https://www.gov.uk/government/publications/prime-minister-visit-to-china-trade-and-investment-factsheet",
@@ -257,6 +277,18 @@
       ]
     },
     {
+      "title": "Billions in exports and investment deals secured as PM concludes visit to China",
+      "summary": "Billions of pounds worth of export and investment deals for the UK have been secured, as the Prime Minister wraps up his visit to China.",
+      "link": "https://www.gov.uk/government/news/billions-in-exports-and-investment-deals-secured-as-pm-concludes-visit-to-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-01-30T22:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
       "title": "Trade with Norway",
       "summary": "How you import from and export to Norway.",
       "link": "https://www.gov.uk/guidance/trade-with-norway",
@@ -274,18 +306,6 @@
       "link": "https://www.gov.uk/guidance/trade-with-liechtenstein",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-30T16:57:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Export advice for SMEs doing business in the UK and overseas",
-      "summary": "This toolkit contains, advice, top tips and support for SMEs looking to grow their business in the UK and export to exciting markets such as the USA.",
-      "link": "https://www.gov.uk/government/publications/export-advice-for-smes-doing-business-in-the-uk-and-overseas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:52:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -323,18 +343,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Horizon Europe funding",
-      "summary": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
-      "link": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:19:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
     },
     {
       "title": "Corporate report: DESNZ: framework documents",
@@ -450,16 +458,6 @@
       "title": "Domestic energy price indices",
       "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
       "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-29T09:30:19+00:00",
       "matched": [],

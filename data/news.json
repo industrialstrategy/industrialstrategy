@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T12:57:45.145375Z",
+  "generated_at": "2026-02-03T18:57:39.325942Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,91 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
+      "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
+      "link": "https://www.gov.uk/government/publications/women-on-boards-executive-search-firms-signed-up-to-the-code-of-conduct",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-03T15:43:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T15:35:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Warm Homes: Local Grant – guidance for local authorities",
+      "summary": "Funding for local authorities to deliver energy performance and low carbon heating upgrades to low-income homes in England.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T15:03:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Fossil fuel price assumptions: 2025",
+      "summary": "These fossil fuel price assumptions present various assumptions for the wholesale prices of oil, gas and coal for the UK out to 2050.",
+      "link": "https://www.gov.uk/government/publications/fossil-fuel-price-assumptions-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T13:35:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Traded carbon values used for modelling purposes, 2025",
+      "summary": "This publication provides the Department for Energy Security and Net Zero’s (DESNZ) traded carbon values for modelling purposes.",
+      "link": "https://www.gov.uk/government/publications/traded-carbon-values-used-for-modelling-purposes-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T13:35:07+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Energy and emissions projections: 2024 to 2050",
+      "summary": "Projections of energy demand, greenhouse gas emissions and electricity generation from 2024 to 2050.",
+      "link": "https://www.gov.uk/government/publications/energy-and-emissions-projections-2024-to-2050",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T13:34:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Core Regulatory Skills Framework",
+      "summary": "This framework supports UK regulatory organisations and officials to improve regulatory practice.",
+      "link": "https://www.gov.uk/government/publications/core-regulatory-skills-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-03T13:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-03T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Regulations: noise emissions from outdoor equipment",
       "summary": "Guidance for manufacturers, authorised representatives, and responsible persons.",
@@ -78,16 +163,6 @@
       "link": "https://www.gov.uk/government/consultations/low-carbon-contracts-company-and-electricity-settlements-company-operational-costs-202627-202728-and-202829",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-02T14:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T12:18:53+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -333,40 +408,6 @@
       ]
     },
     {
-      "title": "Trade with Liechtenstein",
-      "summary": "How you import from and export to Liechtenstein",
-      "link": "https://www.gov.uk/guidance/trade-with-liechtenstein",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:57:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Start exporting to Africa",
-      "summary": "Find out about market opportunities, trade partnership agreements, support from the UK government, and export regulations and taxes in African countries.",
-      "link": "https://www.gov.uk/guidance/start-exporting-to-africa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:39:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Navigating NATO procurement",
-      "summary": "This guide aims to help UK companies interested in accessing NATO-funded business opportunities.",
-      "link": "https://www.gov.uk/government/publications/navigating-nato-procurement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:23:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: DESNZ: framework documents",
       "summary": "Information about how the Department for Energy Security and Net Zero (DESNZ) works with its public bodies.",
       "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
@@ -420,48 +461,6 @@
       "link": "https://www.gov.uk/government/consultations/continuing-the-warm-home-discount-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-30T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Energy bill support extended for millions of families",
-      "summary": "Warm Home Discount has been extended so millions of families will receive the £150 energy bill discount for the rest of the decade.",
-      "link": "https://www.gov.uk/government/news/energy-bill-support-extended-for-millions-of-families",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T22:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Heat Pump Ready Programme",
-      "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T17:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Decision: East Anglia Two offshore wind farm: 2026 post-consent condition compliance, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application for post-consent condition compliance.",
-      "link": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-2026-post-consent-condition-compliance-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T16:39:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Offshore Energy Strategic Environmental Assessment (SEA): An overview of the SEA process",
-      "summary": "An explanation of the offshore SEA  process, including documentation of the most recent assessment and related consultation.",
-      "link": "https://www.gov.uk/guidance/offshore-energy-strategic-environmental-assessment-sea-an-overview-of-the-sea-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:47:48+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

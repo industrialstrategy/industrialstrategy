@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T06:50:16.502146Z",
+  "generated_at": "2026-02-03T12:57:45.145375Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Regulations: noise emissions from outdoor equipment",
+      "summary": "Guidance for manufacturers, authorised representatives, and responsible persons.",
+      "link": "https://www.gov.uk/guidance/noise",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-03T11:14:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T09:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Green Home Finance Strategic Partnership: terms of reference",
+      "summary": "A partnership bringing together government, industry and other relevant experts to develop recommendations for scaling up the private Green Home Finance market.",
+      "link": "https://www.gov.uk/government/publications/green-home-finance-strategic-partnership-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-03T09:00:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Enhanced Free Trade Agreement with Switzerland round update",
       "summary": "Update following round 9 of negotiations on an enhanced Free Trade Agreement with Switzerland.",
@@ -335,16 +367,6 @@
       "ai_tags": []
     },
     {
-      "title": "Aid funded business",
-      "summary": "Guidance for UK companies on winning business from international aid and development projects.",
-      "link": "https://www.gov.uk/guidance/aid-funded-business",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:21:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: DESNZ: framework documents",
       "summary": "Information about how the Department for Energy Security and Net Zero (DESNZ) works with its public bodies.",
       "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
@@ -363,7 +385,7 @@
       "summary": "Framework agreement between the Mining Remediation Authority and the Department for Energy Security and Net Zero (DESNZ).",
       "link": "https://www.gov.uk/government/publications/mining-remediation-authority-framework-document",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-30T11:57:26+00:00",
+      "published": "2026-01-30T11:57:00+00:00",
       "matched": [
         "net zero"
       ],
@@ -440,26 +462,6 @@
       "link": "https://www.gov.uk/guidance/offshore-energy-strategic-environmental-assessment-sea-an-overview-of-the-sea-process",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-29T09:47:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Offshore Energy Strategic Environmental Assessment 5 Scoping",
-      "summary": "SEA scoping consultation on the draft plan/programme to enable future offshore energy leasing and licensing",
-      "link": "https://www.gov.uk/government/consultations/offshore-energy-strategic-environmental-assessment-5-scoping",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:39:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-29T09:30:19+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

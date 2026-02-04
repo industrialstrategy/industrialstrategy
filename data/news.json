@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T18:57:39.325942Z",
+  "generated_at": "2026-02-04T01:52:59.058243Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Government to unlock advanced nuclear to grow economy",
+      "summary": "Government publishes Advanced Nuclear Framework to get pioneering nuclear technology off the ground.",
+      "link": "https://www.gov.uk/government/news/government-to-unlock-advanced-nuclear-to-grow-economy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T00:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
     {
       "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
       "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
@@ -451,16 +463,6 @@
       "link": "https://www.gov.uk/government/publications/capacity-market-rules",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-01-30T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Continuing the Warm Home Discount Scheme",
-      "summary": "We're seeking views on the design of the Warm Home Discount scheme from winter 2026 to 2027 to 2030 to 2031.",
-      "link": "https://www.gov.uk/government/consultations/continuing-the-warm-home-discount-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-30T09:30:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

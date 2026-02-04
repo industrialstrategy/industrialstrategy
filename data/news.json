@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T06:49:45.620588Z",
+  "generated_at": "2026-02-04T12:57:22.814752Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,136 @@
   "count": 40,
   "items": [
     {
+      "title": "Make Work Pay: fire and rehire – changes to expenses, benefits, and shift patterns",
+      "summary": "We're seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-fire-and-rehire-changes-to-expenses-benefits-and-shift-patterns",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-04T12:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Heat Pump Ready Programme",
+      "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T12:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Make Work Pay: recognition code of practice and e-balloting unfair practices",
+      "summary": "We are seeking views on the revised code of practice during recognition and derecognition processes and on proposals on unfair practices in electronic ballots.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-recognition-code-of-practice-and-e-balloting-unfair-practices",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-04T11:45:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK and Europe sign historic pact to drive clean energy future",
+      "summary": "Energy Secretary Ed Miliband signs a historic clean energy security pact.",
+      "link": "https://www.gov.uk/government/news/uk-and-europe-sign-historic-pact-to-drive-clean-energy-future",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T11:31:53+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Notice: Building the North Seas’ power hub for a resilient and competitive Europe: North Sea Summit declarations 2026",
+      "summary": "Declarations between the UK and North Seas countries at the 3rd North Sea Summit, Hamburg, Germany, January 2026.",
+      "link": "https://www.gov.uk/government/publications/building-the-north-seas-power-hub-for-a-resilient-and-competitive-europe-north-sea-summit-declarations-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T11:31:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Civil nuclear fuel use: statement",
+      "summary": "Statement outlining the UK Government’s guiding principles for civil nuclear fuel use to support energy security, new reactor deployment, and long‑term planning.",
+      "link": "https://www.gov.uk/government/publications/civil-nuclear-fuel-use-statement",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T10:41:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Guidance: Advanced nuclear pipeline: how to apply",
+      "summary": "How to apply to the United Kingdom Advanced Nuclear Pipeline for advanced nuclear projects.",
+      "link": "https://www.gov.uk/government/publications/advanced-nuclear-pipeline-how-to-apply",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T10:41:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Policy paper: Advanced Nuclear Technologies",
+      "summary": "Information about Advanced Nuclear Technologies, previously known as Small Modular Reactors.",
+      "link": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T10:40:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear",
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Policy paper: Advanced nuclear framework",
+      "summary": "This Framework is designed to support the development, commercialisation and deployment of private innovative nuclear projects within the UK energy system.",
+      "link": "https://www.gov.uk/government/publications/advanced-nuclear-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T10:40:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: January 2026",
+      "summary": "Statistics and analysis on the construction sector for January 2026.",
+      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-04T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Contracts for Difference: reforms to the Clean Industry Bonus, Allocation Round 8",
+      "summary": "We’re seeking views on regulatory reforms to the Clean Industry Bonus ahead of Allocation Round 8 of the Contracts for Difference scheme.",
+      "link": "https://www.gov.uk/government/consultations/contracts-for-difference-reforms-to-the-clean-industry-bonus-allocation-round-8",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T09:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Government to unlock advanced nuclear to grow economy",
       "summary": "Government publishes Advanced Nuclear Framework to get pioneering nuclear technology off the ground.",
       "link": "https://www.gov.uk/government/news/government-to-unlock-advanced-nuclear-to-grow-economy",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T00:00:04+00:00",
+      "published": "2026-02-04T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -210,48 +335,6 @@
       "ai_tags": []
     },
     {
-      "title": "Access the latest fuel prices and forecourt data via API or email",
-      "summary": "Use the Fuel Finder service to get the latest retail fuel prices and forecourt details across the UK.",
-      "link": "https://www.gov.uk/guidance/access-the-latest-fuel-prices-and-forecourt-data-via-api-or-email",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T09:54:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "How to report your fuel prices and forecourt details",
-      "summary": "Guidance for Motor Fuel Traders (MFTs) explaining how to update fuel prices and manage details of forecourts using Fuel Finder.",
-      "link": "https://www.gov.uk/guidance/fuel-finder",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T09:53:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Reporting your fuel prices",
-      "summary": "How to report fuel prices.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/reporting-your-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T09:53:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Overview",
-      "summary": "About Fuel Finder, who needs to use it and what you need to do.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T09:53:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
@@ -382,90 +465,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Research: Export Wins to China: 2025, Quarter 1 to Quarter 3 confirmed results",
-      "summary": "UK export deals, contracts, sales, or agreements with China resulting from export promotion support by the Department for Business and Trade (DBT) confirmed in 2025 financial year, quarter 1 to quarter 3.",
-      "link": "https://www.gov.uk/government/publications/export-wins-to-china-2025-quarter-1-to-quarter-3-confirmed-results",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T22:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Billions in exports and investment deals secured as PM concludes visit to China",
-      "summary": "Billions of pounds worth of export and investment deals for the UK have been secured, as the Prime Minister wraps up his visit to China.",
-      "link": "https://www.gov.uk/government/news/billions-in-exports-and-investment-deals-secured-as-pm-concludes-visit-to-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T22:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Trade with Norway",
-      "summary": "How you import from and export to Norway.",
-      "link": "https://www.gov.uk/guidance/trade-with-norway",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T16:59:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Corporate report: DESNZ: framework documents",
-      "summary": "Information about how the Department for Energy Security and Net Zero (DESNZ) works with its public bodies.",
-      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-30T11:58:29+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Corporate report: Mining Remediation Authority framework document",
-      "summary": "Framework agreement between the Mining Remediation Authority and the Department for Energy Security and Net Zero (DESNZ).",
-      "link": "https://www.gov.uk/government/publications/mining-remediation-authority-framework-document",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-30T11:57:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Capacity Market: proposal regarding locational changes of Capacity Market Units",
-      "summary": "We are seeking views on a proposed change to remove the ability for the location of a CMU to be changed after Prequalification. This change is proposed to come into force in Winter 2025 for all existing and new agreements.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-proposal-regarding-locational-changes-of-capacity-market-units",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-30T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Capacity Market Rules",
-      "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-rules",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-01-30T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T12:57:22.814752Z",
+  "generated_at": "2026-02-04T18:48:46.618824Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -23,10 +23,54 @@
       "summary": "We're seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-fire-and-rehire-changes-to-expenses-benefits-and-shift-patterns",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-04T12:00:02+00:00",
+      "published": "2026-02-04T16:31:53+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-04T16:13:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: September 2025",
+      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at September 2025",
+      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-04T14:25:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES): Round 11",
+      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
+      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T13:34:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Clean energy funding to be tied to stronger workers’ rights",
+      "summary": "Offshore wind firms must sign up to a ‘Fair Work Charter’ to participate in government renewables auctions.",
+      "link": "https://www.gov.uk/government/news/clean-energy-funding-to-be-tied-to-stronger-workers-rights",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-04T13:30:28+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
     },
     {
       "title": "Notice: Heat Pump Ready Programme",
@@ -128,7 +172,7 @@
       "summary": "Statistics and analysis on the construction sector for January 2026.",
       "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-january-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-04T09:30:03+00:00",
+      "published": "2026-02-04T09:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -231,16 +275,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-03T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Regulations: noise emissions from outdoor equipment",
       "summary": "Guidance for manufacturers, authorised representatives, and responsible persons.",
       "link": "https://www.gov.uk/guidance/noise",
@@ -310,26 +344,6 @@
       "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-02T12:13:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Report your fuel prices and forecourt details",
-      "summary": "Use the Fuel Finder service to report fuel prices and manage details for your forecourts.",
-      "link": "https://www.gov.uk/guidance/report-your-fuel-prices-and-forecourt-details",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T09:55:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Report an error in fuel prices or forecourt details",
-      "summary": "Use the Fuel Finder service to report any issue you notice with a forecourt’s information.",
-      "link": "https://www.gov.uk/guidance/report-an-error-in-fuel-prices-or-forecourt-details",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T09:55:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -448,18 +462,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-goods-regulation-mailbox-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-01-31T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Promotional material: Prime Minister visit to China: trade and investment factsheet",
-      "summary": "Summary of the trade and investment outcomes of the Prime Minister's visit to China in January 2026.",
-      "link": "https://www.gov.uk/government/publications/prime-minister-visit-to-china-trade-and-investment-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-30T22:30:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

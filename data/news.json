@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T06:59:12.426414Z",
+  "generated_at": "2026-02-05T12:59:49.556878Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,139 @@
   "count": 40,
   "items": [
     {
+      "title": "New UK-US partnership to drive investment and bolster critical minerals supply chains",
+      "summary": "The UK and US have signed a Memorandum of Understanding on critical minerals in Washington DC.",
+      "link": "https://www.gov.uk/government/news/new-uk-us-partnership-to-drive-investment-and-bolster-critical-minerals-supply-chains",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T12:46:15+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "UK and US sign Memorandum of Understanding on critical minerals",
+      "summary": "The UK and US signed a Memorandum of Understanding on critical minerals in Washington DC on 4 February.",
+      "link": "https://www.gov.uk/government/news/uk-and-us-sign-memorandum-of-understanding-on-critical-minerals",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T12:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: strengthening the law on tipping",
+      "summary": "We are seeking views on strengthening the law on tipping.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-strengthening-the-law-on-tipping",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T12:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: improving access to flexible working",
+      "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T11:45:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Feed-in Tariffs: 2026 modification to the standard conditions of electricity supply licences",
+      "summary": "The Secretary of State is making modifications to the standard conditions of electricity supply licences.",
+      "link": "https://www.gov.uk/government/publications/feed-in-tariffs-2026-modification-to-the-standard-conditions-of-electricity-supply-licences",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T11:28:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notice: registration of imports of creamy/white limestone originating from Portugal",
+      "summary": "Trade remedies notice published by the Secretary of State for Business and Trade relating to the registration of imports of creamy/white limestone from Portugal.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-registration-of-imports-of-creamywhite-limestone-originating-from-portugal",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Secretary of State keynote: UK Trade and Export Finance Forum",
+      "summary": "Speech delivered by the Business Secretary, the RT Hon Peter Kyle, at the 2026 UK Trade and Export Finance Forum.",
+      "link": "https://www.gov.uk/government/speeches/secretary-of-state-keynote-uk-trade-and-export-finance-forum",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T10:16:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Andy King appointed as Regulator of Community Interest Companies",
+      "summary": "Business Secretary Peter Kyle confirms Andy King as CIC Regulator.",
+      "link": "https://www.gov.uk/government/news/andy-king-appointed-as-regulator-of-community-interest-companies--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T10:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
+      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T10:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): non-pipeline transport",
+      "summary": "We're seeking views on policy proposals to support the deployment of domestic non-pipeline transport (NPT) projects.",
+      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-non-pipeline-transport",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T09:58:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Final UK greenhouse gas emissions statistics: 1990 to 2024",
+      "summary": "Final estimates of UK territorial greenhouse gas emissions.",
+      "link": "https://www.gov.uk/government/statistics/final-uk-greenhouse-gas-emissions-statistics-1990-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK exporters boost economy, as new study reveals major impact of export credit on UK industry",
+      "summary": "Oxford Economics study demonstrates the significant impact of UKEF's support on businesses and local supply chains.",
+      "link": "https://www.gov.uk/government/news/uk-exporters-boost-economy-as-new-study-reveals-major-impact-of-export-credit-on-uk-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T07:48:00+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains",
+        "Trade"
+      ]
+    },
+    {
       "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
       "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
       "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
@@ -35,7 +168,7 @@
       "summary": "£74 million for clean energy upgrades to cut bills for public buildings and create savings for frontline services.",
       "link": "https://www.gov.uk/government/news/clean-energy-upgrades-for-hospitals-and-military-sites",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-05T00:01:04+00:00",
+      "published": "2026-02-05T00:01:00+00:00",
       "matched": [
         "clean energy"
       ],
@@ -281,16 +414,6 @@
       ]
     },
     {
-      "title": "Research: Energy and emissions projections: 2024 to 2050",
-      "summary": "Projections of energy demand, greenhouse gas emissions and electricity generation from 2024 to 2050.",
-      "link": "https://www.gov.uk/government/publications/energy-and-emissions-projections-2024-to-2050",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T13:34:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Core Regulatory Skills Framework",
       "summary": "This framework supports UK regulatory organisations and officials to improve regulatory practice.",
       "link": "https://www.gov.uk/government/publications/core-regulatory-skills-framework",
@@ -311,26 +434,6 @@
       "ai_tags": [
         "Manufacturing"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Green Home Finance Strategic Partnership: terms of reference",
-      "summary": "A partnership bringing together government, industry and other relevant experts to develop recommendations for scaling up the private Green Home Finance market.",
-      "link": "https://www.gov.uk/government/publications/green-home-finance-strategic-partnership-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T09:00:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Enhanced Free Trade Agreement with Switzerland round update",
@@ -355,117 +458,11 @@
       "ai_tags": []
     },
     {
-      "title": "Low Carbon Contracts Company and Electricity Settlements Company operational costs: 2026/27, 2027/28 and 2028/29",
-      "summary": "We're seeking views on the operational cost levies for the Low Carbon Contracts Company and the Electricity Settlements Company 2026/27, 2027/28 and 2028/29.",
-      "link": "https://www.gov.uk/government/consultations/low-carbon-contracts-company-and-electricity-settlements-company-operational-costs-202627-202728-and-202829",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T14:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with J to L)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with M to O)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:08+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

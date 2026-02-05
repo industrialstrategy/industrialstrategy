@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T12:59:49.556878Z",
+  "generated_at": "2026-02-05T18:47:22.553702Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,92 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Corporate report: DESNZ: framework documents",
+      "summary": "Information about how the Department for Energy Security and Net Zero (DESNZ) works with its public bodies.",
+      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T17:22:57+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Corporate report: Ofgem framework document",
+      "summary": "This framework agreement is between the Department for Energy Security and Net Zero and Ofgem.",
+      "link": "https://www.gov.uk/government/publications/ofgem-framework-document",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T17:20:00+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Standard: UK Low Carbon Hydrogen Standard",
+      "summary": "The UK Low Carbon Hydrogen Standard for hydrogen producers to use for greenhouse gas emissions reporting, including a calculator tool.",
+      "link": "https://www.gov.uk/government/publications/uk-low-carbon-hydrogen-standard-emissions-reporting-and-sustainability-criteria",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T16:55:35+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on glass fibre products from China",
+      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the anti-dumping duty on glass fibre products from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-glass-fibre-products-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T16:13:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on glass fibre products from China",
+      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the countervailing duty on glass fibre products from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-glass-fibre-products-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T16:12:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Decision: UK-Andean countries committee documents",
+      "summary": "Decisions, documents and meeting minutes from UK-Andean countries committees.",
+      "link": "https://www.gov.uk/government/publications/uk-andean-countries-committee-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T16:07:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T13:44:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "New UK-US partnership to drive investment and bolster critical minerals supply chains",
       "summary": "The UK and US have signed a Memorandum of Understanding on critical minerals in Washington DC.",
@@ -369,51 +455,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T15:35:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Warm Homes: Local Grant – guidance for local authorities",
-      "summary": "Funding for local authorities to deliver energy performance and low carbon heating upgrades to low-income homes in England.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T15:03:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Fossil fuel price assumptions: 2025",
-      "summary": "These fossil fuel price assumptions present various assumptions for the wholesale prices of oil, gas and coal for the UK out to 2050.",
-      "link": "https://www.gov.uk/government/publications/fossil-fuel-price-assumptions-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T13:35:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Traded carbon values used for modelling purposes, 2025",
-      "summary": "This publication provides the Department for Energy Security and Net Zero’s (DESNZ) traded carbon values for modelling purposes.",
-      "link": "https://www.gov.uk/government/publications/traded-carbon-values-used-for-modelling-purposes-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-03T13:35:07+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Core Regulatory Skills Framework",
       "summary": "This framework supports UK regulatory organisations and officials to improve regulatory practice.",
       "link": "https://www.gov.uk/government/publications/core-regulatory-skills-framework",
@@ -433,40 +474,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Manufacturing"
-      ]
-    },
-    {
-      "title": "Enhanced Free Trade Agreement with Switzerland round update",
-      "summary": "Update following round 9 of negotiations on an enhanced Free Trade Agreement with Switzerland.",
-      "link": "https://www.gov.uk/government/news/enhanced-free-trade-agreement-with-switzerland-round-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T18:03:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "UK lenders step up with £11 billion push to back British businesses",
-      "summary": "UK banks agree £11 billion lending packages to support small business growth, particularly for small and mid-sized enterprises.",
-      "link": "https://www.gov.uk/government/news/uk-lenders-step-up-with-11-billion-push-to-back-british-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T15:31:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-02T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

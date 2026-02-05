@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T18:48:46.618824Z",
+  "generated_at": "2026-02-05T01:54:22.245033Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,32 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
+      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
+      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-05T00:01:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Clean energy upgrades for hospitals and military sites",
+      "summary": "£74 million for clean energy upgrades to cut bills for public buildings and create savings for frontline services.",
+      "link": "https://www.gov.uk/government/news/clean-energy-upgrades-for-hospitals-and-military-sites",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-05T00:01:04+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
     {
       "title": "Make Work Pay: fire and rehire – changes to expenses, benefits, and shift patterns",
       "summary": "We're seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
@@ -339,16 +365,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
-      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-02T12:13:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
@@ -450,18 +466,6 @@
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-02T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: DBT goods regulation mailbox privacy notice",
-      "summary": "How the Department for Business and Trade (DBT) as a ‘data controller’ processes personal data for the purposes of responding to your email query specifically sent to the Goods Regulation mailbox.",
-      "link": "https://www.gov.uk/government/publications/dbt-goods-regulation-mailbox-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-01-31T09:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

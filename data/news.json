@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T12:57:11.354992Z",
+  "generated_at": "2026-02-06T18:48:10.538854Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Lynemouth Power Station: agreement between DESNZ and EP Lynemouth Ltd",
+      "summary": "Government has agreed Heads of Terms with Lynemouth Power Station.",
+      "link": "https://www.gov.uk/government/publications/lynemouth-power-station-agreement-between-desnz-and-ep-lynemouth-ltd",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-06T16:54:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK ETS: Activity level report template",
+      "summary": "For operators to use to submit activity level reports to their regulator.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-06T15:09:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Training on export control compliance",
+      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
+      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-06T13:17:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Make Work Pay: modernising the Agency Work Regulatory Framework",
       "summary": "We are seeking views on proposals to improve the framework which governs the temporary labour market to better protect workers while minimising business burdens.",
@@ -342,16 +374,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-04T16:13:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES): Round 11",
       "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
       "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
@@ -454,28 +476,6 @@
       "link": "https://www.gov.uk/government/publications/advanced-nuclear-framework",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-04T10:40:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Contracts for Difference: reforms to the Clean Industry Bonus, Allocation Round 8",
-      "summary": "We’re seeking views on regulatory reforms to the Clean Industry Bonus ahead of Allocation Round 8 of the Contracts for Difference scheme.",
-      "link": "https://www.gov.uk/government/consultations/contracts-for-difference-reforms-to-the-clean-industry-bonus-allocation-round-8",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T09:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government to unlock advanced nuclear to grow economy",
-      "summary": "Government publishes Advanced Nuclear Framework to get pioneering nuclear technology off the ground.",
-      "link": "https://www.gov.uk/government/news/government-to-unlock-advanced-nuclear-to-grow-economy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T00:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

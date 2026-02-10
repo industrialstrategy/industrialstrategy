@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T07:03:58.288631Z",
+  "generated_at": "2026-02-10T13:10:10.488528Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,65 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Local net zero: support for local authorities and communities",
+      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
+      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-10T12:00:00+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation",
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-10T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New auction delivers unprecedented clean, homegrown power",
+      "summary": "Record solar, onshore wind, and tidal projects - building on last month’s offshore wind success - deliver Britain’s biggest-ever clean energy auction.",
+      "link": "https://www.gov.uk/government/news/new-auction-delivers-unprecedented-clean-homegrown-power",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-10T07:54:00+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Correspondence: Capacity Market auction parameters: letter from DESNZ to NESO, February 2026",
+      "summary": "Letter confirming adjustments to the parameters for the Capacity Market auctions for delivery years 2026 to 2027 and 2029 to 2030.",
+      "link": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-10T07:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 7: results",
+      "summary": "Outcome of Contracts for Difference (CfD) Allocation Round 7 which commenced on 24 July 2025.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-results",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-10T06:56:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Community energy investment to build community wealth and power",
       "summary": "Biggest ever public investment in community energy will cut bills and create revenue for community centres, social clubs and places of worship.",
@@ -401,64 +460,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
-      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
-      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-05T10:00:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Carbon capture, usage and storage (CCUS): non-pipeline transport",
-      "summary": "We're seeking views on policy proposals to support the deployment of domestic non-pipeline transport (NPT) projects.",
-      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-non-pipeline-transport",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-05T09:58:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Final UK greenhouse gas emissions statistics: 1990 to 2024",
-      "summary": "Final estimates of UK territorial greenhouse gas emissions.",
-      "link": "https://www.gov.uk/government/statistics/final-uk-greenhouse-gas-emissions-statistics-1990-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-05T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Clean energy upgrades for hospitals and military sites",
-      "summary": "£74 million for clean energy upgrades to cut bills for public buildings and create savings for frontline services.",
-      "link": "https://www.gov.uk/government/news/clean-energy-upgrades-for-hospitals-and-military-sites",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-05T00:01:00+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Clean energy funding to be tied to stronger workers’ rights",
-      "summary": "Offshore wind firms must sign up to a ‘Fair Work Charter’ to participate in government renewables auctions.",
-      "link": "https://www.gov.uk/government/news/clean-energy-funding-to-be-tied-to-stronger-workers-rights",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T13:30:28+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
     }
   ]
 }

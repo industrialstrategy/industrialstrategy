@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T13:06:15.069746Z",
+  "generated_at": "2026-02-10T05:53:21.993208Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,76 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Community energy investment to build community wealth and power",
+      "summary": "Biggest ever public investment in community energy will cut bills and create revenue for community centres, social clubs and places of worship.",
+      "link": "https://www.gov.uk/government/news/community-energy-investment-to-build-community-wealth-and-power",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-09T22:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Local Power Plan",
+      "summary": "The Local Power Plan ensures that communities directly benefit from the energy they help to produce.",
+      "link": "https://www.gov.uk/government/publications/local-power-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-09T22:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",
+      "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-09T16:20:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-09T16:20:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-09T16:19:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-09T14:37:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Amending the ECO4 Order to allow cost recovery via grant funding",
+      "summary": "We are seeking views on making a small change to the Energy Company Obligation (ECO4) Order, to specify which government grants cannot fund the scheme.",
+      "link": "https://www.gov.uk/government/consultations/amending-the-eco4-order-to-allow-cost-recovery-via-grant-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-09T14:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES)",
       "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
@@ -363,33 +433,6 @@
       "ai_tags": []
     },
     {
-      "title": "UK exporters boost economy, as new study reveals major impact of export credit on UK industry",
-      "summary": "Oxford Economics study demonstrates the significant impact of UKEF's support on businesses and local supply chains.",
-      "link": "https://www.gov.uk/government/news/uk-exporters-boost-economy-as-new-study-reveals-major-impact-of-export-credit-on-uk-industry",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-05T07:48:00+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains",
-        "Trade"
-      ]
-    },
-    {
-      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
-      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
-      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-05T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Clean energy upgrades for hospitals and military sites",
       "summary": "£74 million for clean energy upgrades to cut bills for public buildings and create savings for frontline services.",
       "link": "https://www.gov.uk/government/news/clean-energy-upgrades-for-hospitals-and-military-sites",
@@ -404,16 +447,6 @@
       ]
     },
     {
-      "title": "Make Work Pay: fire and rehire – changes to expenses, benefits, and shift patterns",
-      "summary": "We're seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-fire-and-rehire-changes-to-expenses-benefits-and-shift-patterns",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-04T16:31:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Clean energy funding to be tied to stronger workers’ rights",
       "summary": "Offshore wind firms must sign up to a ‘Fair Work Charter’ to participate in government renewables auctions.",
       "link": "https://www.gov.uk/government/news/clean-energy-funding-to-be-tied-to-stronger-workers-rights",
@@ -425,54 +458,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Clean energy"
-      ]
-    },
-    {
-      "title": "Notice: Heat Pump Ready Programme",
-      "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T12:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "UK and Europe sign historic pact to drive clean energy future",
-      "summary": "Energy Secretary Ed Miliband signs a historic clean energy security pact.",
-      "link": "https://www.gov.uk/government/news/uk-and-europe-sign-historic-pact-to-drive-clean-energy-future",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T11:31:53+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Notice: Building the North Seas’ power hub for a resilient and competitive Europe: North Sea Summit declarations 2026",
-      "summary": "Declarations between the UK and North Seas countries at the 3rd North Sea Summit, Hamburg, Germany, January 2026.",
-      "link": "https://www.gov.uk/government/publications/building-the-north-seas-power-hub-for-a-resilient-and-competitive-europe-north-sea-summit-declarations-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T11:31:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Civil nuclear fuel use: statement",
-      "summary": "Statement outlining the UK Government’s guiding principles for civil nuclear fuel use to support energy security, new reactor deployment, and long‑term planning.",
-      "link": "https://www.gov.uk/government/publications/civil-nuclear-fuel-use-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-04T10:41:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T13:06:40.358665Z",
+  "generated_at": "2026-02-11T19:02:40.982522Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,48 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-11T16:38:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Training on export control compliance",
+      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
+      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-11T15:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Regulations: heat networks (metering and billing)",
+      "summary": "Guidance for heat suppliers.",
+      "link": "https://www.gov.uk/guidance/heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-11T14:28:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Local Power Plan",
+      "summary": "The Local Power Plan ensures that communities directly benefit from the energy they help to produce.",
+      "link": "https://www.gov.uk/government/publications/local-power-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-11T13:31:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Reformed National Pricing (RNP): NESO calls for input on proposed electricity market reforms",
       "summary": "The National Energy System Operator (NESO) has published a Call for Input (CfI) on proposed electricity market reforms to support its efficient operation and future development.",
@@ -182,16 +224,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Local Power Plan",
-      "summary": "The Local Power Plan ensures that communities directly benefit from the energy they help to produce.",
-      "link": "https://www.gov.uk/government/publications/local-power-plan",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-09T22:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Horizon scandal.",
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2025",
@@ -302,18 +334,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Training on export control compliance",
-      "summary": "Courses, seminars, workshops and webinars to help exporters understand their obligations under export control legislation.",
-      "link": "https://www.gov.uk/government/publications/export-control-training-bulletin",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-06T13:17:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Make Work Pay: modernising the Agency Work Regulatory Framework",
       "summary": "We are seeking views on proposals to improve the framework which governs the temporary labour market to better protect workers while minimising business burdens.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-modernising-the-agency-work-regulatory-framework",
@@ -382,20 +402,6 @@
       "ai_tags": []
     },
     {
-      "title": "Corporate report: DESNZ: framework documents",
-      "summary": "Information about how the Department for Energy Security and Net Zero (DESNZ) works with its public bodies.",
-      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-05T17:22:57+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
       "title": "Notice: Trade remedies notices: anti-dumping duty on glass fibre products from China",
       "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the anti-dumping duty on glass fibre products from China.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-glass-fibre-products-from-china",
@@ -442,16 +448,6 @@
       "ai_tags": [
         "Supply chains"
       ]
-    },
-    {
-      "title": "UK and US sign Memorandum of Understanding on critical minerals",
-      "summary": "The UK and US signed a Memorandum of Understanding on critical minerals in Washington DC on 4 February.",
-      "link": "https://www.gov.uk/government/news/uk-and-us-sign-memorandum-of-understanding-on-critical-minerals",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-05T12:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T07:02:08.649525Z",
+  "generated_at": "2026-02-12T13:04:51.949576Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Green Heat Network Fund (GHNF): Round 11 application guidance",
+      "summary": "Capital grant support is available for the development of new and existing low-carbon heat networks. This page contains guidance and details of how to apply via Triple Point.",
+      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-12T12:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Warm Home Discount (WHD): cost recovery",
+      "summary": "We are seeking views on whether WHD costs should move from standing charges to the per-unit rate.",
+      "link": "https://www.gov.uk/government/consultations/warm-home-discount-whd-cost-recovery",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-12T11:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Government response to the Post Office Horizon IT Inquiry report (volume 1)",
+      "summary": "The government's response to volume 1 of the Post Office Horizon IT Inquiry report.",
+      "link": "https://www.gov.uk/government/publications/government-response-to-the-post-office-horizon-it-inquiry-report-volume-1",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-12T11:06:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on ironing boards from China",
+      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the anti-dumping duty on ironing boards from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-ironing-boards-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-12T11:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-12T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Vote of confidence in UK as Singapore firm moves HQ to Liverpool",
       "summary": "Vote of confidence in UK as Singaporean firm moves HQ to Liverpool",
@@ -314,36 +366,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: Heat networks pipelines",
-      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-09T10:00:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Lynemouth Power Station: agreement between DESNZ and EP Lynemouth Ltd",
-      "summary": "Government has agreed Heads of Terms with Lynemouth Power Station.",
-      "link": "https://www.gov.uk/government/publications/lynemouth-power-station-agreement-between-desnz-and-ep-lynemouth-ltd",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-06T16:54:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK ETS: Activity level report template",
-      "summary": "For operators to use to submit activity level reports to their regulator.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-06T15:09:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Make Work Pay: modernising the Agency Work Regulatory Framework",
       "summary": "We are seeking views on proposals to improve the framework which governs the temporary labour market to better protect workers while minimising business burdens.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-modernising-the-agency-work-regulatory-framework",
@@ -422,28 +444,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: countervailing duty on glass fibre products from China",
-      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the countervailing duty on glass fibre products from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-glass-fibre-products-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-05T16:12:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Decision: UK-Andean countries committee documents",
-      "summary": "Decisions, documents and meeting minutes from UK-Andean countries committees.",
-      "link": "https://www.gov.uk/government/publications/uk-andean-countries-committee-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-05T16:07:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

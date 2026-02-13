@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T19:02:53.494142Z",
+  "generated_at": "2026-02-13T02:02:54.054135Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: toy safety",
+      "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-toy-safety",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-13T00:05:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: DESNZ public appointments: privacy notice",
       "summary": "How we will use your personal data and what your rights are.",
@@ -436,18 +446,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on glass fibre products from China",
-      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the anti-dumping duty on glass fibre products from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-glass-fibre-products-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-05T16:13:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

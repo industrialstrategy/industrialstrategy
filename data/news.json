@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T12:57:15.781710Z",
+  "generated_at": "2026-02-13T18:47:27.091899Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Regulator dashboard",
+      "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
+      "link": "https://www.gov.uk/government/publications/regulator-dashboard",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-13T17:20:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2025)",
+      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP30 in Belém.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-13T16:12:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Space based solar power",
       "summary": "Studies on the technical feasibility, costs, economics of space‑based solar power (SBSP) and potential early‑market adoption pathways for to help deliver the UK’s net zero policy.",
@@ -344,16 +364,6 @@
       "ai_tags": []
     },
     {
-      "title": "Community energy investment to build community wealth and power",
-      "summary": "Biggest ever public investment in community energy will cut bills and create revenue for community centres, social clubs and places of worship.",
-      "link": "https://www.gov.uk/government/news/community-energy-investment-to-build-community-wealth-and-power",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-09T22:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Horizon scandal.",
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2025",
@@ -440,16 +450,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Policy paper: UK support to Ukraine: factsheet",
-      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
-      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-06T10:56:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

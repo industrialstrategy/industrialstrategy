@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T13:00:43.701595Z",
+  "generated_at": "2026-02-16T18:42:53.839009Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,90 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Capacity Market reform: Multiple Price Capacity Market proposals – update",
+      "summary": "Update on proposals for a Multiple Price Capacity Market (MPCM).",
+      "link": "https://www.gov.uk/government/publications/capacity-market-reform-multiple-price-capacity-market-proposals-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T16:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Capacity Market: proposed changes for Prequalification 2026",
+      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
+      "link": "https://www.gov.uk/government/consultations/capacity-market-proposed-changes-for-prequalification-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T16:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Capacity Market: proposals to integrate low carbon technologies and enhance delivery assurance ahead of Prequalification 2026",
+      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
+      "link": "https://www.gov.uk/government/consultations/capacity-market-proposals-to-integrate-low-carbon-technologies-and-enhance-delivery-assurance-ahead-of-prequalification-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T16:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Energy Savings Opportunity Scheme (ESOS)",
+      "summary": "Find out if you qualify for ESOS and how to comply.",
+      "link": "https://www.gov.uk/guidance/energy-savings-opportunity-scheme-esos",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T15:52:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Non-Executive Directors Appointed to GBE-N Board",
+      "summary": "GBE-N are pleased to announce the appointment of new non-executive directors to the GBE-N Board.",
+      "link": "https://www.gov.uk/government/news/non-executive-directors-appointed-to-gbe-n-board",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T15:36:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Heat Network Technical Assurance Scheme (HNTAS): technical feedback process",
+      "summary": "We’re seeking feedback on the contents of the draft HNTAS Code documents, the Heat Network Technical Standard (TS1) and the Metering and Monitoring Standard (MMS).",
+      "link": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T14:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Heat networks regulation: technical standards",
+      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T14:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK and California deepen ties on clean energy to boost investment",
+      "summary": "Energy Secretary Ed Miliband and California Governor Gavin Newsom sign new  agreement in London, building on decades of cooperation on climate and clean energy.",
+      "link": "https://www.gov.uk/government/news/uk-and-california-deepen-ties-on-clean-energy-to-boost-investment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T13:00:00+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
     {
       "title": "Oil and gas: environmental alert notices",
       "summary": "Published environmental alert notices issued in order to raise awareness of any environmental issues on the United Kingdom Continental Shelf (UKCS).",
@@ -175,16 +259,6 @@
       "ai_tags": []
     },
     {
-      "title": "Warm Home Discount (WHD): cost recovery",
-      "summary": "We are seeking views on whether WHD costs should move from standing charges to the per-unit rate.",
-      "link": "https://www.gov.uk/government/consultations/warm-home-discount-whd-cost-recovery",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-12T11:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Government response to the Post Office Horizon IT Inquiry report (volume 1)",
       "summary": "The government's response to volume 1 of the Post Office Horizon IT Inquiry report.",
       "link": "https://www.gov.uk/government/publications/government-response-to-the-post-office-horizon-it-inquiry-report-volume-1",
@@ -205,16 +279,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-12T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Vote of confidence in UK as Singapore firm moves HQ to Liverpool",
@@ -249,36 +313,6 @@
       ]
     },
     {
-      "title": "Regulations: heat networks (metering and billing)",
-      "summary": "Guidance for heat suppliers.",
-      "link": "https://www.gov.uk/guidance/heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-11T14:28:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Local Power Plan",
-      "summary": "The Local Power Plan ensures that communities directly benefit from the energy they help to produce.",
-      "link": "https://www.gov.uk/government/publications/local-power-plan",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-11T13:31:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Reformed National Pricing (RNP): NESO calls for input on proposed electricity market reforms",
-      "summary": "The National Energy System Operator (NESO) has published a Call for Input (CfI) on proposed electricity market reforms to support its efficient operation and future development.",
-      "link": "https://www.gov.uk/government/publications/reformed-national-pricing-rnp-neso-calls-for-input-on-proposed-electricity-market-reforms",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-11T12:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Horizon Shortfall Scheme Appeals: proving your identity",
       "summary": "Guidance on how to prove your identity and the relevant ID verification checks needed as part of the Horizon Shortfall Scheme Appeals process.",
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-proving-your-identity",
@@ -289,41 +323,11 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
-      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
-      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-11T10:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: UK-Central America committee documents",
       "summary": "Decisions, documents and meeting minutes from UK-Central America countries committees.",
       "link": "https://www.gov.uk/government/publications/uk-central-america-committee-documents",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-10T17:18:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T17:15:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Outer Dowsing Offshore Wind Farm: development consent order, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application by GT R4 Limited for an offshore wind farm located approximately 54 km off the Lincolnshire coast in the southern North Sea.",
-      "link": "https://www.gov.uk/government/publications/outer-dowsing-offshore-wind-farm-development-consent-order-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T16:50:47+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

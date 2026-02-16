@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T07:03:43.154403Z",
+  "generated_at": "2026-02-16T13:00:43.701595Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,64 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: environmental alert notices",
+      "summary": "Published environmental alert notices issued in order to raise awareness of any environmental issues on the United Kingdom Continental Shelf (UKCS).",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-alert-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T12:22:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): non-pipeline transport",
+      "summary": "We're seeking views on policy proposals to support the deployment of domestic non-pipeline transport (NPT) projects.",
+      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-non-pipeline-transport",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T11:09:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK–California climate and energy agreement",
+      "summary": "Memorandum of Understanding (MOU) between the UK and the State of California on climate, clean energy and environment cooperation.",
+      "link": "https://www.gov.uk/government/publications/uk-california-climate-and-energy-agreement",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T11:00:42+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T10:16:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-16T09:00:04+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
     {
       "title": "Research: Regulator dashboard",
       "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
@@ -303,65 +361,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Local net zero: support for local authorities and communities",
-      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
-      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T12:00:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation",
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "New auction delivers unprecedented clean, homegrown power",
-      "summary": "Record solar, onshore wind, and tidal projects - building on last month’s offshore wind success - deliver Britain’s biggest-ever clean energy auction.",
-      "link": "https://www.gov.uk/government/news/new-auction-delivers-unprecedented-clean-homegrown-power",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T07:54:00+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Correspondence: Capacity Market auction parameters: letter from DESNZ to NESO, February 2026",
-      "summary": "Letter confirming adjustments to the parameters for the Capacity Market auctions for delivery years 2026 to 2027 and 2029 to 2030.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T07:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 7: results",
-      "summary": "Outcome of Contracts for Difference (CfD) Allocation Round 7 which commenced on 24 July 2025.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-results",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-10T06:56:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T13:00:52.495003Z",
+  "generated_at": "2026-02-17T18:58:51.724376Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: toy safety",
+      "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-toy-safety",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-17T16:24:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Supply Chain Plan questionnaire and guidance for solar and onshore wind applicants",
       "summary": "Details of the Supply Chain Plan application process for the Contracts for Difference (CfD) allocation round 8 for large-scale solar and onshore wind applicants.",
@@ -234,16 +244,6 @@
       "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-13T09:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: toy safety",
-      "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-toy-safety",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-13T00:05:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

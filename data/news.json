@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T06:59:22.490330Z",
+  "generated_at": "2026-02-17T13:00:52.495003Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,40 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Supply Chain Plan questionnaire and guidance for solar and onshore wind applicants",
+      "summary": "Details of the Supply Chain Plan application process for the Contracts for Difference (CfD) allocation round 8 for large-scale solar and onshore wind applicants.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-supply-chain-plan-questionnaire-and-guidance-for-solar-applicants",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-17T11:17:19+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Transparency data: UK Sustainability Disclosures Policy and Implementation Committee (PIC) meeting minutes for 2026",
+      "summary": "Public summary meeting minutes from the UK Sustainability Disclosures Policy and Implementation Committee (PIC).",
+      "link": "https://www.gov.uk/government/publications/uk-sustainability-disclosures-policy-and-implementation-committee-pic-meeting-minutes-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-17T09:40:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-17T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Capacity Market reform: Multiple Price Capacity Market proposals – update",
       "summary": "Update on proposals for a Multiple Price Capacity Market (MPCM).",
@@ -235,30 +269,6 @@
       "ai_tags": []
     },
     {
-      "title": "Clean Energy Jobs Fair held at Barnsley College",
-      "summary": "Around 175 school pupils and college students from across South Yorkshire visited the fair to find out about jobs in clean energy.",
-      "link": "https://www.gov.uk/government/news/cleanenergy-jobs-fairheldat-barnsley-college",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-12T14:48:08+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Notice: Green Heat Network Fund (GHNF): Round 11 application guidance",
-      "summary": "Capital grant support is available for the development of new and existing low-carbon heat networks. This page contains guidance and details of how to apply via Triple Point.",
-      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-12T12:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Government response to the Post Office Horizon IT Inquiry report (volume 1)",
       "summary": "The government's response to volume 1 of the Post Office Horizon IT Inquiry report.",
       "link": "https://www.gov.uk/government/publications/government-response-to-the-post-office-horizon-it-inquiry-report-volume-1",
@@ -436,18 +446,6 @@
       "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2022",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-06T11:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2021",
-      "summary": "Statistics on UK utilisation of tariff preferences for imports and exports under PTAs for 2021, including trade in goods between Great Britain and the EU under the TCA.",
-      "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2021",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-06T11:30:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

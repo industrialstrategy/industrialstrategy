@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T13:03:02.364882Z",
+  "generated_at": "2026-02-19T18:50:51.820093Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-19T17:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-19T16:45:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
+      "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-19T16:32:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/03: director jailed for illegal export",
+      "summary": "HM Revenue and Customs (HMRC) secures prison sentence for director who attempted to export military night vision equipment without a licence.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202603-director-jailed-for-illegal-export",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-19T16:00:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Reform of non-compete clauses in employment contracts: working paper",
+      "summary": "This working paper sought views on different options to reform non-compete clauses in employment contracts.",
+      "link": "https://www.gov.uk/government/publications/reform-of-non-compete-clauses-in-employment-contracts-working-paper",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-19T14:53:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: UK ETS: Waste quarterly data report template",
       "summary": "Template for use by waste operators to submit waste quarterly data reports to their regulator during the voluntary monitoring, reporting and verification period.",
@@ -333,20 +385,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Space based solar power",
-      "summary": "Studies on the technical feasibility, costs, economics of space‑based solar power (SBSP) and potential early‑market adoption pathways for to help deliver the UK’s net zero policy.",
-      "link": "https://www.gov.uk/government/publications/space-based-solar-power-de-risking-the-pathway-to-net-zero",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-13T12:18:26+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
       "title": "Policy paper: Government response to the Post Office Horizon IT Inquiry report (volume 1)",
       "summary": "The government's response to volume 1 of the Post Office Horizon IT Inquiry report.",
       "link": "https://www.gov.uk/government/publications/government-response-to-the-post-office-horizon-it-inquiry-report-volume-1",
@@ -404,50 +442,6 @@
       "link": "https://www.gov.uk/government/publications/uk-central-america-committee-documents",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-10T17:18:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Horizon Europe funding",
-      "summary": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
-      "link": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-10T16:42:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-10T14:05:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: legal costs framework",
-      "summary": "This guidance sets out the legal costs the Department for Business and Trade (DBT) will cover for Capture Redress Scheme applicants.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-legal-costs-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-10T14:03:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",
-      "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-09T16:20:50+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

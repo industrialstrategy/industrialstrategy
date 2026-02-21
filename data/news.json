@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T06:57:34.632347Z",
+  "generated_at": "2026-02-21T01:50:10.362779Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Form: Contracts for Difference, renewables obligation and small scale feed-in tariffs: apply for an exemption or compensation",
+      "summary": "How to apply for an exemption or compensation for a proportion of the indirect costs of funding the Contracts for Difference, renewables obligation and small scale feed-in tariffs.",
+      "link": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-apply-for-compensation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-20T15:59:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT annual statement on research integrity: 2024 to 2025",
+      "summary": "The Department for Business and Trade (DBT)’s annual statement on actions taken to comply with the Concordat to Support Research Integrity for 2024 to 2025.",
+      "link": "https://www.gov.uk/government/publications/dbt-annual-statement-on-research-integrity-2024-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-20T12:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Charging regime for offshore oil and gas activities",
+      "summary": "Proposed changes to the rates of fees in respect of offshore environmental functions and decommissioning functions",
+      "link": "https://www.gov.uk/government/consultations/charging-regime-for-offshore-oil-and-gas-activities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-20T11:57:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK ETS: Activity level report template",
+      "summary": "For operators to use to submit activity level reports to their regulator.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-20T11:18:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
+      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-20T09:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-20T08:39:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: UK ETS Allocation Table for operators of installations",
       "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
@@ -327,59 +389,11 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: UK–California climate and energy agreement",
-      "summary": "Memorandum of Understanding (MOU) between the UK and the State of California on climate, clean energy and environment cooperation.",
-      "link": "https://www.gov.uk/government/publications/uk-california-climate-and-energy-agreement",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T11:00:42+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T10:16:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T09:00:04+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
       "title": "Research: Regulator dashboard",
       "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
       "link": "https://www.gov.uk/government/publications/regulator-dashboard",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-13T17:20:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2025)",
-      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP30 in Belém.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-13T16:12:51+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -422,26 +436,6 @@
       "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-11T16:38:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals: proving your identity",
-      "summary": "Guidance on how to prove your identity and the relevant ID verification checks needed as part of the Horizon Shortfall Scheme Appeals process.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-proving-your-identity",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-11T10:45:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: UK-Central America committee documents",
-      "summary": "Decisions, documents and meeting minutes from UK-Central America countries committees.",
-      "link": "https://www.gov.uk/government/publications/uk-central-america-committee-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-10T17:18:26+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

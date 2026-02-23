@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T07:05:00.255580Z",
+  "generated_at": "2026-02-23T13:01:27.961508Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DESNZ: workforce management information, January 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-23T12:00:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Regulator dashboard",
+      "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
+      "link": "https://www.gov.uk/government/publications/regulator-dashboard",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-23T11:24:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): non-pipeline transport",
+      "summary": "We're seeking views on policy proposals to support the deployment of domestic non-pipeline transport (NPT) projects.",
+      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-non-pipeline-transport",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-23T11:07:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Future of the UK downstream oil sector",
+      "summary": "We're seeking evidence to provide a foundation to set a strategy for the downstream oil sector.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/future-of-the-uk-downstream-oil-sector",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-23T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Doug Gurr selected as preferred candidate for Chair of CMA",
+      "summary": "Doug Gurr has been announced as the preferred candidate to remain as chair of the Competition and Markets Authority.",
+      "link": "https://www.gov.uk/government/news/doug-gurr-selected-as-preferred-candidate-for-chair-of-cma",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-23T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Form: Contracts for Difference, renewables obligation and small scale feed-in tariffs: apply for an exemption or compensation",
       "summary": "How to apply for an exemption or compensation for a proportion of the indirect costs of funding the Contracts for Difference, renewables obligation and small scale feed-in tariffs.",
@@ -345,55 +395,11 @@
       "ai_tags": []
     },
     {
-      "title": "UK and California deepen ties on clean energy to boost investment",
-      "summary": "Energy Secretary Ed Miliband and California Governor Gavin Newsom sign new  agreement in London, building on decades of cooperation on climate and clean energy.",
-      "link": "https://www.gov.uk/government/news/uk-and-california-deepen-ties-on-clean-energy-to-boost-investment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T13:00:00+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Oil and gas: environmental alert notices",
-      "summary": "Published environmental alert notices issued in order to raise awareness of any environmental issues on the United Kingdom Continental Shelf (UKCS).",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-alert-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T12:22:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Carbon capture, usage and storage (CCUS): non-pipeline transport",
-      "summary": "We're seeking views on policy proposals to support the deployment of domestic non-pipeline transport (NPT) projects.",
-      "link": "https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-non-pipeline-transport",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T11:09:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: EM on regulation on cosmetics of certain substances (COM(2026)15)",
       "summary": "The Government's summary of a Commission Regulation on the use in cosmetic products of substances classed as carcinogenic, mutagenic or toxic for reproduction.",
       "link": "https://www.gov.uk/government/publications/em-on-regulation-on-cosmetics-of-certain-substances-com202615",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-16T11:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Regulator dashboard",
-      "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
-      "link": "https://www.gov.uk/government/publications/regulator-dashboard",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-13T17:20:38+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -426,16 +432,6 @@
       "link": "https://www.gov.uk/government/news/vote-of-confidence-in-uk-as-singapore-firm-moves-hq-to-liverpool",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-11T22:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-11T16:38:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

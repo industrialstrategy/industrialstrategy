@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T13:01:27.961508Z",
+  "generated_at": "2026-02-23T19:03:13.273269Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-23T14:47:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DESNZ: workforce management information, January 2026",
       "summary": "Reports on departmental staff numbers and costs.",
@@ -378,16 +388,6 @@
       "title": "Notice: Heat Network Technical Assurance Scheme (HNTAS): technical feedback process",
       "summary": "We’re seeking feedback on the contents of the draft HNTAS Code documents, the Heat Network Technical Standard (TS1) and the Metering and Monitoring Standard (MMS).",
       "link": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T14:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Heat networks regulation: technical standards",
-      "summary": "We are introducing regulatory technical requirements and a Heat Network Technical Assurance Scheme (HNTAS) to help heat network operators demonstrate compliance.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-16T14:00:03+00:00",
       "matched": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T07:03:50.205032Z",
+  "generated_at": "2026-02-24T19:01:53.258955Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,70 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Climate Change Agreements: technical annex",
+      "summary": "Technical guidance explaining how targets and performance are calculated for the new Climate Change Agreements scheme.",
+      "link": "https://www.gov.uk/government/publications/climate-change-agreements-technical-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-24T16:14:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Climate Change Agreements: statutory guidance",
+      "summary": "Guidance given to the Environment Agency for the purposes of paragraph 52A(1) of Schedule 6 to the Finance Act 2000.",
+      "link": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-24T16:14:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Longfield Solar Farm: non-material change, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for a non-material change relating to a solar farm project.",
+      "link": "https://www.gov.uk/government/publications/longfield-solar-farm-non-material-change-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-24T14:52:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Sizewell C Project: summary business case",
+      "summary": "This is a summary business for the Sizewell C (SZC) project nuclear power station.",
+      "link": "https://www.gov.uk/government/publications/sizewell-c-project-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-24T12:02:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on glass fibre products from Egypt (revoked)",
+      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the countervailing duty on glass fibre products from Egypt.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-glass-fibre-products-from-egypt",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-24T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-24T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -63,7 +127,7 @@
       "summary": "We're seeking evidence to provide a foundation to set a strategy for the downstream oil sector.",
       "link": "https://www.gov.uk/government/calls-for-evidence/future-of-the-uk-downstream-oil-sector",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-23T09:30:03+00:00",
+      "published": "2026-02-23T09:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -325,16 +389,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-17T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Capacity Market reform: Multiple Price Capacity Market proposals – update",
       "summary": "Update on proposals for a Multiple Price Capacity Market (MPCM).",
       "link": "https://www.gov.uk/government/publications/capacity-market-reform-multiple-price-capacity-market-proposals-update",
@@ -350,46 +404,6 @@
       "link": "https://www.gov.uk/government/consultations/capacity-market-proposed-changes-for-prequalification-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-16T16:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: proposals to integrate low carbon technologies and enhance delivery assurance ahead of Prequalification 2026",
-      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-proposals-to-integrate-low-carbon-technologies-and-enhance-delivery-assurance-ahead-of-prequalification-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T16:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Energy Savings Opportunity Scheme (ESOS)",
-      "summary": "Find out if you qualify for ESOS and how to comply.",
-      "link": "https://www.gov.uk/guidance/energy-savings-opportunity-scheme-esos",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T15:52:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Non-Executive Directors Appointed to GBE-N Board",
-      "summary": "GBE-N are pleased to announce the appointment of new non-executive directors to the GBE-N Board.",
-      "link": "https://www.gov.uk/government/news/non-executive-directors-appointed-to-gbe-n-board",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T15:36:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Heat Network Technical Assurance Scheme (HNTAS): technical feedback process",
-      "summary": "We’re seeking feedback on the contents of the draft HNTAS Code documents, the Heat Network Technical Standard (TS1) and the Metering and Monitoring Standard (MMS).",
-      "link": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T14:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -425,16 +439,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Vote of confidence in UK as Singapore firm moves HQ to Liverpool",
-      "summary": "Vote of confidence in UK as Singaporean firm moves HQ to Liverpool",
-      "link": "https://www.gov.uk/government/news/vote-of-confidence-in-uk-as-singapore-firm-moves-hq-to-liverpool",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-11T22:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

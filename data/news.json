@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T19:01:53.258955Z",
+  "generated_at": "2026-02-25T01:58:42.023092Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Landmark deal paves way for return of regular cross-Channel rail freight",
+      "summary": "Regular rail freight traffic through the Channel Tunnel will help reduce pollution, potholes and congestion while providing new jobs across the UK.",
+      "link": "https://www.gov.uk/government/news/landmark-deal-paves-way-for-return-of-regular-cross-channel-rail-freight",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T00:01:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Climate Change Agreements: technical annex",
       "summary": "Technical guidance explaining how targets and performance are calculated for the new Climate Change Agreements scheme.",
@@ -427,18 +437,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: anti-dumping duty on ironing boards from China",
-      "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the anti-dumping duty on ironing boards from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-ironing-boards-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-12T11:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

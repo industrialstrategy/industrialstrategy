@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T07:03:29.307732Z",
+  "generated_at": "2026-02-25T19:06:02.303130Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,110 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Corporate report: Grenfell Tower Inquiry Government Annual Report: February 2026",
+      "summary": "Annual Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-annual-report-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T12:45:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK Sustainability Reporting Standards: UK SRS S1 and UK SRS S2",
+      "summary": "UK Sustainability Reporting Standards (SRS), issued by the UK government.",
+      "link": "https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T12:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Exposure drafts: UK Sustainability Reporting Standards",
+      "summary": "This consultation seeks views on the government's draft UK Sustainability Reporting Standards, based on the International Sustainability Standards Board standards.",
+      "link": "https://www.gov.uk/government/consultations/exposure-drafts-uk-sustainability-reporting-standards",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T12:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK Sustainability Reporting Standards",
+      "summary": "Information on the UK government’s framework to create UK Sustainability Reporting Standards (UK SRS) by assessing and endorsing the global corporate reporting baseline of IFRS Sustainability Disclosure Standards.",
+      "link": "https://www.gov.uk/guidance/uk-sustainability-reporting-standards",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T12:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Green Paper: Future of Post Office",
+      "summary": "We are seeking views on the future of the Post Office.",
+      "link": "https://www.gov.uk/government/consultations/green-paper-future-of-post-office",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T09:40:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Heat networks optimisation: guidance to help operators improve performance",
+      "summary": "Short guidance notes and videos setting out practical steps to help heat network operators improve performance of heat networks.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-optimisation-guidance-to-help-operators-improve-performance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-25T09:39:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: DBT national survey of registered businesses’ exporting behaviours, attitudes and needs mid-year tables 2025",
+      "summary": "Mid-year data tables for wave 10 of the annual NSRB, providing insights on UK companies’ exporting behaviour and attitudes towards exporting, including perceptions around trade barriers.",
+      "link": "https://www.gov.uk/government/statistics/dbt-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-mid-year-tables-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T09:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Minister gives stamp of approval to protecting Post Office network",
+      "summary": "Government response to the Post Office Green Paper published today by Ministers, confirming that the minimum branch requirement will be maintained.",
+      "link": "https://www.gov.uk/government/news/minister-gives-stamp-of-approval-to-protecting-post-office-network",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: legal costs framework",
+      "summary": "This guidance sets out the legal costs the Department for Business and Trade (DBT) will cover for Capture Redress Scheme applicants.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-legal-costs-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-25T09:19:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Your energy bill from April: what’s changing",
+      "summary": "Billpayers to start benefitting from an average of £150 off the costs of energy bills from April onwards.",
+      "link": "https://www.gov.uk/government/news/your-energy-bill-from-april-whats-changing",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-25T07:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Landmark deal paves way for return of regular cross-Channel rail freight",
       "summary": "Regular rail freight traffic through the Channel Tunnel will help reduce pollution, potholes and congestion while providing new jobs across the UK.",
@@ -301,18 +405,6 @@
       ]
     },
     {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-19T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Official Statistics: Great British Insulation Scheme release: February 2026",
       "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
       "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-february-2026",
@@ -323,53 +415,11 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: Industrial action ballots and notice to employers: code of practice",
-      "summary": "Practical guidance to trade unions and employers to promote the improvement of industrial relations and good practice in the conduct of trade union industrial action ballots.",
-      "link": "https://www.gov.uk/government/publications/code-of-practice-industrial-action-ballots-and-notice-to-employers--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-18T16:53:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Statutory guidance: Picketing: code of practice",
-      "summary": "Guidance on picketing for employers, workers or members of the public who may be affected by a picket or any associated activities.",
-      "link": "https://www.gov.uk/government/publications/code-of-practice-picketing",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-18T16:53:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Promotional material: Preferential treatment for services and service suppliers from least-developed countries",
-      "summary": "Information about the least-developed countries (LDCs) services waiver, the UK's role in the waiver and a timeline of significant events from 2005.",
-      "link": "https://www.gov.uk/government/publications/preferential-treatment-for-services-and-service-suppliers-from-least-developed-countries",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-18T15:41:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Fenwick Solar Farm: development consent order, Planning Act 2008",
       "summary": "Decision by Minister Whitehead on behalf of the Secretary of State on an application by Fenwick Solar Farm Limited for a solar farm in South Yorkshire.",
       "link": "https://www.gov.uk/government/publications/fenwick-solar-farm-development-consent-order-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: toy safety",
-      "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-toy-safety",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-17T16:24:27+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -387,56 +437,6 @@
       "ai_tags": [
         "Supply chains"
       ]
-    },
-    {
-      "title": "Transparency data: UK Sustainability Disclosures Policy and Implementation Committee (PIC) meeting minutes for 2026",
-      "summary": "Public summary meeting minutes from the UK Sustainability Disclosures Policy and Implementation Committee (PIC).",
-      "link": "https://www.gov.uk/government/publications/uk-sustainability-disclosures-policy-and-implementation-committee-pic-meeting-minutes-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-17T09:40:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Capacity Market reform: Multiple Price Capacity Market proposals – update",
-      "summary": "Update on proposals for a Multiple Price Capacity Market (MPCM).",
-      "link": "https://www.gov.uk/government/publications/capacity-market-reform-multiple-price-capacity-market-proposals-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T16:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: proposed changes for Prequalification 2026",
-      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-proposed-changes-for-prequalification-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-16T16:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: EM on regulation on cosmetics of certain substances (COM(2026)15)",
-      "summary": "The Government's summary of a Commission Regulation on the use in cosmetic products of substances classed as carcinogenic, mutagenic or toxic for reproduction.",
-      "link": "https://www.gov.uk/government/publications/em-on-regulation-on-cosmetics-of-certain-substances-com202615",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-16T11:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Government response to the Post Office Horizon IT Inquiry report (volume 1)",
-      "summary": "The government's response to volume 1 of the Post Office Horizon IT Inquiry report.",
-      "link": "https://www.gov.uk/government/publications/government-response-to-the-post-office-horizon-it-inquiry-report-volume-1",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-12T11:06:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

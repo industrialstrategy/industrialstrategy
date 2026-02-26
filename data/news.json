@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T13:03:45.853231Z",
+  "generated_at": "2026-02-26T18:58:35.370584Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,78 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Panel terms of reference",
+      "summary": "The Independent Panel terms of reference ensures fair and consistent assessment of claims from postmasters under the HSSA scheme.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-independent-panel-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-26T16:10:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: threshold for triggering collective redundancy obligations",
+      "summary": "We are seeking views on the level and methods by which the new organisation-wide threshold for triggering collective redundancy obligations might be set.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-threshold-for-triggering-collective-redundancy-obligations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-26T16:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, September 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-26T16:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, July 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-july-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-26T16:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, August 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-august-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-26T16:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: protection from detriments for taking industrial action",
+      "summary": "We are seeking views on the types of detriments that employers should be prohibited from imposing on workers for taking industrial action.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-protection-from-detriments-for-taking-industrial-action",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-26T16:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
+      "summary": "Find the UK’s preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020.",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-26T14:44:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Transparency data: DBT: spending over £25,000, December 2025",
       "summary": "Reports on departmental spending over £25,000.",
@@ -360,81 +432,11 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - February 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - February 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: Grenfell Tower Inquiry Government Annual Report: February 2026",
       "summary": "Annual Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
       "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-annual-report-february-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-02-25T12:45:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK Sustainability Reporting Standards: UK SRS S1 and UK SRS S2",
-      "summary": "UK Sustainability Reporting Standards (SRS), issued by the UK government.",
-      "link": "https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-25T12:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Exposure drafts: UK Sustainability Reporting Standards",
-      "summary": "This consultation seeks views on the government's draft UK Sustainability Reporting Standards, based on the International Sustainability Standards Board standards.",
-      "link": "https://www.gov.uk/government/consultations/exposure-drafts-uk-sustainability-reporting-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-25T12:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK Sustainability Reporting Standards",
-      "summary": "Information on the UK government’s framework to create UK Sustainability Reporting Standards (UK SRS) by assessing and endorsing the global corporate reporting baseline of IFRS Sustainability Disclosure Standards.",
-      "link": "https://www.gov.uk/guidance/uk-sustainability-reporting-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-25T12:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Green Paper: Future of Post Office",
-      "summary": "We are seeking views on the future of the Post Office.",
-      "link": "https://www.gov.uk/government/consultations/green-paper-future-of-post-office",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-25T09:40:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Heat networks optimisation: guidance to help operators improve performance",
-      "summary": "Short guidance notes and videos setting out practical steps to help heat network operators improve performance of heat networks.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-optimisation-guidance-to-help-operators-improve-performance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-25T09:39:30+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

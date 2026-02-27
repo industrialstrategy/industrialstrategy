@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T06:53:12.585189Z",
+  "generated_at": "2026-02-27T12:57:10.824738Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Doug Gurr confirmed as the new Chair of the CMA",
+      "summary": "Doug Gurr is now the permanent chair of the CMA following an open competition for the role.",
+      "link": "https://www.gov.uk/government/news/doug-gurr-confirmed-as-the-new-chair-of-the-cma",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T09:30:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Making Work Pay: call for evidence on unpaid internships",
+      "summary": "We are seeking evidence and views on unpaid internships and internships paid below the National Minimum Wage (NMW), and other roles which may be unpaid or paid below the NMW.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/making-work-pay-call-for-evidence-on-unpaid-internships",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
+      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-27T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: December 2025",
+      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at December 2025.",
+      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Panel terms of reference",
       "summary": "The Independent Panel terms of reference ensures fair and consistent assessment of claims from postmasters under the HSSA scheme.",
@@ -336,16 +376,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Boiler Upgrade Scheme statistics: January 2026",
-      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
-      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-january-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Government response to the Home-Based Working Select Committee report",
       "summary": "UK government response to the recommendations and report made by the House of Lords Select Committee on home-based working.",
       "link": "https://www.gov.uk/government/publications/government-response-to-the-home-based-working-select-committee-report",
@@ -410,36 +440,6 @@
       "ai_tags": [
         "Manufacturing"
       ]
-    },
-    {
-      "title": "Research: UK battery sector: mapping research",
-      "summary": "Key findings from a research project building a methodology to map the UK battery sector and compiling a database of UK battery sector companies.",
-      "link": "https://www.gov.uk/government/publications/uk-battery-sector-mapping-research",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Aerospace Technology Institute programme: impact evaluation",
-      "summary": "This independent report evaluates the impacts of the Aerospace Technology Institute (ATI) programme funding.",
-      "link": "https://www.gov.uk/government/publications/aerospace-technology-institute-programme-impact-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Grenfell Tower Inquiry Government Annual Report: February 2026",
-      "summary": "Annual Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
-      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-annual-report-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-25T12:45:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T12:57:10.824738Z",
+  "generated_at": "2026-02-27T18:42:42.530827Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,82 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: The early-stage equity finance journey of potential high-growth companies in the UK",
+      "summary": "Research on the equity finance journey of 1,200 early-stage UK firms, giving a better understanding of their finance outcomes and challenges associated with scaling up.",
+      "link": "https://www.gov.uk/government/publications/the-early-stage-equity-finance-journey-of-potential-high-growth-companies-in-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T17:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/04: transmission issues between LITE/SPIRE and CDS",
+      "summary": "Licences from LITE/SPIRE may not reach HMRC’s Customs Declaration Service (CDS), causing clearance delays. Report declaration problems to CDS while we investigate.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202604-transmission-issues-between-litespire-and-cds",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T15:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
+      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
+      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-27T15:07:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-27T14:05:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK–China clean energy partnership",
+      "summary": "Memoranda of Understanding (MoUs) between the UK and China on clean energy.",
+      "link": "https://www.gov.uk/government/publications/uk-china-clean-energy-partnership",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-27T14:00:07+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Guidance: Compensation scheme for Group Litigation Order case postmasters",
+      "summary": "Information and outline of the compensation scheme for postmasters in the Group Litigation Order.",
+      "link": "https://www.gov.uk/government/publications/compensation-scheme-for-group-litigation-order-case-postmasters",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T13:37:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): assessment framework",
+      "summary": "This assessment framework sets out how we will assess your claim if you request a detailed assessment under the Horizon Convictions Redress Scheme (HCRS).",
+      "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-assessment-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-02-27T13:37:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Doug Gurr confirmed as the new Chair of the CMA",
       "summary": "Doug Gurr is now the permanent chair of the CMA following an open competition for the role.",
@@ -344,38 +420,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release February 2026",
-      "summary": "Household Energy Efficiency Statistics, headline release (February 2026).",
-      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: February 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Solar photovoltaics deployment",
-      "summary": "Monthly deployment of all solar photovoltaic capacity in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/solar-photovoltaics-deployment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Government response to the Home-Based Working Select Committee report",
       "summary": "UK government response to the recommendations and report made by the House of Lords Select Committee on home-based working.",
       "link": "https://www.gov.uk/government/publications/government-response-to-the-home-based-working-select-committee-report",
@@ -394,52 +438,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Research: Advanced Propulsion Centre (APC): impact evaluation",
-      "summary": "This independent evaluation assesses the impact of the Advanced Propulsion Centre (APC) core competition for automotive research and development grant funding.",
-      "link": "https://www.gov.uk/government/publications/advanced-propulsion-centre-apc-impact-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "R&D"
-      ]
-    },
-    {
-      "title": "Independent report: Automotive Transformation Fund (ATF): evaluation framework",
-      "summary": "This independent report sets out the evaluation framework for the process and impact evaluation of the ATF.",
-      "link": "https://www.gov.uk/government/publications/automotive-transformation-fund-atf-evaluation-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Automotive Transformation Fund (ATF): baseline exercise",
-      "summary": "This baseline report provides benchmark values for key metrics measured before, or in the early implementation period, of the ATF.",
-      "link": "https://www.gov.uk/government/publications/automotive-transformation-fund-atf-baseline-exercise",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: The changing value and structure of the UK manufacturing sector",
-      "summary": "A study of the manufacturing sector using UK and international analytical evidence and practices, academic literature and global policy experience.",
-      "link": "https://www.gov.uk/government/publications/the-changing-value-and-structure-of-the-uk-manufacturing-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:04+00:00",
-      "matched": [
-        "manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T18:42:42.530827Z",
+  "generated_at": "2026-02-28T12:43:19.481418Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "England's largest land manager to help home-grown clean energy",
+      "summary": "Consumers are set to benefit from more home-grown clean energy, with an increased number of renewable projects to be enabled on the public forest estate",
+      "link": "https://www.gov.uk/government/news/englands-largest-land-manager-to-help-home-grown-clean-energy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-02-28T00:01:01+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
     {
       "title": "Research: The early-stage equity finance journey of potential high-growth companies in the UK",
       "summary": "Research on the equity finance journey of 1,200 early-stage UK firms, giving a better understanding of their finance outcomes and challenges associated with scaling up.",
@@ -403,16 +417,6 @@
       "title": "Accredited official statistics: Energy Trends: UK weather",
       "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
       "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-26T09:30:12+00:00",
       "matched": [],

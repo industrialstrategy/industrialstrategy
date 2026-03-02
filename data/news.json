@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T01:55:57.591296Z",
+  "generated_at": "2026-03-02T18:45:56.003258Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,122 @@
   "count": 40,
   "items": [
     {
+      "title": "Corporate report: Grenfell Tower Inquiry Government Annual Report: February 2026",
+      "summary": "Annual Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-annual-report-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T16:41:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Grenfell Tower Inquiry Government Annual Report: February 2026 translations",
+      "summary": "Translations of the ministerial foreword and executive summary of the February 2026 Grenfell Tower Inquiry Government Annual Report.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-annual-report-february-2026-translations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T16:40:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK Defence and Security Exports event and exhibition support",
+      "summary": "Information on which domestic and international events we will be at during 2026, and guidance on how we can support businesses to participate.",
+      "link": "https://www.gov.uk/government/publications/defence-and-security-exporting-event-and-exhibition-support",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T16:14:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Import controls",
+      "summary": "How to import goods under national or UN-level import controls. This includes weapons, sanctioned goods, or goods that could be used for torture.",
+      "link": "https://www.gov.uk/guidance/import-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T16:05:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to Importers 2956: import of equipment that could be used for torture",
+      "summary": "Notice explaining that certain goods will be subject to a UK import ban or licensing requirement due to their potential use as \"torture equipment\", replacing all previous NTIs on this issue.",
+      "link": "https://www.gov.uk/government/publications/notice-to-importers-2956-import-of-equipment-that-could-be-used-for-torture",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T16:04:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information January 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T11:42:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-02T11:23:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental alert notices",
+      "summary": "Published environmental alert notices issued in order to raise awareness of any environmental issues on the United Kingdom Continental Shelf (UKCS).",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-alert-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-02T10:25:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Energy datasets for artificial intelligence applications",
+      "summary": "We're calling for evidence on energy-related datasets where enabling access for AI application development could improve decarbonisation, energy security or affordability.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/energy-datasets-for-artificial-intelligence-applications",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-02T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Horizon Europe funding",
+      "summary": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
+      "link": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T09:22:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Lisa Pinney announced as CEO to the Fair Work Agency",
+      "summary": "Fair Work Agency CEO appointment",
+      "link": "https://www.gov.uk/government/news/lisa-pinney-announced-as-ceo-to-the-fair-work-agency",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T09:07:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Top UK music acts awarded £1.4 million funding to raise profile",
       "summary": "Top UK music acts awarded £1.4 million funding to raise global profile",
       "link": "https://www.gov.uk/government/news/topuk-music-acts-awarded14millionfunding-toraise-profile",
@@ -29,8 +145,8 @@
       "ai_tags": []
     },
     {
-      "title": "UK beef hits US shelves tariff-free for the first time – cutting costs for UK businesses",
-      "summary": "First tariff-free shipment of UK beef arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy",
+      "title": "UK beef hits US shelves for the first time – cutting costs for UK businesses",
+      "summary": "First shipment of UK beef under reciprocal quota arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy",
       "link": "https://www.gov.uk/government/news/uk-beef-hits-us-shelves-tariff-free-for-the-first-time-cutting-costs-for-uk-businesses",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-02T00:01:00+00:00",
@@ -82,16 +198,6 @@
       "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-27T15:07:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-27T14:05:16+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -231,68 +337,6 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
-      "summary": "Find the UK’s preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020.",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T14:44:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, December 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T12:00:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, November 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T12:00:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, November 2025",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T12:00:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, October 2025",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-october-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T12:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capture Redress Scheme: applying for someone else",
-      "summary": "How to apply to the Capture Redress Scheme on behalf of a postmaster who cannot apply for themselves.",
-      "link": "https://www.gov.uk/guidance/capture-redress-scheme-applying-for-someone-else",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T11:26:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Statutory guidance: Feed in Tariffs (FITs) determinations",
       "summary": "Determinations legally required for administration of the Feed-in Tariffs scheme.",
       "link": "https://www.gov.uk/government/publications/feed-in-tariffs-fits-determinations",
@@ -308,16 +352,6 @@
       "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-26T10:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Dr Ros Rivaz appointed as new Chair of Companies House",
-      "summary": "Ministers confirm that Dr Ros Rivaz will take on the role from 1 March.",
-      "link": "https://www.gov.uk/government/news/dr-ros-rivaz-appointed-as-new-chair-of-companies-house",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -404,41 +438,9 @@
       ]
     },
     {
-      "title": "Consultation on the National Survey of Registered Businesses (NSRB)",
-      "summary": "The government is seeking views on the proposed changes to the DBT National Survey of Registered Businesses’ exporting behaviours, attitudes and needs.",
-      "link": "https://www.gov.uk/government/consultations/consultation-on-the-national-survey-of-registered-businesses-nsrb",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Domestic energy price indices",
       "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
       "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK weather",
-      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-26T09:30:12+00:00",
       "matched": [],

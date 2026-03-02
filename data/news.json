@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T12:45:20.984903Z",
+  "generated_at": "2026-03-02T01:55:57.591296Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Top UK music acts awarded £1.4 million funding to raise profile",
+      "summary": "Top UK music acts awarded £1.4 million funding to raise global profile",
+      "link": "https://www.gov.uk/government/news/topuk-music-acts-awarded14millionfunding-toraise-profile",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T00:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK beef hits US shelves tariff-free for the first time – cutting costs for UK businesses",
+      "summary": "First tariff-free shipment of UK beef arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy",
+      "link": "https://www.gov.uk/government/news/uk-beef-hits-us-shelves-tariff-free-for-the-first-time-cutting-costs-for-uk-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-02T00:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "England's largest land manager to help home-grown clean energy",
       "summary": "Consumers are set to benefit from more home-grown clean energy, with an increased number of renewable projects to be enabled on the public forest estate",
@@ -419,26 +441,6 @@
       "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-26T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Government response to the Home-Based Working Select Committee report",
-      "summary": "UK government response to the recommendations and report made by the House of Lords Select Committee on home-based working.",
-      "link": "https://www.gov.uk/government/publications/government-response-to-the-home-based-working-select-committee-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Independent report: Automotive Transformation Fund (ATF): process evaluation",
-      "summary": "This independent report evaluates whether the ATF is being implemented as intended and whether the design is working effectively.",
-      "link": "https://www.gov.uk/government/publications/automotive-transformation-fund-atf-process-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T09:30:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

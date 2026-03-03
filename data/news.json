@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T06:49:56.237278Z",
+  "generated_at": "2026-03-03T12:55:45.139967Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,66 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
+      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
+      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-03T11:31:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aerospace Technology Institute (ATI) Strategic Programme",
+      "summary": "Funding for research and technology development to maintain and grow the UK’s competitive positions in civil aerospace.",
+      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-strategic-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T10:50:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aerospace Technology Institute (ATI) Non-CO2 Programme",
+      "summary": "Funding for research and technology development to maintain and grow the UK’s competitive positions in civil aerospace.",
+      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-programme-funding-for-non-co2-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T10:49:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Aerospace Technology Institute (ATI) SME Programme",
+      "summary": "Offers funding for civil aerospace research and technology development in the UK.",
+      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-sme-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T10:48:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Apply for ATI programme funding",
+      "summary": "The Aerospace Technology Institute (ATI) programme co-funds civil aerospace research and technology development in the UK. You must read this guidance before you apply.",
+      "link": "https://www.gov.uk/guidance/apply-for-ati-programme-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T10:47:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-03T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Corporate report: Grenfell Tower Inquiry Government Annual Report: February 2026",
       "summary": "Annual Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
@@ -193,16 +253,6 @@
       ]
     },
     {
-      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
-      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
-      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-27T15:07:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: UK–China clean energy partnership",
       "summary": "Memoranda of Understanding (MoUs) between the UK and China on clean energy.",
       "link": "https://www.gov.uk/government/publications/uk-china-clean-energy-partnership",
@@ -267,36 +317,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: December 2025",
-      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at December 2025.",
-      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-27T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Panel terms of reference",
-      "summary": "The Independent Panel terms of reference ensures fair and consistent assessment of claims from postmasters under the HSSA scheme.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-independent-panel-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T16:10:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: threshold for triggering collective redundancy obligations",
-      "summary": "We are seeking views on the level and methods by which the new organisation-wide threshold for triggering collective redundancy obligations might be set.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-threshold-for-triggering-collective-redundancy-obligations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T16:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ: spending over £25,000, September 2025",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-september-2025",
@@ -322,16 +342,6 @@
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-august-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-26T16:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: protection from detriments for taking industrial action",
-      "summary": "We are seeking views on the types of detriments that employers should be prohibited from imposing on workers for taking industrial action.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-protection-from-detriments-for-taking-industrial-action",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-26T16:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -436,16 +446,6 @@
         "Net zero",
         "Trade"
       ]
-    },
-    {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

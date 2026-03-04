@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T12:55:45.139967Z",
+  "generated_at": "2026-03-04T01:52:29.372102Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,92 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Business Secretary speech to Make UK National Manufacturing Conference",
+      "summary": "Speech delivered by the Business Secretary, Peter Kyle, at the March 2026 Make UK National Manufacturing Conference.",
+      "link": "https://www.gov.uk/government/speeches/business-secretary-speech-to-make-uk-national-manufacturing-conference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T17:22:59+00:00",
+      "matched": [
+        "manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-03T15:32:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Apply to the Capture Redress Scheme",
+      "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
+      "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T15:02:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: H2East Pipeline: Humber to Nottinghamshire - section 35 direction, Planning Act 2008",
+      "summary": "Direction by the Secretary of State on the H2East Pipeline: Humber to Nottinghamshire.",
+      "link": "https://www.gov.uk/government/publications/h2east-pipeline-humber-to-nottinghamshire-section-35-direction-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-03T14:53:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Export masterclasses to help Scottish businesses forge EU trade links",
+      "summary": "Events from Scotland Office in partnership with local chambers of commerce in Glasgow, Dundee, Edinburgh and Inverness will 'turn Scottish business export potential into reality'",
+      "link": "https://www.gov.uk/government/news/export-masterclasses-to-help-scottish-businesses-forge-eu-trade-links",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T14:42:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T14:36:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Home Energy Model: technical documentation",
+      "summary": "Technical documents providing detail on how a home’s energy performance is calculated using the Home Energy Model (HEM).",
+      "link": "https://www.gov.uk/government/publications/home-energy-model-technical-documentation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-03T14:28:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel assessment framework",
+      "summary": "The independent panel assessment framework ensures fair and consistent assessment of claims from postmasters affected by Capture-related shortfalls between 1992 and 2000.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-assessment-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-03T14:22:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
       "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
@@ -241,18 +327,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Notice to exporters 2026/04: transmission issues between LITE/SPIRE and CDS",
-      "summary": "Licences from LITE/SPIRE may not reach HMRC’s Customs Declaration Service (CDS), causing clearance delays. Report declaration problems to CDS while we investigate.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202604-transmission-issues-between-litespire-and-cds",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-27T15:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: UK–China clean energy partnership",
       "summary": "Memoranda of Understanding (MoUs) between the UK and China on clean energy.",
       "link": "https://www.gov.uk/government/publications/uk-china-clean-energy-partnership",
@@ -265,46 +339,6 @@
       "ai_tags": [
         "Clean energy"
       ]
-    },
-    {
-      "title": "Guidance: Compensation scheme for Group Litigation Order case postmasters",
-      "summary": "Information and outline of the compensation scheme for postmasters in the Group Litigation Order.",
-      "link": "https://www.gov.uk/government/publications/compensation-scheme-for-group-litigation-order-case-postmasters",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-27T13:37:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): assessment framework",
-      "summary": "This assessment framework sets out how we will assess your claim if you request a detailed assessment under the Horizon Convictions Redress Scheme (HCRS).",
-      "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-assessment-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-27T13:37:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Doug Gurr confirmed as the new Chair of the CMA",
-      "summary": "Doug Gurr is now the permanent chair of the CMA following an open competition for the role.",
-      "link": "https://www.gov.uk/government/news/doug-gurr-confirmed-as-the-new-chair-of-the-cma",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-27T09:30:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Making Work Pay: call for evidence on unpaid internships",
-      "summary": "We are seeking evidence and views on unpaid internships and internships paid below the National Minimum Wage (NMW), and other roles which may be unpaid or paid below the NMW.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/making-work-pay-call-for-evidence-on-unpaid-internships",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-02-27T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
@@ -407,43 +441,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 26 February 2026",
-      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-26-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T09:30:13+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
         "Trade"
       ]
     }

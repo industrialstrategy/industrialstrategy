@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T12:57:34.651818Z",
+  "generated_at": "2026-03-05T19:17:32.693732Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-05T17:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-05T17:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Provision of Services Regulations 2009: proposed reforms",
+      "summary": "We are seeking views on proposed reforms to the Provision of Services Regulations 2009, under the Retained EU Law programme.",
+      "link": "https://www.gov.uk/government/consultations/provision-of-services-regulations-2009-proposed-reforms",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-05T14:15:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Baroness Maggie Jones appointed new chair of Acas",
       "summary": "Baroness Maggie Jones of Whitchurch has been appointed as the new Chair of Acas, following a fair and open public appointment process.",
@@ -319,16 +351,6 @@
       "ai_tags": []
     },
     {
-      "title": "Aerospace Technology Institute (ATI) SME Programme",
-      "summary": "Offers funding for civil aerospace research and technology development in the UK.",
-      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-sme-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-03T10:48:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
@@ -424,26 +446,6 @@
       "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-august-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-02-26T16:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Feed in Tariffs (FITs) determinations",
-      "summary": "Determinations legally required for administration of the Feed-in Tariffs scheme.",
-      "link": "https://www.gov.uk/government/publications/feed-in-tariffs-fits-determinations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T10:05:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
-      "summary": "GGSS quarterly year-ahead expenditure forecast and degression threshold comparison, and, when applicable, notification of tariff changes.",
-      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T10:00:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

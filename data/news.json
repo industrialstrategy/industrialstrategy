@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T12:53:16.433438Z",
+  "generated_at": "2026-03-07T12:44:21.939759Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,53 @@
   "count": 40,
   "items": [
     {
-      "title": "New Permanent Secretary appointed at the Department for Energy Security and Net Zero.",
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-06T14:21:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Iran, the Middle East and UK energy: factsheet",
+      "summary": "Your questions answered on the impact of recent conflict in the Middle East.",
+      "link": "https://www.gov.uk/government/news/iran-the-middle-east-and-uk-energy-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-06T14:12:00+00:00",
+      "matched": [
+        "IRA"
+      ],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: The Provision of Services (Amendment and Transitional Provisions) Regulations 2026",
+      "summary": "This statutory instrument (SI) amends requirements placed on regulators and local authorities by the Provision of Services Regulations 2009.",
+      "link": "https://www.gov.uk/government/publications/the-provision-of-services-amendment-and-transitional-provisions-regulations-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-06T13:38:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: East Anglia Two offshore wind farm: post-consent condition discharge, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for post-consent condition discharge.",
+      "link": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-06T12:54:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New Permanent Secretary appointed at the Department for Energy Security and Net Zero",
       "summary": "The Cabinet Secretary, with the approval of the Prime Minister, has appointed Jonathan Brearley as the new Permanent Secretary at the Department for Energy Security and Net Zero.",
       "link": "https://www.gov.uk/government/news/new-permanent-secretary-appointed-at-the-department-for-energy-security-and-net-zero",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-06T12:24:36+00:00",
+      "published": "2026-03-06T12:24:00+00:00",
       "matched": [
         "net zero"
       ],
@@ -365,16 +407,6 @@
       "ai_tags": []
     },
     {
-      "title": "Aerospace Technology Institute (ATI) Strategic Programme",
-      "summary": "Funding for research and technology development to maintain and grow the UK’s competitive positions in civil aerospace.",
-      "link": "https://www.gov.uk/business-finance-support/aerospace-technology-institute-ati-strategic-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-03T10:50:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
@@ -419,40 +451,6 @@
       "ai_tags": [
         "Clean energy"
       ]
-    },
-    {
-      "title": "Policy paper: UK–China clean energy partnership",
-      "summary": "Memoranda of Understanding (MoUs) between the UK and China on clean energy.",
-      "link": "https://www.gov.uk/government/publications/uk-china-clean-energy-partnership",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-27T14:00:07+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, September 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T16:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, July 2025",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-july-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-26T16:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

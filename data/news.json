@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T07:03:01.930939Z",
+  "generated_at": "2026-03-09T13:00:30.689802Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,57 @@
   "count": 40,
   "items": [
     {
+      "title": "Policy paper: UK support to Ukraine: factsheet",
+      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
+      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-09T11:34:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK-Norway, Iceland, and Liechtenstein FTA Sub-Committee on Sanitary and Phytosanitary measures: joint minutes, 17 November 2025",
+      "summary": "Summary of the third meeting of the UK-Norway, Iceland, and Liechtenstein FTA Sub-Committee on Sanitary and Phytosanitary measures.",
+      "link": "https://www.gov.uk/government/publications/uk-norway-iceland-and-liechtenstein-fta-sub-committee-on-sanitary-and-phytosanitary-measures-joint-minutes-17-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-09T10:53:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Impact assessment: UK-India Free Trade Agreement: impact assessment",
+      "summary": "This impact assessment sets out the potential economic, sectoral, distributional and environmental impacts of the UK-India Free Trade Agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-india-free-trade-agreement-impact-assessment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-09T09:59:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-09T09:00:13+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
       "title": "Businesses urged to take simple steps for smoother trade with the EU",
       "summary": "Businesses are being urged to take simple steps to prepare for the landmark EU agri-food deal, that will cut costs, slash red tape and open up opportunities for exporters and importers.",
       "link": "https://www.gov.uk/government/news/businesses-urged-to-take-simple-steps-for-smoother-trade-with-the-eu",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T00:01:03+00:00",
+      "published": "2026-03-09T00:01:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -347,43 +393,11 @@
       "ai_tags": []
     },
     {
-      "title": "Apply to the Capture Redress Scheme",
-      "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
-      "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-03T15:02:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: H2East Pipeline: Humber to Nottinghamshire - section 35 direction, Planning Act 2008",
       "summary": "Direction by the Secretary of State on the H2East Pipeline: Humber to Nottinghamshire.",
       "link": "https://www.gov.uk/government/publications/h2east-pipeline-humber-to-nottinghamshire-section-35-direction-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-03-03T14:53:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Export masterclasses to help Scottish businesses forge EU trade links",
-      "summary": "Events from Scotland Office in partnership with local chambers of commerce in Glasgow, Dundee, Edinburgh and Inverness will 'turn Scottish business export potential into reality'",
-      "link": "https://www.gov.uk/government/news/export-masterclasses-to-help-scottish-businesses-forge-eu-trade-links",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-03T14:42:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Promotional material: Employment Rights Act 2025: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-03T14:36:20+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -438,20 +452,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Decarbonisation"
-      ]
-    },
-    {
-      "title": "England's largest land manager to help home-grown clean energy",
-      "summary": "Consumers are set to benefit from more home-grown clean energy, with an increased number of renewable projects to be enabled on the public forest estate",
-      "link": "https://www.gov.uk/government/news/englands-largest-land-manager-to-help-home-grown-clean-energy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-02-28T00:01:01+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
       ]
     }
   ]

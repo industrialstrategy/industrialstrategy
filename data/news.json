@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T06:54:33.012408Z",
+  "generated_at": "2026-03-10T12:57:46.725323Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Capacity Market auction: Auction Monitor report for T-1 auction for 2026 to 2027",
+      "summary": "Capacity Market Auction Monitor report for 2026 to 2027 delivery year.",
+      "link": "https://www.gov.uk/government/publications/capacity-market-auction-auction-monitor-report-for-t-1-auction-for-2026-to-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-10T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-10T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Tough new rules force suppliers to fix faulty smart meters",
+      "summary": "Families to save on their energy bills with new obligations for suppliers to fix smart meters more quickly, cutting waiting times for billpayers.",
+      "link": "https://www.gov.uk/government/news/tough-new-rules-force-suppliers-to-fix-faulty-smart-meters",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-10T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Smart metering policy framework post 2025",
+      "summary": "We're seeking views on obligations for energy suppliers to improve smart meter operations and  complete the domestic smart meter rollout by the end of 2030.",
+      "link": "https://www.gov.uk/government/consultations/smart-metering-policy-framework-post-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-10T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Correspondence: Consumer market for heating oil: letter to UK and Ireland Fuel Distributors Association",
       "summary": "A letter from the Secretary of State for Energy and the Minister of State for Energy to the UKIFDA on the consumer market for heating oil.",
@@ -404,46 +444,6 @@
       "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-03-03T15:32:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: H2East Pipeline: Humber to Nottinghamshire - section 35 direction, Planning Act 2008",
-      "summary": "Direction by the Secretary of State on the H2East Pipeline: Humber to Nottinghamshire.",
-      "link": "https://www.gov.uk/government/publications/h2east-pipeline-humber-to-nottinghamshire-section-35-direction-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-03T14:53:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Home Energy Model: technical documentation",
-      "summary": "Technical documents providing detail on how a home’s energy performance is calculated using the Home Energy Model (HEM).",
-      "link": "https://www.gov.uk/government/publications/home-energy-model-technical-documentation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-03T14:28:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UK Industrial Fusion Solutions prompt payment return data",
-      "summary": "Prompt payment return data for UKIFS, showing invoices paid within 5 and 30 days of receipt.",
-      "link": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-03T11:31:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-03T09:30:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

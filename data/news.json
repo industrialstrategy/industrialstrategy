@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T06:54:40.152858Z",
+  "generated_at": "2026-03-13T01:54:18.075770Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,196 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T17:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "UK Emissions Trading Scheme: Regulating cross-boundary CCS pipelines",
+      "summary": "The UK ETS Authority is seeking views on making regulatory requirements for cross-boundary carbon capture and storage (CCS) pipelines less complex, burdensome and costly.",
+      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-regulating-cross-boundary-ccs-pipelines",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T17:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, September 2025",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-12T15:56:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Independent report: Nuclear Decommissioning Authority: 2026 review",
+      "summary": "The government has commissioned an independent review of the Nuclear Decommissioning Authority (NDA) to assess its performance and identify opportunities for improvement.",
+      "link": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T15:24:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Notice: Nuclear Decommissioning Authority review: privacy notice",
+      "summary": "How we will use your personal data and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-review-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T15:24:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Make Work Pay: improving access to flexible working",
+      "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-12T12:18:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accelerating electricity network connections for strategic demand",
+      "summary": "We're seeking views on proposals to amend the connections process to address speculation and prioritise future capacity for strategic demand, including data centres.",
+      "link": "https://www.gov.uk/government/consultations/accelerating-electricity-network-connections-for-strategic-demand",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T12:07:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Hydrogen Network Code: industry engagement",
+      "summary": "Notification that we will shortly begin industry engagement relating to the development of a new network code for hydrogen.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-network-code",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T11:32:00+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: registration of imports of tin mill products originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the registration of imports of tin mill products originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-registration-of-imports-of-tin-mill-products-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-12T11:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Heat Pump Ready Programme: successful projects",
+      "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T10:24:27+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Innovation",
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Guidance: Countering Russian sanctions evasion and circumvention",
+      "summary": "Guidance for UK businesses on countering Russian sanctions evasion and circumvention.",
+      "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-12T09:40:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Warm Homes: Local Grant – guidance for local authorities",
+      "summary": "Funding for local authorities to deliver energy performance and low carbon heating upgrades to low-income homes in England.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Summary of questions included in the DESNZ/BEIS Public Attitudes Tracker since Autumn 2021",
+      "summary": "A summary of the questions included in the Public Attitudes Tracker since the new time series was started in Autumn 2021.",
+      "link": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnzbeis-public-attitudes-tracker-since-autumn-2021",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier quarterly statistics: October to December 2025",
+      "summary": "Headline summary of market access barriers resolved during Quarter 3 (October to December) of the financial year ending 2026.",
+      "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-12T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Heat pump deployment statistics: December 2025",
+      "summary": "Statistical releases on heat pump installations in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Winter 2025",
+      "summary": "Findings from the triannual DESNZ Public Attitudes Tracker (PAT).",
+      "link": "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-winter-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-12T09:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "UK joins IEA members in coordinated oil stock release",
       "summary": "UK joins International Energy Agency members in coordinated oil stock release.",
@@ -51,16 +241,6 @@
       "ai_tags": [
         "Nuclear"
       ]
-    },
-    {
-      "title": "Accelerating electricity network connections for strategic demand",
-      "summary": "We're seeking views on proposals to amend the connections process to address speculation and prioritise future capacity for strategic demand, including data centres.",
-      "link": "https://www.gov.uk/government/consultations/accelerating-electricity-network-connections-for-strategic-demand",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:50:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Research: Green home finance products: homeowner awareness and attitudes",
@@ -131,50 +311,6 @@
       ]
     },
     {
-      "title": "Research: Green home finance consumer typologies and barriers",
-      "summary": "Behavioural research exploring and categorising owner-occupiers’ and private landlords' attitudes to green home finance products.",
-      "link": "https://www.gov.uk/government/publications/green-home-finance-consumer-typologies-and-barriers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Consumer Advice and Information programme: evaluation",
-      "summary": "The final evaluation of the consumer advice and information programme, exploring successes and challenges, outcomes and value-for-money.",
-      "link": "https://www.gov.uk/government/publications/consumer-advice-and-information-programme-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Decarbonising owner-occupied homes for vulnerable groups",
-      "summary": "Qualitative research exploring the barriers to installation of home decarbonisation measures for vulnerable groups, and how these might be overcome.",
-      "link": "https://www.gov.uk/government/publications/decarbonising-owner-occupied-homes-for-vulnerable-groups",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Research: Understanding mixed tenure in English social housing",
-      "summary": "Behavioural research to understand the challenges in decarbonising mixed tenure social housing in England.",
-      "link": "https://www.gov.uk/government/publications/understanding-mixed-tenure-in-english-social-housing",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Research: Monitoring report: UK-Australia, UK-New Zealand and UK-Japan FTAs",
       "summary": "This report covers the first 2 years of the UK’s free trade agreements (FTAs) with Australia and New Zealand and the first 4 years of the UK’s FTA with Japan.",
       "link": "https://www.gov.uk/government/publications/monitoring-report-uk-australia-uk-new-zealand-and-uk-japan-ftas",
@@ -216,26 +352,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-reports-for-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-11T10:31:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government to tackle speculative demand grid connection requests",
-      "summary": "Reforms will strengthen conditions for joining and remaining in the queue for demand connections, and prioritise projects that deliver growth and jobs.",
-      "link": "https://www.gov.uk/government/news/government-to-tackle-speculative-demand-grid-connection-requests",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T09:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-10T17:15:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -285,61 +401,11 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Contracts for Difference, renewables obligation and small scale feed-in tariffs: companies awarded exemption or compensation",
-      "summary": "Companies awarded relief for the indirect cost of Contracts for Difference (CfD), renewables obligation (RO) and small scale feed-in tariffs (FIT).",
-      "link": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-companies-awarded-compensation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-10T14:51:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2025",
       "summary": "Data for 2025 on redress for postmasters impacted by the Post Office Horizon scandal.",
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-10T13:06:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Capacity Market auction: Auction Monitor report for T-1 auction for 2026 to 2027",
-      "summary": "Capacity Market Auction Monitor report for 2026 to 2027 delivery year.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-auction-auction-monitor-report-for-t-1-auction-for-2026-to-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-10T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-10T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Tough new rules force suppliers to fix faulty smart meters",
-      "summary": "Families to save on their energy bills with new obligations for suppliers to fix smart meters more quickly, cutting waiting times for billpayers.",
-      "link": "https://www.gov.uk/government/news/tough-new-rules-force-suppliers-to-fix-faulty-smart-meters",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-10T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Smart metering policy framework post 2025",
-      "summary": "We're seeking views on obligations for energy suppliers to improve smart meter operations and  complete the domestic smart meter rollout by the end of 2030.",
-      "link": "https://www.gov.uk/government/consultations/smart-metering-policy-framework-post-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-10T09:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -360,16 +426,6 @@
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-09T16:19:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: improving access to flexible working",
-      "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T14:33:55+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -405,48 +461,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Businesses urged to take simple steps for smoother trade with the EU",
-      "summary": "Businesses are being urged to take simple steps to prepare for the landmark EU agri-food deal, that will cut costs, slash red tape and open up opportunities for exporters and importers.",
-      "link": "https://www.gov.uk/government/news/businesses-urged-to-take-simple-steps-for-smoother-trade-with-the-eu",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T00:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Statutory guidance: The Provision of Services (Amendment and Transitional Provisions) Regulations 2026",
-      "summary": "This statutory instrument (SI) amends requirements placed on regulators and local authorities by the Provision of Services Regulations 2009.",
-      "link": "https://www.gov.uk/government/publications/the-provision-of-services-amendment-and-transitional-provisions-regulations-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-06T13:38:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: UK-Japan CEPA documents",
-      "summary": "Decisions, documents and meeting minutes from the UK-Japan Comprehensive Economic Partnership Agreement (CEPA).",
-      "link": "https://www.gov.uk/government/publications/uk-japan-cepa-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-06T11:58:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Provision of Services Regulations 2009: proposed reforms",
-      "summary": "We are seeking views on proposed reforms to the Provision of Services Regulations 2009, under the Retained EU Law programme.",
-      "link": "https://www.gov.uk/government/consultations/provision-of-services-regulations-2009-proposed-reforms",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-05T14:15:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

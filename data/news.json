@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T01:54:18.075770Z",
+  "generated_at": "2026-03-13T18:51:27.729346Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,91 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Industrial Strategy Prospectus",
+      "summary": "This document summarises the UK’s Modern Industrial Strategy and our Sector Plans, including our offer to businesses.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-prospectus",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-13T16:05:35+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Guidance: Security & Policing 2026: countries, territories and organisations invited to attend by the Department for Business and Trade",
+      "summary": "Countries, territories and organisations invited by UK Defence and Security Exports (UKDSE) to attend Security & Policing 2026.",
+      "link": "https://www.gov.uk/government/publications/security-policing-2026-countries-territories-and-organisations-invited-to-attend-by-the-department-for-business-and-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-13T13:55:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/04: transmission issues between LITE/SPIRE and CDS",
+      "summary": "Licences from LITE/SPIRE may not reach HMRC’s Customs Declaration Service (CDS), causing clearance delays. Report declaration problems to CDS while we investigate.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202604-transmission-issues-between-litespire-and-cds",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-13T12:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/06: resolved transmission issues with CDS",
+      "summary": "The Export Control Joint Unit (ECJU) confirms the licence transmission issue is resolved and normal declarations may resume.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202606-resolved-transmission-issues-with-cds",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-13T12:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
+      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-13T09:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Building our nuclear nation: government response to the Nuclear Regulatory Review 2025",
+      "summary": "UK to reform nuclear regulation: streamline approvals, cut delays, boost innovation, and ensure proportionate, efficient delivery.",
+      "link": "https://www.gov.uk/government/publications/building-our-nuclear-nation-government-response-to-the-nuclear-regulatory-review-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-13T09:06:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Overhaul of nuclear system to speed up building and cut costs",
+      "summary": "Plan to overhaul nuclear system will speed up building, strengthen national and energy security, and cut costs.",
+      "link": "https://www.gov.uk/government/news/overhaul-of-nuclear-system-to-speed-up-building-and-cut-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-13T07:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
     {
       "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
       "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
@@ -279,38 +364,6 @@
       ]
     },
     {
-      "title": "Research: Home energy advice services in England: hard-to-reach and digitally excluded consumers",
-      "summary": "Social research to understand the scope of energy advice provision in England, and the preferences of digitally excluded and hard-to-reach consumers.",
-      "link": "https://www.gov.uk/government/publications/home-energy-advice-services-in-england-hard-to-reach-and-digitally-excluded-consumers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Home energy information, advice and guidance",
-      "summary": "Qualitative research exploring perceptions of home energy advice provision and the customer journey in seeking energy advice.",
-      "link": "https://www.gov.uk/government/publications/home-energy-information-advice-and-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Home decarbonisation: the role of the residential sales and lettings sector",
-      "summary": "Behavioural research exploring the current and potential role of the sales and lettings sector in supporting homeowners to decarbonise their homes.",
-      "link": "https://www.gov.uk/government/publications/home-decarbonisation-the-role-of-the-residential-sales-and-lettings-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Research: Monitoring report: UK-Australia, UK-New Zealand and UK-Japan FTAs",
       "summary": "This report covers the first 2 years of the UK’s free trade agreements (FTAs) with Australia and New Zealand and the first 4 years of the UK’s FTA with Japan.",
       "link": "https://www.gov.uk/government/publications/monitoring-report-uk-australia-uk-new-zealand-and-uk-japan-ftas",
@@ -419,48 +472,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T16:19:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK support to Ukraine: factsheet",
-      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
-      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T11:34:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UK-Norway, Iceland, and Liechtenstein FTA Sub-Committee on Sanitary and Phytosanitary measures: joint minutes, 17 November 2025",
-      "summary": "Summary of the third meeting of the UK-Norway, Iceland, and Liechtenstein FTA Sub-Committee on Sanitary and Phytosanitary measures.",
-      "link": "https://www.gov.uk/government/publications/uk-norway-iceland-and-liechtenstein-fta-sub-committee-on-sanitary-and-phytosanitary-measures-joint-minutes-17-november-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T10:53:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Impact assessment: UK-India Free Trade Agreement: impact assessment",
-      "summary": "This impact assessment sets out the potential economic, sectoral, distributional and environmental impacts of the UK-India Free Trade Agreement.",
-      "link": "https://www.gov.uk/government/publications/uk-india-free-trade-agreement-impact-assessment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-09T09:59:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

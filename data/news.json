@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T18:40:24.195675Z",
+  "generated_at": "2026-03-15T06:56:32.189191Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Government to go “further and faster” in becoming energy secure",
+      "summary": "The Energy Secretary outlines measures to protect consumers and make Britain energy secure.",
+      "link": "https://www.gov.uk/government/news/government-to-go-further-and-faster-in-becoming-energy-secure",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-15T00:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: Industrial Strategy Prospectus",
       "summary": "This document summarises the UK’s Modern Industrial Strategy and our Sector Plans, including our offer to businesses.",
@@ -343,18 +353,6 @@
       "title": "Research: Support for green finance and messengers among UK homeowners",
       "summary": "Quantitative research to explore homeowners’ willingness to use green home finance and trusted messengers on home decarbonisation.",
       "link": "https://www.gov.uk/government/publications/support-for-green-finance-and-messengers-among-uk-homeowners",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-11T13:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Research: Comfort taking: evidence review",
-      "summary": "A rapid evidence assessment exploring ‘comfort taking’, where households choose to heat their home to a higher temperature following installation of a home decarbonisation measure.",
-      "link": "https://www.gov.uk/government/publications/comfort-taking-evidence-review",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-03-11T13:30:03+00:00",
       "matched": [],

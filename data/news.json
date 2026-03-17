@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T07:04:08.004991Z",
+  "generated_at": "2026-03-17T13:09:06.830009Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,90 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T12:35:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T11:34:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: UK Emissions Trading Scheme: offshore installations – location codes",
+      "summary": "A list of offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
+      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T11:15:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Justification of Practices Involving Ionising Radiation application register",
+      "summary": "Applications and decisions made under Regulations 9, 10 and 12 of the Justification of Practices involving Ionising Radiation Regulations (JoPIIRR) 2004.",
+      "link": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T11:14:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Hundreds of new UK jobs as Nigerian companies confirm millions in investment",
+      "summary": "Hundreds of new UK jobs are set to be created as Nigerian companies scale up their operations, reinforcing Britain's position as a leading global business hub.",
+      "link": "https://www.gov.uk/government/news/hundreds-of-new-uk-jobs-as-nigerian-companies-confirm-millions-in-investment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-17T09:42:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T09:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Green Distilleries Competition (closed to applications)",
+      "summary": "The Green Distilleries Competition provided funding for developing technologies that enable the use of low carbon fuels in a distillery.",
+      "link": "https://www.gov.uk/government/publications/green-distilleries-competition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T09:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Industrial Energy Transformation Fund (IETF): competition winners",
+      "summary": "The IETF provides grant funding for feasibility and engineering studies, and for the deployment of industrial energy efficiency and deep decarbonisation projects.",
+      "link": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T08:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
     {
       "title": "Pubs, restaurants and hotels slash bills with energy saving tool",
       "summary": "Pubs, restaurants and hotels slash energy bills with free energy saving and carbon reduction tool.",
@@ -274,30 +358,6 @@
       "ai_tags": []
     },
     {
-      "title": "Independent report: Nuclear Decommissioning Authority: 2026 review",
-      "summary": "The government has commissioned an independent review of the Nuclear Decommissioning Authority (NDA) to assess its performance and identify opportunities for improvement.",
-      "link": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T15:24:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Notice: Nuclear Decommissioning Authority review: privacy notice",
-      "summary": "How we will use your personal data and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-review-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T15:24:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
       "title": "Make Work Pay: improving access to flexible working",
       "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
@@ -306,30 +366,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accelerating electricity network connections for strategic demand",
-      "summary": "We're seeking views on proposals to amend the connections process to address speculation and prioritise future capacity for strategic demand, including data centres.",
-      "link": "https://www.gov.uk/government/consultations/accelerating-electricity-network-connections-for-strategic-demand",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T12:07:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Hydrogen Network Code: industry engagement",
-      "summary": "Notification that we will shortly begin industry engagement relating to the development of a new network code for hydrogen.",
-      "link": "https://www.gov.uk/government/publications/hydrogen-network-code",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T11:32:00+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
     },
     {
       "title": "Notice: Trade remedies notices: registration of imports of tin mill products originating from China",
@@ -344,47 +380,11 @@
       ]
     },
     {
-      "title": "Notice: Heat Pump Ready Programme: successful projects",
-      "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T10:24:27+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Innovation",
-        "Net zero"
-      ]
-    },
-    {
       "title": "Guidance: Countering Russian sanctions evasion and circumvention",
       "summary": "Guidance for UK businesses on countering Russian sanctions evasion and circumvention.",
       "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-12T09:40:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Warm Homes: Local Grant – guidance for local authorities",
-      "summary": "Funding for local authorities to deliver energy performance and low carbon heating upgrades to low-income homes in England.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Summary of questions included in the DESNZ/BEIS Public Attitudes Tracker since Autumn 2021",
-      "summary": "A summary of the questions included in the Public Attitudes Tracker since the new time series was started in Autumn 2021.",
-      "link": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnzbeis-public-attitudes-tracker-since-autumn-2021",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T09:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -456,18 +456,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "UK manufacturers to save millions of pounds a year as government removes offshore wind energy tariffs",
-      "summary": "British manufacturers will save millions of pounds a year as the Government removes tariffs on offshore wind energy components from 1 April.",
-      "link": "https://www.gov.uk/government/news/uk-manufacturers-to-save-millions-of-pounds-a-year-as-government-removes-offshore-wind-energy-tariffs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-10T15:59:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
     }
   ]
 }

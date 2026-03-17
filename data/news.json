@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T13:08:33.061214Z",
+  "generated_at": "2026-03-17T01:56:46.634969Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,48 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Pubs, restaurants and hotels slash bills with energy saving tool",
+      "summary": "Pubs, restaurants and hotels slash energy bills with free energy saving and carbon reduction tool.",
+      "link": "https://www.gov.uk/government/news/pubs-restaurants-and-hotels-slash-bills-with-energy-saving-tool",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-17T00:01:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Britain to lead fusion energy race to deliver energy security",
+      "summary": "Government sets out its vision for developing a commercial fusion industry in the UK that will deliver skilled jobs, investment and growth.",
+      "link": "https://www.gov.uk/government/news/britain-to-lead-fusion-energy-race-to-deliver-energy-security",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-16T15:14:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "ILIOS appointment speeds delivery of STEP Fusion at West Burton",
+      "summary": "The partnership with ILIOS will help ensure that West Burton becomes a leading centre of fusion energy innovation.",
+      "link": "https://www.gov.uk/government/news/ilios-appointment-speeds-delivery-of-step-fusion-at-west-burton",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-16T14:52:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Policy paper: National Minimum Wage and National Living Wage: Low Pay Commission remit 2026",
+      "summary": "The government’s remit to the Low Pay Commission (LPC) outlining areas to consider when recommending the 2027 National Living Wage and National Minimum Wage rates.",
+      "link": "https://www.gov.uk/government/publications/national-minimum-wage-and-national-living-wage-low-pay-commission-remit-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-16T14:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "UKAEA-Eni Tritium Loop Facility expands international partnership",
       "summary": "Canada's Kinectrics announced as the design and fabrication partner for the UKAEA-Eni H3AT Tritium Loop Facility, a world-leading tritium research facility.",
@@ -348,43 +390,11 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T09:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Market access barrier quarterly statistics: October to December 2025",
       "summary": "Headline summary of market access barriers resolved during Quarter 3 (October to December) of the financial year ending 2026.",
       "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-october-to-december-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-12T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Heat pump deployment statistics: December 2025",
-      "summary": "Statistical releases on heat pump installations in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Winter 2025",
-      "summary": "Findings from the triannual DESNZ Public Attitudes Tracker (PAT).",
-      "link": "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-winter-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-12T09:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -457,18 +467,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Manufacturing"
-      ]
-    },
-    {
-      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
-      "summary": "Find the UK's preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020.",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-10T15:54:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

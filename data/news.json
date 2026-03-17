@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T13:09:06.830009Z",
+  "generated_at": "2026-03-17T19:03:44.217296Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Companies and products awarded ETS CPS compensation",
+      "summary": "Companies and products awarded compensation for the indirect costs of the UK Emissions Trading Scheme (UK ETS) and Carbon Price Support (CPS) scheme by year.",
+      "link": "https://www.gov.uk/government/publications/companies-and-products-awarded-ets-cps-compensation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-17T15:54:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK-Nigeria Enhanced Trade and Investment Partnership – ministerial dialogue communiqué, 16 March 2026",
+      "summary": "The communiqué captures areas of focus at the inaugural ministerial dialogue of the UK-Nigeria Enhanced Trade and Investment Partnership (ETIP).",
+      "link": "https://www.gov.uk/government/publications/uk-nigeria-enhanced-trade-and-investment-partnership-ministerial-dialogue-communique-16-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-17T15:19:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -434,28 +456,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/05: open general export licence (OGEL) updated",
-      "summary": "The Export Control Joint Unit (ECJU) has updated the open general export licence (OGEL) military goods: collaborative project Typhoon.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202605-open-general-export-licence-ogel-updated",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-11T12:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: Horizon redress schemes: progress reports for 2025",
-      "summary": "Reports on how redress in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA) process are progressing.",
-      "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-reports-for-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-11T10:31:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

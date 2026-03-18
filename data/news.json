@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T19:03:44.217296Z",
+  "generated_at": "2026-03-18T02:00:48.954014Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: pressure equipment",
+      "summary": "Notices of publication and a consolidated list for designated standards for pressure equipment.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-pressure-equipment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T00:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
+      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T00:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: machinery",
+      "summary": "Notices of publication and a consolidated list for designated standards for machinery.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-machinery",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T00:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Companies and products awarded ETS CPS compensation",
       "summary": "Companies and products awarded compensation for the indirect costs of the UK Emissions Trading Scheme (UK ETS) and Carbon Price Support (CPS) scheme by year.",
@@ -420,42 +450,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: legal costs framework",
-      "summary": "This guidance sets out the legal costs the Department for Business and Trade (DBT) will cover for Capture Redress Scheme applicants.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-legal-costs-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-11T14:31:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Monitoring report: UK-Australia, UK-New Zealand and UK-Japan FTAs",
-      "summary": "This report covers the first 2 years of the UK’s free trade agreements (FTAs) with Australia and New Zealand and the first 4 years of the UK’s FTA with Japan.",
-      "link": "https://www.gov.uk/government/publications/monitoring-report-uk-australia-uk-new-zealand-and-uk-japan-ftas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-11T13:21:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence military goods: collaborative project Typhoon",
-      "summary": "Licence for the export of military goods for the production, development or maintenance of Typhoon aircraft.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods-collaborative-project-typhoon",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-11T12:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

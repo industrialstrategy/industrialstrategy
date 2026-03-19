@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T13:12:20.135139Z",
+  "generated_at": "2026-03-19T06:59:21.197124Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,66 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Hundreds of employers handed penalties for illegally underpaying workers",
+      "summary": "389 employers from across the UK named for failing to pay workers the minimum wage to tens of thousands of workers.",
+      "link": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-19T00:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Policy Statement on the operation of Part 3 of the UK Internal Market act 2020",
+      "summary": "UK Internal Market act 2020: policy statement on the operation of Part 3 of the act (recognition of professional qualifications)",
+      "link": "https://www.gov.uk/government/publications/policy-statement-on-the-operation-of-part-3-of-the-uk-internal-market-act-2020",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T17:17:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Potential economic impact of future smart data use cases",
+      "summary": "Quantitative research assessing the potential social net present value and GDP impacts of 5 smart data use cases over a 15-year period.",
+      "link": "https://www.gov.uk/government/publications/potential-economic-impact-of-future-smart-data-use-cases",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T16:01:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Warm Homes Plan",
+      "summary": "This plan sets out how we will cut energy bills and upgrade homes.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-18T15:27:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: March 2026",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T14:19:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: DBT areas of research interest",
+      "summary": "DBT’s areas of research interest (ARI) summarise the areas in which the department would like to receive evidence from the external research community.",
+      "link": "https://www.gov.uk/government/publications/dbt-areas-of-research-interest",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-18T14:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Update following Round 4 of negotiations on an enhanced Free Trade Agreement with Turkey",
       "summary": "An update following the fourth round of UK-Turkey FTA negotiations.",
@@ -301,16 +361,6 @@
       "ai_tags": []
     },
     {
-      "title": "UKAEA-Eni Tritium Loop Facility expands international partnership",
-      "summary": "Canada's Kinectrics announced as the design and fabrication partner for the UKAEA-Eni H3AT Tritium Loop Facility, a world-leading tritium research facility.",
-      "link": "https://www.gov.uk/government/news/ukaea-eni-tritium-loop-facility-expands-international-partnership",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-16T12:19:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): legal cost framework",
       "summary": "This framework sets out the legal costs we will cover for those applying for financial redress under the Horizon Convictions Redress Scheme (HCRS).",
       "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-legal-cost-framework",
@@ -389,62 +439,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/04: transmission issues between LITE/SPIRE and CDS",
-      "summary": "Licences from LITE/SPIRE may not reach HMRC’s Customs Declaration Service (CDS), causing clearance delays. Report declaration problems to CDS while we investigate.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202604-transmission-issues-between-litespire-and-cds",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-13T12:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/06: resolved transmission issues with CDS",
-      "summary": "The Export Control Joint Unit (ECJU) confirms the licence transmission issue is resolved and normal declarations may resume.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202606-resolved-transmission-issues-with-cds",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-13T12:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--54",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-13T10:21:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, September 2025",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-september-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-12T15:56:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: improving access to flexible working",
-      "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-12T12:18:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

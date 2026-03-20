@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T06:56:14.586582Z",
+  "generated_at": "2026-03-20T18:47:17.061434Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,142 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: The UK's International Education Strategy 2026",
+      "summary": "Strategy setting out the government’s plans for UK international education and how it will support the sector access global opportunities.",
+      "link": "https://www.gov.uk/government/publications/the-uks-international-education-strategy-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-20T16:46:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T13:43:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New radar systems to unlock offshore wind",
+      "summary": "Upgrades to air defence radar systems will help unlock record breaking offshore wind capacity.",
+      "link": "https://www.gov.uk/government/news/new-radar-systems-to-unlock-offshore-wind",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T13:34:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/07: submitting export licence applications under the Agreement on Defence Export Controls",
+      "summary": "How to apply under articles 1 to 3, with an article 3 integration certificate template and completion guidance.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202607-submitting-export-licence-applications-under-the-agreement-on-defence-export-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-20T13:25:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: UK ETS 2025 Baseline Data Collection and HSE/USE scheme status: how to meet the data submission requirements",
+      "summary": "Guidance for operators on meeting the requirements for the baseline data collection and scheme status application submission window, 1 April - 30 June 2025.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-2025-baseline-data-collection-and-hseuse-scheme-status-how-to-meet-the-data-submission-requirements",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T13:25:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Steel strategy",
+      "summary": "Strategy document setting out the government’s approach to the steel sector.",
+      "link": "https://www.gov.uk/government/publications/steel-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-20T11:51:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Headline Release (monthly data)",
+      "summary": "Headline Household Energy Efficiency statistics under the Energy Company Obligation (ECO) and the Green Deal Framework.",
+      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-headline-release-monthly-data--48",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T09:43:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-20T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-20T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
+      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Proposed refinements for Allocation Round 8 and future rounds",
+      "summary": "We're seeking views on several refinements to ensure that the CfD continues to reflect current policy and that the scheme continues to function as originally intended.",
+      "link": "https://www.gov.uk/government/consultations/proposed-refinements-for-allocation-round-8-and-future-rounds",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
+      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
+      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Estimating renewable generation and homes powered: methodology",
+      "summary": "This note sets out how renewable capacity is translated into annual generation estimates and converted into equivalent homes or region powered.",
+      "link": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-20T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Trade Minister Speech at Chatham House",
       "summary": "UK Trade Minister Chris Bryant gives a speech at the Chatham House Global Trade Conference.",
@@ -114,16 +250,6 @@
       "title": "Independent report: UK steel strategy demand assessment",
       "summary": "A government commissioned report on the UK steel demand forecast to 2050, to inform the UK steel strategy.",
       "link": "https://www.gov.uk/government/publications/uk-steel-strategy-demand-assessment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T11:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Steel strategy",
-      "summary": "Strategy document setting out the government’s approach to the steel sector.",
-      "link": "https://www.gov.uk/government/publications/steel-strategy",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-19T11:00:05+00:00",
       "matched": [],
@@ -243,16 +369,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Potential economic impact of future smart data use cases",
-      "summary": "Quantitative research assessing the potential social net present value and GDP impacts of 5 smart data use cases over a 15-year period.",
-      "link": "https://www.gov.uk/government/publications/potential-economic-impact-of-future-smart-data-use-cases",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-18T16:01:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Warm Homes Plan",
       "summary": "This plan sets out how we will cut energy bills and upgrade homes.",
       "link": "https://www.gov.uk/government/publications/warm-homes-plan",
@@ -261,38 +377,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: March 2026",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-18T14:19:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: DBT areas of research interest",
-      "summary": "DBT’s areas of research interest (ARI) summarise the areas in which the department would like to receive evidence from the external research community.",
-      "link": "https://www.gov.uk/government/publications/dbt-areas-of-research-interest",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-18T14:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Update following Round 4 of negotiations on an enhanced Free Trade Agreement with Turkey",
-      "summary": "An update following the fourth round of UK-Turkey FTA negotiations.",
-      "link": "https://www.gov.uk/government/news/update-following-round-4-of-negotiations-on-an-enhanced-free-trade-agreement-with-turkey",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-18T11:59:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Notice: Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
@@ -352,88 +436,6 @@
       "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-alerts-and-incident-reporting",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-03-18T09:39:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Independent report: Review of AI deployment in the electricity networks: terms of reference",
-      "summary": "Terms of reference for the independent review.",
-      "link": "https://www.gov.uk/government/publications/review-of-ai-deployment-in-the-electricity-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T09:34:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Domestic energy tariff reductions 2026: guidance for energy suppliers",
-      "summary": "Guidance for energy suppliers on how to apply discounts to domestic tariffs from 1 April 2026, related to the RO to Exchequer scheme and closure of the ECO and GBIS schemes.",
-      "link": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T09:16:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Domestic energy tariff reductions 2026: ministerial direction",
-      "summary": "This direction requires energy suppliers to apply discounts to domestic tariffs from 1 April 2026, related to the RO to Exchequer scheme and closure of the ECO and GBIS schemes.",
-      "link": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-ministerial-direction",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T09:15:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Open letter to Third Party Intermediaries (TPIs): supporting consumers",
-      "summary": "The Secretary of State and Ofgem have written to TPIs to set out expectations on how best to support consumers.",
-      "link": "https://www.gov.uk/government/publications/open-letter-to-third-party-intermediaries-tpis-supporting-consumers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-17T12:35:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
-      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-17T11:34:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: UK Emissions Trading Scheme: offshore installations – location codes",
-      "summary": "A list of offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
-      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-17T11:15:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Justification of Practices Involving Ionising Radiation application register",
-      "summary": "Applications and decisions made under Regulations 9, 10 and 12 of the Justification of Practices involving Ionising Radiation Regulations (JoPIIRR) 2004.",
-      "link": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-17T11:14:45+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

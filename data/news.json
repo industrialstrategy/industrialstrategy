@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T18:39:51.765072Z",
+  "generated_at": "2026-03-23T18:54:45.334710Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,113 @@
   "count": 40,
   "items": [
     {
-      "title": "Policy paper: The UK's International Education Strategy 2026",
-      "summary": "Strategy setting out the government’s plans for UK international education and how it will support the sector access global opportunities.",
-      "link": "https://www.gov.uk/government/publications/the-uks-international-education-strategy-2026",
+      "title": "Notice: Trade remedies notices: anti-dumping duty on imports of tin mill products originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on imports of tin mill originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-imports-of-tin-mill-products-originating-from-china",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-20T16:46:46+00:00",
+      "published": "2026-03-23T17:04:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: registration of imports of tin mill products originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the registration of imports of tin mill products originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-registration-of-imports-of-tin-mill-products-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-23T17:04:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK Emissions Trading Scheme: Treatment of sustainable aviation fuel",
+      "summary": "The UK ETS Authority is seeking views on options for the future treatment of sustainable aviation fuels (SAF) in the UK ETS.",
+      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-treatment-of-sustainable-aviation-fuel",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T17:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Annual statement of emissions for 2024",
+      "summary": "Seventeenth annual statement of emissions required under section 16 of the Climate Change Act 2008.",
+      "link": "https://www.gov.uk/government/publications/annual-statement-of-emissions-for-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T16:33:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Welsh steel industry backed with new trade measure and strategy",
+      "summary": "UK steel producers and thousands of steel workers in Wales will benefit from a landmark Steel Strategy.",
+      "link": "https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-23T16:29:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Life sciences competitiveness indicators, 2026",
+      "summary": "Data on the life sciences sector in the UK and other countries.",
+      "link": "https://www.gov.uk/government/publications/life-sciences-competitiveness-indicators-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-23T15:11:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets--84",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-23T14:56:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notice: registration of imports of glass containers originating from China",
+      "summary": "Trade remedies notice published by the Secretary of State for Business and Trade relating to the registration of imports of glass containers originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-registration-of-imports-of-glass-containers-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-23T11:00:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notice: registration of imports of glass containers originating from Turkey",
+      "summary": "Trade remedies notice published by the Secretary of State for Business and Trade relating to the registration of imports of glass containers originating from Turkey.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-registration-of-imports-of-glass-containers-originating-from-turkey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-23T11:00:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Fuel Poverty sub-regional report: 2024",
+      "summary": "Estimates of sub-regional fuel poverty in England in 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/fuel-poverty-sub-regional-report-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T10:28:48+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -33,7 +135,59 @@
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-20T13:43:01+00:00",
+      "published": "2026-03-23T10:18:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Energy code reform: Code manager licence conditions and code modification appeals to the CMA",
+      "summary": "DESNZ and Ofgem are seeking views on proposals for energy code manager licence conditions and code modification appeals to the Competition and Markets Authority (CMA).",
+      "link": "https://www.gov.uk/government/consultations/energy-code-reform-code-manager-licence-conditions-and-code-modification-appeals-to-the-cma",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T10:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: workforce management information, February 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T09:59:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Nuclear Third Party Liability for Advanced Nuclear Technologies",
+      "summary": "We're calling for evidence on approaches for applying Nuclear Third Party Liability arrangements to Small and Advanced Modular Reactors.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/nuclear-third-party-liability-for-advanced-nuclear-technologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Policy paper: Energy digitalisation framework: a vision for a coordinated and connected energy system",
+      "summary": "Delivering the digitalisation of the energy system in a coordinated and connected way.",
+      "link": "https://www.gov.uk/government/publications/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-23T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: The UK's International Education Strategy 2026",
+      "summary": "Strategy setting out the government’s plans for UK international education and how it will support the sector access global opportunities.",
+      "link": "https://www.gov.uk/government/publications/the-uks-international-education-strategy-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-20T16:46:46+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -53,7 +207,7 @@
       "summary": "How to apply under articles 1 to 3, with an article 3 integration certificate template and completion guidance.",
       "link": "https://www.gov.uk/government/publications/notice-to-exporters-202607-submitting-export-licence-applications-under-the-agreement-on-defence-export-controls",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-20T13:25:12+00:00",
+      "published": "2026-03-20T13:25:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -257,26 +411,6 @@
       "ai_tags": []
     },
     {
-      "title": "Independent report: Materials Processing Institute: UK primary steelmaking review 2025",
-      "summary": "A government commissioned report from the Materials Processing Institute (MPI) to assess UK primary steelmaking technology, to inform the UK steel strategy.",
-      "link": "https://www.gov.uk/government/publications/materials-processing-institute-uk-primary-steelmaking-review-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T11:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "New redress scheme announced for Horizon scandal family members",
-      "summary": "New redress scheme announced for relatives of postmasters affected by the Post Office Horizon scandal",
-      "link": "https://www.gov.uk/government/news/new-redress-scheme-announced-for-horizon-scandal-family-members",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T10:54:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Smart Meters: January to March 2026",
       "summary": "Quarterly statistics which show the number of smart meters installed by large energy suppliers in January to March 2026 and the total numbers of smart and non-smart meters operated by these suppliers at the end of March 2026.",
       "link": "https://www.gov.uk/government/statistics/announcements/smart-meters-january-to-march-2026--2",
@@ -285,28 +419,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Travel to Spain for work",
-      "summary": "Check if you need a visa or permit to work in Spain and how to get one if you do.",
-      "link": "https://www.gov.uk/guidance/travel-to-spain-for-work",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T10:31:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Post Office Horizon IT Inquiry: update on restorative justice programme",
-      "summary": "An update from the Department for Business and Trade on the development of the restorative justice programme.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-it-inquiry-update-on-restorative-justice-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T10:14:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Guidance: Household Energy Efficiency statistics methodology note",
@@ -334,108 +446,6 @@
       "link": "https://www.gov.uk/government/statistics/smart-meters-in-great-britain-quarterly-update-december-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-03-19T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Life sciences competitiveness indicators, 2026",
-      "summary": "Data on the life sciences sector in the UK and other countries.",
-      "link": "https://www.gov.uk/government/publications/life-sciences-competitiveness-indicators-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T09:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Hundreds of employers handed penalties for illegally underpaying workers",
-      "summary": "389 employers from across the UK named for failing to pay workers the minimum wage to tens of thousands of workers.",
-      "link": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T00:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Policy Statement on the operation of Part 3 of the UK Internal Market act 2020",
-      "summary": "UK Internal Market act 2020: policy statement on the operation of Part 3 of the act (recognition of professional qualifications)",
-      "link": "https://www.gov.uk/government/publications/policy-statement-on-the-operation-of-part-3-of-the-uk-internal-market-act-2020",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-18T17:17:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Warm Homes Plan",
-      "summary": "This plan sets out how we will cut energy bills and upgrade homes.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-plan",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T15:27:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
-      "summary": "How we will use your personal data and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T11:11:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 23 March 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-23-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T11:08:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Lower bills for farmers, schools and factories",
-      "summary": "Farmers, schools and manufacturers could soon cut their energy bills by installing small onshore wind turbines without needing planning permission.",
-      "link": "https://www.gov.uk/government/news/lower-bills-for-farmers-schools-and-factories",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T11:02:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Permitted development rights for onshore wind turbines in England",
-      "summary": "We're seeking views on existing and proposed permitted development rights for wind turbines.",
-      "link": "https://www.gov.uk/government/consultations/permitted-development-rights-for-onshore-wind-turbines-in-england",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T10:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Electricity generation costs 2025",
-      "summary": "Report on levelised cost estimates for electricity generation technologies, detailing methodology, data and assumptions.",
-      "link": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T09:41:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: environmental alerts and incident reporting including anonymous reporting",
-      "summary": "How to report incidents, including pro-formas for PON1 and PON2 and guidance on completion; listing of environmental alerts for operators in the North Sea.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-alerts-and-incident-reporting",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-18T09:39:21+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

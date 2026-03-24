@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T13:09:01.410404Z",
+  "generated_at": "2026-03-24T19:10:02.759037Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,210 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Hydrogen heating: overview",
+      "summary": "An overview of government and industry's work on hydrogen heating and the community trial being carried out by industry.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-heating-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T17:16:54+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Research: Hydrogen Skills and Standards for Heat",
+      "summary": "This programme will help define the required criteria to safely repurpose existing natural gas equipment for hydrogen and to train a workforce of competent hydrogen gas installers.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-skills-and-standards-for-heat",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T17:15:21+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Raising product standards for household tumble dryers",
+      "summary": "We're seeking views on proposals for updated ecodesign and energy labelling requirements for household tumble dryers.",
+      "link": "https://www.gov.uk/government/consultations/raising-product-standards-for-household-tumble-dryers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T17:11:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Hydrogen heating: HSE assessment of the safety evidence",
+      "summary": "HSE is applying its expert knowledge and capability to assess evidence on the safe distribution, storage and use of 100% hydrogen heating.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T17:05:47+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: special advisers' gifts, hospitality and meetings, October to December 2025",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "link": "https://www.gov.uk/government/publications/desnz-special-advisers-gifts-hospitality-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, October to December 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: special advisers' gifts, hospitality and meetings, October to December 2025",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "link": "https://www.gov.uk/government/publications/dbt-special-advisers-gifts-hospitality-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-24T16:00:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, December 2025",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, November 2025",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: business appointment rules advice, October to December 2025",
+      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+      "link": "https://www.gov.uk/government/publications/desnz-business-appointment-rules-advice-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: business appointment rules advice, July to September 2025",
+      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+      "link": "https://www.gov.uk/government/publications/desnz-business-appointment-rules-advice-july-to-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, October 2025",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: senior officials’ business expenses and hospitality, October to December 2025",
+      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-senior-officials-business-expenses-and-hospitality-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Industrial energy and resource efficiency rebound effects",
+      "summary": "A report on resource efficiency and the rebound effect in UK industry.",
+      "link": "https://www.gov.uk/government/publications/industrial-energy-and-resource-efficiency-rebound-effects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Updating evidence on energy efficiency potential for UK industry",
+      "summary": "A report on the scope for improvements in energy efficiency in UK industry.",
+      "link": "https://www.gov.uk/government/publications/updating-evidence-on-energy-efficiency-potential-for-uk-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T16:00:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: senior officials’ business expenses, hospitality, and meetings, October to December 2025",
+      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-senior-officials-business-expenses-hospitality-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-24T16:00:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Update following negotiations on an enhanced FTA with Switzerland",
+      "summary": "Update following round 10 of negotiations on an enhanced Free Trade Agreement with Switzerland",
+      "link": "https://www.gov.uk/government/news/update-following-negotiations-on-an-enhanced-fta-with-switzerland",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-24T14:59:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Home Energy Model: Future Homes Standard assessment: technical documentation",
+      "summary": "Technical documents providing detail on the Home Energy Model: Future Homes Standard Assessment methodology.",
+      "link": "https://www.gov.uk/government/publications/home-energy-model-future-homes-standard-assessment-technical-documentation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-24T14:31:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: ministerial overseas travel and meetings, July to September 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-july-to-september-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-24T13:45:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Fuel Poverty report: 2025",
       "summary": "The report includes data on the number of households living in fuel poverty in England, an analysis of the composition of the fuel poor group in 2025, and projections of the number of households in fuel poverty in 2026.",
@@ -69,42 +273,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T10:46:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Home Energy Model: Future Homes Standard assessment",
-      "summary": "We're seeking views on the methodology which will assess whether new dwellings demonstrate compliance with the Future Homes Standard.",
-      "link": "https://www.gov.uk/government/consultations/home-energy-model-future-homes-standard-assessment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T10:44:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: DESNZ small and medium-sized enterprise (SME) action plan: 2025 to 2028",
-      "summary": "DESNZ is backing your business by making it easier for small businesses to access public sector supply chains, removing unnecessary burdens and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-small-and-medium-sized-enterprise-sme-action-plan-2025-to-2028",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T10:00:05+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
       "title": "Policy paper: DBT small and medium-sized enterprise (SME) action plan: 2025 to 2028",
       "summary": "The Department for Business and Trade (DBT) is backing your business by making it easier for small businesses to access public sector supply chains, removing unnecessary burdens and costs.",
       "link": "https://www.gov.uk/government/publications/dbt-small-and-medium-sized-enterprise-sme-action-plan-2025-to-2028",
@@ -120,20 +288,6 @@
       ]
     },
     {
-      "title": "Corporate report: DESNZ procurement policy",
-      "summary": "How the Department for Energy Security and Net Zero (DESNZ) buys goods, services, and works.",
-      "link": "https://www.gov.uk/government/publications/desnz-procurement-policy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T10:00:04+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
       "title": "Trade Envoy appointed to Japan",
       "summary": "The Business and Trade Secretary has appointed David Taylor MP as Trade Envoy to Japan.",
       "link": "https://www.gov.uk/government/news/trade-envoy-appointed-to-japan",
@@ -146,55 +300,11 @@
       ]
     },
     {
-      "title": "Warm Homes Fund: innovative finance for investments and loans",
-      "summary": "We're seeking information on where government financing can help support building decarbonisation.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/warm-homes-fund-innovative-finance-for-investments-and-loans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T09:34:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Fair Work Agency Advisory Board appointed ahead of April launch",
       "summary": "New board features members from a range of backgrounds and will advise ministers on the strategy and direction of the Fair Work Agency.",
       "link": "https://www.gov.uk/government/news/fair-work-agency-advisory-board-appointed-ahead-of-april-launch",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-03-24T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Alternative Energy Markets Innovation Programme: projects",
-      "summary": "The Alternative Energy Markets Innovation Programme developed and tested innovative tariffs, products and services under alternative energy market scenarios.",
-      "link": "https://www.gov.uk/government/publications/alternative-energy-markets-innovation-programme-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Design and construct new builds to enable smart meter installations",
-      "summary": "Guidance on how to design and construct domestic and non-domestic new build premises so that smart meters can be installed and commissioned in them from the outset.",
-      "link": "https://www.gov.uk/government/publications/design-and-construct-new-builds-to-enable-smart-meter-installations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T09:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -230,16 +340,6 @@
       "ai_tags": []
     },
     {
-      "title": "Government to make “plug-in solar” available within months",
-      "summary": "“Plug-in” solar panels to be in shops within months, offering households chance to significantly cut energy bills.",
-      "link": "https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-24T00:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Trade remedies notices: anti-dumping duty on imports of tin mill products originating from China",
       "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on imports of tin mill originating from China.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-imports-of-tin-mill-products-originating-from-china",
@@ -262,26 +362,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "UK Emissions Trading Scheme: Treatment of sustainable aviation fuel",
-      "summary": "The UK ETS Authority is seeking views on options for the future treatment of sustainable aviation fuels (SAF) in the UK ETS.",
-      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-treatment-of-sustainable-aviation-fuel",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-23T17:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Annual statement of emissions for 2024",
-      "summary": "Seventeenth annual statement of emissions required under section 16 of the Climate Change Act 2008.",
-      "link": "https://www.gov.uk/government/publications/annual-statement-of-emissions-for-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-23T16:33:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Welsh steel industry backed with new trade measure and strategy",
@@ -342,46 +422,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Fuel Poverty sub-regional report: 2024",
-      "summary": "Estimates of sub-regional fuel poverty in England in 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/fuel-poverty-sub-regional-report-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-23T10:28:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-23T10:18:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Energy code reform: Code manager licence conditions and code modification appeals to the CMA",
-      "summary": "DESNZ and Ofgem are seeking views on proposals for energy code manager licence conditions and code modification appeals to the Competition and Markets Authority (CMA).",
-      "link": "https://www.gov.uk/government/consultations/energy-code-reform-code-manager-licence-conditions-and-code-modification-appeals-to-the-cma",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-23T10:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: workforce management information, February 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-23T09:59:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: The UK's International Education Strategy 2026",
       "summary": "Strategy setting out the government’s plans for UK international education and how it will support the sector access global opportunities.",
       "link": "https://www.gov.uk/government/publications/the-uks-international-education-strategy-2026",
@@ -412,54 +452,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-20T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-20T09:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Trade Minister Speech at Chatham House",
-      "summary": "UK Trade Minister Chris Bryant gives a speech at the Chatham House Global Trade Conference.",
-      "link": "https://www.gov.uk/government/speeches/trade-minister-speech-at-chatham-house",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T16:21:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Correspondence: Horizon Family Members Redress Scheme: letters from the Minister for Small Business and Economic Transformation",
-      "summary": "Letters to Lost Chances and the Business and Trade Select Committee about the redress scheme for family members of postmasters affected by the Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letters-from-the-minister-for-small-business-and-economic-transformation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-19T15:35:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

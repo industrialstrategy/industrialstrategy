@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T13:03:08.693675Z",
+  "generated_at": "2026-03-27T18:59:22.791400Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,60 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Gareth Davies Appointed as New Home Office Permanent Secretary",
+      "summary": "The Cabinet Secretary, with the approval of the Prime Minister, has announced the appointment of Gareth Davies CB as the new Permanent Secretary at the Home Office.",
+      "link": "https://www.gov.uk/government/news/gareth-davies-appointed-as-new-home-office-permanent-secretary",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-27T17:14:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-27T16:52:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Combined heat and power quality assurance (CHPQA) standard",
+      "summary": "CHPQA methodology, definitions, QI thresholds, and criteria for Good Quality certification.",
+      "link": "https://www.gov.uk/government/publications/chpqa-standard",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-03-27T16:37:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: CPTPP: EU joint ministerial statement, 27 March 2026",
+      "summary": "This announcement details the CPTPP-EU Trade and Investment Dialogue which could help to support rules-based trade and the multilateral trading system.",
+      "link": "https://www.gov.uk/government/publications/cptpp-eu-joint-ministerial-statement-27-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-27T16:11:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT register of board members’ interests 2025 to 2026",
+      "summary": "A register of the private interests declared by the Department for Business and Trade (DBT) board members.",
+      "link": "https://www.gov.uk/government/publications/dbt-register-of-board-members-interests-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-03-27T15:43:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Whole energy cyber resilience requirements: reshaping cyber regulation in downstream gas and electricity",
       "summary": "We're seeking views on proposals for a new approach to cyber resilience regulation for downstream gas and electricity operators.",
@@ -223,26 +277,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: CHPQA guidance note 25: Determination of CHP qualifying fuel input",
-      "summary": "Guidance on how to determine  CHP qualifying fuel input.",
-      "link": "https://www.gov.uk/government/publications/chpqa-guidance-note-25-determination-of-chp-qualifying-fuel-input",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-26T16:55:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: CHPQA guidance note 24: Determination of scheme quality",
-      "summary": "Guidance on how the quality of a CHP scheme is determined.",
-      "link": "https://www.gov.uk/government/publications/chpqa-guidance-note-24-determination-of-scheme-quality",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-03-26T16:55:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: DBT worldwide offices",
       "summary": "Contact details for Department for Business and Trade (DBT) offices around the world and a list of our HM Trade Commissioners.",
       "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
@@ -294,18 +328,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT register of board members’ interests 2025 to 2026",
-      "summary": "A register of the private interests declared by the Department for Business and Trade (DBT) board members.",
-      "link": "https://www.gov.uk/government/publications/dbt-register-of-board-members-interests-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-26T11:52:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {
@@ -419,30 +441,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-26T09:30:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-26T09:30:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

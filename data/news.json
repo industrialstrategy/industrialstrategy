@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T19:01:19.562272Z",
+  "generated_at": "2026-04-02T02:04:37.539275Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Consumers to save around £400 million every year from government crackdown on costly subscription traps",
+      "summary": "Hard working Brits will keep more of their cash under a new government crackdown on unwanted and misleading subscriptions",
+      "link": "https://www.gov.uk/government/news/consumers-to-save-around-400-million-every-year-from-government-crackdown-on-costly-subscription-traps",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-01T23:01:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Clean Heat Market Mechanism: fossil fuel boiler sales, targets and credits",
       "summary": "How to monitor and report on the sales of fossil fuel boilers. How the low carbon target affects you, when you get credits and how to use them. How to pay for a credit shortfall.",
@@ -431,16 +441,6 @@
       "ai_tags": [
         "Manufacturing"
       ]
-    },
-    {
-      "title": "Independent report: Keep Britain Working Review: Final report",
-      "summary": "Keep Britain Working is an independent review of the role of employers in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-final-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

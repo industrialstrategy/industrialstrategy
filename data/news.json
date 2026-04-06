@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T07:06:03.044844Z",
+  "generated_at": "2026-04-06T02:20:00.385335Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,66 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Manually calculate an employee's Statutory Parental Bereavement Pay",
+      "summary": "Use this guidance if your payroll software or Basic PAYE tool does not calculate your employee's payments.",
+      "link": "https://www.gov.uk/guidance/manually-calculate-your-employees-statutory-parental-bereavement-pay",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-05T23:15:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Manually calculate a Northern Ireland based employee's Statutory Parental Bereavement Pay",
+      "summary": "Use this guidance if your payroll software or Basic PAYE tool does not calculate your Northern Ireland based employee's payments for claims relating to a child death or miscarriage which happened on or after 6 April 2026.",
+      "link": "https://www.gov.uk/guidance/manually-calculate-a-northern-ireland-based-employees-statutory-parental-bereavement-pay",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-05T23:15:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "How different employment types affect what you pay in Statutory Parental Bereavement Pay",
+      "summary": "Find out about the different rules that apply to employment types like agency workers, directors and educational workers when deciding entitlement to Statutory Parental Bereavement Pay.",
+      "link": "https://www.gov.uk/guidance/how-different-employment-types-affect-what-you-pay-in-statutory-parental-bereavement-pay",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-05T23:15:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Employee circumstances that affect payment of Statutory Parental Bereavement Pay",
+      "summary": "What to do when an employee leaves, is reinstated, has a break in employment, works for someone else, is sick or goes abroad.",
+      "link": "https://www.gov.uk/guidance/employee-circumstances-that-affect-payment-of-statutory-parental-bereavement-pay",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-05T23:15:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory Bereaved Partner’s Paternity Leave: employer guide",
+      "summary": "Employer guide to Bereaved Partner’s Paternity leave: entitlement, eligibility and notice periods for claiming or changing leave.",
+      "link": "https://www.gov.uk/employers-bereaved-partners-paternity-leave",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-05T23:01:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Bereaved Partner’s Paternity Leave",
+      "summary": "Employee guide to unpaid paternity leave for bereaved partners: what you're entitled to, eligibility, how to claim, how to cancel and other help available.",
+      "link": "https://www.gov.uk/bereaved-partners-paternity-leave",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-05T23:01:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
       "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
@@ -386,70 +446,6 @@
       "ai_tags": [
         "Manufacturing"
       ]
-    },
-    {
-      "title": "Placing CE, or CE and UKNI marked products on the market in Northern Ireland",
-      "summary": "What you need to do to comply with regulations which govern manufactured products placed on the Northern Ireland market.",
-      "link": "https://www.gov.uk/guidance/placing-ce-or-ce-and-ukni-marked-products-on-the-market-in-northern-ireland",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:25:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Guidance: Product regulations by sector and current approaches to product marking: UKCA and CE regimes",
-      "summary": "Guidance on product marking for specific product sectors, including the continued recognition of certain EU requirements, such as CE marking.",
-      "link": "https://www.gov.uk/government/publications/product-regulations-by-sector-and-current-approaches-to-product-marking-ukca-and-ce-regimes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:25:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Placing UKCA or CE marked products on the market in Great Britain",
-      "summary": "What you need to do to comply with regulations which govern manufactured products placed on the market in Great Britain.",
-      "link": "https://www.gov.uk/guidance/placing-ukca-or-ce-marked-products-on-the-market-in-great-britain",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:25:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Product regulation: fire safety of domestic upholstered furniture",
-      "summary": "We are seeking final views on the comprehensive reform of the Furniture and Furnishings (Fire) (Safety) Regulations 1988.",
-      "link": "https://www.gov.uk/government/consultations/product-regulation-fire-safety-of-domestic-upholstered-furniture",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:04:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Product regulation: the UK’s new product safety framework",
-      "summary": "We are seeking views from businesses, consumer groups and all other interested stakeholders on a new, modernised and enhanced core product safety framework.",
-      "link": "https://www.gov.uk/government/consultations/product-regulation-the-uks-new-product-safety-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:04:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Product regulation: market surveillance and enforcement framework",
-      "summary": "We are seeking views on proposed reforms to UK product regulation market surveillance and enforcement.",
-      "link": "https://www.gov.uk/government/consultations/product-regulation-market-surveillance-and-enforcement-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:04:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

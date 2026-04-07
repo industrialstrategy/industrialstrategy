@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T02:20:00.385335Z",
+  "generated_at": "2026-04-07T02:09:05.111854Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute)        Regulations 2026",
+      "summary": "Statutory instruments for Alternative Dispute Resolution regulations from the Digital Markets, Competition and Consumers Act 2024.",
+      "link": "https://www.gov.uk/government/publications/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-regulations-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-06T11:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Whistleblowing guidance for employers",
+      "summary": "Get an overview of whistleblowing policies and procedures as an employer, to support your organisation’s commitment to handling wrongdoing in the workplace.",
+      "link": "https://www.gov.uk/guidance/whistleblowing-guidance-for-employers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-06T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Manually calculate an employee's Statutory Parental Bereavement Pay",
       "summary": "Use this guidance if your payroll software or Basic PAYE tool does not calculate your employee's payments.",
@@ -422,30 +442,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Placing CE marked products on the market in the EU",
-      "summary": "Where to find information on what you need to do to comply with regulations which govern manufactured products placed on the market in the European Union.",
-      "link": "https://www.gov.uk/guidance/placing-ce-marked-products-on-the-market-in-the-eu",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:45:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Fast-Track UKCA: UKCA and CE regimes",
-      "summary": "How manufacturers can use Fast-Track UKCA to apply the UK Conformity Assessed (UKCA) marking, by using UK or EU conformity assessment procedures for relevant regulations that apply to their product.",
-      "link": "https://www.gov.uk/guidance/fast-track-ukca-ukca-and-ce-regimes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-03-31T11:25:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
     }
   ]
 }

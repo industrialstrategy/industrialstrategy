@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T07:15:13.074332Z",
+  "generated_at": "2026-04-07T13:17:06.706999Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,29 +19,147 @@
   "count": 40,
   "items": [
     {
+      "title": "Welsh households to save money on bills through heat networks expansion",
+      "summary": "Households and businesses in Wales to save money on bills through expansion of low-carbon, low-cost heat networks.",
+      "link": "https://www.gov.uk/government/news/welsh-households-to-save-money-on-bills-through-heat-networks-expansion",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-07T12:54:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Placing UKCA or CE marked products on the market in Great Britain",
+      "summary": "What you need to do to comply with regulations which govern manufactured products placed on the market in Great Britain.",
+      "link": "https://www.gov.uk/guidance/placing-ukca-or-ce-marked-products-on-the-market-in-great-britain",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T11:02:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Research: Decent work: a review of evidence for effective prevention and detection of labour exploitation",
+      "summary": "Draws on expert seminar evidence to explain the drivers of labour exploitation and outline recommendations to support fair, safe and secure work in the UK.",
+      "link": "https://www.gov.uk/government/publications/decent-work-a-review-of-evidence-for-effective-prevention-and-detection-of-labour-exploitation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Code of practice for labour market enforcement undertakings and orders",
+      "summary": "This code of practice sets out how the Fair Work Agency (FWA) will apply labour market enforcement undertakings and orders to reduce the risk of labour market offending.",
+      "link": "https://www.gov.uk/government/publications/code-of-practice-for-labour-market-enforcement-undertakings-and-orders",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Fair Work Agency: enforcement policy statement",
+      "summary": "The regulatory tools and guiding structures utilised by the Fair Work Agency (FWA) to enforce labour market legislation within its remit.",
+      "link": "https://www.gov.uk/government/publications/fair-work-agency-enforcement-policy-statement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Director of Labour Market Enforcement (DLME) concluding statement",
+      "summary": "Assessment of the progress of the Labour Market Enforcement Strategy 2025 to 2026 and the impact of the DLME function from 2016 to 2026, when it was folded into the Fair Work Agency (FWA).",
+      "link": "https://www.gov.uk/government/publications/director-of-labour-market-enforcement-dlme-concluding-statement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Whistleblowing: for prescribed persons",
+      "summary": "Advice for prescribed persons on how to deal with whistleblowing disclosures.",
+      "link": "https://www.gov.uk/guidance/whistleblowing-for-prescribed-persons",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T10:42:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Supply chain fairness: Groceries Code Adjudicator to move to Defra",
+      "summary": "GCA sponsorship to move from DBT to Defra on 1 July 2026 to support a more joined-up approach to food supply chain fairness",
+      "link": "https://www.gov.uk/government/news/supply-chain-fairness-groceries-code-adjudicator-to-move-to-defra",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T10:11:34+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Millions of workers get new access to sick pay and parental leave",
+      "summary": "Landmark employment rights reforms kick into force.",
+      "link": "https://www.gov.uk/government/news/millions-of-workers-get-new-access-to-sick-pay-and-parental-leave",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T09:57:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-07T09:08:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: UK Emissions Trading Scheme: offshore installations – location codes",
+      "summary": "A list of offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
+      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-07T09:07:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Strategic steer to the Fair Work Agency",
+      "summary": "Sets out the government’s expectations for the Fair Work Agency (FWA) in 2026 to 2027.",
+      "link": "https://www.gov.uk/government/publications/strategic-steer-to-the-fair-work-agency",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Letting out a self-catering holiday home in England: rules and regulations",
+      "summary": "Regulations you need to follow when letting out a self-catering, short-term holiday home in England.",
+      "link": "https://www.gov.uk/guidance/letting-out-a-self-catering-holiday-home-in-england-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T07:47:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "GLASS cookies",
       "summary": "Cookies for the GLASS gangmaster's licensing service",
       "link": "https://www.gov.uk/guidance/glass-cookies",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Changes gangmasters must report to keep a licence up to date",
-      "summary": "Guidance on the changes that holders of gangmaster's licences must report, to keep their licence up to date.",
-      "link": "https://www.gov.uk/government/publications/changes-gangmasters-must-report-to-keep-a-licence-up-to-date",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "The Fair Work Agency licensing standards for gangmasters",
-      "summary": "The Fair Work Agency licensing standards for gangmasters are the conditions labour providers need to meet to get or renew a gangmaster's licence.",
-      "link": "https://www.gov.uk/guidance/the-fair-work-agency-licensing-standards-for-gangmasters",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-07T07:00:01+00:00",
       "matched": [],
@@ -69,69 +187,9 @@
       "ai_tags": []
     },
     {
-      "title": "Contact the Fair Work Agency",
-      "summary": "How to contact the Fair Work Agency (FWA)",
-      "link": "https://www.gov.uk/guidance/contact-the-fair-work-agency",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Inspections and licensing decisions for gangmasters",
-      "summary": "How Fair Work Agency officers apply the licensing standards when making decisions about gangmaster licences.",
-      "link": "https://www.gov.uk/government/publications/inspections-and-licensing-decisions-for-gangmasters",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Form: Complain about pay and work rights",
       "summary": "Use the online form to complain about not being paid the National Minimum Wage, employment agencies, gangmasters or working hours.",
       "link": "https://www.gov.uk/government/publications/pay-and-work-rights-complaints",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: How to apply for or renew a gangmaster's licence",
-      "summary": "How to apply for or renew a licence to provide or use workers in agriculture, horticulture, shellfish gathering, or processing and packaging of food or drink.",
-      "link": "https://www.gov.uk/government/publications/how-to-apply-for-or-renew-a-gangmasters-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "The Fair Work Agency decision policy on gangmasters' licences",
-      "summary": "A detailed explanation of how the Fair Work Agency makes decisions about issuing gangmasters' licences to labour providers.",
-      "link": "https://www.gov.uk/guidance/the-fair-work-agency-decision-policy-on-gangmasters-licences",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: How to check if a labour provider has a gangmaster’s licence",
-      "summary": "Guidance for businesses that use labour providers to supply workers to the agriculture, horticulture, shellfish, and food processing and packaging sectors.",
-      "link": "https://www.gov.uk/government/publications/how-to-check-if-a-labour-provider-has-a-gangmasters-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Fair Work Agency inspections and investigations of labour users",
-      "summary": "Guidance for businesses that use labour providers to supply workers for the agriculture, horticulture, shellfish, and food processing and packaging sectors.",
-      "link": "https://www.gov.uk/government/publications/fair-work-agency-inspections-and-investigations-of-labour-users",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-07T07:00:01+00:00",
       "matched": [],
@@ -149,6 +207,26 @@
       "ai_tags": []
     },
     {
+      "title": "Guidance: Changes gangmasters must report to keep a licence up to date",
+      "summary": "Guidance on the changes that holders of gangmaster's licences must report, to keep their licence up to date.",
+      "link": "https://www.gov.uk/government/publications/changes-gangmasters-must-report-to-keep-a-licence-up-to-date",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T07:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "The Fair Work Agency licensing standards for gangmasters",
+      "summary": "The Fair Work Agency licensing standards for gangmasters are the conditions labour providers need to meet to get or renew a gangmaster's licence.",
+      "link": "https://www.gov.uk/guidance/the-fair-work-agency-licensing-standards-for-gangmasters",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-07T07:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Notice: Fair Work Agency note: Direct engagement models of introduction in the recruitment sector",
       "summary": "Fair Work Agency note on the direct engagement model of introduction.",
       "link": "https://www.gov.uk/government/publications/eas-note-direct-engagement-models-of-introduction-in-the-recruitment-sector",
@@ -159,9 +237,9 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: List of people banned from running an employment agency or business",
-      "summary": "Details of people who have been banned from running an employment agency or business, including the period of the ban.",
-      "link": "https://www.gov.uk/government/publications/list-of-people-banned-from-running-an-employment-agency-or-business",
+      "title": "Contact the Fair Work Agency",
+      "summary": "How to contact the Fair Work Agency (FWA)",
+      "link": "https://www.gov.uk/guidance/contact-the-fair-work-agency",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-07T07:00:00+00:00",
       "matched": [],
@@ -169,49 +247,9 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Employment status and employment rights",
-      "summary": "Guidance on employment status for HR advisers, and to help individuals and businesses understand which employment rights apply to them.",
-      "link": "https://www.gov.uk/government/publications/employment-status-and-employment-rights",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "How to report serious abuse or exploitation at work",
-      "summary": "What serious abuse or exploitation at work could mean and how to report it for investigation.",
-      "link": "https://www.gov.uk/guidance/how-to-report-serious-abuse-or-exploitation-at-work",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Tutoring services: guidance for complying with Fair Work Agency (FWA) legislation",
-      "summary": "This guidance aims to help tutoring services to comply with the requirements of the Employment Agencies Act 1973 (the act) and Conduct of Employment Agencies and Employment Businesses Regulations 2003 (the conduct regulations).",
-      "link": "https://www.gov.uk/guidance/tutoring-services-guidance-for-complying-with-eas-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Minimum wage: seafarers and other people working at sea",
-      "summary": "Guidance on when seafarers and other persons who work at sea are entitled to the minimum wage.",
-      "link": "https://www.gov.uk/guidance/minimum-wage-seafarers-and-other-people-working-at-sea",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Fair Work Agency guidance for providers of interpreting services",
-      "summary": "This guidance aims to help providers of interpreting services comply with the Employment Agencies Act 1973 and Conduct of Employment Agencies and Employment Businesses Regulations 2003.",
-      "link": "https://www.gov.uk/government/publications/eas-guidance-for-providers-of-interpreting-services",
+      "title": "Guidance: Inspections and licensing decisions for gangmasters",
+      "summary": "How Fair Work Agency officers apply the licensing standards when making decisions about gangmaster licences.",
+      "link": "https://www.gov.uk/government/publications/inspections-and-licensing-decisions-for-gangmasters",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-07T07:00:00+00:00",
       "matched": [],
@@ -244,16 +282,6 @@
       "link": "https://www.gov.uk/government/consultations/warm-home-discount-whd-cost-recovery",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-02T15:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T14:20:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -410,26 +438,6 @@
         "Net zero",
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: March 2026",
-      "summary": "‘Energy Trends’ is a quarterly bulletin containing statistics on all major aspects of energy in the UK.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Quarterly total energy data revisions",
-      "summary": "A zip file containing revisions to the quarterly total energy statistical data (excel format).",
-      "link": "https://www.gov.uk/government/publications/quarterly-total-energy-data-revisions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

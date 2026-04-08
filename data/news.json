@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:17:43.226812Z",
+  "generated_at": "2026-04-08T13:18:25.037783Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,72 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Regulations: energy information",
+      "summary": "Guidance for suppliers and dealers.",
+      "link": "https://www.gov.uk/guidance/the-energy-labelling-of-products",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-08T09:05:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Regulations: ecodesign of energy-consuming products",
+      "summary": "Guidance for manufacturers, their authorised representatives and importers.",
+      "link": "https://www.gov.uk/guidance/placing-energy-related-products-on-the-uk-market",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-08T09:05:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Guidance: Open general licence (AUKUS nations)",
+      "summary": "Licence allowing the export of dual-use items or military goods software or technology and trade of military goods, to, between and among Australia, the USA and the UK.",
+      "link": "https://www.gov.uk/government/publications/open-general-licence-aukus-nations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-08T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: March 2026",
+      "summary": "Statistics and analysis on the construction sector for March 2026.",
+      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-08T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/10: update to open general licence",
+      "summary": "The Export Control Joint Unit (ECJU) has updated the open general licence, AUKUS Nations.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202610-update-to-open-general-licence",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-08T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-08T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
       "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
@@ -271,36 +337,6 @@
       "ai_tags": []
     },
     {
-      "title": "The Fair Work Agency licensing standards for gangmasters",
-      "summary": "The Fair Work Agency licensing standards for gangmasters are the conditions labour providers need to meet to get or renew a gangmaster's licence.",
-      "link": "https://www.gov.uk/guidance/the-fair-work-agency-licensing-standards-for-gangmasters",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Fair Work Agency note: Direct engagement models of introduction in the recruitment sector",
-      "summary": "Fair Work Agency note on the direct engagement model of introduction.",
-      "link": "https://www.gov.uk/government/publications/eas-note-direct-engagement-models-of-introduction-in-the-recruitment-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Contact the Fair Work Agency",
-      "summary": "How to contact the Fair Work Agency (FWA)",
-      "link": "https://www.gov.uk/guidance/contact-the-fair-work-agency",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
       "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
       "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
@@ -400,40 +436,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-october-to-december-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-02T09:25:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: prompt payment data, October to December 2025",
-      "summary": "How long the Department for Energy Security and Net Zero (DESNZ) takes to pay invoices.",
-      "link": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-october-to-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T08:30:10+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Provisional UK greenhouse gas emissions statistics 2025",
-      "summary": "Provisional estimates of UK territorial greenhouse gas emissions for 2025, including quarterly emissions estimates.",
-      "link": "https://www.gov.uk/government/statistics/provisional-uk-greenhouse-gas-emissions-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T08:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: List of special feature articles by subject published in Energy Trends",
-      "summary": "List of special feature articles by subject published in Energy Trends since 2017.",
-      "link": "https://www.gov.uk/government/publications/list-of-special-feature-articles-by-subject-published-in-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T08:30:08+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

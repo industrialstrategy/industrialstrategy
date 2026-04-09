@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T13:23:31.512723Z",
+  "generated_at": "2026-04-09T19:04:21.932649Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,47 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Industrial Strategy quarterly update: January to March 2026",
+      "summary": "An update on delivery of commitments in the Industrial Strategy.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-09T17:00:03+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Business Secretary champions flagship investment in UK’s largest gigafactory",
+      "summary": "Thanks to the UK’s Modern Industrial Strategy, 4,200 jobs have been secured following over £700 million of investment in the advanced manufacturing sector.",
+      "link": "https://www.gov.uk/government/news/business-secretary-champions-flagship-investment-in-uks-largest-gigafactory",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-09T17:00:03+00:00",
+      "matched": [
+        "industrial strategy",
+        "manufacturing",
+        "advanced manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy",
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: ministerial overseas travel and meetings, October to December 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-09T15:03:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
       "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
@@ -399,45 +440,11 @@
       "ai_tags": []
     },
     {
-      "title": "Supply chain fairness: Groceries Code Adjudicator to move to Defra",
-      "summary": "GCA sponsorship to move from DBT to Defra on 1 July 2026 to support a more joined-up approach to food supply chain fairness",
-      "link": "https://www.gov.uk/government/news/supply-chain-fairness-groceries-code-adjudicator-to-move-to-defra",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T10:11:34+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Millions of workers get new access to sick pay and parental leave",
-      "summary": "Landmark employment rights reforms kick into force.",
-      "link": "https://www.gov.uk/government/news/millions-of-workers-get-new-access-to-sick-pay-and-parental-leave",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T09:57:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-07T09:08:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Strategic steer to the Fair Work Agency",
-      "summary": "Sets out the government’s expectations for the Fair Work Agency (FWA) in 2026 to 2027.",
-      "link": "https://www.gov.uk/government/publications/strategic-steer-to-the-fair-work-agency",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T08:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

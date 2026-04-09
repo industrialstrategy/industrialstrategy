@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:21:22.338826Z",
+  "generated_at": "2026-04-09T13:23:31.512723Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,99 @@
   "count": 40,
   "items": [
     {
+      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
+      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
+      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-09T11:02:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Call for input on potential powers to protect the UK from adverse economic pressure",
+      "summary": "This call for input seeks views on whether the UK government should develop new powers to protect the UK from acts of adverse economic pressure.",
+      "link": "https://www.gov.uk/government/consultations/call-for-input-on-potential-powers-to-protect-the-uk-from-adverse-economic-pressure",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-09T11:00:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: UK Emissions Trading Scheme: offshore installations – location codes",
+      "summary": "A list of offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
+      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-09T10:05:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Industrial Strategy quarterly update: October to December 2025",
+      "summary": "An update on delivery of commitments in the Industrial Strategy.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-09T10:02:21+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "‘Greater Together LA’, the largest ever UK trade mission to the US, attracts major corporate sponsors",
+      "summary": "In partnership with world-leading financial, tech and cultural organisations, the UK Government’s GREAT Britain & Northern Ireland Campaign is holding a major expo in Los Angeles, California from 18th - 22nd May, 2026.",
+      "link": "https://www.gov.uk/government/news/greater-together-la-the-largest-ever-uk-trade-mission-to-the-us-attracts-major-corporate-sponsors",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-09T08:48:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-09T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
+      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-09T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "summary": "Apply to the NPT Pathfinder selection process for non-pipeline transport CCUS projects seeking ECC Teesside network connection by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-09T08:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Hydrogen investment fuels South Yorkshire's next industrial era",
       "summary": "Major hydrogen project to create over 400 new jobs in technology that uses electricity to split water into hydrogen and oxygen.",
       "link": "https://www.gov.uk/government/news/hydrogen-investment-fuels-south-yorkshires-next-industrial-era",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-09T06:34:51+00:00",
+      "published": "2026-04-09T06:34:00+00:00",
       "matched": [
         "hydrogen"
       ],
@@ -207,6 +295,16 @@
       "ai_tags": []
     },
     {
+      "title": "Decision: The Morgan Offshore Wind Project Generation Assets Order 2025: Correction of errors, Planning Act 2008",
+      "summary": "Decision by the Secretary of State to make corrections to The Morgan Offshore Wind Project Generation Assets Order 2025.",
+      "link": "https://www.gov.uk/government/publications/the-morgan-offshore-wind-project-generation-assets-order-2025-correction-of-errors-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-07T23:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Industrial energy price indices",
       "summary": "Quarterly and annual price indices for industrial fuels, in real and current terms, including and excluding the Climate Change Levy (CCL).",
       "link": "https://www.gov.uk/government/statistical-data-sets/industrial-energy-price-indices",
@@ -227,16 +325,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
-      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
-      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-07T14:46:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Welsh households to save money on bills through heat networks expansion",
@@ -345,18 +433,6 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: UK Emissions Trading Scheme: offshore installations – location codes",
-      "summary": "A list of offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
-      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-07T09:07:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: Strategic steer to the Fair Work Agency",
       "summary": "Sets out the government’s expectations for the Fair Work Agency (FWA) in 2026 to 2027.",
       "link": "https://www.gov.uk/government/publications/strategic-steer-to-the-fair-work-agency",
@@ -367,81 +443,11 @@
       "ai_tags": []
     },
     {
-      "title": "Letting out a self-catering holiday home in England: rules and regulations",
-      "summary": "Regulations you need to follow when letting out a self-catering, short-term holiday home in England.",
-      "link": "https://www.gov.uk/guidance/letting-out-a-self-catering-holiday-home-in-england-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:47:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "GLASS cookies",
-      "summary": "Cookies for the GLASS gangmaster's licensing service",
-      "link": "https://www.gov.uk/guidance/glass-cookies",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Food packaging companies exempt from a gangmaster’s licence",
-      "summary": "Companies that do not need a gangmaster’s licence when providing a food packaging service.",
-      "link": "https://www.gov.uk/government/publications/food-packaging-companies-exempt-from-a-gangmasters-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T07:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: North Killingholme Power Project: non-material change, Planning Act 2008",
       "summary": "Decision by the Secretary of State on an application for a non-material change relating to a new thermal generating station that will operate as a Combined Cycle Gas Turbine (CCGT) plant.",
       "link": "https://www.gov.uk/government/publications/north-killingholme-power-project-non-material-change-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-02T15:07:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Warm Home Discount (WHD): cost recovery",
-      "summary": "We are seeking views on whether WHD costs should move from standing charges to the per-unit rate.",
-      "link": "https://www.gov.uk/government/consultations/warm-home-discount-whd-cost-recovery",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T15:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - April 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T13:23:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - April 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T13:22:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Renewables obligation: certificates and generation: December 2025",
-      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
-      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T09:36:41+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

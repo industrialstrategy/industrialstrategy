@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T02:02:09.564117Z",
+  "generated_at": "2026-04-09T07:21:22.338826Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Hydrogen investment fuels South Yorkshire's next industrial era",
+      "summary": "Major hydrogen project to create over 400 new jobs in technology that uses electricity to split water into hydrogen and oxygen.",
+      "link": "https://www.gov.uk/government/news/hydrogen-investment-fuels-south-yorkshires-next-industrial-era",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-09T06:34:51+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
     {
       "title": "Make Work Pay: Transfer of Undertakings (Protection of Employment) Regulations",
       "summary": "We are running a call for evidence on the 2014 Transfer of Undertakings (Protection of Employment) (TUPE) Regulations.",
@@ -431,18 +445,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends: October to December 2026",
-      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the fourth calendar quarter of 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-october-to-december-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-02T09:26:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

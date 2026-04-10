@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T13:07:13.685076Z",
+  "generated_at": "2026-04-10T18:51:29.578302Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
+      "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
+      "link": "https://www.gov.uk/government/publications/desnz-major-projects-appointment-letters-for-senior-responsible-owners-sros",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-10T14:11:25+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Notice: Heat Network Efficiency Scheme (HNES): privacy notice",
       "summary": "This notice sets out how we will use your personal data when applying to the Heat Network Efficiency Scheme (HNES).",
@@ -386,16 +400,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Welsh households to save money on bills through heat networks expansion",
-      "summary": "Households and businesses in Wales to save money on bills through expansion of low-carbon, low-cost heat networks.",
-      "link": "https://www.gov.uk/government/news/welsh-households-to-save-money-on-bills-through-heat-networks-expansion",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-07T12:54:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Placing UKCA or CE marked products on the market in Great Britain",

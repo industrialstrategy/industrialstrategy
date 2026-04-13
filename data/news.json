@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T08:03:43.094770Z",
+  "generated_at": "2026-04-13T13:23:58.308632Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Electricity Supply Emergency Code",
+      "summary": "An outline of the process for ensuring fair distribution of electricity rationing during a prolonged electricity shortage.",
+      "link": "https://www.gov.uk/government/publications/electricity-supply-emergency-code",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T13:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T12:22:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK–China: climate change cooperation",
+      "summary": "Memorandum of Understanding (MoU) between the UK and China on climate change.",
+      "link": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T10:45:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
       "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
@@ -81,7 +111,7 @@
       "summary": "Thanks to the UK’s Modern Industrial Strategy, 4,200 jobs have been secured following over £700 million of investment in the advanced manufacturing sector.",
       "link": "https://www.gov.uk/government/news/business-secretary-champions-flagship-investment-in-uks-largest-gigafactory",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T17:00:03+00:00",
+      "published": "2026-04-09T17:00:00+00:00",
       "matched": [
         "industrial strategy",
         "manufacturing",
@@ -358,36 +388,6 @@
       "ai_tags": [
         "Decarbonisation"
       ]
-    },
-    {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T06:00:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: The Morgan Offshore Wind Project Generation Assets Order 2025: Correction of errors, Planning Act 2008",
-      "summary": "Decision by the Secretary of State to make corrections to The Morgan Offshore Wind Project Generation Assets Order 2025.",
-      "link": "https://www.gov.uk/government/publications/the-morgan-offshore-wind-project-generation-assets-order-2025-correction-of-errors-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-07T23:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Industrial energy price indices",
-      "summary": "Quarterly and annual price indices for industrial fuels, in real and current terms, including and excluding the Climate Change Levy (CCL).",
-      "link": "https://www.gov.uk/government/statistical-data-sets/industrial-energy-price-indices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-07T15:24:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: Open general export licence military goods: collaborative project Typhoon",

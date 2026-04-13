@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T13:23:58.308632Z",
+  "generated_at": "2026-04-13T19:14:13.809936Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,88 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T16:15:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: UK ETS Aviation Allocation Table",
+      "summary": "The Aviation Allocation Table contains a list of each aircraft operator’s free allocation for the 2021 to 2025 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-aviation-allocation-table",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T16:15:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T15:43:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Charging regime for offshore oil and gas activities",
+      "summary": "Proposed changes to the rates of fees in respect of offshore environmental functions and decommissioning functions",
+      "link": "https://www.gov.uk/government/consultations/charging-regime-for-offshore-oil-and-gas-activities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T15:36:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade union statistics 2025",
+      "summary": "Provides information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-union-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-13T15:35:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Form: Contracts for Difference, renewables obligation and small scale feed-in tariffs: apply for an exemption or compensation",
+      "summary": "How to apply for an exemption or compensation for a proportion of the indirect costs of funding the Contracts for Difference, renewables obligation and small scale feed-in tariffs.",
+      "link": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-apply-for-compensation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-13T15:15:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 13 April 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-13-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T14:02:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-13T13:32:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Electricity Supply Emergency Code",
       "summary": "An outline of the process for ensuring fair distribution of electricity rationing during a prolonged electricity shortage.",
@@ -292,48 +374,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Ambient gamma radiation dose rates across the UK",
-      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
-      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T14:04:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government approves UK’s largest power-producing solar farm",
-      "summary": "800 MW Springwell Solar farm given approval – the largest solar project in the UK terms of power generation.",
-      "link": "https://www.gov.uk/government/news/government-approves-uks-largest-power-producing-solar-farm",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T13:59:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Regulations: energy information",
-      "summary": "Guidance for suppliers and dealers.",
-      "link": "https://www.gov.uk/guidance/the-energy-labelling-of-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T09:05:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Regulations: ecodesign of energy-consuming products",
-      "summary": "Guidance for manufacturers, their authorised representatives and importers.",
-      "link": "https://www.gov.uk/guidance/placing-energy-related-products-on-the-uk-market",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T09:05:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
       "title": "Guidance: Open general licence (AUKUS nations)",
       "summary": "Licence allowing the export of dual-use items or military goods software or technology and trade of military goods, to, between and among Australia, the USA and the UK.",
       "link": "https://www.gov.uk/government/publications/open-general-licence-aukus-nations",
@@ -365,28 +405,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T06:00:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
       ]
     },
     {
@@ -439,26 +457,6 @@
       "link": "https://www.gov.uk/government/publications/fair-work-agency-enforcement-policy-statement",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-07T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Director of Labour Market Enforcement (DLME) concluding statement",
-      "summary": "Assessment of the progress of the Labour Market Enforcement Strategy 2025 to 2026 and the impact of the DLME function from 2016 to 2026, when it was folded into the Fair Work Agency (FWA).",
-      "link": "https://www.gov.uk/government/publications/director-of-labour-market-enforcement-dlme-concluding-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Whistleblowing: for prescribed persons",
-      "summary": "Advice for prescribed persons on how to deal with whistleblowing disclosures.",
-      "link": "https://www.gov.uk/guidance/whistleblowing-for-prescribed-persons",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T10:42:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

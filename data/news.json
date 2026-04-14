@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T02:14:51.424504Z",
+  "generated_at": "2026-04-14T13:23:18.338938Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,151 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-14T12:59:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets--84",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-14T12:55:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Horizon Europe funding",
+      "summary": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
+      "link": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-14T12:22:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
+      "summary": "Streamlined Routes (also known as Streamlined Subsidy Schemes) are a type of subsidy scheme made by the UK government for use by any UK public authority.",
+      "link": "https://www.gov.uk/government/publications/subsidy-control-act-2022-streamlined-routes",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-14T11:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK centre to lead the world in fusion diagnostics",
+      "summary": "UKAEA launches Diagnostics Innovation Centre of Excellence (DICE) to strengthen UK's position as a world leader in fusion diagnostics.",
+      "link": "https://www.gov.uk/government/news/uk-centre-to-lead-the-world-in-fusion-diagnostics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T10:44:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Cumbrian collaboration expands robotics training into new era",
+      "summary": "UKAEA and National College for Nuclear and Clean Energy launch CROSS (Cumbria Robotics Operations Skills Centre) to build UK’s robotics-enabled workforce.",
+      "link": "https://www.gov.uk/government/news/cumbrian-collaboration-expands-robotics-training-into-new-era",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T10:33:03+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy",
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Global fusion sector scaling up, creating UK SME opportunities",
+      "summary": "UKAEA launches Global Fusion Guide for SMEs, helping businesses with clear, practical steps to collaborate with, and supply, fusion developers worldwide.",
+      "link": "https://www.gov.uk/government/news/global-fusion-sector-scaling-up-creating-uk-sme-opportunities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T10:32:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UKAEA unveils 2026-2030 fusion roadmap",
+      "summary": "UK’s national fusion laboratory charts a clear mission and targets progress towards fusion energy and generating economic benefits for the UK.",
+      "link": "https://www.gov.uk/government/news/ukaea-unveils-2026-2030-fusion-roadmap",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T10:31:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Groceries Code Adjudicator: statutory review, 2022 to 2025",
+      "summary": "Report setting out the findings and conclusions of the fourth statutory review of the Groceries Code Adjudicator (GCA).",
+      "link": "https://www.gov.uk/government/publications/groceries-code-adjudicator-statutory-review-2022-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-14T09:24:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Next generation empowered through Technical Excellence Colleges",
+      "summary": "19 new Technical Excellence Colleges will equip young people with the high-level technical skills needed to access well-paid, high-skilled jobs.",
+      "link": "https://www.gov.uk/government/news/next-generation-empowered-through-technical-excellence-colleges",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-14T09:18:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Road fuel sales, deliveries and stock levels: 28 June 2026",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in the United Kingdom from 27 January 2020 to 28 June 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-sales-deliveries-and-stock-levels-28-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T07:57:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK Atomic Energy Authority strategy 2026 to 2030",
+      "summary": "The strategy sets out how UKAEA will deliver foundational research, technology and innovation to support the UK fusion sector through world-leading expertise.",
+      "link": "https://www.gov.uk/government/publications/ukaea-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T07:11:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Notice: UK ETS Allocation Table for operators of installations",
       "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
@@ -76,16 +221,6 @@
       "link": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-apply-for-compensation",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-13T15:15:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 13 April 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-13-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T14:02:44+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -236,18 +371,6 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: UK Emissions Trading Scheme: offshore installations – location codes",
-      "summary": "A list of offshore installations that have an assigned UN Code for Trade and Transport Locations (UN/LOCODE).",
-      "link": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-09T10:05:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: Industrial Strategy quarterly update: October to December 2025",
       "summary": "An update on delivery of commitments in the Industrial Strategy.",
       "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-october-to-december-2025",
@@ -271,40 +394,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-09T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
-      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-09T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Hydrogen investment fuels South Yorkshire's next industrial era",
-      "summary": "Major hydrogen project to create over 400 new jobs in technology that uses electricity to split water into hydrogen and oxygen.",
-      "link": "https://www.gov.uk/government/news/hydrogen-investment-fuels-south-yorkshires-next-industrial-era",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-09T06:34:00+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
       ]
     },
     {
@@ -354,26 +443,6 @@
       ]
     },
     {
-      "title": "Decision: Springwell Solar Farm Project: development consent order, Planning Act 2008",
-      "summary": "Decision on an application for a solar farm in North Kesteven, Lincolnshire, under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/springwell-solar-farm-project-development-consent-order-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T15:20:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: CCUS East Coast Cluster: Teesside selection process",
-      "summary": "Apply to take part in the ECC Teesside selection process for projects seeking connection to the Teesside network by 2032.",
-      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-08T14:12:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Open general licence (AUKUS nations)",
       "summary": "Licence allowing the export of dual-use items or military goods software or technology and trade of military goods, to, between and among Australia, the USA and the UK.",
       "link": "https://www.gov.uk/government/publications/open-general-licence-aukus-nations",
@@ -391,72 +460,6 @@
       "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-08T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/10: update to open general licence",
-      "summary": "The Export Control Joint Unit (ECJU) has updated the open general licence, AUKUS Nations.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202610-update-to-open-general-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Open general export licence military goods: collaborative project Typhoon",
-      "summary": "Licence for the export of military goods for the production, development or maintenance of Typhoon aircraft.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods-collaborative-project-typhoon",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T15:11:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Placing UKCA or CE marked products on the market in Great Britain",
-      "summary": "What you need to do to comply with regulations which govern manufactured products placed on the market in Great Britain.",
-      "link": "https://www.gov.uk/guidance/placing-ukca-or-ce-marked-products-on-the-market-in-great-britain",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T11:02:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Research: Decent work: a review of evidence for effective prevention and detection of labour exploitation",
-      "summary": "Draws on expert seminar evidence to explain the drivers of labour exploitation and outline recommendations to support fair, safe and secure work in the UK.",
-      "link": "https://www.gov.uk/government/publications/decent-work-a-review-of-evidence-for-effective-prevention-and-detection-of-labour-exploitation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Code of practice for labour market enforcement undertakings and orders",
-      "summary": "This code of practice sets out how the Fair Work Agency (FWA) will apply labour market enforcement undertakings and orders to reduce the risk of labour market offending.",
-      "link": "https://www.gov.uk/government/publications/code-of-practice-for-labour-market-enforcement-undertakings-and-orders",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Fair Work Agency: enforcement policy statement",
-      "summary": "The regulatory tools and guiding structures utilised by the Fair Work Agency (FWA) to enforce labour market legislation within its remit.",
-      "link": "https://www.gov.uk/government/publications/fair-work-agency-enforcement-policy-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-07T11:00:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

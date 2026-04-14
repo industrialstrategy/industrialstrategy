@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T13:23:18.338938Z",
+  "generated_at": "2026-04-14T19:13:26.484537Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T16:15:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 7: Subsidy Control Transparency Database estimates",
+      "summary": "Information on the estimates used for the subsidy amount for Contracts for Difference Allocation Round 7 on the Subsidy Control Transparency Database.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-14T16:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
@@ -300,16 +320,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "summary": "Apply to the NPT Pathfinder selection process for non-pipeline transport CCUS projects seeking ECC Teesside network connection by 2032.",
-      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-10T08:43:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Industrial Strategy quarterly update: January to March 2026",
       "summary": "An update on delivery of commitments in the Industrial Strategy.",
       "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-january-to-march-2026",
@@ -346,16 +356,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-october-to-december-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-09T15:03:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
-      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
-      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-09T11:02:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

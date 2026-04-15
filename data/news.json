@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T07:30:31.983935Z",
+  "generated_at": "2026-04-15T13:22:03.626177Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,82 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T13:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Next generation empowered through Technical Excellence Colleges",
+      "summary": "19 new Technical Excellence Colleges will equip young people with the high-level technical skills needed to access well-paid, high-skilled jobs.",
+      "link": "https://www.gov.uk/government/news/next-generation-empowered-through-technical-excellence-colleges",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T10:52:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/11: expiry date for F680s on SPIRE",
+      "summary": "The Export Control Joint Unit (ECJU)  is transitioning the Ministry of Defence (MOD) security approval form 680 (F680) away from SPIRE.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202611-expiry-date-for-f680s-on-spire",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T10:23:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Victims of workplace abuse will no longer be silenced",
+      "summary": "Consultation on new rules to stop employers using NDAs to cover up workplace abuse",
+      "link": "https://www.gov.uk/government/news/victims-of-workplace-abuse-will-no-longer-be-silenced",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T09:29:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: misuse of non-disclosure agreements (NDAs)",
+      "summary": "We are seeking views on proposals to prevent the misuse of non-disclosure agreements in cases of workplace harassment and discrimination.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-misuse-of-non-disclosure-agreements-ndas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Network Transformation Programme investigation: privacy notice",
+      "summary": "How the Department for Business and Trade will process personal data for the Network Transformation Programme investigation.",
+      "link": "https://www.gov.uk/government/publications/network-transformation-programme-investigation-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T08:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Network Transformation Programme investigation: terms of reference",
+      "summary": "The Department for Business and Trade has commissioned an independent investigation into Post Office Limited’s 2010 to 2019 Network Transformation Programme.",
+      "link": "https://www.gov.uk/government/publications/network-transformation-programme-investigation-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T08:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
@@ -126,7 +202,7 @@
       "summary": "UK’s national fusion laboratory charts a clear mission and targets progress towards fusion energy and generating economic benefits for the UK.",
       "link": "https://www.gov.uk/government/news/ukaea-unveils-2026-2030-fusion-roadmap",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-14T10:31:38+00:00",
+      "published": "2026-04-14T10:31:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -137,16 +213,6 @@
       "link": "https://www.gov.uk/government/publications/groceries-code-adjudicator-statutory-review-2022-to-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-14T09:24:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Next generation empowered through Technical Excellence Colleges",
-      "summary": "19 new Technical Excellence Colleges will equip young people with the high-level technical skills needed to access well-paid, high-skilled jobs.",
-      "link": "https://www.gov.uk/government/news/next-generation-empowered-through-technical-excellence-colleges",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-14T09:18:41+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -395,74 +461,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Make Work Pay: Transfer of Undertakings (Protection of Employment) Regulations",
-      "summary": "We are running a call for evidence on the 2014 Transfer of Undertakings (Protection of Employment) (TUPE) Regulations.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/make-work-pay-transfer-of-undertakings-protection-of-employment-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T15:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: draft code of practice on trade union right of access",
-      "summary": "We're seeking views on a draft code of practice on the new legal framework for trade unions’ access to workplaces.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-trade-union-right-of-access",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T15:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Make Work Pay: trade union right of access",
-      "summary": "We're consulting on how the new legal framework for trade unions’ right of access into workplaces should work in practice. We're seeking views on the practical and operational details of the framework.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-trade-union-right-of-access",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T15:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Placing CE, or CE and UKNI marked products on the market in Northern Ireland",
-      "summary": "What you need to do to comply with regulations which govern manufactured products placed on the Northern Ireland market.",
-      "link": "https://www.gov.uk/guidance/placing-ce-or-ce-and-ukni-marked-products-on-the-market-in-northern-ireland",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T15:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Guidance: Open general licence (AUKUS nations)",
-      "summary": "Licence allowing the export of dual-use items or military goods software or technology and trade of military goods, to, between and among Australia, the USA and the UK.",
-      "link": "https://www.gov.uk/government/publications/open-general-licence-aukus-nations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: March 2026",
-      "summary": "Statistics and analysis on the construction sector for March 2026.",
-      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-08T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

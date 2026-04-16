@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T13:27:34.694533Z",
+  "generated_at": "2026-04-16T19:12:14.412400Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Great British Insulation Scheme release: April 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Great British Insulation Scheme (GBIS).",
+      "link": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-16T13:41:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Headline Release (monthly data)",
+      "summary": "Headline Household Energy Efficiency statistics under the Energy Company Obligation (ECO) and the Green Deal Framework.",
+      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-headline-release-monthly-data--49",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-16T13:32:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 20 April 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-20-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-16T13:29:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
       "summary": "This statistics release will provide data about decisions made on licence applications to the Export Control Joint Unit (ECJU) of the Department for Business and Trade (DBT) for 1 October to 31 December 2025 (2025 Q4). From the 2024 Q1 publication until further notice, these statistics have been reclassified and published as Official Statistics in Development.",
@@ -415,36 +445,6 @@
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-13T13:32:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Electricity Supply Emergency Code",
-      "summary": "An outline of the process for ensuring fair distribution of electricity rationing during a prolonged electricity shortage.",
-      "link": "https://www.gov.uk/government/publications/electricity-supply-emergency-code",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T13:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
-      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T12:22:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK–China: climate change cooperation",
-      "summary": "Memorandum of Understanding (MoU) between the UK and China on climate change.",
-      "link": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T10:45:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

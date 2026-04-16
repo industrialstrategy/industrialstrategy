@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T02:27:53.530502Z",
+  "generated_at": "2026-04-16T13:27:34.694533Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,16 +19,58 @@
   "count": 40,
   "items": [
     {
+      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
+      "summary": "This statistics release will provide data about decisions made on licence applications to the Export Control Joint Unit (ECJU) of the Department for Business and Trade (DBT) for 1 October to 31 December 2025 (2025 Q4). From the 2024 Q1 publication until further notice, these statistics have been reclassified and published as Official Statistics in Development.",
+      "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-16T09:48:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
+      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
+      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-16T08:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Connections Reform: delivery update and battery capacity",
+      "summary": "Joint update from DESNZ and Ofgem on connections reform delivery and the level of battery storage capacity in the reformed queue.",
+      "link": "https://www.gov.uk/government/publications/connections-reform-delivery-update-and-battery-capacity",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-16T08:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Government cuts electricity bill for 10,000 manufacturers in boost for UK competitiveness",
       "summary": "The Government has announced that electricity bills will be cut by up to 25% for over 10,000 businesses through the British Industrial Competitiveness Scheme.",
       "link": "https://www.gov.uk/government/news/government-cuts-electricity-bill-for-10000-manufacturers-in-boost-for-uk-competitiveness",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-15T21:30:00+00:00",
+      "published": "2026-04-16T08:00:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
         "Manufacturing"
       ]
+    },
+    {
+      "title": "British Industrial Competitiveness Scheme: consultation on regulatory changes and scheme delivery",
+      "summary": "This consultation seeks views on the proposed regulatory changes and approach to scheme delivery for the new British Industrial Competitiveness Scheme (BICS).",
+      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-regulatory-changes-and-scheme-delivery",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-16T08:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Correspondence: Letter from the Secretary of State for Business and Trade to the Business and Trade Committee: 2 April 2026",
@@ -368,28 +410,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Trade union statistics 2025",
-      "summary": "Provides information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-union-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-13T15:35:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Form: Contracts for Difference, renewables obligation and small scale feed-in tariffs: apply for an exemption or compensation",
-      "summary": "How to apply for an exemption or compensation for a proportion of the indirect costs of funding the Contracts for Difference, renewables obligation and small scale feed-in tariffs.",
-      "link": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-apply-for-compensation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-13T15:15:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
@@ -428,34 +448,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
-      "summary": "Department for Energy Security and Net Zero (DESNZ) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
-      "link": "https://www.gov.uk/government/publications/desnz-major-projects-appointment-letters-for-senior-responsible-owners-sros",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-10T14:11:25+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Policy paper: Industrial Strategy quarterly update: January to March 2026",
-      "summary": "An update on delivery of commitments in the Industrial Strategy.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-january-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T17:00:03+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
     }
   ]
 }

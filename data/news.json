@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T13:22:03.626177Z",
+  "generated_at": "2026-04-16T02:27:53.530502Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,69 @@
   "count": 40,
   "items": [
     {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "title": "Government cuts electricity bill for 10,000 manufacturers in boost for UK competitiveness",
+      "summary": "The Government has announced that electricity bills will be cut by up to 25% for over 10,000 businesses through the British Industrial Competitiveness Scheme.",
+      "link": "https://www.gov.uk/government/news/government-cuts-electricity-bill-for-10000-manufacturers-in-boost-for-uk-competitiveness",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-15T13:00:03+00:00",
+      "published": "2026-04-15T21:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Correspondence: Letter from the Secretary of State for Business and Trade to the Business and Trade Committee: 2 April 2026",
+      "summary": "Letter from the Rt Hon Peter Kyle MP, the Secretary of State for Business and Trade, to the Rt Hon Liam Byrne MP, Chair of the Business and Trade Committee.",
+      "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-business-and-trade-to-the-business-and-trade-committee-2-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T15:53:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: Small modular reactor: summary programme business case",
+      "summary": "This is a summary of the programme business case produced for the small modular reactor (SMR) programme.",
+      "link": "https://www.gov.uk/government/publications/small-modular-reactor-summary-programme-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-15T15:44:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2024",
+      "summary": "This statistics release will provide data and analysis of the extent to which UK goods imports and exports utilised tariff preferences under preferential trade agreements (PTAs) in 2024, including the EU-UK Trade and Cooperation Agreement (TCA), and the Developing Countries Trading Scheme (DCTS).",
+      "link": "https://www.gov.uk/government/statistics/announcements/preference-utilisation-of-uk-trade-in-goods-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T15:02:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T14:21:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T14:21:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -33,7 +91,27 @@
       "summary": "19 new Technical Excellence Colleges will equip young people with the high-level technical skills needed to access well-paid, high-skilled jobs.",
       "link": "https://www.gov.uk/government/news/next-generation-empowered-through-technical-excellence-colleges",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-15T10:52:44+00:00",
+      "published": "2026-04-15T14:16:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Retrofit System Reform Advisory Panel: terms of reference",
+      "summary": "An expert panel on home retrofit system reform.",
+      "link": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-15T13:49:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-15T13:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -366,26 +444,6 @@
       ]
     },
     {
-      "title": "Notice: Heat Network Efficiency Scheme (HNES): privacy notice",
-      "summary": "This notice sets out how we will use your personal data when applying to the Heat Network Efficiency Scheme (HNES).",
-      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-10T12:33:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Regulation 15(1) of the Ecodesign for Energy‑Related Products and Energy Information (Household Tumble Dryers) Regulations 2026: clarification note",
-      "summary": "Clarification of the intended end date of the transitional period in regulation 15(1).",
-      "link": "https://www.gov.uk/government/publications/regulation-151-of-the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026-clarification-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-10T10:15:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Industrial Strategy quarterly update: January to March 2026",
       "summary": "An update on delivery of commitments in the Industrial Strategy.",
       "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-january-to-march-2026",
@@ -397,69 +455,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Business Secretary champions flagship investment in UK’s largest gigafactory",
-      "summary": "Thanks to the UK’s Modern Industrial Strategy, 4,200 jobs have been secured following over £700 million of investment in the advanced manufacturing sector.",
-      "link": "https://www.gov.uk/government/news/business-secretary-champions-flagship-investment-in-uks-largest-gigafactory",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T17:00:00+00:00",
-      "matched": [
-        "industrial strategy",
-        "manufacturing",
-        "advanced manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy",
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: ministerial overseas travel and meetings, October to December 2025",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-october-to-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T15:03:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Call for input on potential powers to protect the UK from adverse economic pressure",
-      "summary": "This call for input seeks views on whether the UK government should develop new powers to protect the UK from acts of adverse economic pressure.",
-      "link": "https://www.gov.uk/government/consultations/call-for-input-on-potential-powers-to-protect-the-uk-from-adverse-economic-pressure",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T11:00:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy quarterly update: October to December 2025",
-      "summary": "An update on delivery of commitments in the Industrial Strategy.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-october-to-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T10:02:21+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "‘Greater Together LA’, the largest ever UK trade mission to the US, attracts major corporate sponsors",
-      "summary": "In partnership with world-leading financial, tech and cultural organisations, the UK Government’s GREAT Britain & Northern Ireland Campaign is holding a major expo in Los Angeles, California from 18th - 22nd May, 2026.",
-      "link": "https://www.gov.uk/government/news/greater-together-la-the-largest-ever-uk-trade-mission-to-the-us-attracts-major-corporate-sponsors",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-09T08:48:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

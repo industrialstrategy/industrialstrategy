@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T07:36:21.597770Z",
+  "generated_at": "2026-04-17T13:17:04.795932Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,88 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--107",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-17T10:30:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: UK Defence and Security Exports event and exhibition support",
+      "summary": "Information on which domestic and international events we will be at during 2026 and 2027, and guidance on how we can support businesses to participate.",
+      "link": "https://www.gov.uk/government/publications/defence-and-security-exporting-event-and-exhibition-support",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-17T10:22:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--55",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-17T09:42:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/12: exports to sanctioned destinations",
+      "summary": "The Export Control Joint Unit (ECJU) has changed the team responsible for trade sanctions licensing responsibilities.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202612-exports-to-sanctioned-destinations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-17T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund: February 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-17T08:24:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme: March 2026",
+      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-17T08:17:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Solar PV deployment: March 2026",
+      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-17T08:14:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Great British Insulation Scheme release: April 2026",
       "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Great British Insulation Scheme (GBIS).",
@@ -277,40 +359,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Trade and investment factsheets",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets--84",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-14T12:55:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Horizon Europe funding",
-      "summary": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
-      "link": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-14T12:22:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Guidance: Subsidy Control Act 2022: Streamlined Routes",
-      "summary": "Streamlined Routes (also known as Streamlined Subsidy Schemes) are a type of subsidy scheme made by the UK government for use by any UK public authority.",
-      "link": "https://www.gov.uk/government/publications/subsidy-control-act-2022-streamlined-routes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-14T11:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK centre to lead the world in fusion diagnostics",
       "summary": "UKAEA launches Diagnostics Innovation Centre of Excellence (DICE) to strengthen UK's position as a world leader in fusion diagnostics.",
       "link": "https://www.gov.uk/government/news/uk-centre-to-lead-the-world-in-fusion-diagnostics",
@@ -353,16 +401,6 @@
       "link": "https://www.gov.uk/government/news/ukaea-unveils-2026-2030-fusion-roadmap",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-14T10:31:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Groceries Code Adjudicator: statutory review, 2022 to 2025",
-      "summary": "Report setting out the findings and conclusions of the fourth statutory review of the Groceries Code Adjudicator (GCA).",
-      "link": "https://www.gov.uk/government/publications/groceries-code-adjudicator-statutory-review-2022-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-14T09:24:31+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -415,36 +453,6 @@
       "link": "https://www.gov.uk/government/publications/uk-ets-aviation-allocation-table",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-13T16:15:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
-      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T15:43:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Charging regime for offshore oil and gas activities",
-      "summary": "Proposed changes to the rates of fees in respect of offshore environmental functions and decommissioning functions",
-      "link": "https://www.gov.uk/government/consultations/charging-regime-for-offshore-oil-and-gas-activities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T15:36:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T13:32:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

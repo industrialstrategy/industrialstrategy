@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T13:17:04.795932Z",
+  "generated_at": "2026-04-18T07:07:14.316981Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-17T16:15:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: environmental submissions and determinations",
+      "summary": "Interested parties can review records of applications and statements submitted to OPRED as required by environmental regulations.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-environmental-submissions-and-determinations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-17T15:45:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
@@ -436,26 +456,6 @@
       "ai_tags": [
         "Innovation"
       ]
-    },
-    {
-      "title": "Notice: UK ETS Allocation Table for operators of installations",
-      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T16:15:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: UK ETS Aviation Allocation Table",
-      "summary": "The Aviation Allocation Table contains a list of each aircraft operator’s free allocation for the 2021 to 2025 allocation period.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-aviation-allocation-table",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-13T16:15:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

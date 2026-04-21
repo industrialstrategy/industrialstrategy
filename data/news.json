@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:16:44.755985Z",
+  "generated_at": "2026-04-21T07:48:17.712792Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decisive action to break influence of gas on electricity prices",
+      "summary": "Families across the country will be better protected from energy crises, as government moves to break link between gas and electricity prices.",
+      "link": "https://www.gov.uk/government/news/decisive-action-to-break-influence-of-gas-on-electricity-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-21T06:43:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Energy consumption in the UK 2025",
       "summary": "Information for overall energy consumption in the UK with details of the industry, transport, domestic and services sectors.",
@@ -431,16 +441,6 @@
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-14T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Road fuel sales, deliveries and stock levels: 28 June 2026",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in the United Kingdom from 27 January 2020 to 28 June 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-sales-deliveries-and-stock-levels-28-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-14T07:57:09+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

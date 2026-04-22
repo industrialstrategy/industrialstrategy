@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T02:14:42.531948Z",
+  "generated_at": "2026-04-22T19:12:14.781057Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,85 @@
   "count": 40,
   "items": [
     {
+      "title": "Accredited official statistics: Building materials and components statistics: April 2026",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-april-2026--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-22T17:59:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Review of Ofgem: call for evidence",
+      "summary": "We're seeking evidence and views on the kind of regulator Ofgem needs to be to meet future challenges and protect consumers.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/review-of-ofgem-call-for-evidence",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-22T15:45:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Ofgem Review, 2026",
+      "summary": "A review of the energy regulator to ensure it is fit for purpose in a rapidly changing energy sector.",
+      "link": "https://www.gov.uk/government/publications/ofgem-review-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-22T15:45:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
+      "summary": "Information to help UK businesses understand Sanctions End-Use Controls and how to ensure compliance.",
+      "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-04-22T14:37:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Renewables Obligation to Exchequer Cost Scheme: due diligence and monitoring privacy notice",
+      "summary": "How DESNZ will use your personal data when we award grant payments, and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-cost-scheme-due-diligence-and-monitoring-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-22T13:40:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-22T13:31:54+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "CCUS future network strategy",
+      "summary": "We’re seeking views and evidence on how CO2 networks might need to evolve to  meet our carbon ambitions and support growth within an evolving carbon capture, usage and storage (CCUS) sector.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/ccus-future-network-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-22T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Ofgem transformed to strengthen protections for energy consumers",
-      "summary": "Billpayers set to benefit from a stronger energy regulator to ensure they are treated fairly",
+      "summary": "Billpayers set to benefit from a stronger energy regulator to ensure they are treated fairly.",
       "link": "https://www.gov.uk/government/news/ofgem-transformed-to-strengthen-protections-for-energy-consumers",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-21T23:01:01+00:00",
+      "published": "2026-04-21T23:01:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -117,7 +191,7 @@
       "summary": "We're seeking views on proposed reforms to the electricity market and their implementation.",
       "link": "https://www.gov.uk/government/consultations/reformed-national-pricing-reforms-to-siting-and-investment-levers",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-21T09:55:52+00:00",
+      "published": "2026-04-21T09:55:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -369,84 +443,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--55",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-17T09:42:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/12: exports to sanctioned destinations",
-      "summary": "The Export Control Joint Unit (ECJU) has changed the team responsible for trade sanctions licensing responsibilities.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202612-exports-to-sanctioned-destinations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-17T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: February 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-17T08:24:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: March 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-17T08:17:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Solar PV deployment: March 2026",
-      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-17T08:14:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Great British Insulation Scheme release: April 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Great British Insulation Scheme (GBIS).",
-      "link": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-16T13:41:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Headline Release (monthly data)",
-      "summary": "Headline Household Energy Efficiency statistics under the Energy Company Obligation (ECO) and the Green Deal Framework.",
-      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-headline-release-monthly-data--49",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-16T13:32:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

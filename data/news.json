@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T08:25:13.891867Z",
+  "generated_at": "2026-04-28T19:32:14.970667Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,90 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Statistics at DESNZ",
+      "summary": "We publish data and statistics on emissions, energy sources, prices and efficiency, fuel poverty, and public attitudes towards energy policy.",
+      "link": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero/about/statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T15:38:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Standards for official statistics published by DESNZ",
+      "summary": "Documents describing the standards we follow to produce official statistics.",
+      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T15:36:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Summer 2026",
+      "summary": "This regular survey collects data on public awareness, behaviours and attitudes relating to the department’s policy areas. These include Net Zero and climate change, different types of energy infrastructure, energy use in the home and energy bills.",
+      "link": "https://www.gov.uk/government/statistics/announcements/desnz-public-attitudes-tracker-summer-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T14:27:58+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Corporate report: North Sea Transition Authority (Oil and Gas Authority) Review 2025",
+      "summary": "The government is required by the Energy Act 2016 to conduct a review of the Oil and Gas Authority, business name North Sea Transition Authority (NSTA), at least every 3 years.",
+      "link": "https://www.gov.uk/government/publications/north-sea-transition-authority-oil-and-gas-authority-review-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T14:13:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Domestic energy tariff reductions 2026: guidance for energy suppliers",
+      "summary": "Guidance for energy suppliers on how to apply discounts to domestic tariffs from 1 April 2026, related to the RO to Exchequer scheme and closure of the ECO and GBIS schemes.",
+      "link": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T13:36:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T09:48:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Climate Change Agreements Scheme: templates for Umbrella and Underlying agreements",
+      "summary": "These templates are current and supersede previous templates.",
+      "link": "https://www.gov.uk/government/publications/climate-change-agreements-scheme-templates-for-umbrella-and-underlying-agreements",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T09:09:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-04-28T08:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Electricity network infrastructure: consents, land access and rights",
       "summary": "We are seeking views on proposed changes to land rights and consents processes for electricity network infrastructure.",
@@ -238,16 +322,6 @@
       ]
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T14:31:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Energy trends and prices: February 2026",
       "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price data, petrol & diesel price data and EU comparative price data.",
       "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-february-2026",
@@ -280,68 +354,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: February 2027",
-      "summary": "Monthly production, trade and consumption of coal, electricity, gas, oil and total energy; retail price data, petrol & diesel price data and EU comparative price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-february-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T13:13:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 26 April 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-26-april-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T13:10:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 19 April 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-19-april-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T13:09:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 12 April 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-12-april-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T13:07:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 5 April 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-5-april-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T13:06:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Rampion 2 Offshore Wind Farm Order 2025: correction of errors, Planning Act 2008",
-      "summary": "Decision by the Secretary of State to make corrections to the Rampion 2 Offshore Wind Farm Order 2025.",
-      "link": "https://www.gov.uk/government/publications/rampion-2-offshore-wind-farm-order-2025-correction-of-errors-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T13:00:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
@@ -389,18 +401,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Entry to the Generic Design Assessment for Advanced Nuclear Reactors",
-      "summary": "How to apply to the Generic Design Assessment (GDA) if you want to submit a nuclear power plant design.",
-      "link": "https://www.gov.uk/government/publications/entry-to-the-generic-design-assessment-for-advanced-nuclear-reactors",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-23T10:28:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
       ]
     },
     {

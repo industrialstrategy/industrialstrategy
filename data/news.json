@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:16:51.443262Z",
+  "generated_at": "2026-05-01T19:10:54.499488Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,30 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-01T15:22:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK innovation survey 2025: report",
+      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-innovation-survey-2025-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-01T14:26:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
       "summary": "Export control licensing data for 1 January to 31 December 2025.",
@@ -150,18 +174,6 @@
       "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-30T14:28:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-30T14:13:54+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -433,16 +445,6 @@
       "title": "Policy paper: UK-Germany joint statement on economic security",
       "summary": "This joint statement sets out shared ambition for co-operation between the UK and Germany on economic security.",
       "link": "https://www.gov.uk/government/publications/uk-germany-joint-statement-on-economic-security",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-26T23:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK-Germany joint statement on critical minerals",
-      "summary": "This joint statement sets out shared ambition for co-operation between the UK and Germany on critical minerals.",
-      "link": "https://www.gov.uk/government/publications/uk-germany-joint-statement-on-critical-minerals",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-26T23:00:00+00:00",
       "matched": [],

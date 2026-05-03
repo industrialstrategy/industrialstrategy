@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T07:32:47.437176Z",
+  "generated_at": "2026-05-03T02:40:24.995397Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Jet fuel and travel plans: what you need to know",
+      "summary": "UK airlines say that they are not currently seeing a shortage of jet fuel. The government is working with industry and international partners to keep passengers moving.",
+      "link": "https://www.gov.uk/government/news/jet-fuel-and-travel-plans-what-you-need-to-know",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-02T21:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "All eyes on LA ahead of largest ever UK trade mission to the US",
+      "summary": "Hundreds of UK business leaders will travel to the US later this month as part of the largest ever UK trade mission to the country, building on the success of the State Visit of Their Majesties the King and Queen.",
+      "link": "https://www.gov.uk/government/news/all-eyes-on-la-ahead-of-largest-ever-uk-trade-mission-to-the-us",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-02T10:23:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Notice: Green Heat Network Fund (GHNF): guidance on how to apply",
       "summary": "Capital grant support is available for the development of new and existing low-carbon heat networks. This page contains guidance and details of how to apply via Triple Point.",
@@ -390,16 +412,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Strategic export controls: licensing statistics",
       "summary": "Export control licensing statistics compiled by the Export Control Joint Unit (ECJU).",
       "link": "https://www.gov.uk/guidance/strategic-export-controls-licensing-statistics",
@@ -437,16 +449,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-27T09:24:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK-Germany joint statement on economic security",
-      "summary": "This joint statement sets out shared ambition for co-operation between the UK and Germany on economic security.",
-      "link": "https://www.gov.uk/government/publications/uk-germany-joint-statement-on-economic-security",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-26T23:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T13:06:15.288372Z",
+  "generated_at": "2026-05-04T08:29:26.801384Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "New appointments made to Insolvency Service Board",
+      "summary": "Peter Walton and Koral Anderson confirmed as Non-Executive Directors.",
+      "link": "https://www.gov.uk/government/news/new-appointments-made-to-insolvency-service-board",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-03T23:01:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Jet fuel and travel plans: what you need to know",
       "summary": "UK airlines say that they are not currently seeing a shortage of jet fuel. The government is working with industry and international partners to keep passengers moving.",
@@ -439,16 +449,6 @@
       "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-27T10:42:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: workforce management information March 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-27T09:24:34+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

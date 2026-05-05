@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T08:08:20.423243Z",
+  "generated_at": "2026-05-05T19:18:48.190129Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,220 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
+      "summary": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation 2018 (MRR).",
+      "link": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T17:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
+      "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
+      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T15:37:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T15:07:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
+      "summary": "Export control licensing data for 1 January to 31 December 2025.",
+      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-05T14:30:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T13:53:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - May 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T10:28:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - May 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T10:27:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund: April 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T10:26:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Stacked gas consumption statistics data",
+      "summary": "Gas consumption data for 2005 to 2024 as a single table, with years stacked one above the other.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/stacked-gas-consumption-statistics-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T10:09:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Regional and local authority gas consumption statistics",
+      "summary": "Estimates of gas consumption at region and local authority levels in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/regional-and-local-authority-gas-consumption-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T10:09:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "View private rented sector energy standards exemptions",
+      "summary": "Find private rental properties that are registered as exempt from the minimum standard of energy efficiency.",
+      "link": "https://www.gov.uk/guidance/view-private-rented-sector-energy-standards-exemptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:56:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Private Rented Sector minimum energy efficiency standard exemptions",
+      "summary": "Guidance on the Private Rented Sector (PRS)  minimum energy efficiency standard exemptions and exemption evidence requirements.",
+      "link": "https://www.gov.uk/government/publications/private-rented-sector-minimum-energy-efficiency-standard-exemptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:44:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Domestic private rented property: minimum energy efficiency standard - landlord guidance",
+      "summary": "Guidance for landlords of domestic private rented property on how to comply with the 2018 ‘Minimum Level of Energy Efficiency’ standard (EPC band E).",
+      "link": "https://www.gov.uk/guidance/domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:42:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Non-domestic private rented property: minimum energy efficiency standard - landlord guidance",
+      "summary": "Guidance for landlords of privately rented non-domestic property on complying with the 2018 ‘Minimum Level of Energy Efficiency’ standard (EPC band E).",
+      "link": "https://www.gov.uk/guidance/non-domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:41:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Biomass Feedstocks Innovation Programme: successful projects",
+      "summary": "£36 million in funding for projects to support innovation in the production of sustainable domestic biomass.",
+      "link": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:15:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: StrataTrapper",
+      "summary": "Key documents from Imperial College London’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-stratatrapper",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:13:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Notice: Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
+      "summary": "This programme aims to accelerate the deployment of next generation carbon capture, usage and storage (CCUS) technology in the UK to be deployed at scale by 2030.",
+      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:12:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Flexibly-Operated Capture using Solvent Storage",
+      "summary": "Key documents from Keadby Generation Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-flexibly-operated-capture-using-solvent-storage",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:11:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Turning Waste Carbon Dioxide into Value for the Surfactants Industry",
+      "summary": "Key documents from Econic Technologies Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-turning-waste-carbon-dioxide-into-value-for-the-surfactants-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:11:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Register a private rented sector energy standards exemption",
+      "summary": "Register or manage a private rented sector energy standard exemption: what you’ll need, sign in, how to get help.",
+      "link": "https://www.gov.uk/register-prs-energy-standard-exemption",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-05T09:10:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Manually calculate an employee's Statutory Parental Bereavement Pay",
       "summary": "Use this guidance if your payroll software or Basic PAYE tool does not calculate your employee's payments.",
@@ -53,22 +267,12 @@
       "summary": "Hundreds of UK business leaders will travel to the US later this month as part of the largest ever UK trade mission to the country, building on the success of the State Visit of Their Majesties the King and Queen.",
       "link": "https://www.gov.uk/government/news/all-eyes-on-la-ahead-of-largest-ever-uk-trade-mission-to-the-us",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-02T10:23:33+00:00",
+      "published": "2026-05-02T10:23:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Green Heat Network Fund (GHNF): guidance on how to apply",
-      "summary": "Capital grant support is available for the development of new and existing low-carbon heat networks. This page contains guidance and details of how to apply via Triple Point.",
-      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf-guidance-on-how-to-apply",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-01T23:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
@@ -95,18 +299,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
-      "summary": "Export control licensing data for 1 January to 31 December 2025.",
-      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-01T12:57:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
       "summary": "Export control licensing data for 1 October to 31 December 2025.",
       "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
@@ -124,48 +316,6 @@
       "link": "https://www.gov.uk/government/publications/complaint-to-uk-ncp-by-possible-about-virgin-atlantic-ltd",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-01T11:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 4 May 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-4-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-01T10:28:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "summary": "Apply to the NPT Pathfinder selection process for non-pipeline transport CCUS projects seeking ECC Teesside network connection by 2032.",
-      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-01T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "How to report your fuel prices and forecourt details",
-      "summary": "Guidance for Motor Fuel Traders (MFTs) explaining how to update fuel prices and manage details of forecourts using Fuel Finder.",
-      "link": "https://www.gov.uk/guidance/fuel-finder",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-01T08:23:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "If you fail to report",
-      "summary": "What happens if you fail to meet your legal obligations.",
-      "link": "https://www.gov.uk/guidance/fuel-finder/if-you-fail-to-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-01T08:23:44+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -255,26 +405,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Evaluation of the Warm Home Discount scheme, 2022 to 2024",
-      "summary": "Interim findings from the evaluation of the Warm Home Discount scheme.",
-      "link": "https://www.gov.uk/government/publications/evaluation-of-the-warm-home-discount-scheme-2022-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T12:25:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Regulation of medical radioisotope supply",
-      "summary": "Review of the UK’s regulatory system for medical radioisotopes.",
-      "link": "https://www.gov.uk/government/publications/regulation-of-medical-radioisotope-supply",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T11:37:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Compensation scheme for Group Litigation Order case postmasters",
       "summary": "Information and outline of the compensation scheme for postmasters in the Group Litigation Order.",
       "link": "https://www.gov.uk/government/publications/compensation-scheme-for-group-litigation-order-case-postmasters",
@@ -285,145 +415,10 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: March 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T09:42:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Britain embraces solar revolution following war in Iran",
-      "summary": "Households across the UK are embracing solar power as the government accelerates its clean power mission.",
-      "link": "https://www.gov.uk/government/news/britain-embraces-solar-revolution-following-war-in-iran",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T09:28:10+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - April 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - April 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 30 April 2026",
-      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-30-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:05+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Licensing statistics statement of administrative sources",
       "summary": "Data sources available to Export Control Joint Unit (ECJU) for the production of the strategic export controls licensing statistics.",
       "link": "https://www.gov.uk/government/publications/licensing-statistics-statement-of-administrative-sources",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-30T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK total energy",
-      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
-      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
-      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
-      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
-      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-04-30T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-04-30T08:30:04+00:00",
       "matched": [],
       "ai_summary": "",

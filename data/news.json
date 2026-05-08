@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:29:11.571270Z",
+  "generated_at": "2026-05-08T13:29:16.608547Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,106 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: Boiler Upgrade Scheme (BUS) Extension: summary business case",
+      "summary": "This summary business case supports the case for investment in extending the Boiler Upgrade Scheme (BUS) to 2029/30.",
+      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-bus-extension-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T09:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Department for Energy Security and Net Zero major projects: accounting officer assessments",
+      "summary": "Accounting officer assessment summaries for the Department for Energy Security and Net Zero programmes and projects.",
+      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T09:00:01+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: exemptions request notice",
+      "summary": "This notice sets out the process for excluded sites to apply for an exemption from their temporary site exclusion for the eighth CfD allocation round.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-exemptions-request-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: National Buildings Database phase 1: non-domestic building stock in England and Wales",
+      "summary": "Research on the first phase of the National Buildings Database, focusing on non-domestic building stock.",
+      "link": "https://www.gov.uk/government/publications/national-buildings-database-phase-1-non-domestic-building-stock-in-england-and-wales",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T08:49:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: National Buildings Database phase 2: understanding Great Britain’s buildings",
+      "summary": "Research on the National Buildings Database (NBD), with a focus on non-domestic premises and the building stock.",
+      "link": "https://www.gov.uk/government/publications/national-buildings-database-phase-2-understanding-great-britains-buildings",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T08:48:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "summary": "Apply to the NPT Pathfinder selection process for non-pipeline transport CCUS projects seeking ECC Teesside network connection by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Invest 2035: the UK’s modern industrial strategy",
+      "summary": "The industrial strategy is the UK government’s proposed 10-year plan for the economy. It aims to deliver the certainty and stability businesses need to invest in the high-growth sectors and drive long-term economic growth. \n\nWe want to hear your views on our proposals. \n\nThe final industrial strategy will be published in spring 2025, alongside the multi-year spending review.",
+      "link": "https://www.gov.uk/government/consultations/invest-2035-the-uks-modern-industrial-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-08T08:30:04+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets--84",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-08T08:06:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED) report: summary of analysis 2026",
+      "summary": "Summary of analysis using the National Energy Efficiency Data-Framework using consumption data from 2005 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/national-energy-efficiency-data-framework-need-report-summary-of-analysis-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-08T07:59:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Designated standards: recreational craft",
       "summary": "Notices of publication and a consolidated list for designated standards for recreational craft.",
@@ -253,82 +353,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy trends and prices: May - July 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T16:27:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: April - June 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T16:26:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: March - May 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T16:26:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Jet fuel and travel plans: what you need to know",
-      "summary": "UK airlines say that they are not currently seeing a shortage of jet fuel. The government is working with industry and international partners to keep passengers moving.",
-      "link": "https://www.gov.uk/government/news/jet-fuel-and-travel-plans-what-you-need-to-know",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T15:12:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Warm Homes Skills Programme: successful projects",
-      "summary": "Successful projects offering training for people working, or who want to work, in the building retrofit and energy efficiency sectors.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-skills-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T13:55:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contributing to the IPCC",
-      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
-      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T10:57:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: IPCC Special Report on Climate Change and Cities Second Order Draft: expert review",
-      "summary": "The Intergovernmental Panel on Climate Change (IPCC) has announced an expert review of the Second Order Draft of its Special Report on Climate Change and Cities.",
-      "link": "https://www.gov.uk/government/publications/ipcc-special-report-on-climate-change-and-cities-second-order-draft-expert-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T10:50:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Conclusion of Costa Rica’s CPTPP Accession Working Group",
       "summary": "This announcement details the conclusion of the negotiations regarding Costa Rica’s CPTPP Accession Working Group.",
       "link": "https://www.gov.uk/government/publications/conclusion-of-costa-ricas-cptpp-accession-working-group",
@@ -432,26 +456,6 @@
       "link": "https://www.gov.uk/government/publications/complaint-to-uk-ncp-by-possible-about-virgin-atlantic-ltd",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-01T11:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: low voltage",
-      "summary": "Notices of publication and a consolidated list for designated standards for low voltage electrical equipment.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-low-voltage",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-30T23:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
-      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-30T23:05:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

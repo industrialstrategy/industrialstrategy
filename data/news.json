@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T14:03:17.864536Z",
+  "generated_at": "2026-05-08T07:29:11.571270Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,75 @@
   "count": 40,
   "items": [
     {
+      "title": "Guidance: Designated standards: recreational craft",
+      "summary": "Notices of publication and a consolidated list for designated standards for recreational craft.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-recreational-craft",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-07T23:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: pressure equipment",
+      "summary": "Notices of publication and a consolidated list for designated standards for pressure equipment.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-pressure-equipment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-07T23:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: lifts",
+      "summary": "Notices of publication and a consolidated list for designated standards for lifts.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-lifts",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-07T23:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Heat pump deployment: March 2026",
+      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/announcements/heat-pump-deployment-march-2026--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-07T15:48:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK innovation survey 2025: report",
+      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-innovation-survey-2025-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-07T15:24:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-07T15:05:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Costa Rica to join UK as member of £13 trillion global trade bloc",
       "summary": "Costa Rica to join UK as member of £13 trillion in GDP global trade bloc",
       "link": "https://www.gov.uk/government/news/costa-rica-to-join-uk-as-member-of-13-trillion-global-trade-bloc",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T12:33:43+00:00",
+      "published": "2026-05-07T12:33:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -46,16 +110,6 @@
       "link": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-apply-for-compensation",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-07T09:22:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: recreational craft",
-      "summary": "Notices of publication and a consolidated list for designated standards for recreational craft.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-recreational-craft",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-06T23:05:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -275,26 +329,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Renewable Energy Planning Database: quarterly extract",
-      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
-      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T09:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Heat networks pipelines",
-      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T09:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Conclusion of Costa Rica’s CPTPP Accession Working Group",
       "summary": "This announcement details the conclusion of the negotiations regarding Costa Rica’s CPTPP Accession Working Group.",
       "link": "https://www.gov.uk/government/publications/conclusion-of-costa-ricas-cptpp-accession-working-group",
@@ -381,18 +415,6 @@
       ]
     },
     {
-      "title": "Official Statistics: UK innovation survey 2025: report",
-      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-innovation-survey-2025-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-01T14:26:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
       "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
       "summary": "Export control licensing data for 1 October to 31 December 2025.",
       "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
@@ -428,26 +450,6 @@
       "title": "Guidance: Designated standards: equipment for explosive atmospheres",
       "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
       "link": "https://www.gov.uk/government/publications/designated-standards-atex",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-30T23:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: radio equipment",
-      "summary": "Notices of publication and a consolidated list for designated standards for radio equipment.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-radio-equipment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-04-30T23:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: PPE",
-      "summary": "Notices of publication and a consolidated list for designated standards for personal protective equipment (PPE).",
-      "link": "https://www.gov.uk/government/publications/designated-standards-ppe",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-04-30T23:05:00+00:00",
       "matched": [],

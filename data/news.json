@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T09:37:56.238397Z",
+  "generated_at": "2026-05-11T14:47:05.173034Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Heat Pump Ready Programme",
+      "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-11T13:22:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Contracts for Difference: Contract amendments to implement Clean Industry Bonus reforms",
+      "summary": "We're seeking views on proposed amendments to the CfD contract that need to be made to implement CIB reforms, and also on hybrid metering, ahead of Allocation Round 8.",
+      "link": "https://www.gov.uk/government/consultations/contracts-for-difference-contract-amendments-to-implement-clean-industry-bonus-reforms",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-11T12:50:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
+      "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-11T11:43:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Independent report: Working Lives: the scale and nature of labour market non-compliance in the UK – final report",
+      "summary": "The final report of Director of Labour Market Enforcement (DLME) commissioned assessment on the scale and nature of labour non-compliance and other work-based harms in the UK.",
+      "link": "https://www.gov.uk/government/publications/working-lives-the-scale-and-nature-of-labour-market-non-compliance-in-the-uk-final-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-11T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New legislation gives Government power to bring British Steel into public ownership",
+      "summary": "New legislation to be announced in the King's Speech on Wednesday will give government the option to bring British Steel into public ownership.",
+      "link": "https://www.gov.uk/government/news/new-legislation-gives-government-power-to-bring-british-steel-into-public-ownership",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-11T09:38:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Hydrogen BECCS Innovation Programme: projects awarded funding",
       "summary": "This programme supported innovation in hydrogen BECCS (bioenergy with carbon capture and storage) technologies with £31 million in funding.",
@@ -349,30 +401,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy trends and prices: November 2026 - January 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T16:32:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: October - December 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T16:29:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: Conclusion of Costa Rica’s CPTPP Accession Working Group",
       "summary": "This announcement details the conclusion of the negotiations regarding Costa Rica’s CPTPP Accession Working Group.",
       "link": "https://www.gov.uk/government/publications/conclusion-of-costa-ricas-cptpp-accession-working-group",
@@ -423,40 +451,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "New appointments made to Insolvency Service Board",
-      "summary": "Peter Walton and Koral Anderson confirmed as Non-Executive Directors.",
-      "link": "https://www.gov.uk/government/news/new-appointments-made-to-insolvency-service-board",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-03T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "All eyes on LA ahead of largest ever UK trade mission to the US",
-      "summary": "Hundreds of UK business leaders will travel to the US later this month as part of the largest ever UK trade mission to the country, building on the success of the State Visit of Their Majesties the King and Queen.",
-      "link": "https://www.gov.uk/government/news/all-eyes-on-la-ahead-of-largest-ever-uk-trade-mission-to-the-us",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-02T10:23:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-01T15:22:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

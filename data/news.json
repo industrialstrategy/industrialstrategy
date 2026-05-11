@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T02:52:35.733232Z",
+  "generated_at": "2026-05-11T09:37:56.238397Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,21 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Hydrogen BECCS Innovation Programme: projects awarded funding",
+      "summary": "This programme supported innovation in hydrogen BECCS (bioenergy with carbon capture and storage) technologies with £31 million in funding.",
+      "link": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-11T08:30:03+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen",
+        "Innovation"
+      ]
+    },
     {
       "title": "Get support from the Information and Support Service",
       "summary": "The Information and Support Service can support those who do not have legal representation and are applying to redress schemes relating to the Horizon scandal.",
@@ -351,18 +366,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-october-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-06T16:29:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: September - November 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-06T16:28:34+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

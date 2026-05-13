@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T14:18:20.122089Z",
+  "generated_at": "2026-05-13T08:44:29.167555Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,62 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
+      "summary": "The Export Control Joint Unit (ECJU) informs upcoming requirement to add licence references  into the UK’s Customs Declarations System.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--57",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T07:50:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Large businesses’ payment practices and performance: Statistics (2025)",
+      "summary": "Annual statistics describing how large UK businesses pay their suppliers, using data reported under The Payment Practices and Performance Reporting Regulations 2017. \n\nIncludes statistics on the number of reports submitted by businesses, the average time to pay, and the proportion of invoices paid late (by number and value).",
+      "link": "https://www.gov.uk/government/statistics/announcements/large-businesses-payment-practices-and-performance-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T07:49:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--109",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T07:48:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: CHPQA glossary",
+      "summary": "A glossary to explain terms used throughout the combined heat and power quality assurance (CHPQA) guidance notes.",
+      "link": "https://www.gov.uk/government/publications/chpqa-glossary",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-12T15:43:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DESNZ: prompt payment data, January to March 2026",
       "summary": "How long the Department for Energy Security and Net Zero (DESNZ) takes to pay invoices.",
@@ -356,16 +412,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: National Buildings Database phase 1: non-domestic building stock in England and Wales",
-      "summary": "Research on the first phase of the National Buildings Database, focusing on non-domestic building stock.",
-      "link": "https://www.gov.uk/government/publications/national-buildings-database-phase-1-non-domestic-building-stock-in-england-and-wales",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-08T08:49:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Invest 2035: the UK’s modern industrial strategy",
       "summary": "The industrial strategy is the UK government’s proposed 10-year plan for the economy. It aims to deliver the certainty and stability businesses need to invest in the high-growth sectors and drive long-term economic growth. \n\nWe want to hear your views on our proposals. \n\nThe final industrial strategy will be published in spring 2025, alongside the multi-year spending review.",
       "link": "https://www.gov.uk/government/consultations/invest-2035-the-uks-modern-industrial-strategy",
@@ -417,50 +463,6 @@
       "link": "https://www.gov.uk/government/publications/designated-standards-lifts",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-07T23:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: UK innovation survey 2025: report",
-      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-innovation-survey-2025-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T15:24:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Costa Rica to join UK as member of £13 trillion global trade bloc",
-      "summary": "Costa Rica to join UK as member of £13 trillion in GDP global trade bloc",
-      "link": "https://www.gov.uk/government/news/costa-rica-to-join-uk-as-member-of-13-trillion-global-trade-bloc",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T12:33:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Manually calculate a Northern Ireland based employee's Statutory Parental Bereavement Pay",
-      "summary": "Use this guidance if your payroll software or Basic PAYE tool does not calculate your Northern Ireland based employee's payments for claims relating to a child death or miscarriage which happened on or after 6 April 2026.",
-      "link": "https://www.gov.uk/guidance/manually-calculate-a-northern-ireland-based-employees-statutory-parental-bereavement-pay",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T11:19:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Businesses see processing times slashed in groundbreaking trial",
-      "summary": "Businesses see processing times slashed in groundbreaking new trial",
-      "link": "https://www.gov.uk/government/news/businesses-see-processing-times-slashed-in-groundbreaking-trial",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-06T21:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

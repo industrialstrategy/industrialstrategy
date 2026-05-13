@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T14:30:12.117439Z",
+  "generated_at": "2026-05-13T19:53:51.704946Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,60 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Great Ideas – York and North Yorkshire",
+      "summary": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
+      "link": "https://www.gov.uk/business-finance-support/great-ideas-york-and-north-yorkshire",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T16:20:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Corporate report: DBT Accounting Officer System Statement 2026",
+      "summary": "This document sets out the accountability framework for the Department of Business and Trade (DBT).",
+      "link": "https://www.gov.uk/government/publications/dbt-accounting-officer-system-statement-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T15:42:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T14:51:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T14:51:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Tariff Interoperability",
+      "summary": "We are seeking views on standardising how suppliers make tariff pricing data available to help support consumer-led flexibility.",
+      "link": "https://www.gov.uk/government/consultations/tariff-interoperability",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T14:34:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Great British Insulation Scheme release: May 2026",
       "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Great British Insulation Scheme (GBIS).",
@@ -344,21 +398,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Heat Pump Ready Programme Round 2: innovation funding competition",
-      "summary": "Apply to the Heat Pump Ready Programme Round 2 innovation funding competition.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-11T15:07:02+00:00",
-      "matched": [
-        "innovation funding"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Innovation"
-      ]
-    },
-    {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
@@ -419,52 +458,6 @@
       "ai_tags": [
         "Decarbonisation"
       ]
-    },
-    {
-      "title": "Invest 2035: the UK’s modern industrial strategy",
-      "summary": "The industrial strategy is the UK government’s proposed 10-year plan for the economy. It aims to deliver the certainty and stability businesses need to invest in the high-growth sectors and drive long-term economic growth. \n\nWe want to hear your views on our proposals. \n\nThe final industrial strategy will be published in spring 2025, alongside the multi-year spending review.",
-      "link": "https://www.gov.uk/government/consultations/invest-2035-the-uks-modern-industrial-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-08T08:30:04+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets--84",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-08T08:06:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Designated standards: recreational craft",
-      "summary": "Notices of publication and a consolidated list for designated standards for recreational craft.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-recreational-craft",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T23:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: pressure equipment",
-      "summary": "Notices of publication and a consolidated list for designated standards for pressure equipment.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-pressure-equipment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T23:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

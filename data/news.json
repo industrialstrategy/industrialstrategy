@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:44:29.167555Z",
+  "generated_at": "2026-05-13T14:30:12.117439Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,109 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Great British Insulation Scheme release: May 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Great British Insulation Scheme (GBIS).",
+      "link": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T14:17:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 18 May 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-18-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T14:12:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
+      "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
+      "link": "https://www.gov.uk/government/publications/women-on-boards-executive-search-firms-signed-up-to-the-code-of-conduct",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-13T11:36:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
+      "summary": "This programme aims to accelerate the deployment of next generation carbon capture, usage and storage (CCUS) technology in the UK to be deployed at scale by 2030.",
+      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T09:17:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Carbon sequestration in the built environment",
+      "summary": "Key documents from Imperial College London’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-carbon-sequestration-in-the-built-environment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T09:17:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Developing inorganic carriers to create net-zero concrete",
+      "summary": "Key documents from Concrete4Change Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-developing-inorganic-carriers-to-create-net-zero-concrete",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T09:16:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Innovative high temperature sealing solution for supercritical CO2 power cycle",
+      "summary": "Key documents from John Crane Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-innovative-high-temperature-sealing-solution-for-supercritical-co2-power-cycle",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T09:13:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Monolithic metal-organic frameworks (MOFs) for carbon capture",
+      "summary": "Key documents from Immaterial Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-monolithic-metal-organic-frameworks-mofs-for-carbon-capture",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T09:12:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: Use of CO2 capture to enhance low carbon fertiliser manufacture",
+      "summary": "Key documents from CCm Technologies Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-use-of-co2-capture-to-enhance-low-carbon-fertiliser-manufacture",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-13T09:10:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Manufacturing"
+      ]
+    },
     {
       "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
       "summary": "The Export Control Joint Unit (ECJU) informs upcoming requirement to add licence references  into the UK’s Customs Declarations System.",
@@ -256,28 +359,6 @@
       ]
     },
     {
-      "title": "Notice: Heat Pump Ready Programme",
-      "summary": "The programme supports the development and demonstration of heat pump technologies and tools, and solutions for optimised deployment of heat pumps.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-11T13:22:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Contracts for Difference: Contract amendments to implement Clean Industry Bonus reforms",
-      "summary": "We're seeking views on proposed amendments to the CfD contract that need to be made to implement CIB reforms, and also on hybrid metering, ahead of Allocation Round 8.",
-      "link": "https://www.gov.uk/government/consultations/contracts-for-difference-contract-amendments-to-implement-clean-industry-bonus-reforms",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-11T12:50:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
@@ -308,21 +389,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Hydrogen BECCS Innovation Programme: projects awarded funding",
-      "summary": "This programme supported innovation in hydrogen BECCS (bioenergy with carbon capture and storage) technologies with £31 million in funding.",
-      "link": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-11T08:30:03+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen",
-        "Innovation"
-      ]
-    },
-    {
       "title": "Get support from the Information and Support Service",
       "summary": "The Information and Support Service can support those who do not have legal representation and are applying to redress schemes relating to the Horizon scandal.",
       "link": "https://www.gov.uk/guidance/get-support-from-the-information-and-support-service",
@@ -343,29 +409,6 @@
       "ai_tags": []
     },
     {
-      "title": "Jet fuel and travel plans: what you need to know",
-      "summary": "UK airlines say that they are not currently seeing a shortage of jet fuel. The government is working with industry and international partners to keep passengers moving.",
-      "link": "https://www.gov.uk/government/news/jet-fuel-and-travel-plans-what-you-need-to-know",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-08T17:23:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Heat Pump Innovation Survey: privacy notice",
-      "summary": "How DESNZ will use your personal data when you respond to Heat Pump Innovation Survey, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-08T15:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Innovation"
-      ]
-    },
-    {
       "title": "Policy paper: EM on industrial capacity and decarbonisation (COM(2026)100)",
       "summary": "The government's summary of a proposal for a regulation on acceleration of industrial capacity & decarbonisation in strategic sectors and amending regulations.",
       "link": "https://www.gov.uk/government/publications/em-on-industrial-capacity-and-decarbonisation-com2026100",
@@ -376,40 +419,6 @@
       "ai_tags": [
         "Decarbonisation"
       ]
-    },
-    {
-      "title": "Transparency data: Boiler Upgrade Scheme (BUS) Extension: summary business case",
-      "summary": "This summary business case supports the case for investment in extending the Boiler Upgrade Scheme (BUS) to 2029/30.",
-      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-bus-extension-summary-business-case",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-08T09:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Department for Energy Security and Net Zero major projects: accounting officer assessments",
-      "summary": "Accounting officer assessment summaries for the Department for Energy Security and Net Zero programmes and projects.",
-      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-08T09:00:01+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: exemptions request notice",
-      "summary": "This notice sets out the process for excluded sites to apply for an exemption from their temporary site exclusion for the eighth CfD allocation round.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-exemptions-request-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-08T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Invest 2035: the UK’s modern industrial strategy",
@@ -451,16 +460,6 @@
       "title": "Guidance: Designated standards: pressure equipment",
       "summary": "Notices of publication and a consolidated list for designated standards for pressure equipment.",
       "link": "https://www.gov.uk/government/publications/designated-standards-pressure-equipment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-07T23:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: lifts",
-      "summary": "Notices of publication and a consolidated list for designated standards for lifts.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-lifts",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-07T23:05:02+00:00",
       "matched": [],

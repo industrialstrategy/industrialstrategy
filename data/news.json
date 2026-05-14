@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T02:52:00.100276Z",
+  "generated_at": "2026-05-14T08:37:43.584060Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Tariff Interoperability",
+      "summary": "We are seeking views on standardising how suppliers make tariff pricing data available to help support consumer-led flexibility.",
+      "link": "https://www.gov.uk/government/consultations/tariff-interoperability",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-14T08:10:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Great Ideas – York and North Yorkshire",
       "summary": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
@@ -58,16 +68,6 @@
       "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-13T14:51:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Tariff Interoperability",
-      "summary": "We are seeking views on standardising how suppliers make tariff pricing data available to help support consumer-led flexibility.",
-      "link": "https://www.gov.uk/government/consultations/tariff-interoperability",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-13T14:34:50+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

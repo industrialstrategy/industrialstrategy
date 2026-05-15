@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T14:04:14.617258Z",
+  "generated_at": "2026-05-15T19:29:50.493349Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Regulator dashboard",
+      "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
+      "link": "https://www.gov.uk/government/publications/regulator-dashboard",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-15T14:19:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Promotional material: Employment Rights Act 2025: factsheets",
       "summary": "Further details on the measures included within the Employment Rights Act 2025.",
@@ -452,18 +462,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation"
-      ]
-    },
-    {
-      "title": "Corporate report: DBT Accounting Officer System Statement 2026",
-      "summary": "This document sets out the accountability framework for the Department of Business and Trade (DBT).",
-      "link": "https://www.gov.uk/government/publications/dbt-accounting-officer-system-statement-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-13T15:42:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

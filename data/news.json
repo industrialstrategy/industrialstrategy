@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T02:52:22.128169Z",
+  "generated_at": "2026-05-15T14:04:14.617258Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,65 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-15T12:42:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Department for Business and Trade College of Experts: registration of interest",
+      "summary": "The Department for Business and Trade (DBT) is establishing a new College of Experts (CoE) and is inviting external specialists to register their interest joining the network.",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-college-of-experts-registration-of-interest",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-15T12:17:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Letting out a self-catering holiday home in England: rules and regulations",
+      "summary": "Regulations you need to follow when letting out a self-catering, short-term holiday home in England.",
+      "link": "https://www.gov.uk/guidance/letting-out-a-self-catering-holiday-home-in-england-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-15T11:17:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--108",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-15T10:47:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Local net zero: support for local authorities and communities",
+      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
+      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-15T09:00:00+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation",
+        "Net zero"
+      ]
+    },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
@@ -384,16 +443,6 @@
       "ai_tags": []
     },
     {
-      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
-      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
-      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:28:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Great Ideas – York and North Yorkshire",
       "summary": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
       "link": "https://www.gov.uk/business-finance-support/great-ideas-york-and-north-yorkshire",
@@ -411,48 +460,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-accounting-officer-system-statement-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-13T15:42:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-13T14:51:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Capture financial redress data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
-      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-13T14:51:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Women on boards: executive search firms signed up to the code of conduct",
-      "summary": "A list of executive search firms signed up to the voluntary code of conduct to address gender diversity on corporate boards.",
-      "link": "https://www.gov.uk/government/publications/women-on-boards-executive-search-firms-signed-up-to-the-code-of-conduct",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-13T11:36:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
-      "summary": "The Export Control Joint Unit (ECJU) informs upcoming requirement to add licence references  into the UK’s Customs Declarations System.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-13T08:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

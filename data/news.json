@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T15:26:53.367042Z",
+  "generated_at": "2026-05-18T19:45:03.536767Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Overseas business risk for Ethiopia",
+      "summary": "Information on key security and political risks which UK businesses may face when operating in Ethiopia.",
+      "link": "https://www.gov.uk/government/publications/overseas-business-risk-for-ethiopia",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-18T17:04:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Trade union political funds",
+      "summary": "Guidance on how a trade union political fund must be operated.",
+      "link": "https://www.gov.uk/government/publications/trade-union-political-funds",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-18T15:21:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -68,18 +90,6 @@
       "link": "https://www.gov.uk/government/publications/business-support-service-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-18T10:44:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Doing business in Ethiopia: guidance on exporting and business risks",
-      "summary": "A guide for British businesses interested in developing their overseas trade and doing business in Ethiopia.",
-      "link": "https://www.gov.uk/government/publications/doing-business-in-ethiopia-guidance-on-exporting-and-business-risks",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T09:21:46+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -446,18 +456,6 @@
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-14T08:30:10+00:00",
       "matched": [],

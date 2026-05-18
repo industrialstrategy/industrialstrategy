@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T03:00:05.993952Z",
+  "generated_at": "2026-05-18T15:26:53.367042Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,120 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-18T14:44:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Military end-use controls",
+      "summary": "When military end-use export controls apply and to which destinations.",
+      "link": "https://www.gov.uk/guidance/military-end-use-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-18T14:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--56",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-18T14:13:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Bill discount scheme: administrator update",
+      "summary": "Ofgem has been appointed as the scheme administrator for the bill discount scheme.",
+      "link": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-18T11:00:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Business Support Service: privacy notice",
+      "summary": "How the Department for Business and Trade (DBT) will use your personal data when you contact the Business Support Service, and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/business-support-service-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-18T10:44:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Doing business in Ethiopia: guidance on exporting and business risks",
+      "summary": "A guide for British businesses interested in developing their overseas trade and doing business in Ethiopia.",
+      "link": "https://www.gov.uk/government/publications/doing-business-in-ethiopia-guidance-on-exporting-and-business-risks",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-18T09:21:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Smart Secure Electricity Systems (SSES) tariff interoperability: code and licence modifications",
+      "summary": "The Secretary of State has made changes to Electricity Supply Standard Licence Conditions and the Retail Energy Code using his power under section 245(1)(a) and (e) of the Energy Act 2023.",
+      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-tariff-interoperability-code-and-licence-modifications",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-18T08:36:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
+      "summary": "This programme aims to accelerate the deployment of next generation carbon capture, usage and storage (CCUS) technology in the UK to be deployed at scale by 2030.",
+      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-18T08:14:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: UNICORN - Efficient MOF based pilot unit for CO2 filtration",
+      "summary": "Key documents from the University of Sheffield’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-unicorn-efficient-mof-based-pilot-unit-for-co2-filtration",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-18T08:07:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Research: CCUS Innovation 2.0 competition: MONET - MOF-based negative emissions technology",
+      "summary": "Key documents from Promethean Particles Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
+      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-monet-mof-based-negative-emissions-technology",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-18T08:07:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Research: Regulator dashboard",
       "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
@@ -105,16 +219,6 @@
       "link": "https://www.gov.uk/government/publications/north-falls-offshore-wind-farm-development-consent-order-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-14T14:39:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T14:14:45+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -279,20 +383,6 @@
       "ai_tags": []
     },
     {
-      "title": "Capacity Market: Hydrogen to Power and interconnectors",
-      "summary": "We're seeking views on enabling the participation of Hydrogen to Power in the Capacity Market and technical changes to setting interconnector de-rating factors.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/capacity-market-hydrogen-to-power-and-interconnectors",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:38:52+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
@@ -315,36 +405,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Official Statistics: Sub-regional fuel poverty report 2026 (2024 data)",
-      "summary": "Official statistics in development on sub-regional fuel poverty.",
-      "link": "https://www.gov.uk/government/statistics/sub-regional-fuel-poverty-report-2026-2024-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Fuel poverty: sub-regional methodology and documentation",
-      "summary": "Provides an outline of the methodology used in compiling sub-regional fuel poverty statistics.",
-      "link": "https://www.gov.uk/government/publications/fuel-poverty-sub-regional-methodology-and-documentation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Sub-regional fuel poverty data 2026 (2024 data)",
-      "summary": "Fuel poverty 2024 data measured as low income low energy efficiency (LILEE).",
-      "link": "https://www.gov.uk/government/statistics/sub-regional-fuel-poverty-data-2026-2024-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
@@ -404,64 +464,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with M to O)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with J to L)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Great Ideas – York and North Yorkshire",
-      "summary": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
-      "link": "https://www.gov.uk/business-finance-support/great-ideas-york-and-north-yorkshire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-13T16:20:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T02:57:06.006259Z",
+  "generated_at": "2026-05-19T14:57:23.418441Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,146 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Commercial Payments Bill: factsheets",
+      "summary": "Further details on the measures included within the Commercial Payments Bill.",
+      "link": "https://www.gov.uk/government/publications/commercial-payments-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T14:26:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends and prices: March - May 2027",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-may-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T14:06:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 24 May 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-24-may-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T14:04:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 17 May 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-17-may-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T14:03:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 10 May 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-10-may-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T14:02:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 3 May 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-3-may-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T14:01:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Project Union: East Coast - section 35 direction, Planning Act 2008",
+      "summary": "Direction by the Secretary of State on the Project Union: East Coast.",
+      "link": "https://www.gov.uk/government/publications/project-union-east-coast-section-35-direction-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T12:57:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Fair Work Agency: enforcement policy statement",
+      "summary": "The regulatory tools and guiding structures utilised by the Fair Work Agency to enforce labour market legislation within its remit.",
+      "link": "https://www.gov.uk/government/publications/fair-work-agency-enforcement-policy-statement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T10:20:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
+      "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
+      "link": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T09:55:32+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Companies House sets out priorities for the business year",
+      "summary": "The agency’s business plan 2026 to 2027 marks a key step in its transformation, strengthening its position as a trusted guardian of corporate data.",
+      "link": "https://www.gov.uk/government/news/companies-house-sets-out-priorities-for-the-business-year",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T09:07:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade union statistics 2025",
+      "summary": "Provides information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-union-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T09:05:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Military end-use controls",
+      "summary": "When military end-use export controls apply and to which destinations.",
+      "link": "https://www.gov.uk/guidance/military-end-use-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T08:57:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T08:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Largest crackdown on late payments in over 25 years as landmark Bill enters Parliament",
       "summary": "Ministers announce the introduction of legislation to tackle late payments and protect small businesses.",
@@ -43,7 +183,7 @@
       "summary": "Information on key security and political risks which UK businesses may face when operating in Ethiopia.",
       "link": "https://www.gov.uk/government/publications/overseas-business-risk-for-ethiopia",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T17:04:14+00:00",
+      "published": "2026-05-18T17:04:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -69,18 +209,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Military end-use controls",
-      "summary": "When military end-use export controls apply and to which destinations.",
-      "link": "https://www.gov.uk/guidance/military-end-use-controls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T14:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Official Statistics: UK trade in numbers",
@@ -264,18 +392,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Trade union statistics 2025",
-      "summary": "Provides information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-union-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T11:41:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Accredited official statistics: Household Energy Efficiency Headline Release (quarterly data)",
       "summary": "Headline Household Energy Efficiency statistics under the Energy Company Obligation (ECO) and the Green Deal Framework.",
       "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-headline-release-quarterly-data--25",
@@ -311,26 +427,6 @@
       ]
     },
     {
-      "title": "Research: Fuel mix disclosure data table",
-      "summary": "The data are for the disclosure period 1 April 2024 to 31 March 2025.",
-      "link": "https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T10:12:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Smart Meters: January to March 2026",
-      "summary": "Quarterly statistics which show the number of smart meters installed by large energy suppliers in January to March 2026 and the total numbers of smart and non-smart meters operated by these suppliers at the end of March 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/smart-meters-january-to-march-2026--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T10:06:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Make Work Pay: misuse of non-disclosure agreements (NDAs)",
       "summary": "We are seeking views on proposals to prevent the misuse of non-disclosure agreements in cases of workplace harassment and discrimination.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-misuse-of-non-disclosure-agreements-ndas",
@@ -339,18 +435,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: March 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T09:52:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
     },
     {
       "title": "Bill that could nationalise British Steel takes first step through Parliament",
@@ -363,97 +447,11 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: MCS certified domestic battery installation statistics - April 2025 to March 2026",
-      "summary": "Data monitoring the installation of domestic batteries recorded on the Microgeneration Certification Scheme (MCS), including capacity and cost statistics.",
-      "link": "https://www.gov.uk/government/statistics/announcements/mcs-certified-domestic-battery-installation-statistics-april-2025-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T09:22:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Solar PV cost data: 2025/26",
-      "summary": "Official Statistics in Development which show information on the cost per kW of solar PV installed by month during the financial year 2025/26.",
-      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-cost-data-202526",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T09:15:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Solar PV deployment: April 2026",
-      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T09:14:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: proposed changes for Prequalification 2026",
-      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-proposed-changes-for-prequalification-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:39:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: proposals to integrate low carbon technologies and enhance delivery assurance ahead of Prequalification 2026",
-      "summary": "We are seeking views on proposed changes to the Capacity Market (CM) for Prequalification 2026.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-proposals-to-integrate-low-carbon-technologies-and-enhance-delivery-assurance-ahead-of-prequalification-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T08:39:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-14T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:10+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

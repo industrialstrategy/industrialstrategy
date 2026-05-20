@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T09:28:10.978817Z",
+  "generated_at": "2026-05-20T14:59:32.673341Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,120 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Corporate report: Grenfell Tower Inquiry Government Progress Report: May 2026",
+      "summary": "Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T14:06:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Apply for a licence to carry out sanctioned trade through OTSI",
+      "summary": "Check if you need a licence from the Office for Trade Sanctions Implementation (OTSI), and apply online.",
+      "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T14:05:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Look up considerations for trade licences under the Russia sanctions",
+      "summary": "As part of the statutory guidance, this guide lists licencing considerations for trade sanctions licences, and provides links to general licences available.",
+      "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T12:06:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - August 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:55:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:54:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - June 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:53:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - August 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:52:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:51:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - June 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:50:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
+      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
+      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T11:00:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Fixed sum appeals and Shortfall Evidence processes to launch for postmasters who suffered Horizon shortfalls",
+      "summary": "New appeals process to be set up for those who accepted fixed sum offers on the Horizon Shortfall Scheme.",
+      "link": "https://www.gov.uk/government/news/fixed-sum-appeals-and-shortfall-evidence-processes-to-launch-for-postmasters-who-suffered-horizon-shortfalls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T10:31:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Energy trends and prices: March - May 2026",
       "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
@@ -109,9 +223,9 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
-      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-20T08:30:04+00:00",
       "matched": [],
@@ -119,11 +233,11 @@
       "ai_tags": []
     },
     {
-      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
-      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
-      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
+      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:04+00:00",
+      "published": "2026-05-20T08:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -323,134 +437,11 @@
       "ai_tags": []
     },
     {
-      "title": "Largest crackdown on late payments in over 25 years as landmark Bill enters Parliament",
-      "summary": "Ministers announce the introduction of legislation to tackle late payments and protect small businesses.",
-      "link": "https://www.gov.uk/government/news/largest-crackdown-on-late-payments-in-over-25-years-as-landmark-bill-enters-parliament",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T23:01:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Largest ever UK business delegation to the US launches Greater Together Los Angeles",
-      "summary": "The Secretary of State for Culture, Lisa Nandy and Minister for Economic Transformation, Blair McDougall, will today lead a delegation of 250+ strong business and cultural leaders to the US to drive economic growth at a major expo, Greater Together LA.",
-      "link": "https://www.gov.uk/government/news/largest-ever-uk-business-delegation-to-the-us-launches-greater-together-los-angeles",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T20:04:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Overseas business risk for Ethiopia",
-      "summary": "Information on key security and political risks which UK businesses may face when operating in Ethiopia.",
-      "link": "https://www.gov.uk/government/publications/overseas-business-risk-for-ethiopia",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T17:04:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Trade union political funds",
-      "summary": "Guidance on how a trade union political fund must be operated.",
-      "link": "https://www.gov.uk/government/publications/trade-union-political-funds",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T15:21:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-18T14:44:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Bill discount scheme: administrator update",
-      "summary": "Ofgem has been appointed as the scheme administrator for the bill discount scheme.",
-      "link": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-18T11:00:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Smart Secure Electricity Systems (SSES) tariff interoperability: code and licence modifications",
-      "summary": "The Secretary of State has made changes to Electricity Supply Standard Licence Conditions and the Retail Energy Code using his power under section 245(1)(a) and (e) of the Energy Act 2023.",
-      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-tariff-interoperability-code-and-licence-modifications",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-18T08:36:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
-      "summary": "This programme aims to accelerate the deployment of next generation carbon capture, usage and storage (CCUS) technology in the UK to be deployed at scale by 2030.",
-      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-18T08:14:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Research: CCUS Innovation 2.0 competition: UNICORN - Efficient MOF based pilot unit for CO2 filtration",
-      "summary": "Key documents from the University of Sheffield’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
-      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-unicorn-efficient-mof-based-pilot-unit-for-co2-filtration",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-18T08:07:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Research: CCUS Innovation 2.0 competition: MONET - MOF-based negative emissions technology",
-      "summary": "Key documents from Promethean Particles Limited’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
-      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-monet-mof-based-negative-emissions-technology",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-18T08:07:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Guidance: Local net zero: support for local authorities and communities",
-      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
-      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-15T09:00:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation",
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Decision: North Falls Offshore Wind Farm: development consent order, Planning Act 2008",
-      "summary": "Decision on an application for an offshore wind farm by North Falls Offshore Wind Farm Limited.",
-      "link": "https://www.gov.uk/government/publications/north-falls-offshore-wind-farm-development-consent-order-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T14:39:34+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

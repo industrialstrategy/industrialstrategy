@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T14:57:23.418441Z",
+  "generated_at": "2026-05-20T09:28:10.978817Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,170 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Energy trends and prices: March - May 2026",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T09:14:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: Department for Energy Security and Net Zero major projects: accounting officer assessments",
+      "summary": "Accounting officer assessment summaries for the Department for Energy Security and Net Zero programmes and projects.",
+      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T09:03:57+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 25 May 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-25-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T09:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme: issues under review",
+      "summary": "Information about issues that the independent Senior Lawyer (ISL) is currently reviewing.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-issues-under-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Shortfall Evidence Process Guidance",
+      "summary": "Guidance on how the Horizon Shortfall Scheme (HSS) will process claims where there is no evidence of a shortfall.",
+      "link": "https://www.gov.uk/government/publications/shortfall-evidence-process-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Independent report: Independent Senior Lawyer's review of unevidenced shortfalls process",
+      "summary": "Review and recommendations on the approach taken by Post Office and the Department for Business and Trade (DBT) in handling cases where there is no evidence of a shortfall.",
+      "link": "https://www.gov.uk/government/publications/independent-senior-lawyers-review-of-unevidenced-shortfalls-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
+      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
+      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: HSS fixed sum offer permission to appeal process: tariff of reasonable legal costs",
+      "summary": "This guidance sets out the legal costs we will cover for the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-tariff-of-reasonable-legal-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
+      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Heat network upgrades to lower bills for families and businesses",
+      "summary": "Lower bills for families, hospitals and charities through energy efficiency improvements to heat networks.",
+      "link": "https://www.gov.uk/government/news/heat-network-upgrades-to-lower-bills-for-families-and-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-19T23:01:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
+      "summary": "General trade licence related to prohibitions in Chapter 4LA of the Russia sanctions regulations on the maritime transportation of liquefied natural gas.",
+      "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T16:20:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: General Trade Licence for sanctioned processed oil products",
+      "summary": "The General Trade Licence for sanctioned processed oil products permits certain activities prohibited under the Russia (Sanctions) (EU Exit) Regulations 2019.",
+      "link": "https://www.gov.uk/government/publications/general-trade-licence-for-sanctioned-processed-oil-products",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T15:58:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Notice to Importers 2953: Russia import sanctions",
+      "summary": "Import prohibitions in force under the Russia Sanctions Regulations 2019, as amended. It should be read alongside the statutory guidance.",
+      "link": "https://www.gov.uk/government/publications/notice-to-importers-2953-russia-import-sanctions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T15:57:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Interministerial Group for Business and Industry: communiqués",
+      "summary": "Notes of the meetings held by the Interministerial Group for Business and Industry.",
+      "link": "https://www.gov.uk/government/publications/interministerial-group-for-business-and-industry-communiques",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-19T15:29:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Commercial Payments Bill: factsheets",
       "summary": "Further details on the measures included within the Commercial Payments Bill.",
@@ -173,7 +337,7 @@
       "summary": "The Secretary of State for Culture, Lisa Nandy and Minister for Economic Transformation, Blair McDougall, will today lead a delegation of 250+ strong business and cultural leaders to the US to drive economic growth at a major expo, Greater Together LA.",
       "link": "https://www.gov.uk/government/news/largest-ever-uk-business-delegation-to-the-us-launches-greater-together-los-angeles",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T20:04:34+00:00",
+      "published": "2026-05-18T20:04:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -211,18 +375,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--56",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T14:13:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: Bill discount scheme: administrator update",
       "summary": "Ofgem has been appointed as the scheme administrator for the bill discount scheme.",
       "link": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
@@ -231,18 +383,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Business Support Service: privacy notice",
-      "summary": "How the Department for Business and Trade (DBT) will use your personal data when you contact the Business Support Service, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/business-support-service-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-18T10:44:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Notice: Smart Secure Electricity Systems (SSES) tariff interoperability: code and licence modifications",
@@ -291,60 +431,6 @@
       ]
     },
     {
-      "title": "Research: Regulator dashboard",
-      "summary": "Information and key performance indicators (KPIs) from 16 UK regulators, published quarterly as part of the UK government’s Regulatory Action Plan.",
-      "link": "https://www.gov.uk/government/publications/regulator-dashboard",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-15T14:19:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Promotional material: Employment Rights Act 2025: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-15T12:42:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Department for Business and Trade College of Experts: registration of interest",
-      "summary": "The Department for Business and Trade (DBT) is establishing a new College of Experts (CoE) and is inviting external specialists to register their interest joining the network.",
-      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-college-of-experts-registration-of-interest",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-15T12:17:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Letting out a self-catering holiday home in England: rules and regulations",
-      "summary": "Regulations you need to follow when letting out a self-catering, short-term holiday home in England.",
-      "link": "https://www.gov.uk/guidance/letting-out-a-self-catering-holiday-home-in-england-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-15T11:17:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--108",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-15T10:47:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Local net zero: support for local authorities and communities",
       "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
       "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
@@ -360,18 +446,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T14:51:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Decision: North Falls Offshore Wind Farm: development consent order, Planning Act 2008",
       "summary": "Decision on an application for an offshore wind farm by North Falls Offshore Wind Farm Limited.",
       "link": "https://www.gov.uk/government/publications/north-falls-offshore-wind-farm-development-consent-order-planning-act-2008",
@@ -380,83 +454,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Energy code manager standard licence conditions: determination notice",
-      "summary": "The Secretary of State has determined the code manager standard licence conditions for the purposes of Sections 33(1) and 81(2) of the Utilities Act 2000.",
-      "link": "https://www.gov.uk/government/publications/energy-code-manager-standard-licence-conditions-determination-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T12:02:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Headline Release (quarterly data)",
-      "summary": "Headline Household Energy Efficiency statistics under the Energy Company Obligation (ECO) and the Green Deal Framework.",
-      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-headline-release-quarterly-data--25",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T11:05:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
-      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T10:58:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: April 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-14T10:48:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Make Work Pay: misuse of non-disclosure agreements (NDAs)",
-      "summary": "We are seeking views on proposals to prevent the misuse of non-disclosure agreements in cases of workplace harassment and discrimination.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-misuse-of-non-disclosure-agreements-ndas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T10:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Bill that could nationalise British Steel takes first step through Parliament",
-      "summary": "The Steel Industry (Nationalisation) Bill will take its first step through Parliament today with its First Reading.",
-      "link": "https://www.gov.uk/government/news/bill-that-could-nationalise-british-steel-takes-first-step-through-parliament",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T09:28:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-14T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

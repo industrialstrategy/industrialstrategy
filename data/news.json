@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T14:59:32.673341Z",
+  "generated_at": "2026-05-20T20:13:59.240323Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,76 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "UK and Gulf strike historic multi-billion-pound trade deal",
+      "summary": "Wages and GDP to see boost as UK and Gulf strike historic multi-billion-pound trade deal",
+      "link": "https://www.gov.uk/government/news/uk-and-gulf-strike-historic-multi-billion-pound-trade-deal",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T16:07:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: UK-Gulf Cooperation Council (GCC) trade deal: conclusion summary",
+      "summary": "The conclusion summary explains the provisions and chapters in the UK-Gulf Cooperation Council (GCC) trade deal.",
+      "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-gcc-trade-deal-conclusion-summary",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T16:00:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: UK-Gulf Cooperation Council Free Trade Agreement: technical note",
+      "summary": "This technical note sets out the Department for Business and Trade’s (DBT) preliminary estimates for the economic impact of the UK-GCC Free Trade Agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-free-trade-agreement-technical-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T16:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Top Benefits of the UK-Gulf Cooperation Council (GCC) FTA",
+      "summary": "Top Benefits of the UK-Gulf Cooperation Council (GCC) Free Trade Agreement",
+      "link": "https://www.gov.uk/government/news/top-benefits-of-the-uk-gulf-cooperation-council-gcc-fta",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T16:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
+      "summary": "Find the UK's preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020.",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T15:35:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T15:00:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Corporate report: Grenfell Tower Inquiry Government Progress Report: May 2026",
       "summary": "Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
@@ -287,26 +357,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Interministerial Group for Business and Industry: communiqués",
-      "summary": "Notes of the meetings held by the Interministerial Group for Business and Industry.",
-      "link": "https://www.gov.uk/government/publications/interministerial-group-for-business-and-industry-communiques",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T15:29:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Commercial Payments Bill: factsheets",
-      "summary": "Further details on the measures included within the Commercial Payments Bill.",
-      "link": "https://www.gov.uk/government/publications/commercial-payments-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T14:26:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Energy trends and prices: March - May 2027",
       "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
       "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-may-2027",
@@ -369,16 +419,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Fair Work Agency: enforcement policy statement",
-      "summary": "The regulatory tools and guiding structures utilised by the Fair Work Agency to enforce labour market legislation within its remit.",
-      "link": "https://www.gov.uk/government/publications/fair-work-agency-enforcement-policy-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T10:20:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
       "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
       "link": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
@@ -390,40 +430,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Hydrogen"
-      ]
-    },
-    {
-      "title": "Companies House sets out priorities for the business year",
-      "summary": "The agency’s business plan 2026 to 2027 marks a key step in its transformation, strengthening its position as a trusted guardian of corporate data.",
-      "link": "https://www.gov.uk/government/news/companies-house-sets-out-priorities-for-the-business-year",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T09:07:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade union statistics 2025",
-      "summary": "Provides information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-union-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T09:05:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Military end-use controls",
-      "summary": "When military end-use export controls apply and to which destinations.",
-      "link": "https://www.gov.uk/guidance/military-end-use-controls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T08:57:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {

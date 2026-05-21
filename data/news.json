@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:13:59.240323Z",
+  "generated_at": "2026-05-21T03:02:28.227651Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Greater Together LA begins",
+      "summary": "Greater Together LA has officially begun with opening speeches from Culture Secretary, Lisa Nandy, co-host Sir Lucian Grainge CBE, CEO of Universal Music Group, and Kate Taylor Tett, Director of the GREAT Campaign.",
+      "link": "https://www.gov.uk/government/news/greater-together-la-begins",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-20T20:17:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "UK and Gulf strike historic multi-billion-pound trade deal",
       "summary": "Wages and GDP to see boost as UK and Gulf strike historic multi-billion-pound trade deal",
@@ -345,16 +355,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Notice to Importers 2953: Russia import sanctions",
-      "summary": "Import prohibitions in force under the Russia Sanctions Regulations 2019, as amended. It should be read alongside the statutory guidance.",
-      "link": "https://www.gov.uk/government/publications/notice-to-importers-2953-russia-import-sanctions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T15:57:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Accredited official statistics: Energy trends and prices: March - May 2027",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:42:25.198231Z",
+  "generated_at": "2026-05-21T19:53:14.050496Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,142 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Advanced manufacturing expert evaluation panel: expression of interest",
+      "summary": "The Department for Business and Trade (DBT) seeks to appoint 5 to 8 members to establish the advanced manufacturing expert evaluation panel.",
+      "link": "https://www.gov.uk/government/publications/advanced-manufacturing-expert-evaluation-panel-expression-of-interest",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T15:55:12+00:00",
+      "matched": [
+        "manufacturing",
+        "advanced manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: Department for Business and Trade (DBT) prompt payment data October to December 2025",
+      "summary": "How long the Department for Business and Trade (DBT) took to pay invoices in the period October to December 2025.",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-dbt-prompt-payment-data-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T13:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, March 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T13:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Department for Business and Trade (DBT) prompt payment data January to March 2026",
+      "summary": "How long the Department for Business and Trade (DBT) took to pay invoices in the period January to March 2026.",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-dbt-prompt-payment-data-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T13:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, February 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T13:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Government steps in to back long-term resilience of UK’s chemicals and ceramics industries",
+      "summary": "The Government has announced new funding packages for the ceramics and chemicals sectors, worth £120 million and £350 million respectively.",
+      "link": "https://www.gov.uk/government/news/government-steps-in-to-back-long-term-resilience-of-uks-chemicals-and-ceramics-industries",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T11:51:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Solar on car parks and electric vehicle charging",
+      "summary": "We're seeking views on a proposal to mandate the installation of solar canopies on new outdoor car parks, subject to certain exemptions, as well as views around current planning policy relating to EV charging infrastructure.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-21T10:34:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Government response to Humble Address motion of 24 February 2026",
+      "summary": "In response to the Humble Address of 24 February 2026, this publication was laid in the House of Commons on Thursday 21 May 2026.",
+      "link": "https://www.gov.uk/government/publications/government-response-to-humble-address-motion-of-24-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T10:27:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on rainbow trout from Turkey",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on rainbow trout from Turkey.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-rainbow-trout-from-turkey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T10:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Music Export Growth Scheme (MEGS) privacy notice",
+      "summary": "This privacy notice confirms how the Department for Business and Trade (DBT) collects and uses personal data from applications submitted under the scheme.",
+      "link": "https://www.gov.uk/government/publications/music-export-growth-scheme-megs-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T09:40:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Top Benefits of the UK-Gulf Cooperation Council (GCC) FTA",
+      "summary": "Top Benefits of the UK-Gulf Cooperation Council (GCC) Free Trade Agreement",
+      "link": "https://www.gov.uk/government/news/top-benefits-of-the-uk-gulf-cooperation-council-gcc-fta",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T09:33:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "New offshore wind environmental protection powering homes",
+      "summary": "New reforms taking effect today will speed up offshore wind development while expanding targeted environmental compensation options to support nature recovery.",
+      "link": "https://www.gov.uk/government/news/new-offshore-wind-environmental-protection-powering-homes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-21T09:32:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Impact assessment and options assessment calculator",
       "summary": "Help for policy officials to calculate figures for impact assessments (IAs) and options assessments (OAs).",
@@ -85,23 +221,11 @@
       ]
     },
     {
-      "title": "Policy paper: UK-Gulf Cooperation Council (GCC) trade deal: conclusion summary",
-      "summary": "The conclusion summary explains the provisions and chapters in the UK-Gulf Cooperation Council (GCC) trade deal.",
-      "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-gcc-trade-deal-conclusion-summary",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T16:00:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: UK-Gulf Cooperation Council Free Trade Agreement: technical note",
       "summary": "This technical note sets out the Department for Business and Trade’s (DBT) preliminary estimates for the economic impact of the UK-GCC Free Trade Agreement.",
       "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-free-trade-agreement-technical-note",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T16:00:04+00:00",
+      "published": "2026-05-20T16:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -109,11 +233,11 @@
       ]
     },
     {
-      "title": "Top Benefits of the UK-Gulf Cooperation Council (GCC) FTA",
-      "summary": "Top Benefits of the UK-Gulf Cooperation Council (GCC) Free Trade Agreement",
-      "link": "https://www.gov.uk/government/news/top-benefits-of-the-uk-gulf-cooperation-council-gcc-fta",
+      "title": "Policy paper: UK-Gulf Cooperation Council (GCC) trade deal: conclusion summary",
+      "summary": "The conclusion summary explains the provisions and chapters in the UK-Gulf Cooperation Council (GCC) trade deal.",
+      "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-gcc-trade-deal-conclusion-summary",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T16:00:02+00:00",
+      "published": "2026-05-20T16:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -151,30 +275,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Apply for a licence to carry out sanctioned trade through OTSI",
-      "summary": "Check if you need a licence from the Office for Trade Sanctions Implementation (OTSI), and apply online.",
-      "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T14:05:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Look up considerations for trade licences under the Russia sanctions",
-      "summary": "As part of the statutory guidance, this guide lists licencing considerations for trade sanctions licences, and provides links to general licences available.",
-      "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-russia-sanctions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T12:06:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Official Statistics: Warm Homes: Local Grant statistics - August 2026",
@@ -247,16 +347,6 @@
       "ai_tags": []
     },
     {
-      "title": "Fixed sum appeals and Shortfall Evidence processes to launch for postmasters who suffered Horizon shortfalls",
-      "summary": "New appeals process to be set up for those who accepted fixed sum offers on the Horizon Shortfall Scheme.",
-      "link": "https://www.gov.uk/government/news/fixed-sum-appeals-and-shortfall-evidence-processes-to-launch-for-postmasters-who-suffered-horizon-shortfalls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T10:31:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Energy trends and prices: March - May 2026",
       "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
       "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-2026",
@@ -288,70 +378,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-25-may-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-20T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme: issues under review",
-      "summary": "Information about issues that the independent Senior Lawyer (ISL) is currently reviewing.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-issues-under-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Shortfall Evidence Process Guidance",
-      "summary": "Guidance on how the Horizon Shortfall Scheme (HSS) will process claims where there is no evidence of a shortfall.",
-      "link": "https://www.gov.uk/government/publications/shortfall-evidence-process-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Independent report: Independent Senior Lawyer's review of unevidenced shortfalls process",
-      "summary": "Review and recommendations on the approach taken by Post Office and the Department for Business and Trade (DBT) in handling cases where there is no evidence of a shortfall.",
-      "link": "https://www.gov.uk/government/publications/independent-senior-lawyers-review-of-unevidenced-shortfalls-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
-      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
-      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: HSS fixed sum offer permission to appeal process: tariff of reasonable legal costs",
-      "summary": "This guidance sets out the legal costs we will cover for the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-tariff-of-reasonable-legal-costs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
-      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
-      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -424,30 +450,6 @@
       "link": "https://www.gov.uk/government/publications/project-union-east-coast-section-35-direction-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-19T12:57:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Low Carbon Hydrogen Supply 2 competition: successful projects",
-      "summary": "The Low Carbon Hydrogen Supply Competition aimed to provide funding for projects that could help develop a wide range of innovative low-carbon hydrogen supply solutions.",
-      "link": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T09:55:32+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T08:30:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

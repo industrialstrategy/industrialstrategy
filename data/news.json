@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T03:02:28.227651Z",
+  "generated_at": "2026-05-21T09:42:25.198231Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Impact assessment and options assessment calculator",
+      "summary": "Help for policy officials to calculate figures for impact assessments (IAs) and options assessments (OAs).",
+      "link": "https://www.gov.uk/government/publications/impact-assessment-and-options-assessment-calculator",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T08:36:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T08:33:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-21T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Great British Insulation Scheme release: May 2026",
+      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-21T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Greater Together LA begins",
       "summary": "Greater Together LA has officially begun with opening speeches from Culture Secretary, Lisa Nandy, co-host Sir Lucian Grainge CBE, CEO of Universal Music Group, and Kate Taylor Tett, Director of the GREAT Campaign.",
@@ -313,16 +357,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
-      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Heat network upgrades to lower bills for families and businesses",
       "summary": "Lower bills for families, hospitals and charities through energy efficiency improvements to heat networks.",
       "link": "https://www.gov.uk/government/news/heat-network-upgrades-to-lower-bills-for-families-and-businesses",
@@ -331,30 +365,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
-      "summary": "General trade licence related to prohibitions in Chapter 4LA of the Russia sanctions regulations on the maritime transportation of liquefied natural gas.",
-      "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T16:20:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: General Trade Licence for sanctioned processed oil products",
-      "summary": "The General Trade Licence for sanctioned processed oil products permits certain activities prohibited under the Russia (Sanctions) (EU Exit) Regulations 2019.",
-      "link": "https://www.gov.uk/government/publications/general-trade-licence-for-sanctioned-processed-oil-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-19T15:58:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Accredited official statistics: Energy trends and prices: March - May 2027",
@@ -438,16 +448,6 @@
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-19T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-18T14:44:23+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

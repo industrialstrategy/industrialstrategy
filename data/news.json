@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T14:36:05.817659Z",
+  "generated_at": "2026-05-22T19:43:59.490386Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Nuclear Third Party Liability for Advanced Nuclear Technologies",
+      "summary": "We're calling for evidence on approaches for applying Nuclear Third Party Liability arrangements to Small and Advanced Modular Reactors.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/nuclear-third-party-liability-for-advanced-nuclear-technologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-22T14:51:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -443,16 +455,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-25-may-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-20T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Heat network upgrades to lower bills for families and businesses",
-      "summary": "Lower bills for families, hospitals and charities through energy efficiency improvements to heat networks.",
-      "link": "https://www.gov.uk/government/news/heat-network-upgrades-to-lower-bills-for-families-and-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T23:01:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T03:00:20.123400Z",
+  "generated_at": "2026-05-22T14:36:05.817659Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,71 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-22T12:08:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Home Discount report: 2025/26",
+      "summary": "The report includes data on the number and type of households receiving an energy rebate through the Warm Home Discount scheme in scheme year 15, 2025/26. These statistics also estimate the total value of energy rebates issued.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-home-discount-report-202526",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-22T09:41:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Contact the Fair Work Agency",
+      "summary": "How to contact the Fair Work Agency (FWA)",
+      "link": "https://www.gov.uk/guidance/contact-the-fair-work-agency",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-22T09:37:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Smart Secure Electricity Systems (SSES) enduring governance: governance framework",
+      "summary": "A direction to the Balancing and Settlement Code (BSC) Panel to incorporate the 'SSES Governance Framework'.",
+      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-enduring-governance-governance-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-22T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Heat Pump Ready Programme Round 2: innovation funding competition",
+      "summary": "Apply to the Heat Pump Ready Programme Round 2 innovation funding competition.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-22T08:11:09+00:00",
+      "matched": [
+        "innovation funding"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Notice: CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "summary": "Apply to the NPT Pathfinder selection process for non-pipeline transport CCUS projects seeking ECC Teesside network connection by 2032.",
+      "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-22T08:10:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Advanced manufacturing expert evaluation panel: expression of interest",
       "summary": "The Department for Business and Trade (DBT) seeks to appoint 5 to 8 members to establish the advanced manufacturing expert evaluation panel.",
@@ -199,6 +264,16 @@
       "ai_tags": []
     },
     {
+      "title": "Decision: Sunnica Energy Farm: non-material change, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for a non-material change regarding the construction and operation of cabling at the Burwell National Grid Substation.",
+      "link": "https://www.gov.uk/government/publications/sunnica-energy-farm-non-material-change-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-20T23:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Greater Together LA begins",
       "summary": "Greater Together LA has officially begun with opening speeches from Culture Secretary, Lisa Nandy, co-host Sir Lucian Grainge CBE, CEO of Universal Music Group, and Kate Taylor Tett, Director of the GREAT Campaign.",
       "link": "https://www.gov.uk/government/news/greater-together-la-begins",
@@ -262,16 +337,6 @@
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-20T15:00:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Grenfell Tower Inquiry Government Progress Report: May 2026",
-      "summary": "Report on the government’s progress in implementing the Grenfell Tower Inquiry Phase 2 recommendations.",
-      "link": "https://www.gov.uk/government/publications/grenfell-tower-inquiry-government-progress-report-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-20T14:06:34+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -388,68 +453,6 @@
       "link": "https://www.gov.uk/government/news/heat-network-upgrades-to-lower-bills-for-families-and-businesses",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-19T23:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: March - May 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T14:06:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 24 May 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-24-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T14:04:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 17 May 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-17-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T14:03:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 10 May 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-10-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T14:02:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 3 May 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-3-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T14:01:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Project Union: East Coast - section 35 direction, Planning Act 2008",
-      "summary": "Direction by the Secretary of State on the Project Union: East Coast.",
-      "link": "https://www.gov.uk/government/publications/project-union-east-coast-section-35-direction-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-19T12:57:43+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

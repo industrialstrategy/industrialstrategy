@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T10:02:52.518694Z",
+  "generated_at": "2026-05-25T19:28:42.506517Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,16 @@
   "count": 40,
   "items": [
     {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-25T15:10:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Nuclear Third Party Liability for Advanced Nuclear Technologies",
       "summary": "We're calling for evidence on approaches for applying Nuclear Third Party Liability arrangements to Small and Advanced Modular Reactors.",
       "link": "https://www.gov.uk/government/calls-for-evidence/nuclear-third-party-liability-for-advanced-nuclear-technologies",
@@ -29,16 +39,6 @@
       "ai_tags": [
         "Nuclear"
       ]
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-22T12:08:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Official Statistics: Warm Home Discount report: 2025/26",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T09:51:44.700530Z",
+  "generated_at": "2026-05-26T15:27:27.800072Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Data quality of life cycle assessments of steel, cement and concrete products",
+      "summary": "This research project aimed to increase understanding of the data used to calculate embodied emissions of construction products.",
+      "link": "https://www.gov.uk/government/publications/data-quality-of-life-cycle-assessments-of-steel-cement-and-concrete-products",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-26T11:26:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: 2026 post-implementation review of the SECR regulations 2018",
       "summary": "This research examines how effective the Streamlined Energy and Carbon Reporting (SECR) regulations have been in increasing transparency on organisational energy use and emissions.",
@@ -95,7 +105,7 @@
       "summary": "A direction to the Balancing and Settlement Code (BSC) Panel to incorporate the 'SSES Governance Framework'.",
       "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-enduring-governance-governance-framework",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-22T08:30:03+00:00",
+      "published": "2026-05-22T08:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -439,16 +449,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-20T11:50:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
-      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
-      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-20T11:00:56+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

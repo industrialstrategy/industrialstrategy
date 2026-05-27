@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T15:35:09.084522Z",
+  "generated_at": "2026-05-27T20:14:06.468154Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,16 @@
   "count": 40,
   "items": [
     {
+      "title": "Accredited official statistics: Road fuel prices: 1 June 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-1-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-27T15:39:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Notice: CCUS East Coast Cluster: NPT Pathfinder selection process",
       "summary": "Apply to the NPT Pathfinder selection process for non-pipeline transport CCUS projects seeking ECC Teesside network connection by 2032.",
       "link": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
@@ -33,7 +43,7 @@
       "summary": "We are seeking views on the tariff suspensions of agricultural goods, fertilisers, and kerosene to help mitigate the consumer impact of the conflict in the Middle East.",
       "link": "https://www.gov.uk/government/consultations/call-for-input-on-goods-for-cost-of-living-tariff-suspensions",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-27T11:00:04+00:00",
+      "published": "2026-05-27T11:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -384,16 +394,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Official Statistics: Great British Insulation Scheme release: May 2026",
-      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-21T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Greater Together LA begins",

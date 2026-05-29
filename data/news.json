@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:50:21.308518Z",
+  "generated_at": "2026-05-29T14:59:41.279755Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: UKAEA Group Policy Manual",
+      "summary": "This manual contains all UK Atomic Energy Authority policies and is part of the framework we use to work towards our mission.",
+      "link": "https://www.gov.uk/government/publications/ukaea-policy-manual",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-29T14:07:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Food packaging businesses exempt from a gangmaster’s licence",
+      "summary": "Businesses that do not need a gangmaster’s licence when providing a food packaging service.",
+      "link": "https://www.gov.uk/government/publications/food-packaging-businesses-exempt-from-a-gangmasters-licence",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-29T10:23:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
+      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
+      "link": "https://www.gov.uk/government/statistics/announcements/dbt-inward-investment-results-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-29T10:12:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Notice: Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
       "summary": "GGSS quarterly year-ahead expenditure forecast and degression threshold comparison, and, when applicable, notification of tariff changes.",
@@ -282,18 +314,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
-      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
-      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T08:30:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Official Statistics: Trade union statistics 2025",
       "summary": "Information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
       "link": "https://www.gov.uk/government/statistics/trade-union-statistics-2025",
@@ -434,26 +454,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, February 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-21T13:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government steps in to back long-term resilience of UK’s chemicals and ceramics industries",
-      "summary": "The Government has announced new funding packages for the ceramics and chemicals sectors, worth £120 million and £350 million respectively.",
-      "link": "https://www.gov.uk/government/news/government-steps-in-to-back-long-term-resilience-of-uks-chemicals-and-ceramics-industries",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-21T11:51:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

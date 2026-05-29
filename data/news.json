@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:56:06.526904Z",
+  "generated_at": "2026-05-29T09:50:21.308518Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
+      "summary": "GGSS quarterly year-ahead expenditure forecast and degression threshold comparison, and, when applicable, notification of tariff changes.",
+      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-05-29T09:00:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Help to Grow: Management course enrolments and participant completions",
+      "summary": "Statistics on the uptake of the Help to Grow: Management programme, course enrolments and participant completions.",
+      "link": "https://www.gov.uk/government/publications/help-to-grow-management-course-enrolments-and-participant-completions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-05-29T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Heat Pump Ready Programme: successful projects",
       "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
@@ -274,18 +294,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T08:30:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Official Statistics: Trade union statistics 2025",
       "summary": "Information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
       "link": "https://www.gov.uk/government/statistics/trade-union-statistics-2025",
@@ -443,16 +451,6 @@
       "link": "https://www.gov.uk/government/news/government-steps-in-to-back-long-term-resilience-of-uks-chemicals-and-ceramics-industries",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-21T11:51:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Government response to Humble Address motion of 24 February 2026",
-      "summary": "In response to the Humble Address of 24 February 2026, this publication was laid in the House of Commons on Thursday 21 May 2026.",
-      "link": "https://www.gov.uk/government/publications/government-response-to-humble-address-motion-of-24-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-21T10:27:24+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

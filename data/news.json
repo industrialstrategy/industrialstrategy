@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:29:03.283294Z",
+  "generated_at": "2026-06-01T17:36:51.312437Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-01T14:11:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Import goods into the UK: step by step",
+      "summary": "How to bring goods into the UK from any country, including how much tax and duty you’ll need to pay and whether you need to get a licence or certificate.",
+      "link": "https://www.gov.uk/import-goods-into-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-01T11:35:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Get Funded - Understand finance and build investment readiness",
+      "summary": "Get Funded is a fully funded programme designed to help SMEs in York & North Yorkshire understand their funding options, strengthen financial planning, and prepare compelling applications that win investment.",
+      "link": "https://www.gov.uk/business-finance-support/get-funded-understand-finance-and-build-investment-readiness",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-01T11:21:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: allocation framework",
       "summary": "The Contract Allocation Framework sets out the rules for Contracts for Difference (CfD) Allocation Round 8 (AR8) and the eligibility requirements applicants must satisfy.",
@@ -315,16 +345,6 @@
       "ai_tags": []
     },
     {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T08:30:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade union statistics 2025",
       "summary": "Information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
       "link": "https://www.gov.uk/government/statistics/trade-union-statistics-2025",
@@ -431,28 +451,6 @@
         "Manufacturing",
         "Trade"
       ]
-    },
-    {
-      "title": "Transparency data: Department for Business and Trade (DBT) prompt payment data October to December 2025",
-      "summary": "How long the Department for Business and Trade (DBT) took to pay invoices in the period October to December 2025.",
-      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-dbt-prompt-payment-data-october-to-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-21T13:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, March 2026",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-21T13:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

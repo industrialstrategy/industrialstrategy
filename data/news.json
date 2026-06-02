@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T03:41:05.822020Z",
+  "generated_at": "2026-06-02T10:22:00.524424Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,60 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Energy security, jobs and investment boost through climate action",
+      "summary": "Families and businesses will continue to reap the benefits of the clean energy transition in the coming decades.",
+      "link": "https://www.gov.uk/government/news/energy-security-jobs-and-investment-boost-through-climate-action",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-02T10:04:25+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES)",
+      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
+      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-02T09:01:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-02T08:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: ending one-sided flexibility – reforms of zero hours and similar contracts",
+      "summary": "We are seeking views on reforms relating to zero hours and similar contracts, to implement measures in the Employment Rights Act 2025 to end one-sided flexibility.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-ending-one-sided-flexibility-reforms-of-zero-hours-and-similar-contracts",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-02T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Red Diesel Replacement competition: successful projects",
+      "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
+      "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-02T08:05:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -301,50 +355,6 @@
       ]
     },
     {
-      "title": "Flexibility in electrolytic hydrogen production and use",
-      "summary": "We're seeking views on the technical and commercial aspects of electrolyser flexibility.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/flexibility-in-electrolytic-hydrogen-production-and-use",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T09:00:02+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - May 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T08:30:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - May 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T08:30:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: MCS certified domestic battery installation statistics",
-      "summary": "Data monitoring the installation of domestic batteries recorded on the Microgeneration Certification Scheme (MCS), including capacity and cost statistics.",
-      "link": "https://www.gov.uk/government/statistics/mcs-certified-domestic-battery-installation-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T08:30:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade union statistics 2025",
       "summary": "Information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
       "link": "https://www.gov.uk/government/statistics/trade-union-statistics-2025",
@@ -435,22 +445,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Advanced manufacturing expert evaluation panel: expression of interest",
-      "summary": "The Department for Business and Trade (DBT) seeks to appoint 5 to 8 members to establish the advanced manufacturing expert evaluation panel.",
-      "link": "https://www.gov.uk/government/publications/advanced-manufacturing-expert-evaluation-panel-expression-of-interest",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-21T15:55:12+00:00",
-      "matched": [
-        "manufacturing",
-        "advanced manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing",
-        "Trade"
-      ]
     }
   ]
 }

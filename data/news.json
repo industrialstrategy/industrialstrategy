@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:22:00.524424Z",
+  "generated_at": "2026-06-02T16:19:58.865759Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: UK's steel trade measure from 1 July 2026",
+      "summary": "Details about a new steel trade measure from 1 July 2026, which will limit tariff-free steel import quota volumes.",
+      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-02T15:35:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "End of exploitative zero hours contracts to give people security and predictability at work",
+      "summary": "Changes to end one-sided flexibility and uncertainty for workers through ban on exploitative zero hours contracts set out in consultation.",
+      "link": "https://www.gov.uk/government/news/end-of-exploitative-zero-hours-contracts-to-give-people-security-and-predictability-at-work",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-02T13:28:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Whistleblowing: list of prescribed people and bodies",
+      "summary": "List of prescribed people and bodies you can report malpractice to, other than your employer.",
+      "link": "https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-02T13:26:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Energy security, jobs and investment boost through climate action",
       "summary": "Families and businesses will continue to reap the benefits of the clean energy transition in the coming decades.",
@@ -412,36 +444,6 @@
       "link": "https://www.gov.uk/government/publications/growth-gateway-critical-minerals-in-south-africa-commodity-primers",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-28T07:38:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: ASEAN Economic Strategic Plan Review on Impact Realisation (ASPIRE)",
-      "summary": "A review of ASEAN’s last decade of economic integration and a practical roadmap for its next ten years, including a plan on how to deepen UK-ASEAN partnership.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-asean-economic-strategic-plan-review-on-impact-realisation-aspire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T07:32:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Call for input on goods for cost of living tariff suspensions",
-      "summary": "We are seeking views on the tariff suspensions of agricultural goods, fertilisers, and kerosene to help mitigate the consumer impact of the conflict in the Middle East.",
-      "link": "https://www.gov.uk/government/consultations/call-for-input-on-goods-for-cost-of-living-tariff-suspensions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-27T11:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Contact the Fair Work Agency",
-      "summary": "How to contact the Fair Work Agency (FWA)",
-      "link": "https://www.gov.uk/guidance/contact-the-fair-work-agency",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-22T09:37:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

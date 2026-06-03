@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:58:50.108673Z",
+  "generated_at": "2026-06-03T16:45:06.745320Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,49 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
+      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-03T13:38:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Universal theme park to be UK’s most popular tourist attraction",
+      "summary": "The Universal United Kingdom Resort, one of the largest ever investments in the UK tourism sector, will employ thousands and entertain millions of people.",
+      "link": "https://www.gov.uk/government/news/universal-theme-park-to-be-uks-most-popular-tourist-attraction",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-03T13:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-03T12:08:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-03T12:08:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Building materials and components statistics: May 2026",
       "summary": "Statistics and analysis on the construction sector for May 2026.",
@@ -365,16 +408,6 @@
       ]
     },
     {
-      "title": "Britain continues to break clean power records",
-      "summary": "Households across the UK continue to embrace solar power as the government accelerates its clean power mission.",
-      "link": "https://www.gov.uk/government/news/britain-continues-to-break-clean-power-records",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T09:41:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--110",
@@ -414,36 +447,6 @@
       "link": "https://www.gov.uk/government/publications/growth-gateway-resilient-together-aseans-path-forward-for-sustainable-and-competitive-global-value-chains",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-28T07:56:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: Critical minerals in South Africa – Primer on mining policies and regulatory framework",
-      "summary": "A high-level guide to South Africa’s mining policy and regulation that sets out the core laws and institutions, licensing and environmental requirements, and policy choices to attract investment in critical minerals.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-critical-minerals-in-south-africa-primer-on-mining-policies-and-regulatory-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T07:45:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: Critical minerals in South Africa – Primer on the mining sector",
-      "summary": "A 2-part accessible primer on South Africa’s mining sector that explains its economic importance, the end-to-end mine lifecycle and why responsible closure matters.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-critical-minerals-in-south-africa-primer-on-the-mining-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T07:43:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: Critical minerals in South Africa – Commodity primers",
-      "summary": "Practical primers on bulk minerals and base metals, precious metals and specialty metals in South Africa, that sets out market context, supply dynamics and investment signals.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-critical-minerals-in-south-africa-commodity-primers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T07:38:31+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

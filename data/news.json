@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:57:34.410999Z",
+  "generated_at": "2026-06-04T14:58:00.908012Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Heat pump deployment: March 2026",
+      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/announcements/heat-pump-deployment-march-2026--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T13:28:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Renewables obligation: certificates and generation - February 2026",
+      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
+      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T13:24:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 8 June 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-8-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T13:18:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Heat Training Grant 2025 Mid-scheme Review: heat pump installers",
+      "summary": "Findings from the Heat Training Grant 2025 Mid-scheme Review, based on a survey of people who completed heat pump installation training under the scheme.",
+      "link": "https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T13:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
     {
       "title": "New proposals to cut bills with community batteries",
       "summary": "Families and businesses could benefit from cheaper energy through the use of community batteries.",
@@ -338,42 +382,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Heat Pump Ready Programme: successful projects",
-      "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T15:00:03+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Innovation",
-        "Net zero"
-      ]
-    },
-    {
-      "title": "International domestic energy prices",
-      "summary": "DESNZ publishes comparisons of industrial energy prices by consumer size against other EU and G7 countries, using data from both Eurostat and the International Energy Agency (IEA).",
-      "link": "https://www.gov.uk/government/statistical-data-sets/international-domestic-energy-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T14:49:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
-      "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
-      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T14:27:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--2",
@@ -384,16 +392,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Research: Combined Heat and Power Quality Assurance (CHPQA) programme: review",
-      "summary": "Research to understand the benefits of the CHPQA programme in 2019.",
-      "link": "https://www.gov.uk/government/publications/combined-heat-and-power-quality-assurance-chpqa-programme-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T12:45:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Official Statistics: UK trade in numbers",

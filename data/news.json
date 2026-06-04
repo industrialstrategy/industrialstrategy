@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T14:58:00.908012Z",
+  "generated_at": "2026-06-04T20:07:05.713279Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DESNZ senior civil servant secondary paid employment, 2025 to 2026",
+      "summary": "Transparency information about senior civil servants in DESNZ regarding their secondary paid employment for April 2025 to March 2026.",
+      "link": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T16:09:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research reveals strong satisfaction among heat pump trainees",
+      "summary": "94% of installers surveyed were either very satisfied or satisfied with the training received through the government's Heat Training Grant, new research shows.",
+      "link": "https://www.gov.uk/government/news/research-reveals-strong-satisfaction-among-heat-pump-trainees",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T14:57:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
     {
       "title": "Official Statistics: Heat pump deployment: March 2026",
       "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
@@ -330,16 +352,6 @@
       ]
     },
     {
-      "title": "Guidance: UKAEA Group Policy Manual",
-      "summary": "This manual contains all UK Atomic Energy Authority policies and is part of the framework we use to work towards our mission.",
-      "link": "https://www.gov.uk/government/publications/ukaea-policy-manual",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-29T14:07:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Food packaging businesses exempt from a gangmaster’s licence",
       "summary": "Businesses that do not need a gangmaster’s licence when providing a food packaging service.",
       "link": "https://www.gov.uk/government/publications/food-packaging-businesses-exempt-from-a-gangmasters-licence",
@@ -360,16 +372,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
-      "summary": "GGSS quarterly year-ahead expenditure forecast and degression threshold comparison, and, when applicable, notification of tariff changes.",
-      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-29T09:00:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Transparency data: Help to Grow: Management course enrolments and participant completions",

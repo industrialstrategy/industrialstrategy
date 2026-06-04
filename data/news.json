@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T03:45:25.540121Z",
+  "generated_at": "2026-06-04T09:57:34.410999Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "New proposals to cut bills with community batteries",
+      "summary": "Families and businesses could benefit from cheaper energy through the use of community batteries.",
+      "link": "https://www.gov.uk/government/news/new-proposals-to-cut-bills-with-community-batteries",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T09:46:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Assessing the case for community batteries",
+      "summary": "We are seeking views on the case for community batteries in the UK.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/assessing-the-case-for-community-batteries",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-04T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK innovation survey 2025: report",
+      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024",
+      "link": "https://www.gov.uk/government/statistics/uk-innovation-survey-2025-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-04T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
       "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
@@ -218,18 +250,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: UK innovation survey 2025: report",
-      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-innovation-survey-2025-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-01T09:34:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
       "title": "Official Statistics: Social Housing Decarbonisation Fund: July 2026",
       "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
       "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-july-2026",
@@ -371,26 +391,6 @@
       "link": "https://www.gov.uk/government/publications/combined-heat-and-power-quality-assurance-chpqa-programme-review",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-05-28T12:45:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Growing the market for low carbon industrial products: policy framework",
-      "summary": "We're seeking views on policy options for growing the market for low carbon industrial products, including steel and concrete.",
-      "link": "https://www.gov.uk/government/consultations/growing-the-market-for-low-carbon-industrial-products-policy-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T11:07:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release May 2026",
-      "summary": "Household Energy Efficiency Statistics, headline release (May 2026).",
-      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-05-28T10:34:57+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

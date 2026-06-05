@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:07:05.713279Z",
+  "generated_at": "2026-06-05T09:45:46.485030Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: March 2026",
+      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at March 2026.",
+      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-05T08:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-05T08:00:02+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Guidance: Designated standards: PPE",
+      "summary": "Notices of publication and a consolidated list for designated standards for personal protective equipment (PPE).",
+      "link": "https://www.gov.uk/government/publications/designated-standards-ppe",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-04T23:05:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: machinery",
+      "summary": "Notices of publication and a consolidated list for designated standards for machinery.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-machinery",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-04T23:05:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DESNZ senior civil servant secondary paid employment, 2025 to 2026",
       "summary": "Transparency information about senior civil servants in DESNZ regarding their secondary paid employment for April 2025 to March 2026.",
@@ -340,18 +384,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: May 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T08:54:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Guidance: Food packaging businesses exempt from a gangmaster’s licence",
       "summary": "Businesses that do not need a gangmaster’s licence when providing a food packaging service.",
       "link": "https://www.gov.uk/government/publications/food-packaging-businesses-exempt-from-a-gangmasters-licence",
@@ -418,38 +450,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Official Statistics: Trade union statistics 2025",
-      "summary": "Information on trade union membership among employees in the UK estimated from the Labour Force Survey over the period 1995 to 2025.",
-      "link": "https://www.gov.uk/government/statistics/trade-union-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T08:30:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: Summary of stakeholder roundtables on unfair dismissal changes",
-      "summary": "Overview of feedback from stakeholders on the impacts of changes to unfair dismissal law under the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/summary-of-stakeholder-roundtables-on-unfair-dismissal-changes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Growth Gateway: Resilient together, ASEAN’s path forward for sustainable and competitive global value chains",
-      "summary": "A practical roadmap for ASEAN to build resilient, sustainable and competitive global value chains through focused collaboration, greener growth and faster delivery.",
-      "link": "https://www.gov.uk/government/publications/growth-gateway-resilient-together-aseans-path-forward-for-sustainable-and-competitive-global-value-chains",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T07:56:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

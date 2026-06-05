@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:45:46.485030Z",
+  "generated_at": "2026-06-05T19:53:24.909559Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,68 @@
   "count": 40,
   "items": [
     {
+      "title": "Research: Exploring Smart Data opportunities in the transport sector",
+      "summary": "Qualitative research results on transport Smart Data use cases in England.",
+      "link": "https://www.gov.uk/government/publications/exploring-smart-data-opportunities-in-the-transport-sector",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-05T15:57:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Companies agree to stronger workers’ rights in clean energy",
+      "summary": "Offshore wind supply chain companies and trade unions back the government’s Offshore Wind Fair Work Charter.",
+      "link": "https://www.gov.uk/government/news/companies-agree-to-stronger-workers-rights-in-clean-energy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-05T14:53:40+00:00",
+      "matched": [
+        "clean energy",
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy",
+        "Supply chains",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-05T13:42:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: March 2026",
       "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at March 2026.",
       "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-05T08:00:02+00:00",
+      "published": "2026-06-05T12:34:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Marco Amitrano appointed to the Professional and Business Services Council",
+      "summary": "Marco Amitrano has been appointed Business Co-Chair of the Professional and Business Services Council (PBSC).",
+      "link": "https://www.gov.uk/government/news/marco-amitrano-appointed-to-the-professional-and-business-services-council",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-05T11:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: workforce management information, April 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-05T11:10:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -133,7 +190,7 @@
       "summary": "Families and businesses could benefit from cheaper energy through the use of community batteries.",
       "link": "https://www.gov.uk/government/news/new-proposals-to-cut-bills-with-community-batteries",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T09:46:43+00:00",
+      "published": "2026-06-04T09:46:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -350,40 +407,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: standard terms and conditions",
-      "summary": "The Standard Terms and Conditions for use in CfD Allocation Round 8 (AR8).",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-standard-terms-and-conditions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T10:30:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: July 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T08:56:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T08:55:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Guidance: Food packaging businesses exempt from a gangmaster’s licence",
       "summary": "Businesses that do not need a gangmaster’s licence when providing a food packaging service.",
       "link": "https://www.gov.uk/government/publications/food-packaging-businesses-exempt-from-a-gangmasters-licence",
@@ -421,30 +444,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--2",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-05-28T13:14:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--58",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T10:10:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--110",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T09:33:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

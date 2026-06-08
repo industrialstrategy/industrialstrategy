@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T03:43:43.930020Z",
+  "generated_at": "2026-06-08T10:59:25.332436Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: UK-China Intellectual Property newsletter",
+      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
+      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-08T08:48:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Exploring Smart Data opportunities in the transport sector",
       "summary": "Qualitative research results on transport Smart Data use cases in England.",
@@ -437,18 +447,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-28T13:14:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

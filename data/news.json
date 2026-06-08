@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T10:59:25.332436Z",
+  "generated_at": "2026-06-08T15:46:17.222913Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-08T13:58:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Durham Business Growth",
+      "summary": "Durham Business Growth is a comprehensive Programme designed to elevate productivity and foster growth within businesses located in County Durham.",
+      "link": "https://www.gov.uk/business-finance-support/durham-business-growth",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-08T13:28:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK Special Representative for Climate: terms of reference",
+      "summary": "This document sets out the terms of reference for the role of UK Special Representative for Climate.",
+      "link": "https://www.gov.uk/government/publications/uk-special-representative-for-climate-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-08T13:01:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Draft National Policy Statement for fusion energy generation (EN-8)",
+      "summary": "We are seeking views on a new National Policy Statement that supports decisions for fusion energy infrastructure.",
+      "link": "https://www.gov.uk/government/consultations/draft-national-policy-statement-for-fusion-energy-generation-en-8",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-08T11:39:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: UK-China Intellectual Property newsletter",
       "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
@@ -367,16 +407,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T14:11:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Import goods into the UK: step by step",
       "summary": "How to bring goods into the UK from any country, including how much tax and duty you’ll need to pay and whether you need to get a licence or certificate.",
       "link": "https://www.gov.uk/import-goods-into-uk",
@@ -392,26 +422,6 @@
       "link": "https://www.gov.uk/business-finance-support/get-funded-understand-finance-and-build-investment-readiness",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-01T11:21:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: allocation framework",
-      "summary": "The Contract Allocation Framework sets out the rules for Contracts for Difference (CfD) Allocation Round 8 (AR8) and the eligibility requirements applicants must satisfy.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-allocation-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T10:31:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Proposed refinements for Allocation Round 8 and future rounds",
-      "summary": "We're seeking views on several refinements to ensure that the CfD continues to reflect current policy and that the scheme continues to function as originally intended.",
-      "link": "https://www.gov.uk/government/consultations/proposed-refinements-for-allocation-round-8-and-future-rounds",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-01T10:31:41+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -437,16 +447,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Transparency data: Help to Grow: Management course enrolments and participant completions",
-      "summary": "Statistics on the uptake of the Help to Grow: Management programme, course enrolments and participant completions.",
-      "link": "https://www.gov.uk/government/publications/help-to-grow-management-course-enrolments-and-participant-completions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-29T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:48:12.433232Z",
+  "generated_at": "2026-06-09T20:07:33.843246Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,39 @@
   "count": 40,
   "items": [
     {
+      "title": "Policy paper: Scale-Up Adviser: terms of reference",
+      "summary": "This document sets out the terms of reference for the role of Scale-Up Adviser.",
+      "link": "https://www.gov.uk/government/publications/scale-up-adviser-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T15:56:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Advanced Nuclear Technologies",
+      "summary": "Information about Advanced Nuclear Technologies, previously known as Small Modular Reactors.",
+      "link": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-09T15:33:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear",
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Research: Potential economic impact of future Smart Data use cases",
+      "summary": "Quantitative research assessing the potential social net present value and GDP impacts of 5 Smart Data use cases over a 15-year period.",
+      "link": "https://www.gov.uk/government/publications/potential-economic-impact-of-future-smart-data-use-cases",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T15:31:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Notice: Red Diesel Replacement competition: successful projects",
       "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
       "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
@@ -30,7 +63,7 @@
     },
     {
       "title": "UK and allies sanction networks enabling settler violence in the West Bank",
-      "summary": "Foreign Secretary Yvette Cooper announces coordinated sanctions with international partners targeting individuals and entities involved in financing and enabling settler violence in the occupied West Bank.",
+      "summary": "Foreign Secretary Yvette Cooper announces co-ordinated sanctions with international partners targeting individuals and entities involved in financing and enabling settler violence in the occupied West Bank.",
       "link": "https://www.gov.uk/government/news/uk-and-allies-sanction-networks-enabling-settler-violence-in-the-west-bank",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-09T11:33:00+00:00",
@@ -343,16 +376,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Designated standards: machinery",
-      "summary": "Notices of publication and a consolidated list for designated standards for machinery.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-machinery",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-04T23:05:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: West Import Resilience Project: Environmental determination",
       "summary": "Environmental determination on a new 9km section of gas pipeline between Wormington and Honeybourne and a new 2km section of gas pipeline in Churchover.",
       "link": "https://www.gov.uk/government/publications/west-import-resilience-project-environmental-determination",
@@ -427,30 +450,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Research: Heat Training Grant 2025 Mid-scheme Review: heat pump installers",
-      "summary": "Findings from the Heat Training Grant 2025 Mid-scheme Review, based on a survey of people who completed heat pump installation training under the scheme.",
-      "link": "https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T13:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK innovation survey 2025: report",
-      "summary": "This report presents the detailed findings of the 2025 UK innovation survey (UKIS 2025) covering the period 2022 to 2024",
-      "link": "https://www.gov.uk/government/statistics/uk-innovation-survey-2025-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-04T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:46:17.222913Z",
+  "generated_at": "2026-06-09T09:42:13.022317Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,98 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Small business regulatory taskforce",
+      "summary": "The small business taskforce is a joint government‑industry group to develop practical recommendations to reduce regulatory burdens on small and medium‑sized enterprises (SMEs) and micro-businesses.",
+      "link": "https://www.gov.uk/government/publications/small-business-regulatory-taskforce",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T09:17:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Preference Tier Graduation: Vanuatu",
+      "summary": "This notice sets out the preference tier graduation of Vanuatu in the UK’s Developing Countries Trading Scheme (DCTS).",
+      "link": "https://www.gov.uk/government/publications/preference-tier-graduation-vanuatu",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T08:51:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New concierge service and visa scheme unveiled to help Britain’s fastest-growing firms scale and attract talent",
+      "summary": "Concierge service for business launched as part of mission to bring about the UK's first trillion-dollar firm.",
+      "link": "https://www.gov.uk/government/news/new-concierge-service-and-visa-scheme-unveiled-to-help-britains-fastest-growing-firms-scale-and-attract-talent",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T08:46:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-09T08:30:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
+      "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier statistics 2025 to 2026",
+      "summary": "Headline figures on market access barriers reported and resolved for the financial year 2025 to 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-statistics-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T07:33:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier quarterly statistics: January to March 2026",
+      "summary": "This release covers statistics and analysis related to the Department for Business and Trade’s (DBT) activities to record and address market access barriers. It contains information on the number of market access barriers resolved in full and in part, with breakdowns by His Majesty’s Trade Commissioner (HMTC) region and trading partner. DBT defines barriers as the presence or absence of any legal, regulatory or administrative practice by another government or regulator that can impede a business exporting or investing overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-09T07:33:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Unpaid carers and parents of seriously ill children could get new rights under Government proposals",
+      "summary": "Government consults on new rights for unpaid carers and parents of seriously ill children, including whether paid leave could improve job opportunities.",
+      "link": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-08T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Standard Assessment Procedure",
+      "summary": "Overview of how a home's energy performance is calculated using the Standard Assessment Procedure (SAP).",
+      "link": "https://www.gov.uk/guidance/standard-assessment-procedure",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-08T16:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -53,7 +145,7 @@
       "summary": "We are seeking views on a new National Policy Statement that supports decisions for fusion energy infrastructure.",
       "link": "https://www.gov.uk/government/consultations/draft-national-policy-statement-for-fusion-energy-generation-en-8",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-08T11:39:45+00:00",
+      "published": "2026-06-08T11:39:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -214,16 +306,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Road fuel prices: 8 June 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-8-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T13:18:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: Heat Training Grant 2025 Mid-scheme Review: heat pump installers",
       "summary": "Findings from the Heat Training Grant 2025 Mid-scheme Review, based on a survey of people who completed heat pump installation training under the scheme.",
       "link": "https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
@@ -333,26 +415,6 @@
       ]
     },
     {
-      "title": "End of exploitative zero hours contracts to give people security and predictability at work",
-      "summary": "Changes to end one-sided flexibility and uncertainty for workers through ban on exploitative zero hours contracts set out in consultation.",
-      "link": "https://www.gov.uk/government/news/end-of-exploitative-zero-hours-contracts-to-give-people-security-and-predictability-at-work",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-02T13:28:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Whistleblowing: list of prescribed people and bodies",
-      "summary": "List of prescribed people and bodies you can report malpractice to, other than your employer.",
-      "link": "https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-02T13:26:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Energy security, jobs and investment boost through climate action",
       "summary": "Families and businesses will continue to reap the benefits of the clean energy transition in the coming decades.",
       "link": "https://www.gov.uk/government/news/energy-security-jobs-and-investment-boost-through-climate-action",
@@ -377,26 +439,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-02T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: ending one-sided flexibility – reforms of zero hours and similar contracts",
-      "summary": "We are seeking views on reforms relating to zero hours and similar contracts, to implement measures in the Employment Rights Act 2025 to end one-sided flexibility.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-ending-one-sided-flexibility-reforms-of-zero-hours-and-similar-contracts",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-02T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Red Diesel Replacement competition: successful projects",
       "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
       "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
@@ -405,48 +447,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Import goods into the UK: step by step",
-      "summary": "How to bring goods into the UK from any country, including how much tax and duty you’ll need to pay and whether you need to get a licence or certificate.",
-      "link": "https://www.gov.uk/import-goods-into-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-01T11:35:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Get Funded - Understand finance and build investment readiness",
-      "summary": "Get Funded is a fully funded programme designed to help SMEs in York & North Yorkshire understand their funding options, strengthen financial planning, and prepare compelling applications that win investment.",
-      "link": "https://www.gov.uk/business-finance-support/get-funded-understand-finance-and-build-investment-readiness",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-01T11:21:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Food packaging businesses exempt from a gangmaster’s licence",
-      "summary": "Businesses that do not need a gangmaster’s licence when providing a food packaging service.",
-      "link": "https://www.gov.uk/government/publications/food-packaging-businesses-exempt-from-a-gangmasters-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-29T10:23:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
-      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
-      "link": "https://www.gov.uk/government/statistics/announcements/dbt-inward-investment-results-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-05-29T10:12:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

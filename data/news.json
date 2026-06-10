@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:27:40.466060Z",
+  "generated_at": "2026-06-10T09:56:42.006512Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Parminder Kohli appointed Chief Executive Officer of OFI",
+      "summary": "The Business Secretary Peter Kyle has announced the appointment of Parminder Kohli as new Chief Executive Officer of the Office for Investment.",
+      "link": "https://www.gov.uk/government/news/parminder-kohli-appointed-chief-executive-officer-of-ofi",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-10T09:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED) report: summary of analysis 2026",
+      "summary": "Summary of analysis using the National Energy Efficiency Data-Framework using consumption data from 2005 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/national-energy-efficiency-data-framework-need-report-summary-of-analysis-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-10T06:57:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: Scale-Up Adviser: terms of reference",
       "summary": "This document sets out the terms of reference for the role of Scale-Up Adviser.",
@@ -366,16 +386,6 @@
       ]
     },
     {
-      "title": "Guidance: Designated standards: PPE",
-      "summary": "Notices of publication and a consolidated list for designated standards for personal protective equipment (PPE).",
-      "link": "https://www.gov.uk/government/publications/designated-standards-ppe",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-04T23:05:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: West Import Resilience Project: Environmental determination",
       "summary": "Environmental determination on a new 9km section of gas pipeline between Wormington and Honeybourne and a new 2km section of gas pipeline in Churchover.",
       "link": "https://www.gov.uk/government/publications/west-import-resilience-project-environmental-determination",
@@ -440,16 +450,6 @@
       "ai_tags": [
         "Heat pumps"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Renewables obligation: certificates and generation - February 2026",
-      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
-      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T13:24:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

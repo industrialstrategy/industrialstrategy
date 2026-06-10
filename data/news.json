@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:56:42.006512Z",
+  "generated_at": "2026-06-10T20:31:13.244735Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-10T16:15:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK-Gulf Cooperation Council (GCC) trade deal: conclusion summary",
+      "summary": "The conclusion summary explains the provisions and chapters in the UK-Gulf Cooperation Council (GCC) trade deal.",
+      "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-gcc-trade-deal-conclusion-summary",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-10T15:55:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Employment tribunal: penalty enforcement and naming scheme",
+      "summary": "Ask the Fair Work Agency  to take action if the respondent has not paid your employment tribunal award or Acas settlement.",
+      "link": "https://www.gov.uk/guidance/employment-tribunal-penalty-enforcement-and-naming-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-10T15:41:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Green Heat Network Fund (GHNF): guidance on how to apply",
+      "summary": "Capital grant support is available for the development of new and existing low-carbon heat networks. This page contains guidance and details of how to apply via Triple Point.",
+      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf-guidance-on-how-to-apply",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-10T11:29:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Green Heat Network Fund: privacy notice",
+      "summary": "How we will use your personal data when you apply to the Green Heat Network Fund.",
+      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-10T11:29:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Parminder Kohli appointed Chief Executive Officer of OFI",
       "summary": "The Business Secretary Peter Kyle has announced the appointment of Parminder Kohli as new Chief Executive Officer of the Office for Investment.",
@@ -342,26 +394,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: March 2026",
-      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at March 2026.",
-      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-05T12:34:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Marco Amitrano appointed to the Professional and Business Services Council",
-      "summary": "Marco Amitrano has been appointed Business Co-Chair of the Professional and Business Services Council (PBSC).",
-      "link": "https://www.gov.uk/government/news/marco-amitrano-appointed-to-the-professional-and-business-services-council",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-05T11:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ: workforce management information, April 2026",
       "summary": "Reports on departmental staff numbers and costs.",
       "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-april-2026",
@@ -416,40 +448,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ senior civil servant secondary paid employment, 2025 to 2026",
-      "summary": "Transparency information about senior civil servants in DESNZ regarding their secondary paid employment for April 2025 to March 2026.",
-      "link": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T16:09:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research reveals strong satisfaction among heat pump trainees",
-      "summary": "94% of installers surveyed were either very satisfied or satisfied with the training received through the government's Heat Training Grant, new research shows.",
-      "link": "https://www.gov.uk/government/news/research-reveals-strong-satisfaction-among-heat-pump-trainees",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T14:57:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Official Statistics: Heat pump deployment: March 2026",
-      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/heat-pump-deployment-march-2026--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T13:28:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:55:06.710536Z",
+  "generated_at": "2026-06-12T20:09:23.970097Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,43 @@
   "count": 40,
   "items": [
     {
-      "title": "Government welcomes hospitality and tourism sector plans to further strengthen its\nsafety standards to prevent violence against women and girls",
-      "summary": "At a meeting of leading figures from the UK’s hospitality, tourism and night-time economy sectors, ministers heard the industry’s plans to further bolster safety standards across the industry.",
-      "link": "https://www.gov.uk/government/news/government-welcomes-hospitality-and-tourism-sector-plans-to-further-strengthen-its--safety-standards-to-prevent-violence-against-women-and-girls",
+      "title": "Notice: General Trade Licence for sanctioned processed oil products",
+      "summary": "The General Trade Licence for sanctioned processed oil products permits certain activities prohibited under the Russia (Sanctions) (EU Exit) Regulations 2019.",
+      "link": "https://www.gov.uk/government/publications/general-trade-licence-for-sanctioned-processed-oil-products",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T14:09:20+00:00",
+      "published": "2026-06-12T17:59:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Notice to Importers 2953: Russia import sanctions",
+      "summary": "Import prohibitions in force under the Russia Sanctions Regulations 2019, as amended. It should be read alongside the statutory guidance.",
+      "link": "https://www.gov.uk/government/publications/notice-to-importers-2953-russia-import-sanctions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T17:59:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK to set end date for imports of Russian diesel and jet fuel via third countries",
+      "summary": "The Government has today confirmed the timeline for phasing in its ban on imports of refined oil derived from Russia, as part of the recently announced package of sanctions to further squeeze Putin’s war machine.",
+      "link": "https://www.gov.uk/government/news/uk-to-set-end-date-for-imports-of-russian-diesel-and-jet-fuel-via-third-countries",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T17:56:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-12T16:00:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -33,7 +65,27 @@
       "summary": "Weekly prices of unleaded petrol and diesel.",
       "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-15-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-12T13:16:32+00:00",
+      "published": "2026-06-12T15:11:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New champion to be appointed for Britain’s mutuals and co-operatives",
+      "summary": "Plans for a new champion for mutuals and co-ops have been unveiled in a speech by the Economic Secretary to the Treasury in Birmingham today.",
+      "link": "https://www.gov.uk/government/news/new-champion-to-be-appointed-for-britains-mutuals-and-co-operatives",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T15:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Government welcomes hospitality and tourism sector plans to further strengthen its\nsafety standards to prevent violence against women and girls",
+      "summary": "At a meeting of leading figures from the UK’s hospitality, tourism and night-time economy sectors, ministers heard the industry’s plans to further bolster safety standards across the industry.",
+      "link": "https://www.gov.uk/government/news/government-welcomes-hospitality-and-tourism-sector-plans-to-further-strengthen-its--safety-standards-to-prevent-violence-against-women-and-girls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T14:09:20+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -299,16 +351,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-10T16:15:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: UK-Gulf Cooperation Council (GCC) trade deal: conclusion summary",
       "summary": "The conclusion summary explains the provisions and chapters in the UK-Gulf Cooperation Council (GCC) trade deal.",
       "link": "https://www.gov.uk/government/publications/uk-gulf-cooperation-council-gcc-trade-deal-conclusion-summary",
@@ -384,55 +426,11 @@
       ]
     },
     {
-      "title": "Research: Potential economic impact of future Smart Data use cases",
-      "summary": "Quantitative research assessing the potential social net present value and GDP impacts of 5 Smart Data use cases over a 15-year period.",
-      "link": "https://www.gov.uk/government/publications/potential-economic-impact-of-future-smart-data-use-cases",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T15:31:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Red Diesel Replacement competition: successful projects",
       "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
       "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-09T13:03:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK and allies sanction networks enabling settler violence in the West Bank",
-      "summary": "Foreign Secretary Yvette Cooper announces co-ordinated sanctions with international partners targeting individuals and entities involved in financing and enabling settler violence in the occupied West Bank.",
-      "link": "https://www.gov.uk/government/news/uk-and-allies-sanction-networks-enabling-settler-violence-in-the-west-bank",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T11:33:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy",
-      "summary": "Strategy document setting out a new economic approach to backing the UK’s strengths, with ambitious plans for 8 high-growth sectors.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T11:31:28+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Guidance: Overseas business risk for Israel",
-      "summary": "The overseas business risk report provides information on security and political risks which UK businesses may face when operating in Israel.",
-      "link": "https://www.gov.uk/government/publications/overseas-business-risk-for-israel",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T11:04:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T03:41:58.278926Z",
+  "generated_at": "2026-06-12T14:55:06.710536Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,98 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Government welcomes hospitality and tourism sector plans to further strengthen its\nsafety standards to prevent violence against women and girls",
+      "summary": "At a meeting of leading figures from the UK’s hospitality, tourism and night-time economy sectors, ministers heard the industry’s plans to further bolster safety standards across the industry.",
+      "link": "https://www.gov.uk/government/news/government-welcomes-hospitality-and-tourism-sector-plans-to-further-strengthen-its--safety-standards-to-prevent-violence-against-women-and-girls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T14:09:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 15 June 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-15-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-12T13:16:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
+      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
+      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-12T12:30:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
+      "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T09:29:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Qualitative research with unpaid carers",
+      "summary": "The Department for Business and Trade (DBT) commissioned research to explore the early impacts of the Carer’s Leave Act 2023.",
+      "link": "https://www.gov.uk/government/publications/qualitative-research-with-unpaid-carers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T09:29:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-12T09:16:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Undergrounding transmission cables: study of costs of innovative methods",
+      "summary": "A study of innovative methods for undergrounding transmission cables with costs for two methods over distances of 20km and 50km.",
+      "link": "https://www.gov.uk/government/publications/undergrounding-transmission-cables-study-of-costs-of-innovative-methods",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-12T08:53:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Time off for public duties",
+      "summary": "We are seeking views on how the right to time off work for public duties operates in practice, and on proposed changes to the list of public duties eligible for time off under this legislation.",
+      "link": "https://www.gov.uk/government/consultations/time-off-for-public-duties",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-12T08:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Rapid evidence assessment: international electricity networks research best practice",
+      "summary": "Rapid evidence assessment of international best practice in electricity transmission infrastructure delivery.",
+      "link": "https://www.gov.uk/government/publications/rapid-evidence-assessment-international-electricity-networks-research-best-practice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-12T08:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Designated standards: equipment for explosive atmospheres",
       "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
@@ -65,7 +157,7 @@
       "summary": "Report setting out findings from the review of public duties in section 50 of the Employment Rights Act 1996.",
       "link": "https://www.gov.uk/government/publications/time-off-for-public-duties-review-report",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-11T14:27:15+00:00",
+      "published": "2026-06-11T14:27:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -336,108 +428,11 @@
       ]
     },
     {
-      "title": "Research: CCUS Innovation 2.0 competition: UK BECCS-MCFC - Next generation CCUS technology for net zero 2050",
-      "summary": "Key documents from the University of Sheffield’s Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 project.",
-      "link": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-uk-beccs-mcfc-next-generation-ccus-technology-for-net-zero-2050",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-09T11:08:03+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
-      "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
-      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-09T11:06:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Overseas business risk for Israel",
       "summary": "The overseas business risk report provides information on security and political risks which UK businesses may face when operating in Israel.",
       "link": "https://www.gov.uk/government/publications/overseas-business-risk-for-israel",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-09T11:04:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Overseas business risk for Palestine",
-      "summary": "The overseas business risk report provides information on key security and political risks which UK businesses may face when operating in Palestine.",
-      "link": "https://www.gov.uk/government/publications/overseas-business-risk-for-palestine",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T11:03:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notice: registration of imports of hot-rolled steel plates originating from South Korea",
-      "summary": "Trade remedies notice published by the Secretary of State for Business and Trade relating to the registration of imports of hot-rolled steel plates originating from South Korea.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-registration-of-imports-of-hot-rolled-steel-plates-originating-from-south-korea",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T11:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Small Business Regulatory Taskforce",
-      "summary": "The Small Business Taskforce is a joint government‑industry group to develop practical recommendations to reduce regulatory burdens on small and medium‑sized enterprises (SMEs) and micro-businesses.",
-      "link": "https://www.gov.uk/government/publications/small-business-regulatory-taskforce",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T09:17:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Preference Tier Graduation: Vanuatu",
-      "summary": "This notice sets out the preference tier graduation of Vanuatu in the UK’s Developing Countries Trading Scheme (DCTS).",
-      "link": "https://www.gov.uk/government/publications/preference-tier-graduation-vanuatu",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T08:51:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-09T08:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Standard Assessment Procedure",
-      "summary": "Overview of how a home's energy performance is calculated using the Standard Assessment Procedure (SAP).",
-      "link": "https://www.gov.uk/guidance/standard-assessment-procedure",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-08T16:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-08T13:58:15+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

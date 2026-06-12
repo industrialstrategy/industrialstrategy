@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T03:40:27.490430Z",
+  "generated_at": "2026-06-12T03:41:58.278926Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,194 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
+      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T23:05:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Joint Statement:  Secretary of State for Business and Trade of the United Kingdom and Minister for Trade and Investment of New Zealand",
+      "summary": "Ministers from the UK and New Zealand make joint statement on the New Zealand-United Kingdom Free Trade Agreement.",
+      "link": "https://www.gov.uk/government/news/joint-statement-secretary-of-state-for-business-and-trade-of-the-united-kingdom-and-minister-for-trade-and-investment-of-new-zealand",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T16:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: UK support to Ukraine: factsheet",
+      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
+      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T15:16:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Economic Crime and Corporate Transparency Act 2023: third progress report",
+      "summary": "A report on the past 12 months of implementation and operation of Parts 1 to 3 of the Economic Crime and Corporate Transparency Act 2023.",
+      "link": "https://www.gov.uk/government/publications/economic-crime-and-corporate-transparency-act-2023-third-progress-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T15:04:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Time off for public duties review report",
+      "summary": "Report setting out findings from the review of public duties in section 50 of the Employment Rights Act 1996.",
+      "link": "https://www.gov.uk/government/publications/time-off-for-public-duties-review-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T14:27:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Using home retrofit scheme data to manage fraud, error and non-compliance: privacy notice",
+      "summary": "How DESNZ will use your personal data collected through energy efficiency and low carbon schemes, and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/using-home-retrofit-scheme-data-to-manage-fraud-and-error-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T13:54:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Trafford Power Project: Screening decision, the Electricity Works (Environmental Impact Assessment) Regulations 2017",
+      "summary": "Screening decision by the Secretary of State for the Trafford Power Project, Carrington, Greater Manchester.",
+      "link": "https://www.gov.uk/government/publications/trafford-power-project-screening-decision-the-electricity-works-environmental-impact-assessment-regulations-2017",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T12:16:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Strengthening CO2 supply chain resilience: call for evidence",
+      "summary": "This call for evidence seeks views and data to inform development of measures to improve the resilience, security, and sustainability of the UK’s supply of food and medical grade CO2 for usage across important sectors.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/strengthening-co2-supply-chain-resilience-call-for-evidence",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T09:00:04+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Research: Greenhouse gas reporting: conversion factors 2026",
+      "summary": "These conversion factors enable users to calculate and report greenhouse gas emissions from their UK activities in 2026.",
+      "link": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier quarterly statistics: January to March 2026",
+      "summary": "Headline summary of market access barriers resolved during Quarter 4 (January to March) of the financial year ending 2026.",
+      "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Heat pump deployment statistics: March 2026",
+      "summary": "Statistical releases on heat pump installations in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED): impact of measures data tables 2026",
+      "summary": "Data tables for impact of measures analysis which assess the impact of installing home efficiency measures.",
+      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-impact-of-measures-data-tables-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "National Energy Efficiency Data-Framework (NEED) data explorer",
+      "summary": "The data explorer allows users to investigate energy consumption comparisons by different property and household characteristics.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/national-energy-efficiency-data-framework-need-data-explorer",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED) report: summary of analysis 2026",
+      "summary": "Summary of analysis using the National Energy Efficiency Data-Framework using consumption data from 2005 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-report-summary-of-analysis-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: National Energy Efficiency Data-Framework (NEED): anonymised data 2026",
+      "summary": "Property level data including gas and electricity consumption from 2005 to 2024, property characteristics and energy efficiency measure installations.",
+      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-anonymised-data-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED): consumption data tables 2026",
+      "summary": "Data tables for household consumption data.",
+      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-consumption-data-tables-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-11T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier statistics 2025 to 2026",
+      "summary": "Headline figures on market access barriers reported and resolved for the financial year 2025 to 2026.",
+      "link": "https://www.gov.uk/government/statistics/market-access-barrier-statistics-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-11T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
@@ -76,16 +264,6 @@
       "link": "https://www.gov.uk/government/news/parminder-kohli-appointed-chief-executive-officer-of-ofi",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-10T09:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED) report: summary of analysis 2026",
-      "summary": "Summary of analysis using the National Energy Efficiency Data-Framework using consumption data from 2005 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/national-energy-efficiency-data-framework-need-report-summary-of-analysis-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-10T06:57:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -215,11 +393,11 @@
       ]
     },
     {
-      "title": "Guidance: Small business regulatory taskforce",
-      "summary": "The small business taskforce is a joint government‑industry group to develop practical recommendations to reduce regulatory burdens on small and medium‑sized enterprises (SMEs) and micro-businesses.",
+      "title": "Guidance: Small Business Regulatory Taskforce",
+      "summary": "The Small Business Taskforce is a joint government‑industry group to develop practical recommendations to reduce regulatory burdens on small and medium‑sized enterprises (SMEs) and micro-businesses.",
       "link": "https://www.gov.uk/government/publications/small-business-regulatory-taskforce",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T09:17:29+00:00",
+      "published": "2026-06-09T09:17:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -235,63 +413,11 @@
       "ai_tags": []
     },
     {
-      "title": "New concierge service and visa scheme unveiled to help Britain’s fastest-growing firms scale and attract talent",
-      "summary": "Concierge service for business launched as part of mission to bring about the UK's first trillion-dollar firm.",
-      "link": "https://www.gov.uk/government/news/new-concierge-service-and-visa-scheme-unveiled-to-help-britains-fastest-growing-firms-scale-and-attract-talent",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T08:46:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-09T08:30:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
-      "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier statistics 2025 to 2026",
-      "summary": "Headline figures on market access barriers reported and resolved for the financial year 2025 to 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-statistics-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T07:33:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: January to March 2026",
-      "summary": "This release covers statistics and analysis related to the Department for Business and Trade’s (DBT) activities to record and address market access barriers. It contains information on the number of market access barriers resolved in full and in part, with breakdowns by His Majesty’s Trade Commissioner (HMTC) region and trading partner. DBT defines barriers as the presence or absence of any legal, regulatory or administrative practice by another government or regulator that can impede a business exporting or investing overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-january-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-09T07:33:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Unpaid carers and parents of seriously ill children could get new rights under Government proposals",
-      "summary": "Government consults on new rights for unpaid carers and parents of seriously ill children, including whether paid leave could improve job opportunities.",
-      "link": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-08T23:01:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -312,139 +438,6 @@
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-08T13:58:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Durham Business Growth",
-      "summary": "Durham Business Growth is a comprehensive Programme designed to elevate productivity and foster growth within businesses located in County Durham.",
-      "link": "https://www.gov.uk/business-finance-support/durham-business-growth",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-08T13:28:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Special Representative for Climate: terms of reference",
-      "summary": "This document sets out the terms of reference for the role of UK Special Representative for Climate.",
-      "link": "https://www.gov.uk/government/publications/uk-special-representative-for-climate-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-08T13:01:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Draft National Policy Statement for fusion energy generation (EN-8)",
-      "summary": "We are seeking views on a new National Policy Statement that supports decisions for fusion energy infrastructure.",
-      "link": "https://www.gov.uk/government/consultations/draft-national-policy-statement-for-fusion-energy-generation-en-8",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-08T11:39:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK-China Intellectual Property newsletter",
-      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
-      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-08T08:48:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Exploring Smart Data opportunities in the transport sector",
-      "summary": "Qualitative research results on transport Smart Data use cases in England.",
-      "link": "https://www.gov.uk/government/publications/exploring-smart-data-opportunities-in-the-transport-sector",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-05T15:57:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Companies agree to stronger workers’ rights in clean energy",
-      "summary": "Offshore wind supply chain companies and trade unions back the government’s Offshore Wind Fair Work Charter.",
-      "link": "https://www.gov.uk/government/news/companies-agree-to-stronger-workers-rights-in-clean-energy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-05T14:53:40+00:00",
-      "matched": [
-        "clean energy",
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy",
-        "Supply chains",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-05T13:42:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: workforce management information, April 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-05T11:10:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-05T08:00:02+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Decision: West Import Resilience Project: Environmental determination",
-      "summary": "Environmental determination on a new 9km section of gas pipeline between Wormington and Honeybourne and a new 2km section of gas pipeline in Churchover.",
-      "link": "https://www.gov.uk/government/publications/west-import-resilience-project-environmental-determination",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T23:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Cory Decarbonisation Project: Correction of errors, Planning Act 2008",
-      "summary": "Decision by the Secretary of State to make corrections to the Cory Decarbonisation Project Order 2025.",
-      "link": "https://www.gov.uk/government/publications/cory-decarbonisation-project-correction-of-errors-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T23:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Decision: Morecambe Offshore Wind Farm Generation Assets: Correction of errors, Planning Act 2008",
-      "summary": "Decision by the Secretary of State to make corrections to the Morecambe Offshore Wind Farm Generation Assets Development Consent Order.",
-      "link": "https://www.gov.uk/government/publications/morecambe-offshore-wind-farm-generation-assets-correction-of-errors-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-04T23:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

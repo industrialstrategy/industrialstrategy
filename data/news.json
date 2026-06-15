@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T03:59:54.470014Z",
+  "generated_at": "2026-06-15T12:00:44.501164Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,158 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: MSOA estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Middle Super Output Area (MSOA) level estimates for the number of domestic properties without mains gas from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/msoa-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:59:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: LSOA estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Lower Super Output Area (LSOA) level estimates for the number of domestic properties without mains gas from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/lsoa-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:59:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Parliamentary constituency estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Parliamentary constituency level estimates for the number of domestic properties without mains gas from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/parliamentary-constituency-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:58:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Sub-national estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Estimates of the number of domestic properties not connected to the gas grid, at region and local authority levels from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:56:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Sub-national gas consumption in Northern Ireland: 2015-2025",
+      "summary": "Consumption of gas in Northern Ireland at local council level from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:55:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Sub-national electricity consumption in Northern Ireland: 2009-2025",
+      "summary": "Consumption of electricity in Northern Ireland at local council level from 2009 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:54:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Sub-national gas consumption at postcode level in 2025",
+      "summary": "Postcode level gas 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-postcode-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:51:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Sub-national gas consumption at LSOA, MSOA and IGZ level in 2025",
+      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level gas 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:50:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Sub-national gas consumption in 2025",
+      "summary": "Consumption of gas broken down by local authority in Great Britain in 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:49:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Sub-national electricity consumption at postcode level in 2025",
+      "summary": "Postcode level electricity 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-postcode-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:48:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Sub-national electricity consumption at LSOA, MSOA and IGZ level in 2025",
+      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level electricity 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:47:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Sub-national electricity consumption in 2025",
+      "summary": "Consumption of electricity broken down by local authority in Great Britain in 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:45:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, October to December 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:29:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Great British Insulation Scheme release: June 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Great British Insulation Scheme (GBIS).",
+      "link": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T10:01:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme: May 2026",
+      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-15T09:49:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
     {
       "title": "Transparency data: Birthday Honours 2026: Department for Business and Trade",
       "summary": "Recipients of the King’s Birthday Honours List 2026, sponsored by the Department for Business and Trade (DBT).",
@@ -165,16 +317,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Rapid evidence assessment: international electricity networks research best practice",
-      "summary": "Rapid evidence assessment of international best practice in electricity transmission infrastructure delivery.",
-      "link": "https://www.gov.uk/government/publications/rapid-evidence-assessment-international-electricity-networks-research-best-practice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-12T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Designated standards: equipment for explosive atmospheres",
       "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
       "link": "https://www.gov.uk/government/publications/designated-standards-atex",
@@ -227,26 +369,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Using home retrofit scheme data to manage fraud, error and non-compliance: privacy notice",
-      "summary": "How DESNZ will use your personal data collected through energy efficiency and low carbon schemes, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/using-home-retrofit-scheme-data-to-manage-fraud-and-error-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T13:54:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Trafford Power Project: Screening decision, the Electricity Works (Environmental Impact Assessment) Regulations 2017",
-      "summary": "Screening decision by the Secretary of State for the Trafford Power Project, Carrington, Greater Manchester.",
-      "link": "https://www.gov.uk/government/publications/trafford-power-project-screening-decision-the-electricity-works-environmental-impact-assessment-regulations-2017",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T12:16:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Strengthening CO2 supply chain resilience: call for evidence",
       "summary": "This call for evidence seeks views and data to inform development of measures to improve the resilience, security, and sustainability of the UK’s supply of food and medical grade CO2 for usage across important sectors.",
       "link": "https://www.gov.uk/government/calls-for-evidence/strengthening-co2-supply-chain-resilience-call-for-evidence",
@@ -261,93 +383,11 @@
       ]
     },
     {
-      "title": "Research: Greenhouse gas reporting: conversion factors 2026",
-      "summary": "These conversion factors enable users to calculate and report greenhouse gas emissions from their UK activities in 2026.",
-      "link": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Market access barrier quarterly statistics: January to March 2026",
       "summary": "Headline summary of market access barriers resolved during Quarter 4 (January to March) of the financial year ending 2026.",
       "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-january-to-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-11T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Heat pump deployment statistics: March 2026",
-      "summary": "Statistical releases on heat pump installations in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED): impact of measures data tables 2026",
-      "summary": "Data tables for impact of measures analysis which assess the impact of installing home efficiency measures.",
-      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-impact-of-measures-data-tables-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "National Energy Efficiency Data-Framework (NEED) data explorer",
-      "summary": "The data explorer allows users to investigate energy consumption comparisons by different property and household characteristics.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/national-energy-efficiency-data-framework-need-data-explorer",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED) report: summary of analysis 2026",
-      "summary": "Summary of analysis using the National Energy Efficiency Data-Framework using consumption data from 2005 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-report-summary-of-analysis-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: National Energy Efficiency Data-Framework (NEED): anonymised data 2026",
-      "summary": "Property level data including gas and electricity consumption from 2005 to 2024, property characteristics and energy efficiency measure installations.",
-      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-anonymised-data-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: National Energy Efficiency Data-Framework (NEED): consumption data tables 2026",
-      "summary": "Data tables for household consumption data.",
-      "link": "https://www.gov.uk/government/statistics/national-energy-efficiency-data-framework-need-consumption-data-tables-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-11T08:30:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -379,27 +419,7 @@
       "summary": "Ask the Fair Work Agency  to take action if the respondent has not paid your employment tribunal award or Acas settlement.",
       "link": "https://www.gov.uk/guidance/employment-tribunal-penalty-enforcement-and-naming-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-10T15:41:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Green Heat Network Fund (GHNF): guidance on how to apply",
-      "summary": "Capital grant support is available for the development of new and existing low-carbon heat networks. This page contains guidance and details of how to apply via Triple Point.",
-      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf-guidance-on-how-to-apply",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-10T11:29:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Green Heat Network Fund: privacy notice",
-      "summary": "How we will use your personal data when you apply to the Green Heat Network Fund.",
-      "link": "https://www.gov.uk/government/publications/green-heat-network-fund-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-10T11:29:37+00:00",
+      "published": "2026-06-10T15:41:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -410,29 +430,6 @@
       "link": "https://www.gov.uk/government/news/parminder-kohli-appointed-chief-executive-officer-of-ofi",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-10T09:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Advanced Nuclear Technologies",
-      "summary": "Information about Advanced Nuclear Technologies, previously known as Small Modular Reactors.",
-      "link": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-09T15:33:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear",
-        "SMRs"
-      ]
-    },
-    {
-      "title": "Notice: Red Diesel Replacement competition: successful projects",
-      "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
-      "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-09T13:03:43+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

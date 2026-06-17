@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:50:13.549604Z",
+  "generated_at": "2026-06-17T10:52:27.088939Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,77 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 22 June 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-22-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T10:23:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Home Discount report: 2025/26",
+      "summary": "The report includes data on the number and type of households receiving an energy rebate through the Warm Home Discount scheme in scheme year 15, 2025/26. These statistics also estimate the total value of energy rebates issued.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-home-discount-report-202526",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T10:18:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES)",
+      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
+      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T09:12:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Heat Pump Ready Programme Round 2: innovation funding competition",
+      "summary": "Apply to the Heat Pump Ready Programme Round 2 innovation funding competition.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T09:11:39+00:00",
+      "matched": [
+        "innovation funding"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Policy paper: Supply Chain Centre mission statement and action plan",
+      "summary": "Sets out the Supply Chain Centre's aims and a 14-point action plan to help secure critical inputs for the UK economy and support long-term business growth.",
+      "link": "https://www.gov.uk/government/publications/supply-chain-centre-mission-statement-and-action-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-17T09:00:39+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
+      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
+      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-17T08:43:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "More families to benefit from lower bills through plug-in panels",
       "summary": "Retailers join government plans to bring plug-in solar panels to UK homes, helping families  save money on bills.",
@@ -120,21 +191,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Heat Pump Ready Programme Round 2: innovation funding competition",
-      "summary": "Apply to the Heat Pump Ready Programme Round 2 innovation funding competition.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T14:33:42+00:00",
-      "matched": [
-        "innovation funding"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Innovation"
       ]
     },
     {
@@ -306,36 +362,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Sub-national gas consumption at postcode level in 2025",
-      "summary": "Postcode level gas 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-postcode-level-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:51:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Sub-national gas consumption at LSOA, MSOA and IGZ level in 2025",
-      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level gas 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-lsoa-msoa-and-igz-level-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:50:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Sub-national gas consumption in 2025",
-      "summary": "Consumption of gas broken down by local authority in Great Britain in 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:49:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Birthday Honours 2026: Department for Business and Trade",
       "summary": "Recipients of the King’s Birthday Honours List 2026, sponsored by the Department for Business and Trade (DBT).",
       "link": "https://www.gov.uk/government/publications/birthday-honours-2026-department-for-business-and-trade",
@@ -430,28 +456,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
-      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-11T23:05:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Joint Statement:  Secretary of State for Business and Trade of the United Kingdom and Minister for Trade and Investment of New Zealand",
-      "summary": "Ministers from the UK and New Zealand make joint statement on the New Zealand-United Kingdom Free Trade Agreement.",
-      "link": "https://www.gov.uk/government/news/joint-statement-secretary-of-state-for-business-and-trade-of-the-united-kingdom-and-minister-for-trade-and-investment-of-new-zealand",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-11T16:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

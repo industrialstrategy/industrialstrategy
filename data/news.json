@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T10:52:27.088939Z",
+  "generated_at": "2026-06-17T15:24:20.068818Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,82 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Promotional material: UK-India Trade Deal: Double Contributions Convention explainer",
+      "summary": "Information on the Double Contributions Convention that the UK and India have agreed.",
+      "link": "https://www.gov.uk/government/publications/uk-india-trade-deal-double-contributions-convention-explainer",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-17T14:21:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "The countdown begins: UK-India FTA enters into force on July 15th",
+      "summary": "Businesses to start preparations for historic UK-India trade deal worth £4.8bn to enter into force next month.",
+      "link": "https://www.gov.uk/government/news/the-countdown-begins-uk-india-fta-enters-into-force-on-july-15th",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-17T14:20:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Fairer, faster redress in the energy market",
+      "summary": "We are seeking views on strengthening the role and powers of the Energy Ombudsman in the retail energy market.",
+      "link": "https://www.gov.uk/government/consultations/fairer-faster-redress-in-the-energy-market",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T14:04:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Reforming Consumer Protection for Home Upgrade Schemes",
+      "summary": "We're seeking views on how the consumer protection system for home upgrades should be reformed to support delivery of the Warm Homes Plan.",
+      "link": "https://www.gov.uk/government/consultations/reforming-consumer-protection-for-home-upgrade-schemes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T14:01:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Greater protections to restore families' trust in home upgrades",
+      "summary": "Action to protect families in the energy market and hold the retrofit industry to account.",
+      "link": "https://www.gov.uk/government/news/greater-protections-to-restore-families-trust-in-home-upgrades",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-17T13:20:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Buying or selling  a business with a gangmaster’s licence",
+      "summary": "Check if you need to apply for a new gangmaster’s licence when you buy a business.",
+      "link": "https://www.gov.uk/government/publications/buying-or-selling-a-business-with-a-gangmasters-licence",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-17T12:50:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
+      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
+      "link": "https://www.gov.uk/government/statistics/announcements/dbt-inward-investment-results-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-17T11:58:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Accredited official statistics: Road fuel prices: 22 June 2026",
       "summary": "Weekly prices of unleaded petrol and diesel.",
@@ -332,36 +408,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Sub-national estimates of properties not connected to the gas network 2015-2025",
-      "summary": "Estimates of the number of domestic properties not connected to the gas grid, at region and local authority levels from 2015 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:56:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Sub-national gas consumption in Northern Ireland: 2015-2025",
-      "summary": "Consumption of gas in Northern Ireland at local council level from 2015 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:55:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Sub-national electricity consumption in Northern Ireland: 2009-2025",
-      "summary": "Consumption of electricity in Northern Ireland at local council level from 2009 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:54:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Birthday Honours 2026: Department for Business and Trade",
       "summary": "Recipients of the King’s Birthday Honours List 2026, sponsored by the Department for Business and Trade (DBT).",
       "link": "https://www.gov.uk/government/publications/birthday-honours-2026-department-for-business-and-trade",
@@ -411,48 +457,6 @@
       "link": "https://www.gov.uk/government/news/new-champion-to-be-appointed-for-britains-mutuals-and-co-operatives",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-12T15:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government welcomes hospitality and tourism sector plans to further strengthen its\nsafety standards to prevent violence against women and girls",
-      "summary": "At a meeting of leading figures from the UK’s hospitality, tourism and night-time economy sectors, ministers heard the industry’s plans to further bolster safety standards across the industry.",
-      "link": "https://www.gov.uk/government/news/government-welcomes-hospitality-and-tourism-sector-plans-to-further-strengthen-its--safety-standards-to-prevent-violence-against-women-and-girls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T14:09:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
-      "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T09:29:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Qualitative research with unpaid carers",
-      "summary": "The Department for Business and Trade (DBT) commissioned research to explore the early impacts of the Carer’s Leave Act 2023.",
-      "link": "https://www.gov.uk/government/publications/qualitative-research-with-unpaid-carers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T09:29:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Time off for public duties",
-      "summary": "We are seeking views on how the right to time off work for public duties operates in practice, and on proposed changes to the list of public duties eligible for time off under this legislation.",
-      "link": "https://www.gov.uk/government/consultations/time-off-for-public-duties",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T08:30:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

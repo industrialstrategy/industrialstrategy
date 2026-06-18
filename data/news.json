@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T15:03:01.747346Z",
+  "generated_at": "2026-06-18T20:31:03.897800Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: UK-New Zealand FTA joint public session: minutes, 16 March 2026",
+      "summary": "Summary minutes of the second joint public session between the UK and New Zealand, under the Environment and Labour chapters of their free trade agreement (FTA).",
+      "link": "https://www.gov.uk/government/publications/uk-new-zealand-fta-joint-public-session-minutes-16-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-18T19:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
       "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
@@ -99,7 +111,7 @@
       "summary": "Businesses to start preparations for historic UK-India trade deal worth £4.8bn to enter into force next month.",
       "link": "https://www.gov.uk/government/news/the-countdown-begins-uk-india-fta-enters-into-force-on-july-15th",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-17T14:20:03+00:00",
+      "published": "2026-06-17T14:20:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -450,18 +462,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Birthday Honours 2026: Department for Business and Trade",
-      "summary": "Recipients of the King’s Birthday Honours List 2026, sponsored by the Department for Business and Trade (DBT).",
-      "link": "https://www.gov.uk/government/publications/birthday-honours-2026-department-for-business-and-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T21:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

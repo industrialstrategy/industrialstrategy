@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:20:40.319621Z",
+  "generated_at": "2026-06-18T15:03:01.747346Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
+      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-18T14:38:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notices made under s32A of the Taxation (Cross-border Trade) Act 2018",
+      "summary": "Notices made which have the force of law under s32A of the Taxation (Cross-border Trade) Act 2018.",
+      "link": "https://www.gov.uk/government/publications/notices-made-under-s32a-of-the-taxation-cross-border-trade-act-2018",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-18T13:16:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
+      "summary": "Find the UK's preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020.",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-18T13:13:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Non-domestic Private Rented Sector minimum energy efficiency standards: EPC B implementation",
+      "summary": "We're seeking views on the government's proposed framework to improve implementation and enforcement of the EPC B target by 2030 for privately rented non-domestic buildings.",
+      "link": "https://www.gov.uk/government/consultations/non-domestic-private-rented-sector-minimum-energy-efficiency-standards-epc-b-implementation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-18T12:40:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Warm Home Discount statistics, 2025 to 2026",
       "summary": "Official statistics on the Warm Home Discount scheme, providing figures on the number of households receiving the Warm Home Discount.",
@@ -408,16 +452,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Parliamentary constituency estimates of properties not connected to the gas network 2015-2025",
-      "summary": "Parliamentary constituency level estimates for the number of domestic properties without mains gas from 2015 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/parliamentary-constituency-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T10:58:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Birthday Honours 2026: Department for Business and Trade",
       "summary": "Recipients of the King’s Birthday Honours List 2026, sponsored by the Department for Business and Trade (DBT).",
       "link": "https://www.gov.uk/government/publications/birthday-honours-2026-department-for-business-and-trade",
@@ -428,38 +462,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: General Trade Licence for sanctioned processed oil products",
-      "summary": "The General Trade Licence for sanctioned processed oil products permits certain activities prohibited under the Russia (Sanctions) (EU Exit) Regulations 2019.",
-      "link": "https://www.gov.uk/government/publications/general-trade-licence-for-sanctioned-processed-oil-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T17:59:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to Importers 2953: Russia import sanctions",
-      "summary": "Import prohibitions in force under the Russia Sanctions Regulations 2019, as amended. It should be read alongside the statutory guidance.",
-      "link": "https://www.gov.uk/government/publications/notice-to-importers-2953-russia-import-sanctions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T17:59:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK to set end date for imports of Russian diesel and jet fuel via third countries",
-      "summary": "The Government has today confirmed the timeline for phasing in its ban on imports of refined oil derived from Russia, as part of the recently announced package of sanctions to further squeeze Putin’s war machine.",
-      "link": "https://www.gov.uk/government/news/uk-to-set-end-date-for-imports-of-russian-diesel-and-jet-fuel-via-third-countries",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-12T17:56:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

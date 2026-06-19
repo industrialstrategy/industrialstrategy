@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:03:20.177253Z",
+  "generated_at": "2026-06-19T19:48:51.914380Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Ricardo Fund: one year on",
+      "summary": "The value and number of barriers resolved through the Ricardo Fund since its announcement in the Trade Strategy 2025.",
+      "link": "https://www.gov.uk/government/publications/ricardo-fund-one-year-on",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-19T15:50:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Transparency data: UK-New Zealand FTA Environment and Climate Change and Labour Subcommittees – joint minutes, 24 March 2026",
       "summary": "A summary of the discussions from the third UK-New Zealand Free Trade Agreement (FTA) Environment and Climate Change Subcommittee and second Labour Subcommittee including main points and recommendations.",
@@ -430,20 +442,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Government backing helps UK’s Rolls-Royce SMR win multibillion-pound Sweden nuclear export contract",
-      "summary": "Rolls-Royce SMR has been selected by the Swedish development company Videberg Kraft to build small modular reactors (SMRs) in Sweden, marking a major multibillion-pound export win for the UK and a breakthrough moment for British nuclear.",
-      "link": "https://www.gov.uk/government/news/government-backing-helps-uks-rolls-royce-smr-win-multibillion-pound-sweden-nuclear-export-contract",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-15T13:34:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear",
-        "SMRs",
         "Trade"
       ]
     },

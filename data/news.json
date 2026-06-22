@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:52:55.982622Z",
+  "generated_at": "2026-06-22T16:53:31.202151Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,90 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK – Mexico partnership on climate, energy and nature",
+      "summary": "A Memorandum of Understanding (MoU) between the UK and Mexico on climate, nature and energy collaboration.",
+      "link": "https://www.gov.uk/government/publications/uk-mexico-partnership-on-climate-energy-and-nature",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T16:05:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: draft code of practice on electronic and workplace balloting for statutory union ballots",
+      "summary": "We are consulting on a draft code of practice on electronic and workplace balloting for statutory trade union ballots.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-electronic-and-workplace-balloting-for-statutory-union-ballots",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-22T15:53:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK appoints Alastair Long as new HMTC for Africa",
+      "summary": "UK appoints Alastair Long as new HMTC for Africa",
+      "link": "https://www.gov.uk/government/news/uk-appoints-alastair-long-as-new-hmtc-for-africa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-22T15:33:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Conduct Regulations 2003: guidance for employment agencies and employment businesses",
+      "summary": "Guidance for employment agencies, employment businesses and the recruitment sector on the Conduct of Employment Agencies and Employment Businesses Regulations 2003.",
+      "link": "https://www.gov.uk/government/publications/conduct-regulations-2003-guidance-for-employment-agencies-and-employment-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-22T14:32:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information April 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-22T13:56:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T13:32:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA prompt payment return data from 2026 to 2027",
+      "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2026 to 2027.",
+      "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2026-to-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T13:32:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends: January to March 2026",
+      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the first calendar quarter of 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T13:27:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
       "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
@@ -313,18 +397,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
-      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
-      "link": "https://www.gov.uk/government/statistics/announcements/dbt-inward-investment-results-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-17T11:58:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Accredited official statistics: Road fuel prices: 22 June 2026",
       "summary": "Weekly prices of unleaded petrol and diesel.",
       "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-22-june-2026",
@@ -360,32 +432,6 @@
       ]
     },
     {
-      "title": "Policy paper: Supply Chain Centre mission statement and action plan",
-      "summary": "Sets out the Supply Chain Centre's aims and a 14-point action plan to help secure critical inputs for the UK economy and support long-term business growth.",
-      "link": "https://www.gov.uk/government/publications/supply-chain-centre-mission-statement-and-action-plan",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-17T09:00:39+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
-      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
-      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-17T08:43:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "More families to benefit from lower bills through plug-in panels",
       "summary": "Retailers join government plans to bring plug-in solar panels to UK homes, helping families  save money on bills.",
       "link": "https://www.gov.uk/government/news/more-families-to-benefit-from-lower-bills-through-plug-in-panels",
@@ -396,63 +442,11 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: How to apply for or renew a gangmaster's licence",
-      "summary": "How to apply for or renew a licence to provide or use workers in agriculture, horticulture, shellfish gathering, or processing and packaging of food or drink.",
-      "link": "https://www.gov.uk/government/publications/how-to-apply-for-or-renew-a-gangmasters-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-16T15:46:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Plug-in solar: Regulatory amendment and interim product specification",
       "summary": "We're seeking views on proposals to enable the safe and legal use of plug-in solar (plug-in microgeneration) products in the UK.",
       "link": "https://www.gov.uk/government/consultations/plug-in-solar",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-16T14:02:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Plug-in solar electrical safety study",
-      "summary": "Testing of representative plug-in solar systems to assess compatibility with UK domestic electrical installations.",
-      "link": "https://www.gov.uk/government/publications/plug-in-solar-electrical-safety-study",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-16T13:48:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Public Sector Decarbonisation Scheme: delivery data",
-      "summary": "This release contains data on Public Sector Decarbonisation Scheme (PSDS) phases 1 to 4, provided to DESNZ via Salix Finance.",
-      "link": "https://www.gov.uk/government/publications/public-sector-decarbonisation-scheme-delivery-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-16T12:33:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-16T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Westermost Rough Offshore Wind Farm: application for a safety zone, Energy Act 2004",
-      "summary": "Decision by the Secretary of State on application for a safety zone under the Energy Act 2004.",
-      "link": "https://www.gov.uk/government/publications/westermost-rough-offshore-wind-farm-application-for-a-safety-zone-energy-act-2004",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T15:50:45+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T03:56:18.816812Z",
+  "generated_at": "2026-06-22T11:52:55.982622Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
+      "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
+      "link": "https://www.gov.uk/government/publications/the-uks-accession-to-cptpp-for-small-and-medium-sized-enterprises-smes",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-22T10:52:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK and Malaysia launch negotiations on Digital Trade Agreement",
+      "summary": "The ambitious new agreement will remove barriers to digital trade and enable UK exporters to expand into high-tech markets.",
+      "link": "https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-22T10:18:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: workforce management information, May 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T09:41:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T09:30:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T09:29:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "UK to secure critical minerals boosting economic resilience and cutting reliance on imports",
       "summary": "Households and businesses are set to benefit from stronger, more secure supply chains as the UK invests £50 million in critical minerals projects.",
@@ -386,16 +438,6 @@
       ]
     },
     {
-      "title": "HSE - Health and Safety Executive",
-      "summary": "HSE is a national regulator and government department that supports employers, businesses and employees.",
-      "link": "https://www.gov.uk/business-finance-support/hse-health-and-safety-executive",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-16T08:52:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
@@ -414,52 +456,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Detailed guidance on who needs a gangmaster’s licence",
-      "summary": "A detailed explanation for labour providers and labour users on when a Fair Work Agency gangmaster's licence is needed.",
-      "link": "https://www.gov.uk/guidance/detailed-guidance-on-who-needs-a-gangmasters-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-15T15:09:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: April 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T14:30:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Headline Release (monthly data)",
-      "summary": "Headline Household Energy Efficiency statistics under the Energy Company Obligation (ECO) and the Green Deal Framework.",
-      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-headline-release-monthly-data--50",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T14:20:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government backing helps UK’s Rolls-Royce SMR win multibillion-pound Sweden nuclear export contract",
-      "summary": "Rolls-Royce SMR has been selected by the Swedish development company Videberg Kraft to build small modular reactors (SMRs) in Sweden, marking a major multibillion-pound export win for the UK and a breakthrough moment for British nuclear.",
-      "link": "https://www.gov.uk/government/news/government-backing-helps-uks-rolls-royce-smr-win-multibillion-pound-sweden-nuclear-export-contract",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-15T13:34:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear",
-        "SMRs",
-        "Trade"
-      ]
     }
   ]
 }

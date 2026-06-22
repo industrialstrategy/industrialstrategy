@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:53:31.202151Z",
+  "generated_at": "2026-06-22T20:47:55.350765Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: International Climate Finance Strategy 2026",
+      "summary": "This strategy sets out the priorities and outcomes for the UK's fourth international climate finance commitment.",
+      "link": "https://www.gov.uk/government/publications/international-climate-finance-strategy-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-22T16:49:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: UK – Mexico partnership on climate, energy and nature",
       "summary": "A Memorandum of Understanding (MoU) between the UK and Mexico on climate, nature and energy collaboration.",
@@ -437,16 +447,6 @@
       "link": "https://www.gov.uk/government/news/more-families-to-benefit-from-lower-bills-through-plug-in-panels",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-16T16:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Plug-in solar: Regulatory amendment and interim product specification",
-      "summary": "We're seeking views on proposals to enable the safe and legal use of plug-in solar (plug-in microgeneration) products in the UK.",
-      "link": "https://www.gov.uk/government/consultations/plug-in-solar",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-16T14:02:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

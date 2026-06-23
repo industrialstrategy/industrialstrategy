@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:36:30.463138Z",
+  "generated_at": "2026-06-23T14:45:06.385656Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,40 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-23T12:45:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Make Work Pay: draft code of practice on electronic and workplace balloting for statutory union ballots",
+      "summary": "We are consulting on a draft code of practice on electronic and workplace balloting for statutory trade union ballots.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-electronic-and-workplace-balloting-for-statutory-union-ballots",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-23T12:30:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Make Work Pay: protection from detriments for taking industrial action",
+      "summary": "We are seeking views on the types of detriments that employers should be prohibited from imposing on workers for taking industrial action.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-protection-from-detriments-for-taking-industrial-action",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-23T11:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: Global Clean Power Alliance: finance mission update (June 2026)",
       "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at London Climate Action Week 2026.",
@@ -181,18 +215,6 @@
       ]
     },
     {
-      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
-      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
-      "link": "https://www.gov.uk/government/statistics/dbt-inward-investment-results-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
@@ -201,6 +223,18 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
+      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
+      "link": "https://www.gov.uk/government/statistics/dbt-inward-investment-results-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-23T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
       "title": "Policy paper: International Climate Finance Strategy 2026",
@@ -221,18 +255,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: draft code of practice on electronic and workplace balloting for statutory union ballots",
-      "summary": "We are consulting on a draft code of practice on electronic and workplace balloting for statutory trade union ballots.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-electronic-and-workplace-balloting-for-statutory-union-ballots",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-22T15:53:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "UK appoints Alastair Long as new HMTC for Africa",
@@ -347,32 +369,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "UK to secure critical minerals boosting economic resilience and cutting reliance on imports",
-      "summary": "Households and businesses are set to benefit from stronger, more secure supply chains as the UK invests £50 million in critical minerals projects.",
-      "link": "https://www.gov.uk/government/news/uk-to-secure-critical-minerals-boosting-economic-resilience-and-cutting-reliance-on-imports",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-21T23:01:05+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Research: Ricardo Fund: one year on",
-      "summary": "The value and number of barriers resolved through the Ricardo Fund since its announcement in the Trade Strategy 2025.",
-      "link": "https://www.gov.uk/government/publications/ricardo-fund-one-year-on",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-19T15:50:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Policy paper: Assessment and rating of noise from wind turbines: guidance",

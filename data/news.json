@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:45:06.385656Z",
+  "generated_at": "2026-06-24T09:25:59.971761Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,74 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
+      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
+      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-24T08:23:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Guidance on the scope of FWA gangmasters licensing standard 7.1",
+      "summary": "Further explanation about licensing standard 7.1, which covers work finding services that licence holders cannot charge a worker for.",
+      "link": "https://www.gov.uk/government/publications/guidance-on-the-scope-of-fwa-gangmasters-licensing-standard-71",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-23T15:56:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Carbon budget and growth delivery plan",
+      "summary": "The Carbon Budget and Growth Delivery Plan sets out how the government meets its statutory carbon budgets and secure the benefits of this transition for people and businesses.",
+      "link": "https://www.gov.uk/government/publications/carbon-budget-and-growth-delivery-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-23T15:37:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK net zero transition: investment opportunities",
+      "summary": "This investor prospectus outlines where and how investors can support the UK’s net zero transition.",
+      "link": "https://www.gov.uk/government/publications/uk-net-zero-transition-investment-opportunities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-23T15:37:21+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Guidance: Carbon budget and growth delivery plan: Heat and buildings factsheet",
+      "summary": "The Carbon budget and growth delivery plan (CBGDP) investor factsheet sets out the opportunities for the heat and buildings sector as the UK transitions to clean energy.",
+      "link": "https://www.gov.uk/government/publications/carbon-budget-and-growth-delivery-plan-heat-and-buildings-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-23T15:37:17+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Guidance: Making a complaint to the Fair Work Agency about your recruitment agency",
+      "summary": "This guidance is provided to help agency workers who have raised or need to raise a complaint to FWA about their recruitment agency.",
+      "link": "https://www.gov.uk/government/publications/making-a-complaint-to-the-employment-agency-standards-inspectorate-eas-about-your-recruitment-agency",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-23T15:08:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
@@ -277,16 +345,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: DBT: workforce management information April 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-22T13:56:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: UKAEA prompt payment return data from 2025 to 2026",
       "summary": "Prompt payment return data for the UK Atomic Energy Authority, showing invoices paid within 5 and 30 days of receipt from 2025 to 2026.",
       "link": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
@@ -312,28 +370,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-january-to-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-22T13:27:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
-      "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
-      "link": "https://www.gov.uk/government/publications/the-uks-accession-to-cptpp-for-small-and-medium-sized-enterprises-smes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-22T10:52:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK and Malaysia launch negotiations on Digital Trade Agreement",
-      "summary": "The ambitious new agreement will remove barriers to digital trade and enable UK exporters to expand into high-tech markets.",
-      "link": "https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-22T10:18:11+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -416,36 +452,6 @@
       "link": "https://www.gov.uk/government/statistics/warm-home-discount-statistics-2025-to-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-18T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Fairer, faster redress in the energy market",
-      "summary": "We are seeking views on strengthening the role and powers of the Energy Ombudsman in the retail energy market.",
-      "link": "https://www.gov.uk/government/consultations/fairer-faster-redress-in-the-energy-market",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-17T14:04:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Reforming Consumer Protection for Home Upgrade Schemes",
-      "summary": "We're seeking views on how the consumer protection system for home upgrades should be reformed to support delivery of the Warm Homes Plan.",
-      "link": "https://www.gov.uk/government/consultations/reforming-consumer-protection-for-home-upgrade-schemes",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-17T14:01:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Greater protections to restore families' trust in home upgrades",
-      "summary": "Action to protect families in the energy market and hold the retrofit industry to account.",
-      "link": "https://www.gov.uk/government/news/greater-protections-to-restore-families-trust-in-home-upgrades",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-17T13:20:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

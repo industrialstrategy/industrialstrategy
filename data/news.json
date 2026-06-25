@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:29:18.873669Z",
+  "generated_at": "2026-06-25T02:58:54.471963Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "How to make a data protection complaint to the Department for Business and Trade",
+      "summary": "We are committed to handling your personal data in a way that is fair, transparent and in accordance with the law. If you are dissatisfied with how we have handled your data, this process outlines how you can make a complaint.",
+      "link": "https://www.gov.uk/guidance/how-to-make-a-data-protection-complaint-to-the-department-for-business-and-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-24T14:34:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Notice: Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
       "summary": "The Warm Homes Loan Scheme (WHLS) will unlock private lending and investment at scale for home retrofit.",
@@ -137,7 +149,7 @@
       "summary": "Further explanation about licensing standard 7.1, which covers work finding services that licence holders cannot charge a worker for.",
       "link": "https://www.gov.uk/government/publications/guidance-on-the-scope-of-fwa-gangmasters-licensing-standard-71",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T15:56:19+00:00",
+      "published": "2026-06-23T15:56:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -395,18 +407,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: DBT inward investment results 2025 to 2026",
-      "summary": "Department for Business and Trade (DBT) statistics showing results for inward investment projects which landed in the UK in the 2025 to 2026 financial year.",
-      "link": "https://www.gov.uk/government/statistics/dbt-inward-investment-results-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Policy paper: International Climate Finance Strategy 2026",

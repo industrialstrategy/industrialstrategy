@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T08:59:18.177757Z",
+  "generated_at": "2026-06-25T19:58:55.510718Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,51 +19,276 @@
   "count": 40,
   "items": [
     {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-june-2026",
+      "title": "Delivering the homes that Britain deserves",
+      "summary": "Speech by Minister for Energy Consumers, Martin McCluskey, at the Housing 2026 conference.",
+      "link": "https://www.gov.uk/government/speeches/delivering-the-homes-that-britain-deserves",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:10+00:00",
+      "published": "2026-06-25T16:31:33+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:10+00:00",
+      "title": "Accredited official statistics: Building materials and components statistics: June 2026",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-25T16:16:38+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: UK local authority and regional greenhouse gas emissions statistics, 2005 to 2024",
-      "summary": "UK local authority and regional estimates of greenhouse gas emissions.",
-      "link": "https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2024",
+      "title": "Policy paper: Australia-Canada-UK energy and climate cooperation: joint statement",
+      "summary": "A joint statement from Australia, Canada and the UK on energy and climate cooperation.",
+      "link": "https://www.gov.uk/government/publications/australia-canada-uk-energy-and-climate-cooperation-joint-statement",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:10+00:00",
+      "published": "2026-06-25T16:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Final UK greenhouse gas emissions statistics: 1990 to 2024",
-      "summary": "Final estimates of UK territorial greenhouse gas emissions.",
-      "link": "https://www.gov.uk/government/statistics/final-uk-greenhouse-gas-emissions-statistics-1990-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:09+00:00",
+      "title": "Decision: UK-Faroe Islands free trade agreement documents",
+      "summary": "Decisions, documents and meeting minutes from the UK-Faroe Islands free trade agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-faroe-islands-free-trade-agreement-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-25T15:18:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: DBT worldwide offices",
+      "summary": "Contact details for Department for Business and Trade (DBT) offices around the world and a list of our HM Trade Commissioners.",
+      "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-25T15:17:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information May 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-25T15:16:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: UK road transport fuel consumption at regional and local authority level, 2005 to 2024",
-      "summary": "Consumption statistics for fuels used in road transport in the UK at regional and local levels from 2005 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/uk-road-transport-fuel-consumption-at-regional-and-local-authority-level-2005-to-2024",
+      "title": "Transparency data: DESNZ register of board members’ interests, 2025 to 2026",
+      "summary": "A register of the private interests declared by DESNZ board members.",
+      "link": "https://www.gov.uk/government/publications/desnz-register-of-board-members-interests-2025-to-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:09+00:00",
+      "published": "2026-06-25T15:08:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: special advisers' gifts, hospitality and meetings, January to March 2026",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "link": "https://www.gov.uk/government/publications/desnz-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T15:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, January to March 2026",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T15:00:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: senior officials’ business expenses, hospitality, and meetings, January to March 2026",
+      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-senior-officials-business-expenses-hospitality-and-meetings-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-25T15:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, January 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T15:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, February 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T15:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: senior officials’ business expenses and hospitality, January to March 2026",
+      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-senior-officials-business-expenses-and-hospitality-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T15:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Liverpool City Region Flexible Growth Fund",
+      "summary": "Providing fee free, Interest subsidised loans up to £1m, this fund can provide up to 50% of eligible capital expenditure repayable over a maximum 5 year term.",
+      "link": "https://www.gov.uk/business-finance-support/liverpool-city-region-flexible-growth-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-25T14:55:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release June 2026",
+      "summary": "Household Energy Efficiency Statistics, headline release (June 2026).",
+      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T12:24:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Industry energy needs: refresh of modelling assumptions",
+      "summary": "A refresh of industry technology modelling assumptions used in COMIT, including decarbonisation technology and baseline technology costs.",
+      "link": "https://www.gov.uk/government/publications/industry-energy-needs-refresh-of-modelling-assumptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T12:16:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Cost Optimisation Model for Industrial Technologies (COMIT)",
+      "summary": "COMIT is a computer program that allows user to find the least cost pathway for meeting the energy needs of UK industry from now until 2050.",
+      "link": "https://www.gov.uk/guidance/cost-optimisation-model-for-industrial-technologies-comit",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T12:16:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends and prices: April - June 2026",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T10:33:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Solar PV deployment: May 2026",
+      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T10:27:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
+      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T10:05:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy trends: January to March 2027",
+      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the first calendar quarter of 2027.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-january-to-march-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T09:40:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy prices: January to March 2027",
+      "summary": "Energy prices to domestic and industrial consumers for all the major fuels, with international comparisons, for the first calendar quarter of 2027.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-january-to-march-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T09:38:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends and prices: April - June 2027",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-april-june-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T09:37:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: UK road transport fuel consumption at regional and local authority level, 2005 to 2025",
+      "summary": "Consumption statistics for fuels used in road transport at regional and local levels from 2005.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-road-transport-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T09:29:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Local authority greenhouse gas emissions: 2025 estimates",
+      "summary": "UK local authority and regional estimates of greenhouse gas emissions from 2005.",
+      "link": "https://www.gov.uk/government/statistics/announcements/local-authority-greenhouse-gas-emissions-2025-estimates",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T09:27:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 28 June 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-28-june-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-25T09:22:55+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -74,48 +299,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-april-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-25T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release June 2026",
-      "summary": "Household Energy Efficiency Statistics, headline release (June 2026).",
-      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme statistics: May 2026",
-      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
-      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Great British Insulation Scheme release: June 2026",
-      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/great-british-insulation-scheme-release-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T08:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -147,7 +330,7 @@
       "summary": "The Dual-Use Open General Export Licence (OGEL) covers an extensive list of dual-use items for a wider list of destinations, including South Korea, Chile, Singapore and Uruguay.",
       "link": "https://www.gov.uk/government/publications/notice-to-exporters-202614-announcing-the-dual-use-ogel",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-25T08:30:01+00:00",
+      "published": "2026-06-25T08:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -159,7 +342,7 @@
       "summary": "Licence permitting a wide range of dual-use listed items to a variety of destinations, including EU member states, the United States, and others.",
       "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-25T08:30:01+00:00",
+      "published": "2026-06-25T08:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -189,40 +372,6 @@
       ]
     },
     {
-      "title": "Notice: Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
-      "summary": "The Warm Homes Loan Scheme (WHLS) will unlock private lending and investment at scale for home retrofit.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-24T13:00:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government has secured £100 billion of clean energy investment",
-      "summary": "Energy Secretary announces that government has secured £100 billion of private clean energy investment.",
-      "link": "https://www.gov.uk/government/news/government-has-secured-100-billion-of-clean-energy-investment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-24T12:39:43+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 29 June 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-29-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-24T10:37:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Wales’s foreign investment win boosts economy and jobs market",
       "summary": "Statistics released today (23 June) show that Wales continues to successfully attract foreign investors.",
       "link": "https://www.gov.uk/government/news/waless-foreign-investment-win-boosts-economy-and-jobs-market",
@@ -238,16 +387,6 @@
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-24T10:02:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "More oil and gas workers to be supported into jobs",
-      "summary": "More oil and gas workers across Scotland will be offered tailored skills support to seize high-quality jobs in energy and other growth sectors.",
-      "link": "https://www.gov.uk/government/news/more-oil-and-gas-workers-to-be-supported-into-jobs",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-24T09:46:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -271,44 +410,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Carbon budget and growth delivery plan",
-      "summary": "The Carbon Budget and Growth Delivery Plan sets out how the government meets its statutory carbon budgets and secure the benefits of this transition for people and businesses.",
-      "link": "https://www.gov.uk/government/publications/carbon-budget-and-growth-delivery-plan",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T15:37:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK net zero transition: investment opportunities",
-      "summary": "This investor prospectus outlines where and how investors can support the UK’s net zero transition.",
-      "link": "https://www.gov.uk/government/publications/uk-net-zero-transition-investment-opportunities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T15:37:21+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Guidance: Carbon budget and growth delivery plan: Heat and buildings factsheet",
-      "summary": "The Carbon budget and growth delivery plan (CBGDP) investor factsheet sets out the opportunities for the heat and buildings sector as the UK transitions to clean energy.",
-      "link": "https://www.gov.uk/government/publications/carbon-budget-and-growth-delivery-plan-heat-and-buildings-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T15:37:17+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
     },
     {
       "title": "Guidance: Making a complaint to the Fair Work Agency about your recruitment agency",
@@ -343,116 +444,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Make Work Pay: protection from detriments for taking industrial action",
-      "summary": "We are seeking views on the types of detriments that employers should be prohibited from imposing on workers for taking industrial action.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-protection-from-detriments-for-taking-industrial-action",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T11:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission update (June 2026)",
-      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at London Climate Action Week 2026.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T09:12:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
-      "summary": "Country action plans launched with the Global Clean Power Alliance (GCPA) finance mission.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T09:11:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Large Load Controllers: Tier 1 Cyber Assessment Framework and associated guidance",
-      "summary": "We're seeking views on a proposed Cyber Assessment Framework (CAF) profile for large electricity load controllers.",
-      "link": "https://www.gov.uk/government/consultations/large-load-controllers-tier-1-cyber-assessment-framework-and-associated-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T09:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: National Survey of Businesses",
-      "summary": "A quarterly, cross-cutting survey of UK businesses perceptions and challenges to inform the Department for Business and Trade (DBT)'s strategic objectives.",
-      "link": "https://www.gov.uk/government/publications/national-survey-of-businesses",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:59:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-23T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

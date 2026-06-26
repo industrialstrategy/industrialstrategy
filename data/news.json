@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:04:12.083074Z",
+  "generated_at": "2026-06-26T19:46:39.417306Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,107 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Independent report: SME Digital Adoption Taskforce: 2026 update",
+      "summary": "An update on digital adoption work relating to the taskforce and its 10 recommendations to help small businesses adopt digital technologies.",
+      "link": "https://www.gov.uk/government/publications/sme-digital-adoption-taskforce-2026-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-26T14:34:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-26T13:51:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Sunderland Business Support Fund",
+      "summary": "Grants are available to support projects costing between £3,000 and £6,000 (excluding VAT). The Business Support Fund can cover up to 40% of eligible business spend.",
+      "link": "https://www.gov.uk/business-finance-support/sunderland-business-support-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-26T13:44:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK ETS: Waste quarterly data report template (Q2)",
+      "summary": "Template for use by waste operators to submit waste quarterly data reports to their regulator during the voluntary monitoring, reporting and verification period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-waste-quarterly-data-report-template",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-26T12:55:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK launches first ever taskforce to strengthen climate security",
+      "summary": "Leading security, military and academics have joined forces with the government to boost the UK’s preparedness for the security impacts of climate change.",
+      "link": "https://www.gov.uk/government/news/uk-launches-first-ever-taskforce-to-strengthen-climate-security",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-26T10:32:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Equity and Loan fund in Greater Manchester",
+      "summary": "£10m investment fund to support the growth of companies in the advanced manufacturing and materials sector in Greater Manchester.",
+      "link": "https://www.gov.uk/business-finance-support/equity-and-loan-fund-in-greater-manchester",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-26T09:55:19+00:00",
+      "matched": [
+        "manufacturing",
+        "advanced manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Policy paper: CPTPP: joint ministerial statement on energy security and supply chains for essential energy products and other impacted products",
+      "summary": "At the 26 June 2026 ministerial commission meeting, ministers issued a joint statement on disruptions to global energy supply chains caused by the closure of the Strait of Hormuz.",
+      "link": "https://www.gov.uk/government/publications/cptpp-joint-ministerial-statement-on-energy-security-and-supply-chains-for-essential-energy-products-and-other-impacted-products",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-26T09:40:07+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Policy paper: CPTPP: joint ministerial statement from the 10th commission meeting, 26 June 2026",
+      "summary": "A jointly prepared statement following the virtual ministerial commission meeting of Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) members.",
+      "link": "https://www.gov.uk/government/publications/cptpp-joint-ministerial-statement-from-the-10th-commission-meeting-26-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-26T09:40:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Thousands of homes will be eligible for £9,000 off a heat pump",
+      "summary": "Households on heating oil across England and Wales will be eligible for £9,000 off a heat pump, helping them cut bills.",
+      "link": "https://www.gov.uk/government/news/thousands-of-homes-will-be-eligible-for-9000-off-a-heat-pump",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-26T09:20:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
     {
       "title": "Statutory guidance: Capacity Market Rules",
       "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
@@ -252,48 +353,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy prices: January to March 2027",
-      "summary": "Energy prices to domestic and industrial consumers for all the major fuels, with international comparisons, for the first calendar quarter of 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-january-to-march-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T09:38:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: April - June 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-april-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T09:37:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: UK road transport fuel consumption at regional and local authority level, 2005 to 2025",
-      "summary": "Consumption statistics for fuels used in road transport at regional and local levels from 2005.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-road-transport-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T09:29:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Local authority greenhouse gas emissions: 2025 estimates",
-      "summary": "UK local authority and regional estimates of greenhouse gas emissions from 2005.",
-      "link": "https://www.gov.uk/government/statistics/announcements/local-authority-greenhouse-gas-emissions-2025-estimates",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T09:27:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DBT: spending over £25,000, April 2026",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-april-2026",
@@ -390,60 +449,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
-      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
-      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-24T08:23:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Guidance on the scope of FWA gangmasters licensing standard 7.1",
-      "summary": "Further explanation about licensing standard 7.1, which covers work finding services that licence holders cannot charge a worker for.",
-      "link": "https://www.gov.uk/government/publications/guidance-on-the-scope-of-fwa-gangmasters-licensing-standard-71",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T15:56:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Making a complaint to the Fair Work Agency about your recruitment agency",
-      "summary": "This guidance is provided to help agency workers who have raised or need to raise a complaint to FWA about their recruitment agency.",
-      "link": "https://www.gov.uk/government/publications/making-a-complaint-to-the-employment-agency-standards-inspectorate-eas-about-your-recruitment-agency",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T15:08:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T12:45:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Make Work Pay: draft code of practice on electronic and workplace balloting for statutory union ballots",
-      "summary": "We are consulting on a draft code of practice on electronic and workplace balloting for statutory trade union ballots.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-electronic-and-workplace-balloting-for-statutory-union-ballots",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-23T12:30:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

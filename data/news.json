@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:54:08.510727Z",
+  "generated_at": "2026-06-29T15:45:21.324393Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Young Enterprise",
+      "summary": "Young Enterprise offers initiatives for all ages from 4 to 25 to help start a business in the UK.",
+      "link": "https://www.gov.uk/business-finance-support/young-enterprise",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-29T13:27:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-29T13:04:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: UK Emissions Trading Scheme: ministerial directions to the regulators",
+      "summary": "Ministerial Directions issued by the Secretary of State under section 52 of the Climate Change Act 2008.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-ministerial-directions-to-the-regulators",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-29T12:55:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Growth Guarantee Scheme",
+      "summary": "The Growth Guarantee Scheme is a government-backed scheme designed to support access to finance for UK businesses as they look to invest and grow.",
+      "link": "https://www.gov.uk/business-finance-support/growth-guarantee-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-29T12:01:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy prices: January to March 2026",
+      "summary": "Energy prices to domestic and industrial consumers for all the major fuels, with international comparisons, for the first calendar quarter of 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-29T10:55:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
+      "summary": "HM Revenue and Customs (HMRC) names firm after receiving breach settlement related to Russia sanctions.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-29T10:55:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Independent report: SME Digital Adoption Taskforce: 2026 update",
       "summary": "An update on digital adoption work relating to the taskforce and its 10 recommendations to help small businesses adopt digital technologies.",
@@ -63,7 +125,7 @@
       "summary": "Leading security, military and academics have joined forces with the government to boost the UK’s preparedness for the security impacts of climate change.",
       "link": "https://www.gov.uk/government/news/uk-launches-first-ever-taskforce-to-strengthen-climate-security",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-26T10:32:54+00:00",
+      "published": "2026-06-26T10:32:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -318,41 +380,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Solar PV deployment: May 2026",
-      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T10:27:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
-      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T10:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends: January to March 2027",
-      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the first calendar quarter of 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-january-to-march-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T09:40:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Transparency data: DBT: spending over £25,000, April 2026",
       "summary": "Reports on departmental spending over £25,000.",
       "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-april-2026",
@@ -414,38 +441,6 @@
       "link": "https://www.gov.uk/government/publications/overseas-business-risk-malaysia",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-25T07:28:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "How to make a data protection complaint to the Department for Business and Trade",
-      "summary": "We are committed to handling your personal data in a way that is fair, transparent and in accordance with the law. If you are dissatisfied with how we have handled your data, this process outlines how you can make a complaint.",
-      "link": "https://www.gov.uk/guidance/how-to-make-a-data-protection-complaint-to-the-department-for-business-and-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-24T14:34:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Wales’s foreign investment win boosts economy and jobs market",
-      "summary": "Statistics released today (23 June) show that Wales continues to successfully attract foreign investors.",
-      "link": "https://www.gov.uk/government/news/waless-foreign-investment-win-boosts-economy-and-jobs-market",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-24T10:19:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-24T10:02:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

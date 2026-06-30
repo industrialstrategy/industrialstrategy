@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T03:03:50.135091Z",
+  "generated_at": "2026-06-30T09:34:56.440639Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,224 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Domestic energy price indices",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Annual domestic energy bills",
+      "summary": "Annual estimates of gas and electricity bills, along with statistics on household expenditure on fuel.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/annual-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Quarterly domestic energy switching statistics",
+      "summary": "Quarterly and annual estimates of the total number of switches by electricity and gas customers.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/quarterly-domestic-energy-switching-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Prices of fuels purchased by manufacturing industry",
+      "summary": "Quarterly and annual prices of fuels purchased by manufacturing industry, in original units and p/kWh, split into consumption sizebands.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-manufacturing-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [
+        "manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Prices of fuels purchased by major power producers",
+      "summary": "Quarterly and annual prices of fuels purchased by power generators.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-major-power-producers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Industrial energy price indices",
+      "summary": "Quarterly and annual price indices for industrial fuels, in real and current terms, including and excluding the Climate Change Levy (CCL).",
+      "link": "https://www.gov.uk/government/statistical-data-sets/industrial-energy-price-indices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Gas and electricity prices in the non-domestic sector",
+      "summary": "Quarterly and annual gas and electricity prices for the non-domestic sector, including and excluding the Climate Change Levy (CCL), split into consumption size bands.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/gas-and-electricity-prices-in-the-non-domestic-sector",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Quarterly domestic energy customer numbers",
+      "summary": "Quarterly estimates of the variation in gas and electricity customer numbers by payment type.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/quarterly-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Update to estimates of industrial end use consumption within Energy Consumption in the UK (ECUK)",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-update-to-estimates-of-industrial-end-use-consumption-within-energy-consumption-in-the-uk-ecuk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Improvements to electricity supply and consumption statistics (ET 5.2)",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-improvements-to-electricity-supply-and-consumption-statistics-et-52",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Methodology changes for reporting electricity used by road vehicles",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-methodology-changes-for-reporting-electricity-used-by-road-vehicles",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Hydrogen production and demand in the UK, 2022 to 2025",
+      "summary": "Special feature article from the June 2026 edition of Energy trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-hydrogen-production-and-demand-in-the-uk-2022-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Methodology changes to natural gas statistics: DUKES 2026",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-methodology-changes-to-natural-gas-statistics-dukes-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Energy Trends: Table of tables",
+      "summary": "A list of all the Energy Trends tables.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-table-of-tables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Methodology changes sector definitions: DUKES 2026",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-methodology-changes-sector-definitions-dukes-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Grid-scale battery storage statistics",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-grid-scale-battery-storage-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Data centre electricity consumption in Great Britain, 2020 to 2024",
+      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-data-centre-electricity-consumption-in-great-britain-2020-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Quarterly Energy Prices: June 2026",
+      "summary": "Quarterly statistical publication on energy prices.",
+      "link": "https://www.gov.uk/government/statistics/quarterly-energy-prices-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-06-30T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK-China Intellectual Property newsletter",
+      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
+      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-06-30T03:33:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Statutory guidance: Distributing tips fairly: revised statutory code of practice",
       "summary": "Guidance for employers and workers on the fair and transparent distribution of tips.",
@@ -39,16 +257,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: Emissions and targets for installations registered as hospitals or small emitters, 2021  to 2025",
-      "summary": "Names of hospitals and small emitters (HSEs) participating in the UK ETS HSE scheme from 2021 to 2025, along with their targets and emissions for each year.",
-      "link": "https://www.gov.uk/government/publications/emissions-and-targets-for-installations-registered-as-hospitals-or-small-emitters-2021-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-29T16:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Young Enterprise",
       "summary": "Young Enterprise offers initiatives for all ages from 4 to 25 to help start a business in the UK.",
       "link": "https://www.gov.uk/business-finance-support/young-enterprise",
@@ -59,41 +267,11 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-29T13:04:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: UK Emissions Trading Scheme: ministerial directions to the regulators",
-      "summary": "Ministerial Directions issued by the Secretary of State under section 52 of the Climate Change Act 2008.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-ministerial-directions-to-the-regulators",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-29T12:55:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Growth Guarantee Scheme",
       "summary": "The Growth Guarantee Scheme is a government-backed scheme designed to support access to finance for UK businesses as they look to invest and grow.",
       "link": "https://www.gov.uk/business-finance-support/growth-guarantee-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-29T12:01:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy prices: January to March 2026",
-      "summary": "Energy prices to domestic and industrial consumers for all the major fuels, with international comparisons, for the first calendar quarter of 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-january-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-29T10:55:49+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -121,41 +299,11 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Ambient gamma radiation dose rates across the UK",
-      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
-      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-26T13:51:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Sunderland Business Support Fund",
       "summary": "Grants are available to support projects costing between £3,000 and £6,000 (excluding VAT). The Business Support Fund can cover up to 40% of eligible business spend.",
       "link": "https://www.gov.uk/business-finance-support/sunderland-business-support-fund",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-26T13:44:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK ETS: Waste quarterly data report template (Q2)",
-      "summary": "Template for use by waste operators to submit waste quarterly data reports to their regulator during the voluntary monitoring, reporting and verification period.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-waste-quarterly-data-report-template",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-26T12:55:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK launches first ever taskforce to strengthen climate security",
-      "summary": "Leading security, military and academics have joined forces with the government to boost the UK’s preparedness for the security impacts of climate change.",
-      "link": "https://www.gov.uk/government/news/uk-launches-first-ever-taskforce-to-strengthen-climate-security",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-26T10:32:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -200,53 +348,11 @@
       "ai_tags": []
     },
     {
-      "title": "Thousands of homes will be eligible for £9,000 off a heat pump",
-      "summary": "Households on heating oil across England and Wales will be eligible for £9,000 off a heat pump, helping them cut bills.",
-      "link": "https://www.gov.uk/government/news/thousands-of-homes-will-be-eligible-for-9000-off-a-heat-pump",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-26T09:20:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Statutory guidance: Capacity Market Rules",
-      "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-rules",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-26T08:14:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Delivering the homes that Britain deserves",
-      "summary": "Speech by Minister for Energy Consumers, Martin McCluskey, at the Housing 2026 conference.",
-      "link": "https://www.gov.uk/government/speeches/delivering-the-homes-that-britain-deserves",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T16:31:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Building materials and components statistics: June 2026",
       "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
       "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-25T16:16:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Australia-Canada-UK energy and climate cooperation: joint statement",
-      "summary": "A joint statement from Australia, Canada and the UK on energy and climate cooperation.",
-      "link": "https://www.gov.uk/government/publications/australia-canada-uk-energy-and-climate-cooperation-joint-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T16:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -286,70 +392,10 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: DESNZ register of board members’ interests, 2025 to 2026",
-      "summary": "A register of the private interests declared by DESNZ board members.",
-      "link": "https://www.gov.uk/government/publications/desnz-register-of-board-members-interests-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T15:08:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: special advisers' gifts, hospitality and meetings, January to March 2026",
-      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
-      "link": "https://www.gov.uk/government/publications/desnz-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T15:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, January to March 2026",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-january-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T15:00:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DBT: senior officials’ business expenses, hospitality, and meetings, January to March 2026",
       "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
       "link": "https://www.gov.uk/government/publications/dbt-senior-officials-business-expenses-hospitality-and-meetings-january-to-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-25T15:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £500, January 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-january-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T15:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £500, February 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T15:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: senior officials’ business expenses and hospitality, January to March 2026",
-      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/desnz-senior-officials-business-expenses-and-hospitality-january-to-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-25T15:00:05+00:00",
       "matched": [],
       "ai_summary": "",
@@ -361,38 +407,6 @@
       "link": "https://www.gov.uk/business-finance-support/liverpool-city-region-flexible-growth-fund",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-25T14:55:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release June 2026",
-      "summary": "Household Energy Efficiency Statistics, headline release (June 2026).",
-      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T12:24:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Industry energy needs: refresh of modelling assumptions",
-      "summary": "A refresh of industry technology modelling assumptions used in COMIT, including decarbonisation technology and baseline technology costs.",
-      "link": "https://www.gov.uk/government/publications/industry-energy-needs-refresh-of-modelling-assumptions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T12:16:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Cost Optimisation Model for Industrial Technologies (COMIT)",
-      "summary": "COMIT is a computer program that allows user to find the least cost pathway for meeting the energy needs of UK industry from now until 2050.",
-      "link": "https://www.gov.uk/guidance/cost-optimisation-model-for-industrial-technologies-comit",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-25T12:16:11+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -423,18 +437,6 @@
       "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-06-25T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/14: announcing the Dual-Use OGEL",
-      "summary": "The Dual-Use Open General Export Licence (OGEL) covers an extensive list of dual-use items for a wider list of destinations, including South Korea, Chile, Singapore and Uruguay.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202614-announcing-the-dual-use-ogel",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-25T08:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

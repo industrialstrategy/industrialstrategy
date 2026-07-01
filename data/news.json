@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T09:43:14.526089Z",
+  "generated_at": "2026-07-01T19:55:25.466431Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,88 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Warm Homes: Social Housing Fund Wave 3 (closed to applications)",
+      "summary": "Funding for local authorities and social housing landlords to improve the energy performance of social homes in England.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-01T14:50:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: UK-Singapore trade agreement documents",
+      "summary": "Decisions and other documents from the UK-Singapore trade agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-singapore-trade-agreement-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-01T13:44:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notice: linear low-density polyethylene from the USA",
+      "summary": "Trade remedies notice published by the Secretary of State relating to imports of linear low-density polyethylene (LLDPE) originating from the USA.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-linear-low-density-polyethylene-from-the-usa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-01T13:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Form: Department for Business and Trade College of Experts: registration of interest",
+      "summary": "The Department for Business and Trade (DBT) is establishing a new College of Experts (CoE). Applications closed on 28 June 2026.",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-college-of-experts-registration-of-interest",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-01T10:52:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--111",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-01T10:22:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--59",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-01T10:21:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Trade Secretary speech at UK-China JETCO",
+      "summary": "Business Secretary Peter Kyle spoke at the UK Session of the Big Market for All: Export to China event on 1 July 2026.",
+      "link": "https://www.gov.uk/government/news/trade-secretary-speech-at-uk-china-jetco",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-01T10:07:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Accredited official statistics: Building materials and components statistics: June 2026",
       "summary": "Statistics and analysis on the construction sector for May 2026.",
@@ -81,7 +163,7 @@
       "summary": "UK targets services exports in China trade talks",
       "link": "https://www.gov.uk/government/news/uk-targets-services-exports-in-china-trade-talks",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T21:30:09+00:00",
+      "published": "2026-06-30T21:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -329,16 +411,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Energy Trends: June 2026, special feature article - Update to estimates of industrial end use consumption within Energy Consumption in the UK (ECUK)",
-      "summary": "Special feature article from the June 2026 edition of Energy Trends statistical publication.",
-      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-update-to-estimates-of-industrial-end-use-consumption-within-energy-consumption-in-the-uk-ecuk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T08:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: UK-China Intellectual Property newsletter",
       "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
       "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
@@ -377,77 +449,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Growth Guarantee Scheme",
-      "summary": "The Growth Guarantee Scheme is a government-backed scheme designed to support access to finance for UK businesses as they look to invest and grow.",
-      "link": "https://www.gov.uk/business-finance-support/growth-guarantee-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-29T12:01:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
-      "summary": "HM Revenue and Customs (HMRC) names firm after receiving breach settlement related to Russia sanctions.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-29T10:55:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Independent report: SME Digital Adoption Taskforce: 2026 update",
-      "summary": "An update on digital adoption work relating to the taskforce and its 10 recommendations to help small businesses adopt digital technologies.",
-      "link": "https://www.gov.uk/government/publications/sme-digital-adoption-taskforce-2026-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-26T14:34:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Sunderland Business Support Fund",
-      "summary": "Grants are available to support projects costing between £3,000 and £6,000 (excluding VAT). The Business Support Fund can cover up to 40% of eligible business spend.",
-      "link": "https://www.gov.uk/business-finance-support/sunderland-business-support-fund",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-26T13:44:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Equity and Loan fund in Greater Manchester",
-      "summary": "£10m investment fund to support the growth of companies in the advanced manufacturing and materials sector in Greater Manchester.",
-      "link": "https://www.gov.uk/business-finance-support/equity-and-loan-fund-in-greater-manchester",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-26T09:55:19+00:00",
-      "matched": [
-        "manufacturing",
-        "advanced manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Policy paper: CPTPP: joint ministerial statement on energy security and supply chains for essential energy products and other impacted products",
-      "summary": "At the 26 June 2026 ministerial commission meeting, ministers issued a joint statement on disruptions to global energy supply chains caused by the closure of the Strait of Hormuz.",
-      "link": "https://www.gov.uk/government/publications/cptpp-joint-ministerial-statement-on-energy-security-and-supply-chains-for-essential-energy-products-and-other-impacted-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-26T09:40:07+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
     }
   ]
 }

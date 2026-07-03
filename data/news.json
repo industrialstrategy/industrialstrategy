@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T13:55:08.978404Z",
+  "generated_at": "2026-07-03T02:43:08.441607Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,92 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Correspondence: Keep Britain Working review update: March 2026",
+      "summary": "An update on the implementation of the independent review of the role of employers in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
+      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-02T23:01:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Keep Britain Working review update: June 2026",
+      "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
+      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-02T23:01:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: UK's steel trade measure from 1 July 2026",
+      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
+      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-02T16:33:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Domestic energy tariff reductions 2026: guidance for energy suppliers",
+      "summary": "Guidance for energy suppliers on how to apply discounts to domestic tariffs from 1 April 2026, related to the RO to Exchequer scheme and closure of the ECO and GBIS schemes.",
+      "link": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-02T16:21:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
+      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
+      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-02T16:10:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UK-New Zealand FTA Joint Committee: public summary, 27 May 2026",
+      "summary": "A summary of discussions of the official led Joint Committee reviewing the implementation of the UK-New Zealand Free Trade Agreement (FTA) between 2025 and 2026.",
+      "link": "https://www.gov.uk/government/publications/uk-new-zealand-fta-joint-committee-public-summary-27-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-02T16:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Promotional material: Secretary of State for Business and Trade hosts UK-China JETCO: factsheet",
+      "summary": "Summary of outcome of  UK-China Joint Economic and Trade Commission (JETCO) co-hosted by the Secretary of State for Business and Trade in July 2026 in London.",
+      "link": "https://www.gov.uk/government/publications/secretary-of-state-for-business-and-trade-hosts-uk-china-jetco-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-02T16:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Decision: Dean Moor Solar Farm: development consent order, Planning Act 2008",
+      "summary": "Decision on an application for a solar farm by FVS Dean Moor Limited located in West Cumbria, under the Planning Act 2008.",
+      "link": "https://www.gov.uk/government/publications/dean-moor-solar-farm-development-consent-order-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-02T14:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Trade remedies notices: countervailing duty on biodiesel from Indonesia",
       "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on biodiesel from Indonesia.",
@@ -229,18 +315,6 @@
       ]
     },
     {
-      "title": "Decision: UK's steel trade measure from 1 July 2026",
-      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
-      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T23:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "UK targets services exports in China trade talks",
       "summary": "UK targets services exports in China trade talks",
       "link": "https://www.gov.uk/government/news/uk-targets-services-exports-in-china-trade-talks",
@@ -357,16 +431,6 @@
       "ai_tags": []
     },
     {
-      "title": "Make Work Pay: holiday pay compliance and enforcement",
-      "summary": "We are seeking views on the proposed approach to holiday pay compliance and enforcement by the Fair Work Agency.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-holiday-pay-compliance-and-enforcement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: Potential future nuclear power plant siting in Scotland",
       "summary": "Technical advice on potential future nuclear power plant siting in Scotland.",
       "link": "https://www.gov.uk/government/publications/potential-future-nuclear-power-plant-siting-in-scotland",
@@ -379,71 +443,11 @@
       ]
     },
     {
-      "title": "Get Started and Grow scheme Staffordshire",
-      "summary": "Free, expert-led support for Staffordshire businesses under 5 years old.",
-      "link": "https://www.gov.uk/business-finance-support/get-started-and-grow-scheme-staffordshire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T10:03:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Domestic energy price indices",
       "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
       "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-30T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Annual domestic energy bills",
-      "summary": "Annual estimates of gas and electricity bills, along with statistics on household expenditure on fuel.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/annual-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T08:30:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK-China Intellectual Property newsletter",
-      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
-      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T03:33:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Distributing tips fairly: revised statutory code of practice",
-      "summary": "Guidance for employers and workers on the fair and transparent distribution of tips.",
-      "link": "https://www.gov.uk/government/publications/distributing-tips-fairly-revised-statutory-code-of-practice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-29T16:04:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: strengthening the law on tipping",
-      "summary": "We are seeking views on strengthening the law on tipping.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-strengthening-the-law-on-tipping",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-29T16:04:18+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

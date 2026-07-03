@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:01:11.303997Z",
+  "generated_at": "2026-07-03T19:20:34.262590Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Consumer value of in-use home energy performance metrics",
+      "summary": "Qualitative research into the value of in-use home energy performance data to consumers.",
+      "link": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-03T15:25:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Smart meter enabled thermal efficiency ratings (SMETER): strategic guide",
+      "summary": "An introduction to  SMETER and its applications.",
+      "link": "https://www.gov.uk/government/publications/smart-meter-enabled-thermal-efficiency-ratings-smeter-strategic-guide",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-03T15:25:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Launching or returning a rocket or space plane: rules and regulations",
       "summary": "Regulations you must comply with when launching or returning a rocket or space plane.",
@@ -418,26 +438,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-march-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-30T12:51:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Road fuel sales, deliveries and stock levels: 28 June 2026",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in the United Kingdom from 27 January 2020 to 28 June 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-sales-deliveries-and-stock-levels-28-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T12:48:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 6 July 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-6-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T12:42:34+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

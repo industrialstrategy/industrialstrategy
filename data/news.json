@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:00:49.382657Z",
+  "generated_at": "2026-07-03T14:01:11.303997Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Launching or returning a rocket or space plane: rules and regulations",
+      "summary": "Regulations you must comply with when launching or returning a rocket or space plane.",
+      "link": "https://www.gov.uk/guidance/launching-or-returning-a-rocket-or-space-plane-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-03T13:41:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Operating an orbital space object: rules and regulations",
+      "summary": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
+      "link": "https://www.gov.uk/guidance/operating-an-orbital-space-object-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-03T13:38:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Operating a spaceport: rules and regulations",
+      "summary": "Regulations you must comply with when operating a spaceport.",
+      "link": "https://www.gov.uk/guidance/operating-a-spaceport-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-03T13:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Annual report for 2025 on the operation of the Chemical Weapons Act 1996",
+      "summary": "A report on the operation of the Act from 1 January 2025 to 31 December 2025.",
+      "link": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-03T13:13:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Providing range control services: rules and regulations",
+      "summary": "Regulations you must comply with when providing range control services.",
+      "link": "https://www.gov.uk/guidance/providing-range-control-services-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-03T13:01:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Visa Fees Reimbursement Scheme for Scale Ups privacy notice",
+      "summary": "This privacy notice sets out how the Department for Business and Trade processes personal data collected as part of the VFRS4SU scheme.",
+      "link": "https://www.gov.uk/government/publications/visa-fees-reimbursement-scheme-for-scale-ups-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-03T10:03:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Official Statistics: Large businesses’ payment practices and performance: Statistics (2025)",
       "summary": "Annual statistics describing how large UK businesses pay their suppliers, using data reported under The Payment Practices and Performance Reporting Regulations 2017. \n\nIncludes statistics on the number of reports submitted by businesses, the average time to pay, and the proportion of invoices paid late (by number and value).",
@@ -97,7 +159,7 @@
       "summary": "Summary of outcome of  UK-China Joint Economic and Trade Commission (JETCO) co-hosted by the Secretary of State for Business and Trade in July 2026 in London.",
       "link": "https://www.gov.uk/government/publications/secretary-of-state-for-business-and-trade-hosts-uk-china-jetco-factsheet",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T16:00:02+00:00",
+      "published": "2026-07-02T16:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -309,44 +371,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Critical Minerals Programme: Magnet Hub",
-      "summary": "Funding to support a UK-based facility for developing new and innovative manufacturing capability for rare earth magnets.",
-      "link": "https://www.gov.uk/government/publications/critical-minerals-programme-magnet-hub",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T07:00:01+00:00",
-      "matched": [
-        "manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: tariff-rate quotas on steel goods (expired)",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the tariff-rate quotas on steel goods (expired).",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-tariff-rate-quotas-on-steel-goods-expired",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T23:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "UK targets services exports in China trade talks",
-      "summary": "UK targets services exports in China trade talks",
-      "link": "https://www.gov.uk/government/news/uk-targets-services-exports-in-china-trade-talks",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T21:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Accredited official statistics: UK local authority and regional greenhouse gas emissions statistics, 2005 to 2024",
       "summary": "UK local authority and regional estimates of greenhouse gas emissions.",
       "link": "https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2024",
@@ -379,31 +403,11 @@
       ]
     },
     {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Reviewer terms of reference",
-      "summary": "An Independent Reviewer has been appointed to the Horizon Shortfall Scheme Appeals (HSSA) process to review the Independent Panel's decisions on individual cases.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-independent-reviewer-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T14:43:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Oil and gas: inspection strategy and enforcement activity",
       "summary": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
       "link": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-06-30T13:55:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Panel terms of reference",
-      "summary": "The Independent Panel terms of reference ensures fair and consistent assessment of claims from postmasters under the HSSA scheme.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-independent-panel-terms-of-reference",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-06-30T13:29:45+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -437,18 +441,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Research: Potential future nuclear power plant siting in Scotland",
-      "summary": "Technical advice on potential future nuclear power plant siting in Scotland.",
-      "link": "https://www.gov.uk/government/publications/potential-future-nuclear-power-plant-siting-in-scotland",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T10:45:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
     }
   ]
 }

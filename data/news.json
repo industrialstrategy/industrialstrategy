@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T02:51:13.806611Z",
+  "generated_at": "2026-07-06T10:12:59.066585Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,47 @@
   "count": 40,
   "items": [
     {
+      "title": "Digital Trade Corridors programme",
+      "summary": "Information on the UK’s Digital Trade Corridors (DTC) programme, including trade digitalisation pilot reports between the UK and other countries.",
+      "link": "https://www.gov.uk/guidance/digital-trade-corridors-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Unlocking digital trade: behavioural insights into services trade",
+      "summary": "Research on how UK businesses make decisions about digital trade in services, and how they use digital tools and practices when trading internationally.",
+      "link": "https://www.gov.uk/government/publications/unlocking-digital-trade-behavioural-insights-into-services-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Electronic trade documents: small and medium-sized enterprises (SMEs) exporter research",
+      "summary": "Research on SME and intermediary awareness and use of electronic trade documents (ETDs), and how the government and industry can support their adoption.",
+      "link": "https://www.gov.uk/government/publications/electronic-trade-documents-small-and-medium-sized-enterprises-smes-exporter-research",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
       "title": "Government steps up action to protect children as AI-enabled toys emerge",
       "summary": "Government steps up action to protect children with toy safety rules",
       "link": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-05T23:30:04+00:00",
+      "published": "2026-07-05T23:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -333,47 +369,11 @@
       ]
     },
     {
-      "title": "Form: Department for Business and Trade College of Experts: registration of interest",
-      "summary": "The Department for Business and Trade (DBT) is establishing a new College of Experts (CoE). Applications closed on 28 June 2026.",
-      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-college-of-experts-registration-of-interest",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T10:52:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--111",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-01T10:22:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--59",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T10:21:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Trade Secretary speech at UK-China Export Event",
-      "summary": "Business Secretary Peter Kyle spoke at the UK Session of the Big Market for All: Export to China event on 1 July 2026.",
-      "link": "https://www.gov.uk/government/news/trade-secretary-speech-at-uk-china-export-event",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T10:07:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

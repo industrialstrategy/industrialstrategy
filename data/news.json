@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:12:59.066585Z",
+  "generated_at": "2026-07-06T15:25:34.798886Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,202 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T14:48:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: draft code of practice on trade union right of access",
+      "summary": "We're seeking views on a draft code of practice on the new legal framework for trade unions’ access to workplaces.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-trade-union-right-of-access",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T14:40:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Enterprise Capital Funds Programme",
+      "summary": "Enterprise Capital Funds (ECFs) bring together private and public money to make investments in high growth, early stage, businesses.",
+      "link": "https://www.gov.uk/business-finance-support/enterprise-capital-funds-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T13:35:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Shaw Trust",
+      "summary": "Shaw Trust is a national charity that supports disabled and disadvantaged people to prepare for work, find jobs and live more independently.",
+      "link": "https://www.gov.uk/business-finance-support/shaw-trust",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T13:02:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Barnet Business Start-up Programme",
+      "summary": "The programme offers one-to-one advice, mentoring, workshops and resources designed to help start up businesses succeed beyond their early stages, and support existing businesses with their growth plans.",
+      "link": "https://www.gov.uk/business-finance-support/barnet-business-start-up-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T12:54:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Communities backed to lead local climate and nature action",
+      "summary": "Bradford, Manchester, Bristol, London and Birmingham are the first cities to host annual ‘Energising Britain’ events.",
+      "link": "https://www.gov.uk/government/news/communities-backed-to-lead-local-climate-and-nature-action",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T12:46:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature articles",
+      "summary": "Special feature articles on energy issues in the United Kingdom from the June 2026 edition of the quarterly statistical bulletin Energy Trends.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-articles",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T12:37:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Trends: June 2026, special feature article - Hydrogen production and demand in the UK, 2022 to 2025",
+      "summary": "Special feature article from the June 2026 edition of Energy trends statistical publication.",
+      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-hydrogen-production-and-demand-in-the-uk-2022-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T12:37:31+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Stronger Communities Inspire Fund",
+      "summary": "Resident groups or community organisations can apply for grants of up to £1,000 to help fund local projects and events.",
+      "link": "https://www.gov.uk/business-finance-support/stronger-communities-inspire-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T12:34:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "FIRST North East",
+      "summary": "A learning and development agency, empowering enterprise skills and entrepreneurship in collaboration with government, employers, education and community organisations.",
+      "link": "https://www.gov.uk/business-finance-support/first-north-east",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T12:10:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T12:03:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Enterprise Grant Scheme - Bassetlaw",
+      "summary": "Potential grant for people looking to start a new business or businesses in their first 3 years of trading in Bassetlaw.",
+      "link": "https://www.gov.uk/business-finance-support/enterprise-grant-scheme-bassetlaw",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T12:02:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Proposed refinements for Allocation Round 8 and future rounds",
+      "summary": "We're seeking views on several refinements to ensure that the CfD continues to reflect current policy and that the scheme continues to function as originally intended.",
+      "link": "https://www.gov.uk/government/consultations/proposed-refinements-for-allocation-round-8-and-future-rounds",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T11:30:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: standard terms and conditions",
+      "summary": "The Standard Terms and Conditions for use in CfD Allocation Round 8 (AR8).",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-standard-terms-and-conditions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T11:29:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: allocation framework",
+      "summary": "The Contract Allocation Framework sets out the rules for Contracts for Difference (CfD) Allocation Round 8 (AR8) and the eligibility requirements applicants must satisfy.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-allocation-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T11:28:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T11:28:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Brum Breathes Financial Incentives",
+      "summary": "Financial incentives, designed to offer support to businesses who conduct commercial operations in Birmingham, towards replacing their Light Goods Vehicle and Heavy Duty Vehicle to meet required emission standards.",
+      "link": "https://www.gov.uk/business-finance-support/brum-breathes-financial-incentives",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T11:00:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: recognition code of practice and e-balloting unfair practices",
+      "summary": "We are seeking views on the revised code of practice during recognition and derecognition processes and on proposals on unfair practices in electronic ballots.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-recognition-code-of-practice-and-e-balloting-unfair-practices",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T11:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Extended CE marking recognition for Ecodesign regulations",
+      "summary": "We’re seeking views on a proposal to extend recognition of CE marking for ecodesign regulations so that it applies to new measures made under ESPR.",
+      "link": "https://www.gov.uk/government/consultations/extended-ce-marking-recognition-for-ecodesign-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-06T11:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Digital Trade Corridors programme",
       "summary": "Information on the UK’s Digital Trade Corridors (DTC) programme, including trade digitalisation pilot reports between the UK and other countries.",
@@ -167,28 +363,6 @@
       "ai_tags": []
     },
     {
-      "title": "Correspondence: Keep Britain Working review update: June 2026",
-      "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T23:01:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: UK's steel trade measure from 1 July 2026",
-      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
-      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T16:33:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Domestic energy tariff reductions 2026: guidance for energy suppliers",
       "summary": "Guidance for energy suppliers on how to apply discounts to domestic tariffs from 1 April 2026, related to the RO to Exchequer scheme and closure of the ECO and GBIS schemes.",
       "link": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
@@ -197,40 +371,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
-      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
-      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T16:10:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: UK-New Zealand FTA Joint Committee: public summary, 27 May 2026",
-      "summary": "A summary of discussions of the official led Joint Committee reviewing the implementation of the UK-New Zealand Free Trade Agreement (FTA) between 2025 and 2026.",
-      "link": "https://www.gov.uk/government/publications/uk-new-zealand-fta-joint-committee-public-summary-27-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T16:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Promotional material: Secretary of State for Business and Trade hosts UK-China JETCO: factsheet",
-      "summary": "Summary of outcome of  UK-China Joint Economic and Trade Commission (JETCO) co-hosted by the Secretary of State for Business and Trade in July 2026 in London.",
-      "link": "https://www.gov.uk/government/publications/secretary-of-state-for-business-and-trade-hosts-uk-china-jetco-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T16:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Decision: Peartree Hill Solar Farm: Development Consent Order, Planning Act 2008",
@@ -251,18 +391,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: countervailing duty on biodiesel from Indonesia",
-      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the countervailing duty on biodiesel from Indonesia.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-biodiesel-from-indonesia",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T10:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Notice: Warm Homes: Local Grant – successful local authorities",
@@ -300,144 +428,6 @@
       "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-02T09:11:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Summary of questions included in the DESNZ/BEIS Public Attitudes Tracker since Autumn 2021",
-      "summary": "A summary of the questions included in the Public Attitudes Tracker since the new time series was started in Autumn 2021.",
-      "link": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnzbeis-public-attitudes-tracker-since-autumn-2021",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Spring 2026",
-      "summary": "Findings from the triannual DESNZ Public Attitudes Tracker (PAT).",
-      "link": "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-spring-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T08:27:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Warm Homes: Social Housing Fund Wave 3 (closed to applications)",
-      "summary": "Funding for local authorities and social housing landlords to improve the energy performance of social homes in England.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-01T14:50:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: UK-Singapore trade agreement documents",
-      "summary": "Decisions and other documents from the UK-Singapore trade agreement.",
-      "link": "https://www.gov.uk/government/publications/uk-singapore-trade-agreement-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T13:44:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notice: linear low-density polyethylene from the USA",
-      "summary": "Trade remedies notice published by the Secretary of State relating to imports of linear low-density polyethylene (LLDPE) originating from the USA.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-linear-low-density-polyethylene-from-the-usa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--111",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T10:22:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
-      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-01T08:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: UK local authority and regional greenhouse gas emissions statistics, 2005 to 2024",
-      "summary": "UK local authority and regional estimates of greenhouse gas emissions.",
-      "link": "https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T15:18:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: UK road transport fuel consumption at regional and local authority level, 2005 to 2024",
-      "summary": "Consumption statistics for fuels used in road transport in the UK at regional and local levels from 2005 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/uk-road-transport-fuel-consumption-at-regional-and-local-authority-level-2005-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T15:17:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Scotland has “high potential” for new nuclear development",
-      "summary": "Technical study on suitable areas in Scotland for new nuclear published.",
-      "link": "https://www.gov.uk/government/news/scotland-has-high-potential-for-new-nuclear-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T14:52:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Oil and gas: inspection strategy and enforcement activity",
-      "summary": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T13:55:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Renewables obligation: certificates and generation - March 2026",
-      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
-      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-06-30T12:51:35+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:25:34.798886Z",
+  "generated_at": "2026-07-06T19:52:30.100228Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Electronic trade documents: small and medium-sized enterprises (SMEs) exporter research",
+      "summary": "Research on SME and intermediary awareness and use of electronic trade documents (ETDs), and how the government and industry can support their adoption.",
+      "link": "https://www.gov.uk/government/publications/electronic-trade-documents-small-and-medium-sized-enterprises-smes-exporter-research",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-06T15:43:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Research: Ambient gamma radiation dose rates across the UK",
       "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
@@ -230,18 +242,6 @@
       "title": "Research: Unlocking digital trade: behavioural insights into services trade",
       "summary": "Research on how UK businesses make decisions about digital trade in services, and how they use digital tools and practices when trading internationally.",
       "link": "https://www.gov.uk/government/publications/unlocking-digital-trade-behavioural-insights-into-services-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-06T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Electronic trade documents: small and medium-sized enterprises (SMEs) exporter research",
-      "summary": "Research on SME and intermediary awareness and use of electronic trade documents (ETDs), and how the government and industry can support their adoption.",
-      "link": "https://www.gov.uk/government/publications/electronic-trade-documents-small-and-medium-sized-enterprises-smes-exporter-research",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-06T08:30:00+00:00",
       "matched": [],

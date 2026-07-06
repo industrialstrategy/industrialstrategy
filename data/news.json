@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:13:15.087823Z",
+  "generated_at": "2026-07-06T02:51:13.806611Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Government steps up action to protect children as AI-enabled toys emerge",
+      "summary": "Government steps up action to protect children with toy safety rules",
+      "link": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-05T23:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Consumer value of in-use home energy performance metrics",
       "summary": "Qualitative research into the value of in-use home energy performance data to consumers.",
@@ -369,16 +379,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: June 2026",
-      "summary": "Statistics and analysis on the construction sector for May 2026.",
-      "link": "https://www.gov.uk/government/statistics/building-materials-and-components-statistics-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-01T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",

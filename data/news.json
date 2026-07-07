@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:25:17.467727Z",
+  "generated_at": "2026-07-07T19:49:27.860759Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DBT: ministerial overseas travel and meetings, January to March 2026",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T16:11:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: special advisers' gifts, hospitality and meetings, January to March 2026",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "link": "https://www.gov.uk/government/publications/dbt-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T16:11:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
+      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
+      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-07T16:06:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Draft Acas code on time off for trade union duties and activities",
+      "summary": "The draft Acas code of practice sets out revised guidance on time off and providing facilities for union duties.",
+      "link": "https://www.gov.uk/government/publications/draft-acas-code-on-time-off-for-trade-union-duties-and-activities",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T15:42:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice on the cooperative framework for Large Civil Aircraft",
+      "summary": "Information on the continuation of tariff suspensions.",
+      "link": "https://www.gov.uk/guidance/notice-on-the-cooperative-framework-for-large-civil-aircraft",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T15:39:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Green Paper: Future of Post Office",
       "summary": "We are seeking views on the future of the Post Office.",
@@ -321,40 +373,6 @@
       "ai_tags": []
     },
     {
-      "title": "Digital Trade Corridors programme",
-      "summary": "Information on the UK’s Digital Trade Corridors (DTC) programme, including trade digitalisation pilot reports between the UK and other countries.",
-      "link": "https://www.gov.uk/guidance/digital-trade-corridors-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-06T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Unlocking digital trade: behavioural insights into services trade",
-      "summary": "Research on how UK businesses make decisions about digital trade in services, and how they use digital tools and practices when trading internationally.",
-      "link": "https://www.gov.uk/government/publications/unlocking-digital-trade-behavioural-insights-into-services-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-06T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Government steps up action to protect children as AI-enabled toys emerge",
-      "summary": "Government steps up action to protect children with toy safety rules",
-      "link": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-05T23:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: Consumer value of in-use home energy performance metrics",
       "summary": "Qualitative research into the value of in-use home energy performance data to consumers.",
       "link": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
@@ -370,16 +388,6 @@
       "link": "https://www.gov.uk/government/publications/smart-meter-enabled-thermal-efficiency-ratings-smeter-strategic-guide",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-03T15:25:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Launching or returning a rocket or space plane: rules and regulations",
-      "summary": "Regulations you must comply with when launching or returning a rocket or space plane.",
-      "link": "https://www.gov.uk/guidance/launching-or-returning-a-rocket-or-space-plane-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-03T13:41:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -420,16 +428,6 @@
       "link": "https://www.gov.uk/government/publications/dean-moor-solar-farm-development-consent-order-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-02T14:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Warm Homes: Local Grant – successful local authorities",
-      "summary": "List of local authorities allocated funding in principle under the Warm Homes: Local Grant to be delivered 2025 until 2028.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-successful-local-authorities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T09:18:32+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

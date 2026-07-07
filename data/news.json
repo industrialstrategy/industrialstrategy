@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T02:46:10.556355Z",
+  "generated_at": "2026-07-07T09:34:24.737784Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,90 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T08:56:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T08:55:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
+      "summary": "Projects which received funding through the Longer Duration Energy Storage Demonstration Programme Stream 1 (Phases 1 and 2) and Stream 2 (Phases 1 and 2).",
+      "link": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-07T08:49:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate Power Purchase Agreements",
+      "summary": "This call for evidence seeks views on how to improve the GB Corporate Power Purchase Agreement market.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/corporate-power-purchase-agreements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate Power Purchase Agreements",
+      "summary": "This call for evidence seeks views on how to improve the GB Corporate Power Purchase Agreement market.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/corporate-power-purchase-agreements",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-07T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Framework document between the Competition and Markets Authority and the Department for Business and Trade",
+      "summary": "This framework document sets out the broad governance framework within which the Competition and Markets Authority (CMA) and the Department for Business and Trade (DBT) operate.",
+      "link": "https://www.gov.uk/government/publications/competition-and-markets-authority-cma-framework-document",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Corporate report: Memorandum of Understanding: governance of the Digital Markets Unit between DSIT and DBT",
+      "summary": "This Memorandum of Understanding (MoU) between the Department for Science and Technology (DSIT) and the Department for Business and Trade (DBT) sets out the role of DSIT in the sponsorship arrangements of the Competition and Markets Authority (CMA) and the digital markets regime under the Digital Markets, Competition and Consumers (DMCC) Act 2024.",
+      "link": "https://www.gov.uk/government/publications/memorandum-of-understanding-governance-of-the-digital-markets-unit-between-dsit-and-dbt",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-07T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Electronic trade documents: small and medium-sized enterprises (SMEs) exporter research",
       "summary": "Research on SME and intermediary awareness and use of electronic trade documents (ETDs), and how the government and industry can support their adoption.",
@@ -301,63 +385,11 @@
       "ai_tags": []
     },
     {
-      "title": "Operating a spaceport: rules and regulations",
-      "summary": "Regulations you must comply with when operating a spaceport.",
-      "link": "https://www.gov.uk/guidance/operating-a-spaceport-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-03T13:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: Annual report for 2025 on the operation of the Chemical Weapons Act 1996",
       "summary": "A report on the operation of the Act from 1 January 2025 to 31 December 2025.",
       "link": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-03T13:13:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Providing range control services: rules and regulations",
-      "summary": "Regulations you must comply with when providing range control services.",
-      "link": "https://www.gov.uk/guidance/providing-range-control-services-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-03T13:01:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Visa Fees Reimbursement Scheme for Scale Ups privacy notice",
-      "summary": "This privacy notice sets out how the Department for Business and Trade processes personal data collected as part of the VFRS4SU scheme.",
-      "link": "https://www.gov.uk/government/publications/visa-fees-reimbursement-scheme-for-scale-ups-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-03T10:03:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Large businesses’ payment practices and performance: Statistics (2025)",
-      "summary": "Annual statistics describing how large UK businesses pay their suppliers, using data reported under The Payment Practices and Performance Reporting Regulations 2017. \n\nIncludes statistics on the number of reports submitted by businesses, the average time to pay, and the proportion of invoices paid late (by number and value).",
-      "link": "https://www.gov.uk/government/statistics/announcements/large-businesses-payment-practices-and-performance-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-03T07:43:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Keep Britain Working review update: March 2026",
-      "summary": "An update on the implementation of the independent review of the role of employers in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-02T23:01:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -398,36 +430,6 @@
       "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-successful-local-authorities",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-02T09:18:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Warm Homes: Local Grant – guidance for local authorities",
-      "summary": "Funding for local authorities to deliver energy performance and low carbon heating upgrades to low-income homes in England.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T09:18:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T09:17:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-02T09:11:28+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

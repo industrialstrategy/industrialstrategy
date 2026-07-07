@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:34:24.737784Z",
+  "generated_at": "2026-07-07T14:25:17.467727Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Green Paper: Future of Post Office",
+      "summary": "We are seeking views on the future of the Post Office.",
+      "link": "https://www.gov.uk/government/consultations/green-paper-future-of-post-office",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-07T10:17:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: Post Office Capture financial redress data for 2026",
       "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
@@ -370,16 +380,6 @@
       "link": "https://www.gov.uk/guidance/launching-or-returning-a-rocket-or-space-plane-rules-and-regulations",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-03T13:41:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Operating an orbital space object: rules and regulations",
-      "summary": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
-      "link": "https://www.gov.uk/guidance/operating-an-orbital-space-object-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-03T13:38:36+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

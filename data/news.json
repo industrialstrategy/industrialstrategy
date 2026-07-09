@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:38:25.240356Z",
+  "generated_at": "2026-07-09T09:34:04.311254Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Life Sciences Jobs Plan",
+      "summary": "A plan to ensure the UK life sciences sector has the skilled workforce it needs for future growth.",
+      "link": "https://www.gov.uk/government/publications/life-sciences-jobs-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T08:30:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Industrial Strategy Jobs Plans",
+      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T08:30:11+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
+      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: Life Sciences Sector Plan",
       "summary": "The Life Sciences Sector Plan sets out a vision and an action plan to drive growth, innovation, and better health outcomes.",
@@ -45,7 +89,7 @@
       "summary": "Sizewell B power plant given 20‑year lifetime extension to continue operating until 2055.",
       "link": "https://www.gov.uk/government/news/sizewell-b-power-plant-given-lifetime-extension-to-2055",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-08T21:30:05+00:00",
+      "published": "2026-07-08T21:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -270,26 +314,6 @@
       ]
     },
     {
-      "title": "Policy paper: A new approach to ensure regulators and regulation support growth",
-      "summary": "An action plan setting out the government's approach to regulation and regulators",
-      "link": "https://www.gov.uk/government/publications/a-new-approach-to-ensure-regulators-and-regulation-support-growth",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Regulatory Sandboxes: What Businesses Can Expect",
-      "summary": "This page sets out how regulatory sandboxes will work for business.",
-      "link": "https://www.gov.uk/government/publications/regulatory-sandboxes-what-businesses-can-expect",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
       "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
       "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
@@ -419,26 +443,6 @@
       "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-06T11:28:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Extended CE marking recognition for Ecodesign regulations",
-      "summary": "We’re seeking views on a proposal to extend recognition of CE marking for ecodesign regulations so that it applies to new measures made under ESPR.",
-      "link": "https://www.gov.uk/government/consultations/extended-ce-marking-recognition-for-ecodesign-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T11:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Consumer value of in-use home energy performance metrics",
-      "summary": "Qualitative research into the value of in-use home energy performance data to consumers.",
-      "link": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-03T15:25:20+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

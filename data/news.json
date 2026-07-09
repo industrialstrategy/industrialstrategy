@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T19:19:09.130528Z",
+  "generated_at": "2026-07-09T02:38:25.240356Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Life Sciences Sector Plan",
+      "summary": "The Life Sciences Sector Plan sets out a vision and an action plan to drive growth, innovation, and better health outcomes.",
+      "link": "https://www.gov.uk/government/publications/life-sciences-sector-plan",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-08T23:01:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Policy paper: Life Sciences Sector Plan: One Year On",
+      "summary": "Progress report on delivering the Life Sciences Sector Plan.",
+      "link": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-08T23:01:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Sizewell B power plant given lifetime extension to 2055",
+      "summary": "Sizewell B power plant given 20‑year lifetime extension to continue operating until 2055.",
+      "link": "https://www.gov.uk/government/news/sizewell-b-power-plant-given-lifetime-extension-to-2055",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-08T21:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: UK trade in numbers",
       "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
@@ -258,30 +290,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: The UK's Modern Industrial Strategy: year one",
-      "summary": "A one-year update on the delivery of commitments in the Modern Industrial Strategy.",
-      "link": "https://www.gov.uk/government/publications/the-uks-modern-industrial-strategy-year-one",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T08:30:01+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Guidance: Ofgem skills and capability review",
-      "summary": "As part of the government’s Regulation Action Plan we have launched expert-led reviews help regulators improve performance, tackle challenges and support growth.",
-      "link": "https://www.gov.uk/government/publications/ofgem-skills-and-capability-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
       "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
       "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
@@ -431,16 +439,6 @@
       "link": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-03T15:25:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Smart meter enabled thermal efficiency ratings (SMETER): strategic guide",
-      "summary": "An introduction to  SMETER and its applications.",
-      "link": "https://www.gov.uk/government/publications/smart-meter-enabled-thermal-efficiency-ratings-smeter-strategic-guide",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-03T15:25:15+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

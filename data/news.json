@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:34:04.311254Z",
+  "generated_at": "2026-07-09T14:51:27.026310Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,140 @@
   "count": 40,
   "items": [
     {
+      "title": "North of Tyne Business Support Fund",
+      "summary": "Grant funding opportunity for businesses in  who need external expertise to help them to grow.",
+      "link": "https://www.gov.uk/business-finance-support/north-of-tyne-business-support-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T14:30:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oldham Council Innovation Grant",
+      "summary": "Innovation grant scheme to support business growth, encourage inward investment, and drive productivity through innovation.",
+      "link": "https://www.gov.uk/business-finance-support/oldham-council-innovation-grant",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T14:05:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Notice: Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference",
+      "summary": "Four-year low-carbon dispatchable (LCD) CfD signed with Lynemouth Power Station, reducing subsidy and strengthening sustainability.",
+      "link": "https://www.gov.uk/government/publications/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T14:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notices made under s32A of the Taxation (Cross-border Trade) Act 2018",
+      "summary": "Notices made which have the force of law under s32A of the Taxation (Cross-border Trade) Act 2018.",
+      "link": "https://www.gov.uk/government/publications/notices-made-under-s32a-of-the-taxation-cross-border-trade-act-2018",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T13:16:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Business Productivity Grant South Yorkshire",
+      "summary": "The project aims to support small and medium-sized businesses (SMEs) in South Yorkshire to improve productivity and drive digital innovation through the provision of capital or revenue grants.",
+      "link": "https://www.gov.uk/business-finance-support/business-productivity-grant-south-yorkshire",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T13:09:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Official Statistics: Road fuel sales, deliveries and stock levels: 27 September 2026",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in the United Kingdom from 27 January 2020 to 27 September 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-sales-deliveries-and-stock-levels-27-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T13:04:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Fair Work Agency: framework agreement",
+      "summary": "How the Fair Work Agency and the Department for Business and Trade will work together.",
+      "link": "https://www.gov.uk/government/publications/fair-work-agency-framework-agreement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T12:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: The suitability of reversible air-to-air heat pumps for UK domestic use",
+      "summary": "Detailed modelling assessing energy performance, cost, and overall suitability of reversible air‑to‑air heat pumps in a range of UK home archetypes and scenarios.",
+      "link": "https://www.gov.uk/government/publications/the-suitability-of-reversible-air-to-air-heat-pumps-for-uk-domestic-use",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T10:28:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Research: Homes for Net Zero research programme",
+      "summary": "Homes for Net Zero is a longitudinal in-home energy monitoring trial providing research insight on homeowner transitions to Net Zero.",
+      "link": "https://www.gov.uk/government/publications/homes-for-net-zero-research-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T10:28:00+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Oil and Gas: fees and charges",
+      "summary": "Regulations and guidance on fees and charging for environmental and other regulatory functions for offshore oil and gas exploration and production, offshore gas unloading and storage and offshore carbon dioxide storage activities.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-fees-and-charges",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-09T10:04:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Launchpad - Barnsley",
+      "summary": "A programme of advice and events for people starting and growing a business.",
+      "link": "https://www.gov.uk/business-finance-support/launchpad-barnsley",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T09:55:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Update on the government response to the Humble Address motion of 24 February 2026",
+      "summary": "In response to the Humble Address of 24 February 2026, this publication was laid in the House of Commons on Thursday 9 July 2026.",
+      "link": "https://www.gov.uk/government/publications/update-on-the-government-response-to-the-humble-address-motion-of-24-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T09:44:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Policy paper: Life Sciences Jobs Plan",
       "summary": "A plan to ensure the UK life sciences sector has the skilled workforce it needs for future growth.",
       "link": "https://www.gov.uk/government/publications/life-sciences-jobs-plan",
@@ -27,20 +161,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy Jobs Plans",
-      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-09T08:30:11+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
     },
     {
       "title": "Accredited official statistics: Energy Trends: UK renewables",
@@ -63,6 +183,20 @@
       "ai_tags": []
     },
     {
+      "title": "Policy paper: Industrial Strategy Jobs Plans",
+      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-09T08:30:00+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
       "title": "Policy paper: Life Sciences Sector Plan",
       "summary": "The Life Sciences Sector Plan sets out a vision and an action plan to drive growth, innovation, and better health outcomes.",
       "link": "https://www.gov.uk/government/publications/life-sciences-sector-plan",
@@ -83,6 +217,18 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "UK life sciences attracts £3bn investment, creating jobs and faster patient treatments",
+      "summary": "Life Sciences sector attracts over £3 billion in new public-private investment in 12 months, reflecting international confidence in UK science and innovation.",
+      "link": "https://www.gov.uk/government/news/uk-life-sciences-attracts-3bn-investment-creating-jobs-and-faster-patient-treatments",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-08T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
     },
     {
       "title": "Sizewell B power plant given lifetime extension to 2055",
@@ -211,73 +357,6 @@
       "ai_tags": []
     },
     {
-      "title": "Update following negotiations on enhanced FTA with Turkey",
-      "summary": "An update following round 5 of negotiations on an enhanced Free Trade Agreement between the UK and Turkey.",
-      "link": "https://www.gov.uk/government/news/update-following-negotiations-on-enhanced-fta-with-turkey",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T11:17:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
-      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
-      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T11:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "British Industrial Competitiveness Scheme: consultation on regulatory changes and scheme delivery",
-      "summary": "This consultation seeks views on the proposed regulatory changes and approach to scheme delivery for the new British Industrial Competitiveness Scheme (BICS).",
-      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-regulatory-changes-and-scheme-delivery",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T11:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: workplace monitoring technologies",
-      "summary": "We are seeking views on proposals to support the fair, transparent and responsible use of workplace monitoring technologies, used to monitor, manage or make decisions relating to workers.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-workplace-monitoring-technologies",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T11:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK to become world’s fastest market to commercialise innovation with regulatory shake-up",
-      "summary": "The Government has announced regulatory reforms to help businesses test and commercialise new products faster. Marking one year on from the launch of the Modern Industrial Strategy, the changes will boost investment, support innovation, and build on £380 billion in private investment.",
-      "link": "https://www.gov.uk/government/news/uk-to-become-worlds-fastest-market-to-commercialise-innovation-with-regulatory-shake-up",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T09:59:14+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy",
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Research: Regulator performance monitoring",
-      "summary": "Growth goals and key performance indicators (KPIs) from 16 key regulators, updated quarterly as part of the UK government’s Regulatory Action Plan.",
-      "link": "https://www.gov.uk/government/publications/regulator-performance-monitoring",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T09:50:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Jackdaw Field Development",
       "summary": "Project Summary",
       "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
@@ -286,32 +365,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy Quarterly Update: April to June 2026",
-      "summary": "An update on delivery of commitments in the Industrial Strategy.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-quarterly-update-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T08:30:02+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Unlocking business: reform driven by you",
-      "summary": "This questionnaire asks businesses large and small to tell government about regulation which is not fit for purpose and unjustifiably inhibits growth, innovation and investment.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/unlocking-business-reform-driven-by-you",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
     },
     {
       "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
@@ -396,56 +449,6 @@
       "ai_tags": [
         "Hydrogen"
       ]
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T12:03:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Proposed refinements for Allocation Round 8 and future rounds",
-      "summary": "We're seeking views on several refinements to ensure that the CfD continues to reflect current policy and that the scheme continues to function as originally intended.",
-      "link": "https://www.gov.uk/government/consultations/proposed-refinements-for-allocation-round-8-and-future-rounds",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T11:30:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: standard terms and conditions",
-      "summary": "The Standard Terms and Conditions for use in CfD Allocation Round 8 (AR8).",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-standard-terms-and-conditions",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T11:29:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: allocation framework",
-      "summary": "The Contract Allocation Framework sets out the rules for Contracts for Difference (CfD) Allocation Round 8 (AR8) and the eligibility requirements applicants must satisfy.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-allocation-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T11:28:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
-      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T11:28:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

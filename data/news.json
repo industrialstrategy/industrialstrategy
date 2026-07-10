@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:13:34.640316Z",
+  "generated_at": "2026-07-10T19:23:49.073186Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-10T16:15:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: EU Battery Passport requirements survey",
+      "summary": "The Department for Business and Trade (DBT) is seeking views from the battery sector on the upcoming EU Battery Passport requirements.",
+      "link": "https://www.gov.uk/government/publications/eu-battery-passport-requirements-survey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-10T14:29:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Transparency data: Horizon redress schemes: progress report for 2026",
       "summary": "Observations on progress and data in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA).",
@@ -329,18 +351,6 @@
       ]
     },
     {
-      "title": "Sussex Innovation Centre (SINC)",
-      "summary": "Tailored support services, events and access to the resources of the University of Sussex to help with innovation projects.",
-      "link": "https://www.gov.uk/business-finance-support/sussex-innovation-centre-sinc",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-08T14:07:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
       "title": "Government approves UK’s second largest solar farm",
       "summary": "Families and businesses will benefit from more solar power as the government has approved a major new solar power project.",
       "link": "https://www.gov.uk/government/news/government-approves-uks-second-largest-solar-farm",
@@ -439,20 +449,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Research: Energy Trends: June 2026, special feature article - Hydrogen production and demand in the UK, 2022 to 2025",
-      "summary": "Special feature article from the June 2026 edition of Energy trends statistical publication.",
-      "link": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-hydrogen-production-and-demand-in-the-uk-2022-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-06T12:37:31+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
     }
   ]
 }

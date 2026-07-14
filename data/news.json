@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:30:43.866861Z",
+  "generated_at": "2026-07-14T19:15:15.190800Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,88 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
+      "summary": "Export control licensing data for 1 January to 31 December 2025.",
+      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T16:01:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
+      "summary": "Export control licensing data for 1 October to 31 December 2025.",
+      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T16:01:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Industrial Strategy Jobs Plans",
+      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T15:53:46+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Transparency data: Ministerial Group for Digital Inclusion: terms of reference",
+      "summary": "Terms of reference for Ministerial Group for Digital Inclusion.",
+      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T15:43:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
+      "summary": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
+      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T15:43:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Retained EU law and assimilated law dashboard",
+      "summary": "This dashboard shows a list of retained EU law (REUL) and assimilated law. These are laws that the UK saved to ensure legislative continuity immediately after Brexit.",
+      "link": "https://www.gov.uk/government/publications/retained-eu-law-dashboard",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T15:42:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: National Energy System Operator framework document",
+      "summary": "Framework document between the National Energy System Operator (NESO) and the Department for Energy Security and Net Zero (DESNZ).",
+      "link": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-14T14:41:11+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Transparency data: Post Office future technology portfolio: summary business case",
       "summary": "Summary of the business case for Post Office future technology portfolio (FTP) programme business case (PBC).",
@@ -219,74 +301,6 @@
       "ai_tags": []
     },
     {
-      "title": "Millions of unpaid carers to get recognition and earlier support",
-      "summary": "First ever cross-government action plan to support unpaid carers published.",
-      "link": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T07:45:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK-Switzerland enhanced Free Trade Agreement: conclusion summary",
-      "summary": "The United Kingdom and the Swiss Confederation (Switzerland) have concluded negotiations on an enhanced free trade agreement (FTA).",
-      "link": "https://www.gov.uk/government/publications/uk-switzerland-enhanced-free-trade-agreement-conclusion-summary",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T14:05:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: UK-Switzerland enhanced Free Trade Agreement: technical note",
-      "summary": "Technical note setting out the Department for Business and Trade’s preliminary results of the economic impact of the enhanced UK-Switzerland Free Trade Agreement and the Services Mobility Agreement.",
-      "link": "https://www.gov.uk/government/publications/uk-switzerland-enhanced-free-trade-agreement-technical-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T14:04:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "UK Switzerland FTA Top Benefits",
-      "summary": "11 top benefits of the largest services trade deal concluded by the UK",
-      "link": "https://www.gov.uk/government/news/uk-switzerland-fta-top-benefits",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T14:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Unprecedented services trade deal unveiled as UK seals agreement with Switzerland",
-      "summary": "FTA seals £5.2bn services deal with Switzerland and separate agreement paves way for travellers to use Swiss E-gates",
-      "link": "https://www.gov.uk/government/news/unprecedented-services-trade-deal-unveiled-as-uk-seals-agreement-with-switzerland",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T14:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Invest in - Fylde",
-      "summary": "The Invest in Fylde website showcases all there is to offer to businesses in Fylde.",
-      "link": "https://www.gov.uk/business-finance-support/invest-in-fylde",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T13:55:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: Nuclear Decommissioning Funding Account: statement for 2025 to 2026",
       "summary": "Statement of the Nuclear Decommissioning Funding Account for the period from 1 April 2025 to 31 March 2026.",
       "link": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026",
@@ -430,16 +444,6 @@
       "link": "https://www.gov.uk/government/news/sizewell-b-power-plant-given-lifetime-extension-to-2055",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-08T21:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Draft strategic policy guidance for electricity networks growth",
-      "summary": "We're seeking views on draft social and environmental guidance for the Gas and Electricity Markets Authority.",
-      "link": "https://www.gov.uk/government/consultations/draft-strategic-policy-guidance-for-electricity-networks-growth",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-08T16:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

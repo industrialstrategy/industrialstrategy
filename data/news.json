@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:58:23.861843Z",
+  "generated_at": "2026-07-14T13:30:43.866861Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,211 @@
   "count": 40,
   "items": [
     {
+      "title": "Transparency data: Post Office future technology portfolio: summary business case",
+      "summary": "Summary of the business case for Post Office future technology portfolio (FTP) programme business case (PBC).",
+      "link": "https://www.gov.uk/government/publications/post-office-future-technology-portfolio-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T12:27:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office strategic transformation plan: summary business case",
+      "summary": "Summary of the business case for Post Office strategic transformation plan (STP) programme business case (PBC).",
+      "link": "https://www.gov.uk/government/publications/post-office-strategic-transformation-plan-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T12:27:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: ending one-sided flexibility – reforms of zero hours and similar contracts",
+      "summary": "We are seeking views on reforms relating to zero hours and similar contracts, to implement measures in the Employment Rights Act 2025 to end one-sided flexibility.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-ending-one-sided-flexibility-reforms-of-zero-hours-and-similar-contracts",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T12:10:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach",
+      "summary": "This action plan aims to improve the lives of unpaid carers in England.",
+      "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T10:42:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Horizon Family Members Redress Scheme: letter from the Director of Post Office Policy",
+      "summary": "Letters to Lost Chances about the redress scheme for family members of postmasters affected by the Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letter-from-the-director-of-post-office-policy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T10:37:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Family Members Redress Scheme: privacy notice",
+      "summary": "Details of how we collect, handle and share the personal data of individuals who apply to register for the Horizon Family Members Redress Scheme.",
+      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T10:30:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Estimating non-tariff measures (NTMs): DBT working paper",
+      "summary": "DBT paper on practical NTM estimation for computable general equilibrium (CGE) modelling using best practice gravity.",
+      "link": "https://www.gov.uk/government/publications/estimating-non-tariff-measures-ntms-dbt-working-paper",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T10:12:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Retained EU Law (REUL) and Assimilated Law Parliamentary Reports",
+      "summary": "The reports fulfil a statutory duty to provide updates as set out in the REUL Act.",
+      "link": "https://www.gov.uk/government/publications/retained-eu-law-reul-parliamentary-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T09:26:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK launches Call for Input on deepening trade relationships",
+      "summary": "UK launches Call for Input on trade relationships with Indonesia, the Philippines, the United Arab Emirates and Uruguay, as CPTPP accession discussions advance",
+      "link": "https://www.gov.uk/government/news/uk-launches-call-for-input-on-deepening-trade-relationships",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T08:53:00+00:00",
+      "matched": [
+        "IRA"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Form: Young Voices for Climate and Nature",
+      "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
+      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-14T08:39:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Youth Climate and Nature Panel",
+      "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies. Find out how you can take part.",
+      "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-14T08:39:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Youth Climate and Nature Panel: privacy notice",
+      "summary": "This notice sets out how we will use your personal data, and your rights when applying for the Youth Climate and Nature Panel.",
+      "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-14T08:36:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Young Voices for Climate and Nature: privacy notice",
+      "summary": "This notice sets out how we will use your personal data when submitting an entry to Young Voices for Climate and Nature.",
+      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-14T08:35:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Deepening UK trade relationships with Indonesia, the Philippines, the United Arab Emirates and Uruguay",
+      "summary": "We are seeking input on how the UK can deepen trade relationships with Indonesia, the Philippines, the United Arab Emirates (UAE) and Uruguay.",
+      "link": "https://www.gov.uk/government/consultations/deepening-uk-trade-relationships-with-indonesia-the-philippines-the-united-arab-emirates-and-uruguay",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T08:33:54+00:00",
+      "matched": [
+        "IRA"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Large businesses' payment practices and performance statistics: methodology",
+      "summary": "Description of the methods and data used to produce the large businesses' payment practices and performance statistics.",
+      "link": "https://www.gov.uk/government/publications/large-businesses-payment-practices-and-performance-statistics-methodology",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statistics at DBT",
+      "summary": "We publish statistics on business populations, building materials, small business surveys, international trade, strategic export controls, foreign direct investment and inward investment.",
+      "link": "https://www.gov.uk/government/organisations/department-for-business-and-trade/about/statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-14T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Large businesses' payment practices and performance statistics: pre-release access",
+      "summary": "Pre-release access list for the statistics on large businesses' payment practices and performance.",
+      "link": "https://www.gov.uk/government/statistics/large-businesses-payment-practices-and-performance-statistics-pre-release-access",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Large businesses' payment practices and performance statistics: 2025",
+      "summary": "Annual statistics describing how large UK businesses pay their suppliers.",
+      "link": "https://www.gov.uk/government/statistics/large-businesses-payment-practices-and-performance-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Millions of unpaid carers to get recognition and earlier support",
-      "summary": "First ever cross-Government action plan to support unpaid carers published",
+      "summary": "First ever cross-government action plan to support unpaid carers published.",
       "link": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T07:45:06+00:00",
+      "published": "2026-07-14T07:45:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -99,46 +299,6 @@
       ]
     },
     {
-      "title": "Surrey-i (Local Information Portal)",
-      "summary": "Free local information portal for businesses in Surrey.",
-      "link": "https://www.gov.uk/business-finance-support/surrey-i-local-information-portal",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T13:44:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: October to December 2026",
-      "summary": "Headline summary of market access barriers resolved during Quarter 3 (October to December) of the financial year ending 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-october-to-december-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T13:42:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: July to September 2026",
-      "summary": "Headline summary of market access barriers resolved during Quarter 2 (July to September) of the financial year ending 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-july-to-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T13:39:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: April to June 2026",
-      "summary": "Headline summary of market access barriers resolved during Quarter 1 (April to June) of the financial year ending 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T13:37:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
@@ -149,30 +309,6 @@
       "ai_tags": []
     },
     {
-      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
-      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
-      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
-      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T10:21:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Carbon Budgets",
       "summary": "A carbon budget places a restriction on the total amount of greenhouse gases the UK can emit over a 5-year period. The UK is the first country to set legally binding carbon budgets.",
       "link": "https://www.gov.uk/guidance/carbon-budgets",
@@ -181,18 +317,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Dame Jayne-Anne Gadhia named as preferred candidate for Chair of the Financial Reporting Council",
-      "summary": "Appointment set to be scrutinised by the Business and Trade Select Committee on Tuesday.",
-      "link": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-13T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Policy paper: Clean flexibility roadmap",
@@ -215,16 +339,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Road fuel prices: 13 July 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-13-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-13T07:50:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
       "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
@@ -233,82 +347,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Form: EU Battery Passport requirements survey",
-      "summary": "The Department for Business and Trade (DBT) is seeking views from the battery sector on the upcoming EU Battery Passport requirements.",
-      "link": "https://www.gov.uk/government/publications/eu-battery-passport-requirements-survey",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-10T14:29:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: Horizon redress schemes: progress report for 2026",
-      "summary": "Observations on progress and data in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA).",
-      "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-report-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-10T13:34:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: draft code of practice on trade union right of access",
-      "summary": "We're seeking views on a draft code of practice on the new legal framework for trade unions’ access to workplaces.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-draft-code-of-practice-on-trade-union-right-of-access",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-10T11:23:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
-      "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-10T10:02:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Overseas business risk for Hong Kong",
-      "summary": "Information on key security and political risks which UK businesses may face when operating in Hong Kong.",
-      "link": "https://www.gov.uk/government/publications/overseas-business-risk-hong-kong",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-09T15:11:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "North of Tyne Business Support Fund",
-      "summary": "Grant funding opportunity for businesses in  who need external expertise to help them to grow.",
-      "link": "https://www.gov.uk/business-finance-support/north-of-tyne-business-support-fund",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-09T14:30:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oldham Council Innovation Grant",
-      "summary": "Innovation grant scheme to support business growth, encourage inward investment, and drive productivity through innovation.",
-      "link": "https://www.gov.uk/business-finance-support/oldham-council-innovation-grant",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-09T14:05:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
     },
     {
       "title": "Notice: Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference",
@@ -402,46 +440,6 @@
       "link": "https://www.gov.uk/government/consultations/draft-strategic-policy-guidance-for-electricity-networks-growth",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-08T16:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government approves UK’s second largest solar farm",
-      "summary": "Families and businesses will benefit from more solar power as the government has approved a major new solar power project.",
-      "link": "https://www.gov.uk/government/news/government-approves-uks-second-largest-solar-farm",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-08T14:07:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: One Earth Solar Farm: development consent order, Planning Act 2008",
-      "summary": "Decision on an application for a solar farm on land surrounding the River Trent in Nottinghamshire and Lincolnshire, under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/one-earth-solar-farm-development-consent-order-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-08T13:44:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-08T09:41:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
-      "summary": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
-      "link": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-07T16:06:50+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

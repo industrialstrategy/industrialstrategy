@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T13:30:03.802936Z",
+  "generated_at": "2026-07-15T19:06:50.307560Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,70 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
+      "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T14:59:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: UK strategic export controls annual report 2025",
+      "summary": "This report gives a detailed overview of the UK's strategic export controls policy and export licensing decisions for the period January to December 2025.",
+      "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T14:45:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, October to December 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-15T14:34:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: National treatment of conformity assessment bodies (NTCABs) with India",
+      "summary": "How the NTCABs process ensures UK and India conformity assessment bodies (CABs) are treated equally.",
+      "link": "https://www.gov.uk/government/publications/national-treatment-of-conformity-assessment-bodies-ntcabs-with-india",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T14:03:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: UKAEA pension schemes: combined annual accounts 2025 to 2026",
+      "summary": "Combined accounts for UK Atomic Energy Authority (UKAEA) pension schemes for year ended 31 March 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-15T13:55:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: Department for Business and Trade annual report and accounts for 2025 to 2026",
+      "summary": "Detailed commentary on the performance, governance arrangements and expenditure of the Department for Business and Trade (DBT).",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-annual-report-and-accounts-for-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T13:28:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
       "summary": "This plan sets out how the Department for Energy Security and Net Zero plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
@@ -245,54 +309,6 @@
       ]
     },
     {
-      "title": "International treaty: UK-India CETA Chapter 12: Digital Trade",
-      "summary": "Text of chapter 12 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-12-digital-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 19: Small and Medium-Sized Enterprises",
-      "summary": "Text of chapter 19 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-19-small-and-medium-sized-enterprises",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 15: Government Procurement",
-      "summary": "Text of chapter 15 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-15-government-procurement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 10: Temporary Movement of Natural Persons",
-      "summary": "Text of chapter 10 and associated annex of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-10-temporary-movement-of-natural-persons",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Corporate report: National Energy System Operator framework document",
       "summary": "Framework document between the National Energy System Operator (NESO) and the Department for Energy Security and Net Zero (DESNZ).",
       "link": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
@@ -449,30 +465,6 @@
       "ai_tags": [
         "Heat pumps"
       ]
-    },
-    {
-      "title": "Research: Homes for Net Zero research programme",
-      "summary": "Homes for Net Zero is a longitudinal in-home energy monitoring trial providing research insight on homeowner transitions to Net Zero.",
-      "link": "https://www.gov.uk/government/publications/homes-for-net-zero-research-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-09T10:28:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Oil and Gas: fees and charges",
-      "summary": "Regulations and guidance on fees and charging for environmental and other regulatory functions for offshore oil and gas exploration and production, offshore gas unloading and storage and offshore carbon dioxide storage activities.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-fees-and-charges",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-09T10:04:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

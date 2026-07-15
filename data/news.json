@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:03:29.734766Z",
+  "generated_at": "2026-07-15T13:30:03.802936Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,100 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
+      "summary": "This plan sets out how the Department for Energy Security and Net Zero plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
+      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-15T11:12:23+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Business and Trade",
+      "summary": "This plan sets out how the Department for Business and Trade plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
+      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-business-and-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T11:11:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: UK cleantech innovation challenges: programme overview",
+      "summary": "This publication sets out the purpose of the cleantech innovation challenges and how they will work.",
+      "link": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-15T11:01:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Notice: UK carbon management innovation challenge",
+      "summary": "Accelerating the development, demonstration and commercialisation of innovative solutions for carbon capture and greenhouse gas removal in the UK.",
+      "link": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-15T11:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
+      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T10:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT register of board members’ interests 2026 to 2027",
+      "summary": "A register of the private interests declared by the Department for Business and Trade (DBT) board members.",
+      "link": "https://www.gov.uk/government/publications/dbt-register-of-board-members-interests-2026-to-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T09:22:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Backing your business: Small Business Plan one year on",
+      "summary": "An update on how the Small Business Plan has supported small and medium-sized businesses to start, scale and grow over the past year.",
+      "link": "https://www.gov.uk/government/publications/backing-your-business-small-business-plan-one-year-on",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T08:30:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK appoints Kate Harrisson as new HMTC for China and Hong Kong",
+      "summary": "UK appoints Kate Harrisson as new HMTC for China and Hong Kong",
+      "link": "https://www.gov.uk/government/news/uk-appoints-kate-harrisson-as-new-hmtc-for-china-and-hong-kong",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T08:06:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "International treaty: UK-India CETA Chapter 30: Final Provisions",
       "summary": "Text of chapter 30 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
@@ -190,66 +284,6 @@
       "title": "International treaty: UK-India CETA Chapter 10: Temporary Movement of Natural Persons",
       "summary": "Text of chapter 10 and associated annex of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
       "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-10-temporary-movement-of-natural-persons",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 11: Telecommunications",
-      "summary": "Text of chapter 11 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-11-telecommunications",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 9: Financial Services",
-      "summary": "Text of chapter 9 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-9-financial-services",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 18: Subsidies",
-      "summary": "Text of chapter 18 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-18-subsidies",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 7: Technical Barriers to Trade",
-      "summary": "Text of chapter 7 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-7-technical-barriers-to-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 20: Labour",
-      "summary": "Text of chapter 20 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-20-labour",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-14T23:01:06+00:00",
       "matched": [],
@@ -436,36 +470,6 @@
       "link": "https://www.gov.uk/guidance/oil-and-gas-fees-and-charges",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-09T10:04:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-09T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
-      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-09T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Sizewell B power plant given lifetime extension to 2055",
-      "summary": "Sizewell B power plant given 20‑year lifetime extension to continue operating until 2055.",
-      "link": "https://www.gov.uk/government/news/sizewell-b-power-plant-given-lifetime-extension-to-2055",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-08T21:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

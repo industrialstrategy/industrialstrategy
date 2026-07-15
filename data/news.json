@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T19:15:15.190800Z",
+  "generated_at": "2026-07-15T02:03:02.826649Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,11 @@
   "count": 40,
   "items": [
     {
-      "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
-      "summary": "Export control licensing data for 1 January to 31 December 2025.",
-      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+      "title": "International treaty: UK-India CETA Chapter 30: Final Provisions",
+      "summary": "Text of chapter 30 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-30-final-provisions",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T16:01:40+00:00",
+      "published": "2026-07-14T23:01:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -31,11 +31,11 @@
       ]
     },
     {
-      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
-      "summary": "Export control licensing data for 1 October to 31 December 2025.",
-      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+      "title": "International treaty: UK-India CETA: associated documents",
+      "summary": "Associated documents of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-associated-documents",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T16:01:34+00:00",
+      "published": "2026-07-14T23:01:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -43,48 +43,220 @@
       ]
     },
     {
-      "title": "Policy paper: Industrial Strategy Jobs Plans",
-      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
+      "title": "International treaty: UK-India CETA Chapter 24: Good Regulatory Practice",
+      "summary": "Text of chapter 24 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-24-good-regulatory-practice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T15:53:46+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
+      "published": "2026-07-14T23:01:07+00:00",
+      "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Industrial strategy"
+        "Trade"
       ]
     },
     {
-      "title": "Transparency data: Ministerial Group for Digital Inclusion: terms of reference",
-      "summary": "Terms of reference for Ministerial Group for Digital Inclusion.",
-      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+      "title": "International treaty: UK-India CETA Chapter 27: Administrative and Institutional Provisions",
+      "summary": "Text of chapter 27 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-27-administrative-and-institutional-provisions",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T15:43:35+00:00",
+      "published": "2026-07-14T23:01:07+00:00",
       "matched": [],
       "ai_summary": "",
-      "ai_tags": []
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
-      "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
-      "summary": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
-      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+      "title": "Guidance: UK-India CETA: draft explanatory memorandum",
+      "summary": "The memorandum describes the general effect of the UK-India Comprehensive Economic and Trade Agreement (CETA) as well as its financial, legal and policy implications.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-draft-explanatory-memorandum",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T15:43:31+00:00",
+      "published": "2026-07-14T23:01:07+00:00",
       "matched": [],
       "ai_summary": "",
-      "ai_tags": []
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
-      "title": "Research: Retained EU law and assimilated law dashboard",
-      "summary": "This dashboard shows a list of retained EU law (REUL) and assimilated law. These are laws that the UK saved to ensure legislative continuity immediately after Brexit.",
-      "link": "https://www.gov.uk/government/publications/retained-eu-law-dashboard",
+      "title": "Policy paper: UK-India trade deal: conclusion summary",
+      "summary": "The conclusion summary explains the provisions and chapters in the UK-India trade deal.",
+      "link": "https://www.gov.uk/government/publications/uk-india-trade-deal-conclusion-summary",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T15:42:55+00:00",
+      "published": "2026-07-14T23:01:07+00:00",
       "matched": [],
       "ai_summary": "",
-      "ai_tags": []
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 26: Anti-Corruption",
+      "summary": "Text of chapter 26 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-26-anti-corruption",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 29: Dispute Settlement",
+      "summary": "Text of chapter 29 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-29-dispute-settlement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Promotional material: UK-India Free Trade Agreement: Business Mobility explainer",
+      "summary": "Information on the provisions related to mobility in the UK-India Free Trade Agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-india-free-trade-agreement-business-mobility-explainer",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 28: General Provisions and Exceptions",
+      "summary": "Text of chapter 28 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-28-general-provisions-and-exceptions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 25: Transparency",
+      "summary": "Text of chapter 25 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-25-transparency",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 12: Digital Trade",
+      "summary": "Text of chapter 12 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-12-digital-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 19: Small and Medium-Sized Enterprises",
+      "summary": "Text of chapter 19 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-19-small-and-medium-sized-enterprises",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 15: Government Procurement",
+      "summary": "Text of chapter 15 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-15-government-procurement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 10: Temporary Movement of Natural Persons",
+      "summary": "Text of chapter 10 and associated annex of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-10-temporary-movement-of-natural-persons",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 11: Telecommunications",
+      "summary": "Text of chapter 11 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-11-telecommunications",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 9: Financial Services",
+      "summary": "Text of chapter 9 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-9-financial-services",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 18: Subsidies",
+      "summary": "Text of chapter 18 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-18-subsidies",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 7: Technical Barriers to Trade",
+      "summary": "Text of chapter 7 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-7-technical-barriers-to-trade",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "International treaty: UK-India CETA Chapter 20: Labour",
+      "summary": "Text of chapter 20 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
+      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-20-labour",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-14T23:01:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
       "title": "Corporate report: National Energy System Operator framework document",
@@ -98,100 +270,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Net zero"
-      ]
-    },
-    {
-      "title": "Transparency data: Post Office future technology portfolio: summary business case",
-      "summary": "Summary of the business case for Post Office future technology portfolio (FTP) programme business case (PBC).",
-      "link": "https://www.gov.uk/government/publications/post-office-future-technology-portfolio-summary-business-case",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T12:27:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office strategic transformation plan: summary business case",
-      "summary": "Summary of the business case for Post Office strategic transformation plan (STP) programme business case (PBC).",
-      "link": "https://www.gov.uk/government/publications/post-office-strategic-transformation-plan-summary-business-case",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T12:27:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: ending one-sided flexibility – reforms of zero hours and similar contracts",
-      "summary": "We are seeking views on reforms relating to zero hours and similar contracts, to implement measures in the Employment Rights Act 2025 to end one-sided flexibility.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-ending-one-sided-flexibility-reforms-of-zero-hours-and-similar-contracts",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T12:10:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach",
-      "summary": "This action plan aims to improve the lives of unpaid carers in England.",
-      "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T10:42:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Horizon Family Members Redress Scheme: letter from the Director of Post Office Policy",
-      "summary": "Letters to Lost Chances about the redress scheme for family members of postmasters affected by the Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letter-from-the-director-of-post-office-policy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T10:37:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Family Members Redress Scheme: privacy notice",
-      "summary": "Details of how we collect, handle and share the personal data of individuals who apply to register for the Horizon Family Members Redress Scheme.",
-      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T10:30:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Estimating non-tariff measures (NTMs): DBT working paper",
-      "summary": "DBT paper on practical NTM estimation for computable general equilibrium (CGE) modelling using best practice gravity.",
-      "link": "https://www.gov.uk/government/publications/estimating-non-tariff-measures-ntms-dbt-working-paper",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T10:12:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Retained EU Law (REUL) and Assimilated Law Parliamentary Reports",
-      "summary": "The reports fulfil a statutory duty to provide updates as set out in the REUL Act.",
-      "link": "https://www.gov.uk/government/publications/retained-eu-law-reul-parliamentary-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T09:26:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK launches Call for Input on deepening trade relationships",
-      "summary": "UK launches Call for Input on trade relationships with Indonesia, the Philippines, the United Arab Emirates and Uruguay, as CPTPP accession discussions advance",
-      "link": "https://www.gov.uk/government/news/uk-launches-call-for-input-on-deepening-trade-relationships",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T08:53:00+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {
@@ -235,67 +313,11 @@
       "ai_tags": []
     },
     {
-      "title": "Deepening UK trade relationships with Indonesia, the Philippines, the United Arab Emirates and Uruguay",
-      "summary": "We are seeking input on how the UK can deepen trade relationships with Indonesia, the Philippines, the United Arab Emirates (UAE) and Uruguay.",
-      "link": "https://www.gov.uk/government/consultations/deepening-uk-trade-relationships-with-indonesia-the-philippines-the-united-arab-emirates-and-uruguay",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T08:33:54+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Large businesses' payment practices and performance statistics: methodology",
-      "summary": "Description of the methods and data used to produce the large businesses' payment practices and performance statistics.",
-      "link": "https://www.gov.uk/government/publications/large-businesses-payment-practices-and-performance-statistics-methodology",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statistics at DBT",
-      "summary": "We publish statistics on business populations, building materials, small business surveys, international trade, strategic export controls, foreign direct investment and inward investment.",
-      "link": "https://www.gov.uk/government/organisations/department-for-business-and-trade/about/statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-14T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Large businesses' payment practices and performance statistics: pre-release access",
-      "summary": "Pre-release access list for the statistics on large businesses' payment practices and performance.",
-      "link": "https://www.gov.uk/government/statistics/large-businesses-payment-practices-and-performance-statistics-pre-release-access",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Large businesses' payment practices and performance statistics: 2025",
-      "summary": "Annual statistics describing how large UK businesses pay their suppliers.",
-      "link": "https://www.gov.uk/government/statistics/large-businesses-payment-practices-and-performance-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T08:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

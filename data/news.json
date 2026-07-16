@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:05:35.264024Z",
+  "generated_at": "2026-07-16T13:41:24.282255Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: Department for Business and Trade information asset register",
+      "summary": "This information asset register provides a summary of information assets held by the Department for Business and Trade (DBT) in the UK.",
+      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-information-asset-register",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T13:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Crackdown on the loudest fireworks to protect families, pets and wildlife",
+      "summary": "New common-sense proposals announced today will see the loudest fireworks restricted to professional displays",
+      "link": "https://www.gov.uk/government/news/crackdown-on-the-loudest-fireworks-to-protect-families-pets-and-wildlife",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T09:13:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK Government-to-Government (G2G) Strategy",
+      "summary": "The G2G Strategy sets out the government’s approach to delivering growth through G2G partnerships.",
+      "link": "https://www.gov.uk/government/publications/uk-government-to-government-g2g-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Care workers to be represented in Fair Pay Agreements",
+      "summary": "New negotiating body to be set up as part of the first ever adult social care Fair Pay Agreement, representing millions of care workers",
+      "link": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T08:15:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Corporate report: UKAEA Annual Report and Accounts 2025 to 2026",
       "summary": "Report on expenditure and performance of the UK Atomic Energy Authority, 1 April 2025 to 31 March 2026.",
@@ -254,66 +306,6 @@
       "title": "International treaty: UK-India CETA Chapter 24: Good Regulatory Practice",
       "summary": "Text of chapter 24 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
       "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-24-good-regulatory-practice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 27: Administrative and Institutional Provisions",
-      "summary": "Text of chapter 27 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-27-administrative-and-institutional-provisions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: UK-India CETA: draft explanatory memorandum",
-      "summary": "The memorandum describes the general effect of the UK-India Comprehensive Economic and Trade Agreement (CETA) as well as its financial, legal and policy implications.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-draft-explanatory-memorandum",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: UK-India trade deal: conclusion summary",
-      "summary": "The conclusion summary explains the provisions and chapters in the UK-India trade deal.",
-      "link": "https://www.gov.uk/government/publications/uk-india-trade-deal-conclusion-summary",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 26: Anti-Corruption",
-      "summary": "Text of chapter 26 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-26-anti-corruption",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 29: Dispute Settlement",
-      "summary": "Text of chapter 29 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-29-dispute-settlement",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-14T23:01:07+00:00",
       "matched": [],

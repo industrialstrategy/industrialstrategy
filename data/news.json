@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T13:41:24.282255Z",
+  "generated_at": "2026-07-16T19:05:41.227549Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,70 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Dame Jayne-Anne Gadhia appointed Chair of the Financial Reporting Council",
+      "summary": "Dame Jayne-Anne will take on the role from September.",
+      "link": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T17:12:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Plug-in solar: Regulatory amendment and interim product specification",
+      "summary": "We're seeking views on proposals to enable the safe and legal use of plug-in solar (plug-in microgeneration) products in the UK.",
+      "link": "https://www.gov.uk/government/consultations/plug-in-solar",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-16T16:08:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T15:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals assessment framework",
+      "summary": "This framework brings together existing published material to provide more clarity on the principles applied when assessing Horizon Shortfall Scheme Appeals (HSSA) claims.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-16T15:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-16T14:18:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: DESNZ annual report and accounts 2025 to 2026",
+      "summary": "Report on expenditure and performance of the Department for Energy Security and Net Zero, 1 April 2025 to 31 March 2026.",
+      "link": "https://www.gov.uk/government/publications/desnz-annual-report-and-accounts-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-16T13:52:16+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Transparency data: Department for Business and Trade information asset register",
       "summary": "This information asset register provides a summary of information assets held by the Department for Business and Trade (DBT) in the UK.",
@@ -61,11 +125,11 @@
       "ai_tags": []
     },
     {
-      "title": "Care workers to be represented in Fair Pay Agreements",
-      "summary": "New negotiating body to be set up as part of the first ever adult social care Fair Pay Agreement, representing millions of care workers",
+      "title": "Care workers to be represented in fair pay agreements",
+      "summary": "New negotiating body to be set up as part of the first ever adult social care fair pay agreement, representing millions of care workers.",
       "link": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T08:15:06+00:00",
+      "published": "2026-07-16T08:15:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -92,10 +156,10 @@
     },
     {
       "title": "Hundreds more schools to save on bills as government solar drive slashes millions off energy costs",
-      "summary": "First wave of schools to get government-funded solar will save £220 million on their bills to reinvest in children’s education",
+      "summary": "First wave of schools to get government-funded solar will save £220 million on their bills to reinvest in children’s education.",
       "link": "https://www.gov.uk/government/news/hundreds-more-schools-to-save-on-bills-as-government-solar-drive-slashes-millions-off-energy-costs",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T23:30:03+00:00",
+      "published": "2026-07-15T23:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -227,7 +291,7 @@
       "summary": "Accelerating the development, demonstration and commercialisation of innovative solutions for carbon capture and greenhouse gas removal in the UK.",
       "link": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T11:00:06+00:00",
+      "published": "2026-07-15T11:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -277,42 +341,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 30: Final Provisions",
-      "summary": "Text of chapter 30 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-30-final-provisions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA: associated documents",
-      "summary": "Associated documents of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-associated-documents",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 24: Good Regulatory Practice",
-      "summary": "Text of chapter 24 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-24-good-regulatory-practice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Corporate report: National Energy System Operator framework document",
@@ -416,36 +444,6 @@
       "link": "https://www.gov.uk/government/publications/clean-flexibility-roadmap",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-13T08:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Consumer-led flexibility: consumer engagement",
-      "summary": "We're seeking views on proposals on the best approach to engage consumers on consumer-led flexibility.",
-      "link": "https://www.gov.uk/government/consultations/consumer-led-flexibility-consumer-engagement",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-13T08:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-10T16:15:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference",
-      "summary": "Four-year low-carbon dispatchable (LCD) CfD signed with Lynemouth Power Station, reducing subsidy and strengthening sustainability.",
-      "link": "https://www.gov.uk/government/publications/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-09T14:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

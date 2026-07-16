@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:06:50.307560Z",
+  "generated_at": "2026-07-16T02:12:05.983928Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Hundreds more schools to save on bills as government solar drive slashes millions off energy costs",
+      "summary": "First wave of schools to get government-funded solar will save £220 million on their bills to reinvest in children’s education",
+      "link": "https://www.gov.uk/government/news/hundreds-more-schools-to-save-on-bills-as-government-solar-drive-slashes-millions-off-energy-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-15T23:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Horizon Family Members Redress Scheme: letter from the Director of Post Office Policy",
+      "summary": "Letters to Lost Chances about the redress scheme for family members of postmasters affected by the Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letter-from-the-director-of-post-office-policy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T23:15:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Register for the Horizon Family Members Redress Scheme",
+      "summary": "Use the online form to register as an affected family member of the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/register-for-the-horizon-family-members-redress-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-15T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Make Work Pay: employment rights for unpaid carers and parents of seriously ill children",
       "summary": "We are seeking views on the employment rights that are available to people with unpaid caring responsibilities and parents who have a seriously ill child.",
@@ -285,30 +315,6 @@
       ]
     },
     {
-      "title": "International treaty: UK-India CETA Chapter 28: General Provisions and Exceptions",
-      "summary": "Text of chapter 28 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-28-general-provisions-and-exceptions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "International treaty: UK-India CETA Chapter 25: Transparency",
-      "summary": "Text of chapter 25 of the Comprehensive Economic and Trade Agreement (CETA) between the United Kingdom of Great Britain and Northern Ireland and India.",
-      "link": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-25-transparency",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-14T23:01:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Corporate report: National Energy System Operator framework document",
       "summary": "Framework document between the National Energy System Operator (NESO) and the Department for Energy Security and Net Zero (DESNZ).",
       "link": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
@@ -453,18 +459,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Research: The suitability of reversible air-to-air heat pumps for UK domestic use",
-      "summary": "Detailed modelling assessing energy performance, cost, and overall suitability of reversible air‑to‑air heat pumps in a range of UK home archetypes and scenarios.",
-      "link": "https://www.gov.uk/government/publications/the-suitability-of-reversible-air-to-air-heat-pumps-for-uk-domestic-use",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-09T10:28:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
     }
   ]
 }

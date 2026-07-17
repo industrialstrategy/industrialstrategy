@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:21:33.373167Z",
+  "generated_at": "2026-07-17T19:03:12.830257Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 20 July 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-20-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-17T16:27:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Opt-out collective actions regime review: call for evidence",
+      "summary": "This call for evidence seeks feedback on access to, and the operation of, the opt-out collective actions regime for competition law claims.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/opt-out-collective-actions-regime-review-call-for-evidence",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-17T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Swifter and simpler competition redress, regulatory appeals and competition enforcement",
+      "summary": "This consultation includes proposals to make opt-out collective actions, regulatory appeals and competition enforcement swifter and simpler.",
+      "link": "https://www.gov.uk/government/consultations/swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-17T15:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Low Carbon Kent",
+      "summary": "Low Carbon Kent is a network of businesses tackling and adapting to climate change.\nThey aim to reduce costs by cutting emissions and promote the opportunities of the low carbon market and circular economy.",
+      "link": "https://www.gov.uk/business-finance-support/low-carbon-kent",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-17T14:39:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: DBT standards for official statistics",
       "summary": "Department for Business and Trade's (DBT) statistical work programme and corporate standards for producing official statistics.",
@@ -131,7 +171,7 @@
       "summary": "Report on expenditure and performance of the Department for Energy Security and Net Zero, 1 April 2025 to 31 March 2026.",
       "link": "https://www.gov.uk/government/publications/desnz-annual-report-and-accounts-2025-to-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-16T13:52:16+00:00",
+      "published": "2026-07-16T13:52:00+00:00",
       "matched": [
         "net zero"
       ],
@@ -321,18 +361,6 @@
       ]
     },
     {
-      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Business and Trade",
-      "summary": "This plan sets out how the Department for Business and Trade plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
-      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-business-and-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T11:11:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: UK cleantech innovation challenges: programme overview",
       "summary": "This publication sets out the purpose of the cleantech innovation challenges and how they will work.",
       "link": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
@@ -354,30 +382,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
-      "summary": "The Secretary of State for Business and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T10:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT register of board members’ interests 2026 to 2027",
-      "summary": "A register of the private interests declared by the Department for Business and Trade (DBT) board members.",
-      "link": "https://www.gov.uk/government/publications/dbt-register-of-board-members-interests-2026-to-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T09:22:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {
@@ -443,18 +447,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Nuclear Decommissioning Funding Account: statement for 2025 to 2026",
-      "summary": "Statement of the Nuclear Decommissioning Funding Account for the period from 1 April 2025 to 31 March 2026.",
-      "link": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-13T13:46:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
     }
   ]
 }

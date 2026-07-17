@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T02:22:44.920490Z",
+  "generated_at": "2026-07-17T08:02:48.959931Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Statutory guidance: Capacity Market Rules",
+      "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
+      "link": "https://www.gov.uk/government/publications/capacity-market-rules",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-17T08:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "WTO General Council July 2026: UK Statements",
+      "summary": "UK Statements at the World Trade Organization's General Council. Delivered by the UK's Permanent Representative to the WTO and the UN, Kumar Iyer.",
+      "link": "https://www.gov.uk/government/speeches/wto-general-council-july-2026-uk-statements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-17T07:43:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Dame Jayne-Anne Gadhia appointed Chair of the Financial Reporting Council",
       "summary": "Dame Jayne-Anne will take on the role from September.",
@@ -333,16 +355,6 @@
       "ai_tags": []
     },
     {
-      "title": "UK appoints Kate Harrisson as new HMTC for China and Hong Kong",
-      "summary": "UK appoints Kate Harrisson as new HMTC for China and Hong Kong",
-      "link": "https://www.gov.uk/government/news/uk-appoints-kate-harrisson-as-new-hmtc-for-china-and-hong-kong",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T08:06:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: National Energy System Operator framework document",
       "summary": "Framework document between the National Energy System Operator (NESO) and the Department for Energy Security and Net Zero (DESNZ).",
       "link": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
@@ -434,16 +446,6 @@
       "link": "https://www.gov.uk/guidance/carbon-budgets",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-13T09:11:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Clean flexibility roadmap",
-      "summary": "A roadmap setting out the government’s vision for a clean, flexible, consumer-focused electricity system.",
-      "link": "https://www.gov.uk/government/publications/clean-flexibility-roadmap",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-13T08:00:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

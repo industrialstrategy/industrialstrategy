@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T08:02:48.959931Z",
+  "generated_at": "2026-07-17T13:21:33.373167Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,42 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: DBT standards for official statistics",
+      "summary": "Department for Business and Trade's (DBT) statistical work programme and corporate standards for producing official statistics.",
+      "link": "https://www.gov.uk/government/publications/dbt-standards-for-official-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-17T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Independent review on greenhouse gas removals: government response",
+      "summary": "A policy statement outlining the government’s response to the independent review on greenhouse gas removals.",
+      "link": "https://www.gov.uk/government/publications/independent-review-on-greenhouse-gas-removals-government-response",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-17T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Independent report: Greenhouse gas removals (GGRs): independent review",
+      "summary": "An independent review of greenhouse gas removals to consider how options can assist the UK in meeting our net zero targets, out to 2050.",
+      "link": "https://www.gov.uk/government/publications/greenhouse-gas-removals-ggrs-independent-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-17T08:30:04+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Statutory guidance: Capacity Market Rules",
       "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
@@ -345,16 +381,6 @@
       ]
     },
     {
-      "title": "Policy paper: Backing your business: Small Business Plan one year on",
-      "summary": "An update on how the Small Business Plan has supported small and medium-sized businesses to start, scale and grow over the past year.",
-      "link": "https://www.gov.uk/government/publications/backing-your-business-small-business-plan-one-year-on",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: National Energy System Operator framework document",
       "summary": "Framework document between the National Energy System Operator (NESO) and the Department for Energy Security and Net Zero (DESNZ).",
       "link": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
@@ -429,26 +455,6 @@
       "ai_tags": [
         "Nuclear"
       ]
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-13T11:39:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Carbon Budgets",
-      "summary": "A carbon budget places a restriction on the total amount of greenhouse gases the UK can emit over a 5-year period. The UK is the first country to set legally binding carbon budgets.",
-      "link": "https://www.gov.uk/guidance/carbon-budgets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-13T09:11:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

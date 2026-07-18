@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:07:42.179721Z",
+  "generated_at": "2026-07-18T18:57:34.097791Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: UK Energy in Brief: 2025",
+      "summary": "Summary of some of the key annual statistics in the UK energy system: how energy is produced and used and the way in which energy use influences greenhouse gas emissions; combined heat and power, renewable energy, energy efficiency, energy prices and fuel poverty.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-energy-in-brief-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-18T13:05:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Boiler Upgrade Scheme: June 2026",
       "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
@@ -441,16 +451,6 @@
       "ai_tags": [
         "Net zero"
       ]
-    },
-    {
-      "title": "Form: Young Voices for Climate and Nature",
-      "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
-      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-14T08:39:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

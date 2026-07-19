@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:08:45.112633Z",
+  "generated_at": "2026-07-19T19:02:24.383960Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Digest of UK Energy Statistics: 2025",
+      "summary": "The Digest of United Kingdom Energy Statistics (DUKES) is the annual energy statistics publication of DESNZ. It provides a detailed and comprehensive picture on the production, trade and consumption of individual fuels and of energy as a whole.",
+      "link": "https://www.gov.uk/government/statistics/announcements/digest-of-uk-energy-statistics-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-19T13:24:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Accredited official statistics: UK Energy in Brief: 2025",
       "summary": "Summary of some of the key annual statistics in the UK energy system: how energy is produced and used and the way in which energy use influences greenhouse gas emissions; combined heat and power, renewable energy, energy efficiency, energy prices and fuel poverty.",
@@ -436,20 +448,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation"
-      ]
-    },
-    {
-      "title": "Corporate report: National Energy System Operator framework document",
-      "summary": "Framework document between the National Energy System Operator (NESO) and the Department for Energy Security and Net Zero (DESNZ).",
-      "link": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-14T14:41:11+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
       ]
     }
   ]

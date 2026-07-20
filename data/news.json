@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:21:22.211337Z",
+  "generated_at": "2026-07-20T08:53:03.934767Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-20T08:14:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
+      "summary": "Export control licensing data for 1 January to 31 March 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-20T07:59:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Accredited official statistics: Digest of UK Energy Statistics: 2025",
       "summary": "The Digest of United Kingdom Energy Statistics (DUKES) is the annual energy statistics publication of DESNZ. It provides a detailed and comprehensive picture on the production, trade and consumption of individual fuels and of energy as a whole.",
@@ -401,18 +423,6 @@
       "ai_tags": []
     },
     {
-      "title": "Corporate report: Department for Business and Trade annual report and accounts for 2025 to 2026",
-      "summary": "Detailed commentary on the performance, governance arrangements and expenditure of the Department for Business and Trade (DBT).",
-      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-annual-report-and-accounts-for-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T13:28:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
       "summary": "This plan sets out how the Department for Energy Security and Net Zero plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
       "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero",
@@ -432,18 +442,6 @@
       "link": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-15T11:01:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Notice: UK carbon management innovation challenge",
-      "summary": "Accelerating the development, demonstration and commercialisation of innovative solutions for carbon capture and greenhouse gas removal in the UK.",
-      "link": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T11:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

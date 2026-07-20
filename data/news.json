@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:53:03.934767Z",
+  "generated_at": "2026-07-20T13:57:21.697856Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-20T13:23:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: UK strategic export controls annual report 2025",
+      "summary": "This report gives a detailed overview of the UK's strategic export controls policy and export licensing decisions for the period January to December 2025.",
+      "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-20T09:32:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 20 July 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-20-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-20T08:55:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--110",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-20T08:53:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
       "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
@@ -102,16 +146,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/energy-flow-chart-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-18T12:41:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 20 July 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-20-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-17T16:27:46+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -381,33 +415,11 @@
       "ai_tags": []
     },
     {
-      "title": "Corporate report: UK strategic export controls annual report 2025",
-      "summary": "This report gives a detailed overview of the UK's strategic export controls policy and export licensing decisions for the period January to December 2025.",
-      "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T14:45:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, October to December 2025",
       "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
       "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-15T14:34:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: National treatment of conformity assessment bodies (NTCABs) with India",
-      "summary": "How the NTCABs process ensures UK and India conformity assessment bodies (CABs) are treated equally.",
-      "link": "https://www.gov.uk/government/publications/national-treatment-of-conformity-assessment-bodies-ntcabs-with-india",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T14:03:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -434,18 +446,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Net zero"
-      ]
-    },
-    {
-      "title": "Notice: UK cleantech innovation challenges: programme overview",
-      "summary": "This publication sets out the purpose of the cleantech innovation challenges and how they will work.",
-      "link": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T11:01:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
       ]
     }
   ]

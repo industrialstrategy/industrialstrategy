@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:23:05.608964Z",
+  "generated_at": "2026-07-21T13:38:47.865140Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
+      "summary": "The Warm Homes Loan Scheme (WHLS) will unlock private lending and investment at scale for home retrofit.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-21T12:17:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Warm Homes Loan Scheme: due diligence and monitoring privacy notice",
+      "summary": "How we will use your personal data and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-21T12:17:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-21T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Correspondence: Capacity Market auction parameters: letter from DESNZ to NESO, July 2026",
       "summary": "Letter setting out the Capacity Market auction parameters for the T-1 auction for the 2027 to 2028 delivery year, and the T-4 auction for the 2030 to 2031 delivery year.",
@@ -59,6 +89,16 @@
       "ai_tags": []
     },
     {
+      "title": "2nd Offshore Carbon Dioxide Storage Licensing Round Appropriate Assessment",
+      "summary": "Consultation on the Appropriate Assessment (AA) of areas applied for in the 2nd Offshore Carbon Dioxide Storage Licensing Round",
+      "link": "https://www.gov.uk/government/consultations/2nd-offshore-carbon-dioxide-storage-licensing-round-appropriate-assessment",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-20T15:31:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
@@ -79,16 +119,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 20 July 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-20-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-20T08:55:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Official Statistics: Trade and investment core statistics book",
@@ -319,30 +349,6 @@
       "ai_tags": []
     },
     {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-16T14:18:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: DESNZ annual report and accounts 2025 to 2026",
-      "summary": "Report on expenditure and performance of the Department for Energy Security and Net Zero, 1 April 2025 to 31 March 2026.",
-      "link": "https://www.gov.uk/government/publications/desnz-annual-report-and-accounts-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-16T13:52:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
       "title": "Transparency data: Department for Business and Trade information asset register",
       "summary": "This information asset register provides a summary of information assets held by the Department for Business and Trade (DBT) in the UK.",
       "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-information-asset-register",
@@ -390,16 +396,6 @@
       "link": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-16T08:15:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: UKAEA Annual Report and Accounts 2025 to 2026",
-      "summary": "Report on expenditure and performance of the UK Atomic Energy Authority, 1 April 2025 to 31 March 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-annual-report-and-accounts-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-16T07:08:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

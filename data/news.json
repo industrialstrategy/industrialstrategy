@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:22:49.547356Z",
+  "generated_at": "2026-07-21T08:23:05.608964Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Correspondence: Capacity Market auction parameters: letter from DESNZ to NESO, July 2026",
+      "summary": "Letter setting out the Capacity Market auction parameters for the T-1 auction for the 2027 to 2028 delivery year, and the T-4 auction for the 2030 to 2031 delivery year.",
+      "link": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-21T06:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Independent report: NESO Electricity Capacity Report 2026: findings of the Panel of Technical Experts",
+      "summary": "Report by the DESNZ independent Panel of Technical Experts providing advice on the National Energy System Operator’s 2026 Electricity Capacity Report.",
+      "link": "https://www.gov.uk/government/publications/neso-electricity-capacity-report-2026-findings-of-the-panel-of-technical-experts",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-21T06:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "New PM cuts tax on household electricity bills to give breathing space on cost of living",
+      "summary": "New Prime Minister takes immediate action to cut taxes on electricity bills to give millions of households breathing space this winter.",
+      "link": "https://www.gov.uk/government/news/new-pm-cuts-tax-on-household-electricity-bills-to-give-breathing-space-on-cost-of-living",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-21T05:05:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Offshore Energy Strategic Environmental Assessment (SEA): An overview of the SEA process",
       "summary": "An explanation of the offshore SEA  process, including documentation of the most recent assessment and related consultation.",
@@ -385,16 +415,6 @@
       "ai_tags": []
     },
     {
-      "title": "Hundreds more schools to save on bills as government solar drive slashes millions off energy costs",
-      "summary": "First wave of schools to get government-funded solar will save £220 million on their bills to reinvest in children’s education.",
-      "link": "https://www.gov.uk/government/news/hundreds-more-schools-to-save-on-bills-as-government-solar-drive-slashes-millions-off-energy-costs",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T23:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Correspondence: Horizon Family Members Redress Scheme: letter from the Director of Post Office Policy",
       "summary": "Letters to Lost Chances about the redress scheme for family members of postmasters affected by the Horizon scandal.",
       "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letter-from-the-director-of-post-office-policy",
@@ -420,26 +440,6 @@
       "link": "https://www.gov.uk/government/consultations/make-work-pay-employment-rights-for-unpaid-carers-and-parents-of-seriously-ill-children",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-15T14:59:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, October to December 2025",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T14:34:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: UKAEA pension schemes: combined annual accounts 2025 to 2026",
-      "summary": "Combined accounts for UK Atomic Energy Authority (UKAEA) pension schemes for year ended 31 March 2026.",
-      "link": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-15T13:55:20+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

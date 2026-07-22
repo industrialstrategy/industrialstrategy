@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:21:26.870344Z",
+  "generated_at": "2026-07-22T13:42:17.913103Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,95 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Contributing to the IPCC",
+      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-22T13:20:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Working Group I Contribution to the IPCC AR7, The Physical Science Basis: expert review",
+      "summary": "The Intergovernmental Panel on Climate Change (IPCC) has announced the expert review of the First Order Draft of its Working Group I contribution to the Seventh Assessment Report.",
+      "link": "https://www.gov.uk/government/publications/working-group-i-contribution-to-the-ipcc-ar7-the-physical-science-basis-expert-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-22T13:20:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Number of exporting registered businesses in the UK, 2016 to 2024",
+      "summary": "This release provides an estimate of the number and proportion of exporting registered businesses and the number and proportion of exporting registered small and medium enterprises (SMEs) in the UK between 2016 and 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/number-of-exporting-registered-businesses-in-the-uk-2016-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-22T13:13:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Decision: UK's steel trade measure from 1 July 2026",
+      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
+      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-22T12:29:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Corporate report: Summary of the first Fair Work Agency Advisory Board meeting",
+      "summary": "What was discussed at the first meeting of the Fair Work Agency (FWA) Advisory Board, on 7 May 2026.",
+      "link": "https://www.gov.uk/government/publications/summary-of-the-first-fair-work-agency-advisory-board-meeting",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-22T11:08:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
+      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-22T10:14:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: anti-dumping duty on bicycles and bicycle parts from Cambodia, China, Indonesia, Malaysia, Pakistan, Philippines, Sri Lanka, and Tunisia",
+      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade (previously Secretary of State for Business and Trade) relating to the anti-dumping duty on bicycles and bicycle parts from Cambodia, China, Indonesia, Malaysia, Pakistan, Philippines, Sri Lanka, and Tunisia.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-bicycles-and-bicycle-parts-from-cambodia-china-indonesia-malaysia-pakistan-philippines-sri-lanka-a",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-22T10:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Business Secretary: “I'm backing investment and innovation to power good growth in every corner of the UK”",
+      "summary": "New Business Secretary at Farnborough International Airshow to set out stall to go further and faster for growth by commercialising science and innovation to deliver for every postcode.",
+      "link": "https://www.gov.uk/government/news/business-secretary-im-backing-investment-and-innovation-to-power-good-growth-in-every-corner-of-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-22T08:40:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
@@ -297,40 +386,6 @@
       ]
     },
     {
-      "title": "Policy paper: Independent review on greenhouse gas removals: government response",
-      "summary": "A policy statement outlining the government’s response to the independent review on greenhouse gas removals.",
-      "link": "https://www.gov.uk/government/publications/independent-review-on-greenhouse-gas-removals-government-response",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-17T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Independent report: Greenhouse gas removals (GGRs): independent review",
-      "summary": "An independent review of greenhouse gas removals to consider how options can assist the UK in meeting our net zero targets, out to 2050.",
-      "link": "https://www.gov.uk/government/publications/greenhouse-gas-removals-ggrs-independent-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-17T08:30:04+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Statutory guidance: Capacity Market Rules",
-      "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-rules",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-17T08:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "WTO General Council July 2026: UK Statements",
       "summary": "UK Statements at the World Trade Organization's General Council. Delivered by the UK's Permanent Representative to the WTO and the UN, Kumar Iyer.",
       "link": "https://www.gov.uk/government/speeches/wto-general-council-july-2026-uk-statements",
@@ -367,7 +422,7 @@
       "summary": "This framework brings together existing published material to provide more clarity on the principles applied when assessing Horizon Shortfall Scheme Appeals (HSSA) claims.",
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T15:00:02+00:00",
+      "published": "2026-07-16T15:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -390,56 +445,6 @@
       "link": "https://www.gov.uk/government/news/crackdown-on-the-loudest-fireworks-to-protect-families-pets-and-wildlife",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-16T09:13:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Government-to-Government (G2G) Strategy",
-      "summary": "The G2G Strategy sets out the government’s approach to delivering growth through G2G partnerships.",
-      "link": "https://www.gov.uk/government/publications/uk-government-to-government-g2g-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T09:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Care workers to be represented in fair pay agreements",
-      "summary": "New negotiating body to be set up as part of the first ever adult social care fair pay agreement, representing millions of care workers.",
-      "link": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T08:15:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government brings British Steel into public ownership to protect UK steelmaking",
-      "summary": "The Government has today (16 July) taken British Steel into public ownership to protect the future of steel production in the UK.",
-      "link": "https://www.gov.uk/government/news/government-brings-british-steel-into-public-ownership-to-protect-uk-steelmaking",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T05:45:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Horizon Family Members Redress Scheme: letter from the Director of Post Office Policy",
-      "summary": "Letters to Lost Chances about the redress scheme for family members of postmasters affected by the Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letter-from-the-director-of-post-office-policy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-15T23:15:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

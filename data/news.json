@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T13:42:17.913103Z",
+  "generated_at": "2026-07-22T19:09:04.400831Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
+      "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
+      "link": "https://www.gov.uk/government/publications/the-uks-accession-to-cptpp-for-small-and-medium-sized-enterprises-smes",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-22T15:59:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ workforce management information, June 2026",
+      "summary": "Report on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-22T15:32:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Contributing to the IPCC",
       "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
@@ -334,16 +354,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy Flow Chart: 2025",
-      "summary": "Flow chart illustrating the flow of primary fuels from home production or imports to their eventual final uses.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-flow-chart-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-18T12:41:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Opt-out collective actions regime review: call for evidence",
       "summary": "This call for evidence seeks feedback on access to, and the operation of, the opt-out collective actions regime for competition law claims.",
       "link": "https://www.gov.uk/government/calls-for-evidence/opt-out-collective-actions-regime-review-call-for-evidence",
@@ -438,16 +448,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Crackdown on the loudest fireworks to protect families, pets and wildlife",
-      "summary": "New common-sense proposals announced today will see the loudest fireworks restricted to professional displays",
-      "link": "https://www.gov.uk/government/news/crackdown-on-the-loudest-fireworks-to-protect-families-pets-and-wildlife",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T09:13:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

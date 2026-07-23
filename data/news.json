@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:47:49.289522Z",
+  "generated_at": "2026-07-23T19:08:49.839818Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,31 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: UK goods and services schedules at the WTO",
+      "summary": "The UK has submitted its schedule of commitments under the General Agreement on Tariffs and Trade (GATT) and its schedule of commitments under the General Agreement on Trade in Services (GATS)  to the World Trade Organization (WTO).",
+      "link": "https://www.gov.uk/government/publications/uk-goods-and-services-schedules-at-the-wto",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-23T16:07:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
+      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-23T15:31:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Manufacturing"
+      ]
+    },
     {
       "title": "Transparency data: DBT: spending over £25,000, May 2026",
       "summary": "Reports on departmental spending over £25,000.",
@@ -374,18 +399,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: May 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-18T12:49:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Opt-out collective actions regime review: call for evidence",
       "summary": "This call for evidence seeks feedback on access to, and the operation of, the opt-out collective actions regime for competition law claims.",
       "link": "https://www.gov.uk/government/calls-for-evidence/opt-out-collective-actions-regime-review-call-for-evidence",
@@ -438,16 +451,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Dame Jayne-Anne Gadhia appointed Chair of the Financial Reporting Council",
-      "summary": "Dame Jayne-Anne will take on the role from September.",
-      "link": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T17:12:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

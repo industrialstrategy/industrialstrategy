@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:23:12.753877Z",
+  "generated_at": "2026-07-23T13:47:49.289522Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DBT: spending over £25,000, May 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-23T08:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-23T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
+      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-23T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, April 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-23T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
       "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
@@ -264,18 +308,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--110",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-20T08:53:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
       "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
       "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
@@ -416,38 +448,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
-      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
-      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T15:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals assessment framework",
-      "summary": "This framework brings together existing published material to provide more clarity on the principles applied when assessing Horizon Shortfall Scheme Appeals (HSSA) claims.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T15:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Department for Business and Trade information asset register",
-      "summary": "This information asset register provides a summary of information assets held by the Department for Business and Trade (DBT) in the UK.",
-      "link": "https://www.gov.uk/government/publications/department-for-business-and-trade-information-asset-register",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-16T13:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

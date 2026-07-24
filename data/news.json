@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:27:46.419904Z",
+  "generated_at": "2026-07-24T19:18:29.472631Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,40 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Big win for Scotch whisky as US tariffs are lifted",
+      "summary": "Whisky products will have zero tariffs in the US from today",
+      "link": "https://www.gov.uk/government/news/big-win-for-scotch-whisky-as-us-tariffs-are-lifted",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-24T17:31:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK support to Ukraine: factsheet",
+      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
+      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-24T15:23:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: The UK's Modern Industrial Strategy: year one",
+      "summary": "A one-year update on the delivery of commitments in the Modern Industrial Strategy.",
+      "link": "https://www.gov.uk/government/publications/the-uks-modern-industrial-strategy-year-one",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-24T15:20:56+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
     {
       "title": "Guidance: Using UK greenhouse gas inventory data in UK ETS monitoring and reporting: the country-specific factor list",
       "summary": "The Monitoring and Reporting Regulation, as modified by the UK ETS Order, allows nationally reported data to be used by operators as default factors in specific circumstances.",
@@ -412,36 +446,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/uk-energy-in-brief-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-18T13:05:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Opt-out collective actions regime review: call for evidence",
-      "summary": "This call for evidence seeks feedback on access to, and the operation of, the opt-out collective actions regime for competition law claims.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/opt-out-collective-actions-regime-review-call-for-evidence",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-17T15:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Swifter and simpler competition redress, regulatory appeals and competition enforcement",
-      "summary": "This consultation includes proposals to make opt-out collective actions, regulatory appeals and competition enforcement swifter and simpler.",
-      "link": "https://www.gov.uk/government/consultations/swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-17T15:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Low Carbon Kent",
-      "summary": "Low Carbon Kent is a network of businesses tackling and adapting to climate change.\nThey aim to reduce costs by cutting emissions and promote the opportunities of the low carbon market and circular economy.",
-      "link": "https://www.gov.uk/business-finance-support/low-carbon-kent",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-17T14:39:25+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

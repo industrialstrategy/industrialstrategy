@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:15:57.292150Z",
+  "generated_at": "2026-07-25T19:01:35.367520Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 27 July 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-27-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-25T14:48:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Big win for Scotch whisky as US tariffs are lifted",
       "summary": "Whisky products will have zero tariffs in the US from today",
@@ -439,16 +449,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: UK Energy in Brief: 2025",
-      "summary": "Summary of some of the key annual statistics in the UK energy system: how energy is produced and used and the way in which energy use influences greenhouse gas emissions; combined heat and power, renewable energy, energy efficiency, energy prices and fuel poverty.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-energy-in-brief-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-18T13:05:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:23:44.777001Z",
+  "generated_at": "2026-07-27T19:20:41.610376Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,31 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Applying for an export certificate",
+      "summary": "How to apply for an export certificate, including a Certificate of Free Sale, Certificate of Manufacture and Certificate of Good Manufacturing Practice.",
+      "link": "https://www.gov.uk/guidance/applying-for-an-export-certificate",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-27T14:47:44+00:00",
+      "matched": [
+        "manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: workforce management information June 2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-27T14:31:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
       "summary": "HM Revenue and Customs (HMRC) has concluded compound settlements with two UK exporter.",
@@ -355,30 +380,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Business Secretary: “I'm backing investment and innovation to power good growth in every corner of the UK”",
-      "summary": "New Business Secretary at Farnborough International Airshow to set out stall to go further and faster for growth by commercialising science and innovation to deliver for every postcode.",
-      "link": "https://www.gov.uk/government/news/business-secretary-im-backing-investment-and-innovation-to-power-good-growth-in-every-corner-of-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-22T08:40:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--3",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-21T14:27:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
         "Trade"
       ]
     },

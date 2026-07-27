@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T02:33:48.247716Z",
+  "generated_at": "2026-07-27T09:42:00.512622Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,30 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
+      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
+      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-27T09:29:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Interministerial Group for Net Zero, Energy and Climate Change Communiqué: 1 July 2026",
+      "summary": "A summary of the meeting held by the Interministerial Group for Net Zero, Energy and Climate Change.",
+      "link": "https://www.gov.uk/government/publications/interministerial-group-for-net-zero-energy-and-climate-change-communique-1-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-27T08:30:04+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
     {
       "title": "Accredited official statistics: Road fuel prices: 27 July 2026",
       "summary": "Weekly prices of unleaded petrol and diesel.",
@@ -425,30 +449,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
-      "summary": "Export control licensing data for 1 January to 31 March 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-20T07:59:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Digest of UK Energy Statistics: 2025",
-      "summary": "The Digest of United Kingdom Energy Statistics (DUKES) is the annual energy statistics publication of DESNZ. It provides a detailed and comprehensive picture on the production, trade and consumption of individual fuels and of energy as a whole.",
-      "link": "https://www.gov.uk/government/statistics/announcements/digest-of-uk-energy-statistics-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-19T13:24:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

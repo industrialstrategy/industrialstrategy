@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:42:00.512622Z",
+  "generated_at": "2026-07-27T14:23:44.777001Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,72 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
+      "summary": "HM Revenue and Customs (HMRC) has concluded compound settlements with two UK exporter.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-27T14:00:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Statutory guidance: Capacity Market Rules",
+      "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
+      "link": "https://www.gov.uk/government/publications/capacity-market-rules",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-27T13:49:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Government to support evacuated residents in Coalsnaughton",
+      "summary": "UK government to support residents of evacuated homes in Coalsnaughton.",
+      "link": "https://www.gov.uk/government/news/government-to-support-evacuated-residents-in-coalsnaughton",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-27T12:14:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Bill discounts for transmission network infrastructure: scheme design update",
+      "summary": "The scheme design for a bill discount scheme for households closest to new and significantly upgraded electricity transmission infrastructure.",
+      "link": "https://www.gov.uk/government/publications/bill-discounts-for-transmission-network-infrastructure-scheme-design-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-27T11:02:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Call for evidence: digital product record policy",
+      "summary": "The government is gathering views on digital product records to inform future policy development and understand the potential impacts for businesses, consumers and supply chains.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/call-for-evidence-digital-product-record-policy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-27T11:00:05+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Sub-national total final energy consumption during 2024",
+      "summary": "Data which aggregates the sub-national electricity, gas, road transport and residual fuels consumption datasets produced by DESNZ.",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-total-final-energy-consumption-during-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-27T10:34:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Decision: Gangmasters Licensing Appeals results and judgements",
       "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
@@ -327,18 +393,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: National survey of registered businesses’ exporting behaviours, attitudes and needs 2025",
-      "summary": "Data from fieldwork completed across 2025. The publication will consist of data tables, a written analytical report and a technical report. The data provides insights on UK registered businesses' behaviour and attitudes in relation to exporting.",
-      "link": "https://www.gov.uk/government/statistics/announcements/national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-21T14:08:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
       "summary": "The Warm Homes Loan Scheme (WHLS) will unlock private lending and investment at scale for home retrofit.",
       "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
@@ -394,58 +448,6 @@
       "link": "https://www.gov.uk/government/news/new-pm-cuts-tax-on-household-electricity-bills-to-give-breathing-space-on-cost-of-living",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-21T05:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Offshore Energy Strategic Environmental Assessment (SEA): An overview of the SEA process",
-      "summary": "An explanation of the offshore SEA  process, including documentation of the most recent assessment and related consultation.",
-      "link": "https://www.gov.uk/guidance/offshore-energy-strategic-environmental-assessment-sea-an-overview-of-the-sea-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-20T15:33:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "2nd Offshore Carbon Dioxide Storage Licensing Round Appropriate Assessment",
-      "summary": "Consultation on the Appropriate Assessment (AA) of areas applied for in the 2nd Offshore Carbon Dioxide Storage Licensing Round",
-      "link": "https://www.gov.uk/government/consultations/2nd-offshore-carbon-dioxide-storage-licensing-round-appropriate-assessment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-20T15:31:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-20T13:23:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: UK strategic export controls annual report 2025",
-      "summary": "This report gives a detailed overview of the UK's strategic export controls policy and export licensing decisions for the period January to December 2025.",
-      "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-20T09:32:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
-      "summary": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-20T08:14:24+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:55:54.752934Z",
+  "generated_at": "2026-07-28T19:16:43.364999Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Statutory guidance: Electronic and workplace balloting: code of practice",
+      "summary": "Guidance for trade unions, independent scrutineers, employers and union members on the conduct of electronic and workplace balloting for statutory trade union ballots.",
+      "link": "https://www.gov.uk/government/publications/electronic-and-workplace-balloting-code-of-practice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-28T15:20:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Policy paper: MoU between DBT and UKAS",
       "summary": "Memorandum of understanding between the Department for Business and Trade and United Kingdom Accreditation Service.",
@@ -419,16 +431,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Corporate report: Summary of the first Fair Work Agency Advisory Board meeting",
-      "summary": "What was discussed at the first meeting of the Fair Work Agency (FWA) Advisory Board, on 7 May 2026.",
-      "link": "https://www.gov.uk/government/publications/summary-of-the-first-fair-work-agency-advisory-board-meeting",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-22T11:08:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Research: Carbon capture, usage and storage (CCUS): business models",

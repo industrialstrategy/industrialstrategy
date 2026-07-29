@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T08:33:05.771341Z",
+  "generated_at": "2026-07-29T14:00:37.934286Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,78 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-29T10:14:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Statutory guidance: Distributing tips fairly: revised statutory code of practice",
+      "summary": "Guidance for employers and workers on the fair and transparent distribution of tips.",
+      "link": "https://www.gov.uk/government/publications/distributing-tips-fairly-revised-statutory-code-of-practice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-29T10:14:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: strengthening the law on tipping",
+      "summary": "We are seeking views on strengthening the law on tipping.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-strengthening-the-law-on-tipping",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-29T10:14:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Business Durham",
+      "summary": "Offers advice and guidance to support the growth and development of County Durham businesses and acts as the business gateway to Durham County Council.",
+      "link": "https://www.gov.uk/business-finance-support/business-durham",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-29T09:42:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Carbon Trust",
+      "summary": "Specialist support and resources to help businesses cut carbon emissions, save energy and work on new technologies.",
+      "link": "https://www.gov.uk/business-finance-support/carbon-trust",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-29T09:25:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - June 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-29T08:55:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - June 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-29T08:54:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Red Diesel Replacement competition: successful projects",
       "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
@@ -127,6 +199,20 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Decision: Net Zero Teesside Project: non-material change, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application for a non-material change relating to the onshore elements of a full chain CCUS project.",
+      "link": "https://www.gov.uk/government/publications/net-zero-teesside-project-non-material-change-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-27T23:00:00+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
     },
     {
       "title": "Accredited official statistics: Energy trends and prices: May - July 2026",
@@ -365,97 +451,11 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-23T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-23T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, April 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-april-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-23T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
-      "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
-      "link": "https://www.gov.uk/government/publications/the-uks-accession-to-cptpp-for-small-and-medium-sized-enterprises-smes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-22T15:59:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DESNZ workforce management information, June 2026",
       "summary": "Report on departmental staff numbers and costs.",
       "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-22T15:32:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contributing to the IPCC",
-      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
-      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-22T13:20:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Working Group I Contribution to the IPCC AR7, The Physical Science Basis: expert review",
-      "summary": "The Intergovernmental Panel on Climate Change (IPCC) has announced the expert review of the First Order Draft of its Working Group I contribution to the Seventh Assessment Report.",
-      "link": "https://www.gov.uk/government/publications/working-group-i-contribution-to-the-ipcc-ar7-the-physical-science-basis-expert-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-22T13:20:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Number of exporting registered businesses in the UK, 2016 to 2024",
-      "summary": "This release provides an estimate of the number and proportion of exporting registered businesses and the number and proportion of exporting registered small and medium enterprises (SMEs) in the UK between 2016 and 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/number-of-exporting-registered-businesses-in-the-uk-2016-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-22T13:13:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
-      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
-      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-22T10:14:29+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:51:52.828141Z",
+  "generated_at": "2026-07-30T19:21:17.095605Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Independent report: Made Smarter Adoption: impact and process evaluation",
+      "summary": "Independent evaluation of the design, delivery and impact of the Made Smarter Adoption programme from April 2022 to March 2025.",
+      "link": "https://www.gov.uk/government/publications/made-smarter-adoption-impact-and-process-evaluation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T15:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "The FSE Group",
       "summary": "FSE offers a range of loans and equity finance for innovative growth companies.",
@@ -431,18 +441,6 @@
       "link": "https://www.gov.uk/government/publications/electronic-and-workplace-balloting-code-of-practice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-28T15:20:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Policy paper: MoU between DBT and UKAS",
-      "summary": "Memorandum of understanding between the Department for Business and Trade and United Kingdom Accreditation Service.",
-      "link": "https://www.gov.uk/government/publications/mou-between-dbt-and-ukas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-28T11:22:29+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

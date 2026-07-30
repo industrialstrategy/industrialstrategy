@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:18:05.627758Z",
+  "generated_at": "2026-07-30T13:51:52.828141Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,19 +19,330 @@
   "count": 40,
   "items": [
     {
-      "title": "Research: Local Industrial Decarbonisation Plans (LIDP) competition: evaluation",
-      "summary": "An evaluation of the Local Industrial Decarbonisation Plans (LIDP) competition conducted from 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/local-industrial-decarbonisation-plans-lidp-competition-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:00:04+00:00",
+      "title": "The FSE Group",
+      "summary": "FSE offers a range of loans and equity finance for innovative growth companies.",
+      "link": "https://www.gov.uk/business-finance-support/the-fse-group",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T12:18:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Overseas business risk for Turkey",
+      "summary": "See below for information on key security and political risks which UK businesses may face when operating in Turkey.",
+      "link": "https://www.gov.uk/government/publications/overseas-business-risk-turkey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:53:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Export client reported impact survey technical reports",
+      "summary": "Technical reports for the export client reported impact survey.",
+      "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey-technical-reports",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:24:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
-        "Decarbonisation"
+        "Trade"
       ]
     },
     {
-      "title": "Notice: Notice to exporters 2026/17: compound settlement for breaches of export control",
+      "title": "Research: Export client reported impact survey questionnaires",
+      "summary": "Questionnaires for the export client reported impact survey.",
+      "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey-questionnaires",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:23:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Export client reported impact survey",
+      "summary": "Annual results from the export client reported impact survey.",
+      "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:23:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Export client quality survey technical reports",
+      "summary": "Technical reports for the export client quality survey.",
+      "link": "https://www.gov.uk/government/publications/export-client-quality-survey-technical-reports",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:23:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Export client quality survey questionnaires",
+      "summary": "Questionnaires for the export client quality survey.",
+      "link": "https://www.gov.uk/government/publications/export-client-quality-survey-questionnaires",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:23:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Export client quality survey",
+      "summary": "Annual results from the export client quality survey.",
+      "link": "https://www.gov.uk/government/publications/export-client-quality-survey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T10:23:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Overseas business risk for Kazakhstan",
+      "summary": "Information on key security and political risks which UK businesses may face when operating in Kazakhstan.",
+      "link": "https://www.gov.uk/government/publications/overseas-business-risk-kazakhstan",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T09:02:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Domestic energy price indices",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Annual domestic energy bills",
+      "summary": "Annual estimates of gas and electricity bills, along with statistics on household expenditure on fuel.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/annual-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Energy balance: methodology note",
+      "summary": "Energy balance: methodology note",
+      "link": "https://www.gov.uk/government/publications/energy-balance-methodology-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Prices of fuels purchased by major power producers",
+      "summary": "Quarterly and annual prices of fuels purchased by power generators.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-major-power-producers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Natural gas statistics: data sources and methodologies",
+      "summary": "Natural gas statistics: data sources and methodologies.",
+      "link": "https://www.gov.uk/government/publications/natural-gas-statistics-data-sources-and-methodologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: UK residual fuel consumption at regional and local authority level, 2005 to 2024",
+      "summary": "Estimates of fuel consumption at a regional and local authority level for non-gas, non-electricity and non-road transport from 2005 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/uk-residual-fuel-consumption-at-regional-and-local-authority-level-2005-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 30 July 2026",
+      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-30-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:18+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK gas",
+      "summary": "Data on the UK's gas sector, including production, trade and demand.",
+      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK electricity",
+      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
+      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK weather",
+      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Total final energy consumption at regional and local authority level: 2005 to 2024",
+      "summary": "Estimates of total final energy consumption from 2005 to 2024 at a country, regional and local authority level.",
+      "link": "https://www.gov.uk/government/statistics/total-final-energy-consumption-at-regional-and-local-authority-level-2005-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK total energy",
+      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
+      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
+      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
+      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
+      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Subnational methodology and guidance",
+      "summary": "Information on subnational energy consumption statistics.",
+      "link": "https://www.gov.uk/government/publications/regional-energy-data-guidance-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Time off for public duties",
+      "summary": "We are seeking views on how the right to time off work for public duties operates in practice, and on proposed changes to the list of public duties eligible for time off under this legislation.",
+      "link": "https://www.gov.uk/government/consultations/time-off-for-public-duties",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T08:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Lifetime extension, reuse and material recovery opportunities for onshore and offshore wind assets",
+      "summary": "Research into lifetime extension, reuse and material recovery opportunities for the UK’s onshore and offshore wind fleet.",
+      "link": "https://www.gov.uk/government/publications/lifetime-extension-reuse-and-material-recovery-opportunities-for-onshore-and-offshore-wind-assets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
       "summary": "HM Revenue and Customs (HMRC) has concluded a compound settlement with a UK exporter.",
       "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
@@ -48,16 +359,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-29T16:14:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Necessary wayleave and tree lopping/felling applications: privacy notice",
-      "summary": "How we use personal data in the processing of applications, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/necessary-wayleave-and-tree-loppingfelling-applications-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-29T15:33:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -115,46 +416,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-29T08:55:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-29T08:54:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Red Diesel Replacement competition: successful projects",
-      "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
-      "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-29T08:19:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
-      "summary": "The Warm Homes Loan Scheme (WHLS) will unlock private lending and investment at scale for home retrofit.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-29T08:06:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: 2025–2026 UK–Taiwan Business Survey: results",
       "summary": "This latest edition of the UK–Taiwan Business Survey was conducted by the British Office Taipei between December 2025 and February 2026.",
       "link": "https://www.gov.uk/government/publications/2025-2026-uk-taiwan-business-survey-results",
@@ -187,277 +448,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: UK residual fuel consumption at regional and local authority level, 2005 to 2024",
-      "summary": "Residual fuel is defined as non-gas, non-electricity and non-road transport fuels, and covers consumption of coal, petroleum, manufactured solid fuels and bioenergy and wastes not used for electricity generation or road transport.",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-consumption-of-residual-fuel-during-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-28T08:55:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Research: Impact of growth of data centres on energy consumption",
-      "summary": "This report examines how the growth of digital services, and the data centres that support them, affects energy consumption in the UK.",
-      "link": "https://www.gov.uk/government/publications/impact-of-growth-of-data-centres-on-energy-consumption",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-28T08:35:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: An updated assessment of hydrogen BECCS technologies",
-      "summary": "Research on the costs, emissions and long-term trajectory for five Hydrogen BECCS technologies in the UK.",
-      "link": "https://www.gov.uk/government/publications/an-updated-assessment-of-hydrogen-beccs-technologies",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-28T08:35:13+00:00",
-      "matched": [
-        "hydrogen"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Hydrogen"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-28T08:30:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-28T07:36:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Net Zero Teesside Project: non-material change, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application for a non-material change relating to the onshore elements of a full chain CCUS project.",
-      "link": "https://www.gov.uk/government/publications/net-zero-teesside-project-non-material-change-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T23:00:00+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: May - July 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T19:40:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Applying for an export certificate",
-      "summary": "How to apply for an export certificate, including a Certificate of Free Sale, Certificate of Manufacture and Certificate of Good Manufacturing Practice.",
-      "link": "https://www.gov.uk/guidance/applying-for-an-export-certificate",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-27T14:47:44+00:00",
-      "matched": [
-        "manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: workforce management information June 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-27T14:31:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
-      "summary": "HM Revenue and Customs (HMRC) has concluded compound settlements with two UK exporter.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-27T14:00:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Statutory guidance: Capacity Market Rules",
-      "summary": "The Capacity Market Rules provide the detail for implementing the operating framework set out in regulations.",
-      "link": "https://www.gov.uk/government/publications/capacity-market-rules",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T13:49:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Government to support evacuated residents in Coalsnaughton",
-      "summary": "UK government to support residents of evacuated homes in Coalsnaughton.",
-      "link": "https://www.gov.uk/government/news/government-to-support-evacuated-residents-in-coalsnaughton",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T12:14:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Bill discounts for transmission network infrastructure: scheme design update",
-      "summary": "The scheme design for a bill discount scheme for households closest to new and significantly upgraded electricity transmission infrastructure.",
-      "link": "https://www.gov.uk/government/publications/bill-discounts-for-transmission-network-infrastructure-scheme-design-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T11:02:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Call for evidence: digital product record policy",
-      "summary": "The government is gathering views on digital product records to inform future policy development and understand the potential impacts for businesses, consumers and supply chains.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/call-for-evidence-digital-product-record-policy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-27T11:00:05+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Sub-national total final energy consumption during 2024",
-      "summary": "Data which aggregates the sub-national electricity, gas, road transport and residual fuels consumption datasets produced by DESNZ.",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-total-final-energy-consumption-during-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T10:34:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
-      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
-      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-27T09:29:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Interministerial Group for Net Zero, Energy and Climate Change Communiqué: 1 July 2026",
-      "summary": "A summary of the meeting held by the Interministerial Group for Net Zero, Energy and Climate Change.",
-      "link": "https://www.gov.uk/government/publications/interministerial-group-for-net-zero-energy-and-climate-change-communique-1-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-27T08:30:04+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Big win for Scotch whisky as US tariffs are lifted",
-      "summary": "Whisky products will have zero tariffs in the US from today",
-      "link": "https://www.gov.uk/government/news/big-win-for-scotch-whisky-as-us-tariffs-are-lifted",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-24T17:31:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK support to Ukraine: factsheet",
-      "summary": "This factsheet summarises how the UK is supporting Ukraine following the Russian invasion.",
-      "link": "https://www.gov.uk/government/publications/uk-support-to-ukraine-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-24T15:23:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: The UK's Modern Industrial Strategy: year one",
-      "summary": "A one-year update on the delivery of commitments in the Modern Industrial Strategy.",
-      "link": "https://www.gov.uk/government/publications/the-uks-modern-industrial-strategy-year-one",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-24T15:20:56+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Guidance: Using UK greenhouse gas inventory data in UK ETS monitoring and reporting: the country-specific factor list",
-      "summary": "The Monitoring and Reporting Regulation, as modified by the UK ETS Order, allows nationally reported data to be used by operators as default factors in specific circumstances.",
-      "link": "https://www.gov.uk/government/publications/using-uk-greenhouse-gas-inventory-data-in-uk-ets-monitoring-and-reporting-the-country-specific-factor-list",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-24T10:58:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Historic tariff-free Scotch whisky shipment bound for United States",
-      "summary": "Boost for whisky producers as tariffs removed for shipments bound for US",
-      "link": "https://www.gov.uk/government/news/historic-tariff-free-scotch-whisky-shipment-bound-for-united-states",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-24T10:45:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
-      "summary": "Projects which received funding through the concluded Longer Duration Energy Storage Demonstration Programme Stream 1 (Phases 1 and 2) and Stream 2 (Phases 1 and 2).",
-      "link": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-24T10:14:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Late payments: tackling poor payment practices",
-      "summary": "We are seeking views on legislative measures which address late, long and disputed business-to-business payments, and the use of retention clauses in construction contracts.",
-      "link": "https://www.gov.uk/government/consultations/late-payments-tackling-poor-payment-practices",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-24T08:52:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:00:45.779764Z",
+  "generated_at": "2026-07-30T08:18:05.627758Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,30 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Local Industrial Decarbonisation Plans (LIDP) competition: evaluation",
+      "summary": "An evaluation of the Local Industrial Decarbonisation Plans (LIDP) competition conducted from 2025 to 2026.",
+      "link": "https://www.gov.uk/government/publications/local-industrial-decarbonisation-plans-lidp-competition-evaluation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-07-30T08:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/17: compound settlement for breaches of export control",
+      "summary": "HM Revenue and Customs (HMRC) has concluded a compound settlement with a UK exporter.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-30T06:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
@@ -434,31 +458,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK goods and services schedules at the WTO",
-      "summary": "The UK has submitted its schedule of commitments under the General Agreement on Tariffs and Trade (GATT) and its schedule of commitments under the General Agreement on Trade in Services (GATS)  to the World Trade Organization (WTO).",
-      "link": "https://www.gov.uk/government/publications/uk-goods-and-services-schedules-at-the-wto",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-23T16:07:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2",
-      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-23T15:31:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Manufacturing"
-      ]
     }
   ]
 }

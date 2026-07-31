@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:54:56.638442Z",
+  "generated_at": "2026-07-31T19:18:15.136374Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,40 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
+      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
+      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-31T14:46:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--60",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-31T14:25:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--112",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-07-31T14:23:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Research: Greenhouse gas reporting: conversion factors 2026",
       "summary": "These conversion factors enable users to calculate and report greenhouse gas emissions from their UK activities in 2026.",
@@ -250,42 +284,6 @@
       "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey-technical-reports",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-30T10:24:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Export client reported impact survey questionnaires",
-      "summary": "Questionnaires for the export client reported impact survey.",
-      "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey-questionnaires",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T10:23:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Export client reported impact survey",
-      "summary": "Annual results from the export client reported impact survey.",
-      "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T10:23:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Export client quality survey technical reports",
-      "summary": "Technical reports for the export client quality survey.",
-      "link": "https://www.gov.uk/government/publications/export-client-quality-survey-technical-reports",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T10:23:49+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

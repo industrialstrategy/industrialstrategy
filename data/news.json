@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T02:27:19.610107Z",
+  "generated_at": "2026-08-03T09:35:34.679105Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Renewable Energy Planning Database: quarterly extract",
+      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
+      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-03T09:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Heat networks pipelines",
+      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-03T09:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: UK energy in brief 2026",
+      "summary": "Summary of some of the key annual statistics in the UK energy system.",
+      "link": "https://www.gov.uk/government/statistics/uk-energy-in-brief-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-03T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Fuel mix disclosure data table",
+      "summary": "The data are for the disclosure period 1 April 2025 to 31 March 2026.",
+      "link": "https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-03T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Sovereign AI invests in UK startup reinventing AI chips",
+      "summary": "Government’s Sovereign AI invests in UK startup reinventing the chips that make AI possible",
+      "link": "https://www.gov.uk/government/news/sovereign-ai-invests-in-uk-startup-reinventing-ai-chips",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-03T08:23:01+00:00",
+      "matched": [
+        "CHIPS"
+      ],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
       "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
@@ -279,18 +331,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Export client reported impact survey technical reports",
-      "summary": "Technical reports for the export client reported impact survey.",
-      "link": "https://www.gov.uk/government/publications/export-client-reported-impact-survey-technical-reports",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T10:24:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Domestic energy price indices",
       "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
       "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
@@ -416,46 +456,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK weather",
-      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Total final energy consumption at regional and local authority level: 2005 to 2024",
-      "summary": "Estimates of total final energy consumption from 2005 to 2024 at a country, regional and local authority level.",
-      "link": "https://www.gov.uk/government/statistics/total-final-energy-consumption-at-regional-and-local-authority-level-2005-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK total energy",
-      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

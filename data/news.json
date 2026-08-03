@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:35:34.679105Z",
+  "generated_at": "2026-08-03T14:29:46.808299Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "How to report serious abuse or exploitation at work",
+      "summary": "What serious abuse or exploitation at work could mean and how to report it for investigation.",
+      "link": "https://www.gov.uk/guidance/how-to-report-serious-abuse-or-exploitation-at-work",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-03T13:18:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 3 August 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-3-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-03T13:00:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-03T12:34:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Complying with sanctions relating to banknotes",
+      "summary": "Guidance explaining how to comply with sanctions relating to the trade of banknotes with Belarus and Russia.",
+      "link": "https://www.gov.uk/government/publications/complying-with-sanctions-relating-to-banknotes",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-03T11:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Elmbridge Start Up Boost Fund",
+      "summary": "The Elmbridge start-up boost helps start-ups with one off costs such as one-off marketing, purchasing of equipment or anything that would help a business to start operating in Elmbridge.",
+      "link": "https://www.gov.uk/business-finance-support/elmbridge-start-up-boost-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-03T11:27:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Renewable Energy Planning Database: quarterly extract",
       "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
@@ -301,36 +353,6 @@
       "ai_tags": []
     },
     {
-      "title": "Independent report: Made Smarter Adoption: impact and process evaluation",
-      "summary": "Independent evaluation of the design, delivery and impact of the Made Smarter Adoption programme from April 2022 to March 2025.",
-      "link": "https://www.gov.uk/government/publications/made-smarter-adoption-impact-and-process-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T15:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "The FSE Group",
-      "summary": "FSE offers a range of loans and equity finance for innovative growth companies.",
-      "link": "https://www.gov.uk/business-finance-support/the-fse-group",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T12:18:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Overseas business risk for Turkey",
-      "summary": "See below for information on key security and political risks which UK businesses may face when operating in Turkey.",
-      "link": "https://www.gov.uk/government/publications/overseas-business-risk-turkey",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-30T10:53:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Domestic energy price indices",
       "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
       "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
@@ -429,33 +451,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 30 July 2026",
-      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-30-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:18+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

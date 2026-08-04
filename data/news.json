@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T08:32:10.539619Z",
+  "generated_at": "2026-08-04T14:00:52.265104Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,31 @@
   "count": 40,
   "items": [
     {
+      "title": "Correspondence: Keep Britain Working review update: June 2026",
+      "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
+      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-04T11:18:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Accredited official statistics: Building materials and components statistics: July 2026",
       "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
       "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-july-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-03T14:59:58+00:00",
+      "published": "2026-08-04T09:25:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-04T08:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -34,16 +54,6 @@
       "link": "https://www.gov.uk/guidance/how-to-report-serious-abuse-or-exploitation-at-work",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-03T13:18:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 3 August 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-3-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-03T13:00:14+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -320,18 +330,6 @@
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-31T08:30:05+00:00",
       "matched": [],

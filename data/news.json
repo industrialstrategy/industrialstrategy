@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:58:45.642531Z",
+  "generated_at": "2026-08-05T19:26:00.133488Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: UK-Ghana Interim Trade Partnership Agreement Committee documents",
+      "summary": "Decisions and other documents from the UK-Ghana Interim Trade Partnership Agreement (TPA) Committee.",
+      "link": "https://www.gov.uk/government/publications/uk-ghana-interim-trade-partnership-agreement-committee-documents",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-05T14:02:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Research: Ambient gamma radiation dose rates across the UK",
       "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
@@ -342,18 +354,6 @@
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with J to L)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with T to V)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-31T08:30:06+00:00",
       "matched": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T02:06:01.009152Z",
+  "generated_at": "2026-08-05T08:28:46.671528Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
+      "summary": "Funding to support UK-based projects that strengthen critical mineral supply chains and develop innovative capabilities across the critical minerals sector.",
+      "link": "https://www.gov.uk/government/publications/critical-minerals-programme-critical-minerals-accelerator",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-05T07:00:00+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
     {
       "title": "Correspondence: Keep Britain Working review update: June 2026",
       "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
@@ -320,18 +334,6 @@
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

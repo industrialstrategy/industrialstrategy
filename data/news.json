@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:56:38.541351Z",
+  "generated_at": "2026-08-06T23:56:28.371425Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Form: Youth Climate and Nature Panel",
+      "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies. Find out how you can take part.",
+      "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-06T14:30:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Young Voices for Climate and Nature",
+      "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
+      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-06T14:30:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Permitted development rights for electricity network ground investigations",
       "summary": "We're seeking views on proposed permitted development rights for ground investigations and surveys for electricity network infrastructure.",
@@ -427,26 +447,6 @@
       "title": "Monthly and annual prices of road fuels and petroleum products",
       "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
       "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Energy balance: methodology note",
-      "summary": "Energy balance: methodology note",
-      "link": "https://www.gov.uk/government/publications/energy-balance-methodology-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Prices of fuels purchased by major power producers",
-      "summary": "Quarterly and annual prices of fuels purchased by power generators.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-major-power-producers",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-30T08:30:21+00:00",
       "matched": [],

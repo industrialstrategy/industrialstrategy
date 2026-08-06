@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:30:31.503269Z",
+  "generated_at": "2026-08-06T13:56:38.541351Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,61 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Permitted development rights for electricity network ground investigations",
+      "summary": "We're seeking views on proposed permitted development rights for ground investigations and surveys for electricity network infrastructure.",
+      "link": "https://www.gov.uk/government/consultations/permitted-development-rights-for-electricity-network-ground-investigations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-06T13:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: August 2026",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-06T11:02:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: National Buildings Database phase 2: understanding Great Britain’s buildings",
+      "summary": "Research on the National Buildings Database (NBD), with a focus on non-domestic premises and the building stock.",
+      "link": "https://www.gov.uk/government/publications/national-buildings-database-phase-2-understanding-great-britains-buildings",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-06T10:54:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "UK trade agreements in effect",
+      "summary": "Find out about trade agreements that can be used now.",
+      "link": "https://www.gov.uk/guidance/uk-trade-agreements-in-effect",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-06T10:25:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2 (closed)",
+      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-06T08:29:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Manufacturing"
+      ]
+    },
     {
       "title": "Transparency data: UK-Ghana Interim Trade Partnership Agreement Committee documents",
       "summary": "Decisions and other documents from the UK-Ghana Interim Trade Partnership Agreement (TPA) Committee.",
@@ -339,30 +394,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with J to L)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Millions reminded to get £150 off energy bills this winter",
       "summary": "Households eligible for the Warm Home Discount must be named on their energy bill by 23 August to receive it automatically this winter.",
       "link": "https://www.gov.uk/government/news/millions-reminded-to-get-150-off-energy-bills-this-winter",
@@ -418,36 +449,6 @@
       "link": "https://www.gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-major-power-producers",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Natural gas statistics: data sources and methodologies",
-      "summary": "Natural gas statistics: data sources and methodologies.",
-      "link": "https://www.gov.uk/government/publications/natural-gas-statistics-data-sources-and-methodologies",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - July 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:20+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

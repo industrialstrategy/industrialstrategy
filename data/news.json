@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:53:47.565705Z",
+  "generated_at": "2026-08-07T18:52:07.396184Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,28 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T16:15:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Warwickshire High Growth and Innovation Programme",
+      "summary": "Business Ready is an innovative business readiness support package primarily for tech-based SMEs with the characteristics and ambition for growth.",
+      "link": "https://www.gov.uk/business-finance-support/warwickshire-high-growth-and-innovation-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T15:14:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "BIC Innovation Grant Sunderland",
       "summary": "Offers grants of 40% contribution towards innovative projects valued between £5,000 and £25,000.",
@@ -360,16 +382,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Renewable Energy Planning Database: quarterly extract",
-      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
-      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-03T09:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Sovereign AI invests in UK startup reinventing AI chips",
       "summary": "Government’s Sovereign AI invests in UK startup reinventing the chips that make AI possible",
       "link": "https://www.gov.uk/government/news/sovereign-ai-invests-in-uk-startup-reinventing-ai-chips",
@@ -438,16 +450,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: UK-China Intellectual Property newsletter",
-      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
-      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:36:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

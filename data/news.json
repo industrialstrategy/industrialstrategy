@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:08:05.282139Z",
+  "generated_at": "2026-08-07T12:53:47.565705Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,152 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "BIC Innovation Grant Sunderland",
+      "summary": "Offers grants of 40% contribution towards innovative projects valued between £5,000 and £25,000.",
+      "link": "https://www.gov.uk/business-finance-support/bic-innovation-grant-sunderland",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T12:01:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T11:53:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: BIST new quantitative trade model",
+      "summary": "Technical note detailing the background, data and parameters used to create BIST's new quantitative trade model (NQTM).",
+      "link": "https://www.gov.uk/government/publications/bist-new-quantitative-trade-model",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T11:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: New quantitative trade model (NQTM) used in the upgraded UK-Republic of Korea FTA modelling paper",
+      "summary": "Technical note detailing the background, data and parameters used to model the upgraded UK-Republic of Korea Free Trade Agreement in an NQTM.",
+      "link": "https://www.gov.uk/government/publications/new-quantitative-trade-model-nqtm-used-in-the-upgraded-uk-republic-of-korea-fta-modelling-paper",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T11:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Smart Secure Electricity Systems: proposed class exemptions from the requirement to hold a load control licence",
+      "summary": "We’re seeking views on proposed class exemptions from the requirement to hold a load control licence in respect of a new load control licensing framework being introduced as part of the SSES programme under the Electricity Act 1989.",
+      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-proposed-class-exemptions-from-the-requirement-to-hold-a-load-control-licence",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T09:55:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Smart Secure Electricity Systems (SSES) Programme: draft load control licence regulations and conditions",
+      "summary": "We're seeking views on the proposed regulations, including the licence conditions designed to protect consumers and the electricity system.",
+      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-draft-load-control-licence-regulations-and-conditions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T09:55:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Fuel poverty detailed tables 2023 (2021 data)",
+      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2021 data).",
+      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2023-2021-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:35:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Fuel poverty detailed tables 2024 (2022 data)",
+      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2022 data).",
+      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2024-2022-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:35:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Fuel poverty detailed tables 2025 (2023 data)",
+      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2023 data).",
+      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2025-2023-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:35:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Fuel poverty detailed tables 2026 (2024 data)",
+      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2024 data).",
+      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2026-2024-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:35:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Fuel poverty detailed tables 2026 (2025 data)",
+      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2025 data).",
+      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2026-2025-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:34:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Fuel poverty statistics methodology handbooks",
+      "summary": "Guides to the fuel poverty statistics series, for both the Low Income Low Energy Efficiency (LILEE) and the Low Income High Costs (LIHC) indicators.",
+      "link": "https://www.gov.uk/government/publications/fuel-poverty-statistics-methodology-handbook",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:34:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Annual fuel poverty statistics report: 2026",
+      "summary": "Fuel Poverty statistics report for 2026 (2024 and 2025 data).",
+      "link": "https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:34:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Warm Home Discount: eligibility statement (England and Wales), 2026 to 2027 scheme year",
+      "summary": "Statement setting out the eligibility criteria for the Warm Home Discount scheme in England and Wales for 2026 to 2027.",
+      "link": "https://www.gov.uk/government/publications/warm-home-discount-eligibility-statement-england-and-wales-2026-to-2027-scheme-year",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-07T08:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Form: Youth Climate and Nature Panel",
       "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies. Find out how you can take part.",
@@ -224,36 +370,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: Heat networks pipelines",
-      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-03T09:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: UK energy in brief 2026",
-      "summary": "Summary of some of the key annual statistics in the UK energy system.",
-      "link": "https://www.gov.uk/government/statistics/uk-energy-in-brief-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-03T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Fuel mix disclosure data table",
-      "summary": "The data are for the disclosure period 1 April 2025 to 31 March 2026.",
-      "link": "https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-03T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Sovereign AI invests in UK startup reinventing AI chips",
       "summary": "Government’s Sovereign AI invests in UK startup reinventing the chips that make AI possible",
       "link": "https://www.gov.uk/government/news/sovereign-ai-invests-in-uk-startup-reinventing-ai-chips",
@@ -300,38 +416,6 @@
       ]
     },
     {
-      "title": "Research: Greenhouse gas reporting: conversion factors 2026",
-      "summary": "These conversion factors enable users to calculate and report greenhouse gas emissions from their UK activities in 2026.",
-      "link": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-31T12:51:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Heat pump deployment: June 2026",
-      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/heat-pump-deployment-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-31T12:44:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Consumption in the UK – 2025",
-      "summary": "Energy Consumption statistics presented in four key themes covering overall energy consumption in the UK, energy intensity by sector, primary energy consumption and end uses.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-consumption-in-the-uk-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-31T10:22:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Gemma Stevenson appointed as HMTC for Middle East & Pakistan",
       "summary": "Gemma Stevenson has been appointed as HMTC for the Middle East and Pakistan and His Majesty’s Consul General to Dubai and the Northern Emirates.",
       "link": "https://www.gov.uk/government/news/gemma-stevenson-appointed-as-hmtc-for-middle-east-pakistan",
@@ -361,94 +445,6 @@
       "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-31T08:36:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Millions reminded to get £150 off energy bills this winter",
-      "summary": "Households eligible for the Warm Home Discount must be named on their energy bill by 23 August to receive it automatically this winter.",
-      "link": "https://www.gov.uk/government/news/millions-reminded-to-get-150-off-energy-bills-this-winter",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T23:01:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Annual domestic energy bills",
-      "summary": "Annual estimates of gas and electricity bills, along with statistics on household expenditure on fuel.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/annual-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-07-30T08:30:21+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

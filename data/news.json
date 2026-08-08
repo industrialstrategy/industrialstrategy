@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:52:07.396184Z",
+  "generated_at": "2026-08-08T01:16:07.814836Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: PPE",
+      "summary": "Notices of publication and a consolidated list for designated standards for personal protective equipment (PPE).",
+      "link": "https://www.gov.uk/government/publications/designated-standards-ppe",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T23:05:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: machinery",
+      "summary": "Notices of publication and a consolidated list for designated standards for machinery.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-machinery",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-07T23:05:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: UK ETS Allocation Table for operators of installations",
       "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
@@ -421,30 +441,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--112",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-07-31T14:23:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Gemma Stevenson appointed as HMTC for Middle East & Pakistan",
-      "summary": "Gemma Stevenson has been appointed as HMTC for the Middle East and Pakistan and His Majesty’s Consul General to Dubai and the Northern Emirates.",
-      "link": "https://www.gov.uk/government/news/gemma-stevenson-appointed-as-hmtc-for-middle-east-pakistan",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T09:00:11+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
-      "summary": "This notice advises applicants for F680 licences to use LITE rather than SPIRE.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T09:00:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

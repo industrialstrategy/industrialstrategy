@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:57:46.838213Z",
+  "generated_at": "2026-08-10T18:51:11.392001Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-10T16:15:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 10 August 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-10-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-10T15:00:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Carbon emissions limits in the Capacity Market",
+      "summary": "Guidance on the reporting and verification mechanism for carbon emissions in the Capacity Market (CM).",
+      "link": "https://www.gov.uk/government/publications/carbon-emissions-limits-in-the-capacity-market",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-10T13:50:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "DRIVE35 Funding Programme: Transformation",
+      "summary": "DRIVE35’s capital-only ‘Transformation’ pillar comprises the DRIVE35 Automotive Transformation Fund.",
+      "link": "https://www.gov.uk/guidance/drive35-funding-programme-transformation",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-10T13:47:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "DRIVE35 Funding Programme: Scale-Up",
+      "summary": "DRIVE35's research and development 'Scale-Up' pillar comprises the DRIVE35 Scale-Up Feasibility Studies competition and the DRIVE35 Scale-Up Fund.",
+      "link": "https://www.gov.uk/guidance/drive35-funding-programme-scale-up",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-10T13:46:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "R&D"
+      ]
+    },
     {
       "title": "Notice: Apply for the Heat Training Grant: discounted heat pump training",
       "summary": "If you're a heating engineer, you could receive a discount of up to £500 towards the cost of heat pump training, plus support and advice when installing a heat pump for the first time.",
@@ -315,19 +367,6 @@
       ]
     },
     {
-      "title": "Notice: Heat Pump Investment Accelerator Competition: round 2 (closed)",
-      "summary": "This competition provides grant funding for investments in the manufacture of heat pumps and strategically important heat pump components in the UK.",
-      "link": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-06T08:29:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps",
-        "Manufacturing"
-      ]
-    },
-    {
       "title": "Transparency data: UK-Ghana Interim Trade Partnership Agreement Committee documents",
       "summary": "Decisions and other documents from the UK-Ghana Interim Trade Partnership Agreement (TPA) Committee.",
       "link": "https://www.gov.uk/government/publications/uk-ghana-interim-trade-partnership-agreement-committee-documents",
@@ -340,16 +379,6 @@
       ]
     },
     {
-      "title": "Research: Ambient gamma radiation dose rates across the UK",
-      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
-      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-05T12:30:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Trade remedies notices: anti-dumping duty on cold-rolled iron and steel products from China and Russia (expired)",
       "summary": "Trade remedies notices published by the Secretary of State for International Trade relating to the anti-dumping duty on cold-rolled iron and steel products from China and Russia. (expired)",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-cold-rolled-iron-and-steel-products-from-china-and-russia",
@@ -360,16 +389,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Whole energy cyber resilience requirements: reshaping cyber regulation in downstream gas and electricity",
-      "summary": "We're seeking views on proposals for a new approach to cyber resilience regulation for downstream gas and electricity operators.",
-      "link": "https://www.gov.uk/government/consultations/whole-energy-cyber-resilience-requirements-reshaping-cyber-regulation-in-downstream-gas-and-electricity",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-05T09:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
@@ -423,28 +442,6 @@
       "link": "https://www.gov.uk/business-finance-support/elmbridge-start-up-boost-fund",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-03T11:27:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Sovereign AI invests in UK startup reinventing AI chips",
-      "summary": "Government’s Sovereign AI invests in UK startup reinventing the chips that make AI possible",
-      "link": "https://www.gov.uk/government/news/sovereign-ai-invests-in-uk-startup-reinventing-ai-chips",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-03T08:23:01+00:00",
-      "matched": [
-        "CHIPS"
-      ],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "British Industrial Competitiveness Scheme: consultation on scheme eligibility and approach",
-      "summary": "We are seeking views on the proposed approach to the new British Industrial Competitiveness Scheme (BICS) and how eligible businesses should be selected.",
-      "link": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T14:46:13+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

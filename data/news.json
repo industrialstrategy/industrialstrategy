@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:23:24.793293Z",
+  "generated_at": "2026-08-10T12:57:46.838213Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,52 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Apply for the Heat Training Grant: discounted heat pump training",
+      "summary": "If you're a heating engineer, you could receive a discount of up to £500 towards the cost of heat pump training, plus support and advice when installing a heat pump for the first time.",
+      "link": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-10T11:35:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Notice: Trade remedies notices: S-PVC from China, Mexico and South Korea",
+      "summary": "Trade remedies notices published by the Secretary of State relating to imports of Suspension Polyvinyl Chloride (S-PVC) originating from China, Mexico and South Korea.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-s-pvc-from-china-mexico-and-south-korea",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-10T10:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-10T08:38:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
+      "summary": "Lists of arbitrators agreed with the UK's FTA partners as part of the trade dispute settlement mechanism.",
+      "link": "https://www.gov.uk/government/publications/arbitrators-for-uk-free-trade-agreements-ftas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-10T08:15:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Designated standards: PPE",
       "summary": "Notices of publication and a consolidated list for designated standards for personal protective equipment (PPE).",
@@ -326,16 +372,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-05T08:36:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
       "summary": "Funding to support UK-based projects that strengthen critical mineral supply chains and develop innovative capabilities across the critical minerals sector.",
       "link": "https://www.gov.uk/government/publications/critical-minerals-programme-critical-minerals-accelerator",
@@ -355,16 +391,6 @@
       "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-04T11:18:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-04T08:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -422,30 +448,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--60",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T14:25:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--112",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-07-31T14:23:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

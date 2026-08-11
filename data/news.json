@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:59:07.698704Z",
+  "generated_at": "2026-08-11T12:56:14.889840Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,21 +19,43 @@
   "count": 40,
   "items": [
     {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "title": "Notice: Biomass Feedstocks Innovation Programme: successful projects",
+      "summary": "£36 million in funding for projects to support innovation in the production of sustainable domestic biomass.",
+      "link": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-10T16:15:03+00:00",
+      "published": "2026-08-11T10:27:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-11T08:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Road fuel prices: 10 August 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-10-august-2026",
+      "title": "Portsmouth PatLib Centre",
+      "summary": "Intellectual Property support and guidance for Portsmouth businesses.",
+      "link": "https://www.gov.uk/business-finance-support/portsmouth-patlib-centre",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-11T07:57:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-10T15:00:21+00:00",
+      "published": "2026-08-10T16:15:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -345,16 +367,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: National Buildings Database phase 2: understanding Great Britain’s buildings",
-      "summary": "Research on the National Buildings Database (NBD), with a focus on non-domestic premises and the building stock.",
-      "link": "https://www.gov.uk/government/publications/national-buildings-database-phase-2-understanding-great-britains-buildings",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-06T10:54:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK trade agreements in effect",
       "summary": "Find out about trade agreements that can be used now.",
       "link": "https://www.gov.uk/guidance/uk-trade-agreements-in-effect",
@@ -415,21 +427,11 @@
       "ai_tags": []
     },
     {
-      "title": "How to report serious abuse or exploitation at work",
-      "summary": "What serious abuse or exploitation at work could mean and how to report it for investigation.",
-      "link": "https://www.gov.uk/guidance/how-to-report-serious-abuse-or-exploitation-at-work",
+      "title": "Export goods from the UK: step by step",
+      "summary": "How to move goods from the UK to international destinations, including any special rules you’ll need to follow to move your goods from the UK.",
+      "link": "https://www.gov.uk/export-goods",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-03T13:18:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Complying with sanctions relating to banknotes",
-      "summary": "Guidance explaining how to comply with sanctions relating to the trade of banknotes with Belarus and Russia.",
-      "link": "https://www.gov.uk/government/publications/complying-with-sanctions-relating-to-banknotes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-03T11:30:01+00:00",
+      "published": "2026-08-04T10:33:08+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -437,11 +439,11 @@
       ]
     },
     {
-      "title": "Elmbridge Start Up Boost Fund",
-      "summary": "The Elmbridge start-up boost helps start-ups with one off costs such as one-off marketing, purchasing of equipment or anything that would help a business to start operating in Elmbridge.",
-      "link": "https://www.gov.uk/business-finance-support/elmbridge-start-up-boost-fund",
+      "title": "How to report serious abuse or exploitation at work",
+      "summary": "What serious abuse or exploitation at work could mean and how to report it for investigation.",
+      "link": "https://www.gov.uk/guidance/how-to-report-serious-abuse-or-exploitation-at-work",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-03T11:27:36+00:00",
+      "published": "2026-08-03T13:18:40+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

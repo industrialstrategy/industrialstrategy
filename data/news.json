@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:56:19.244096Z",
+  "generated_at": "2026-08-12T01:36:56.142555Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Households living near new pylons to save thousands on bills",
+      "summary": "Government reveals the communities in over 40 locations eligible for cheaper electricity bills.",
+      "link": "https://www.gov.uk/government/news/households-living-near-new-pylons-to-save-thousands-on-bills",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-11T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Electricity bill discount scheme for transmission network infrastructure: expected eligible projects",
+      "summary": "A list of transmission projects expected to be eligible for the scheme.",
+      "link": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-11T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: UK trade in numbers",
       "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
@@ -344,26 +364,6 @@
       "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-08-06T14:30:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Young Voices for Climate and Nature",
-      "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
-      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-06T14:30:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Permitted development rights for electricity network ground investigations",
-      "summary": "We're seeking views on proposed permitted development rights for ground investigations and surveys for electricity network infrastructure.",
-      "link": "https://www.gov.uk/government/consultations/permitted-development-rights-for-electricity-network-ground-investigations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-06T13:00:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

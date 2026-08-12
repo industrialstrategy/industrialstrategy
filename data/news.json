@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:17:40.479280Z",
+  "generated_at": "2026-08-12T13:01:32.369802Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Precarious Work and Economically Inactive Survey: technical report",
+      "summary": "This research examines the impacts of working in precarious employment.",
+      "link": "https://www.gov.uk/government/publications/precarious-work-and-economically-inactive-survey-technical-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-12T12:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: ending one-sided flexibility – reforms of zero hours and similar contracts",
+      "summary": "We are seeking views on reforms relating to zero hours and similar contracts, to implement measures in the Employment Rights Act 2025 to end one-sided flexibility.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-ending-one-sided-flexibility-reforms-of-zero-hours-and-similar-contracts",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-12T12:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Households living near new pylons to save thousands on bills",
       "summary": "Government reveals the communities in over 40 locations eligible for cheaper electricity bills.",
@@ -426,28 +446,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Supply chains"
-      ]
-    },
-    {
-      "title": "Correspondence: Keep Britain Working review update: June 2026",
-      "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-04T11:18:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Export goods from the UK: step by step",
-      "summary": "How to move goods from the UK to international destinations, including any special rules you’ll need to follow to move your goods from the UK.",
-      "link": "https://www.gov.uk/export-goods",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-04T10:33:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

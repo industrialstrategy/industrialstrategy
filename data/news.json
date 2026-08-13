@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:22:02.737064Z",
+  "generated_at": "2026-08-13T12:59:56.249630Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,30 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Capacity Market: Hydrogen to Power and interconnectors",
+      "summary": "We're seeking views on enabling the participation of Hydrogen to Power in the Capacity Market and technical changes to setting interconnector de-rating factors.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/capacity-market-hydrogen-to-power-and-interconnectors",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-13T10:53:28+00:00",
+      "matched": [
+        "hydrogen"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Hydrogen"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-13T08:30:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Business and Trade",
       "summary": "This plan sets out how the Department for Business and Trade plans to improve the use of BSL in its communications in the next 5 years.",
@@ -380,26 +404,6 @@
       "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2026-2025-data",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-08-07T08:34:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Fuel poverty statistics methodology handbooks",
-      "summary": "Guides to the fuel poverty statistics series, for both the Low Income Low Energy Efficiency (LILEE) and the Low Income High Costs (LIHC) indicators.",
-      "link": "https://www.gov.uk/government/publications/fuel-poverty-statistics-methodology-handbook",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T08:34:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Annual fuel poverty statistics report: 2026",
-      "summary": "Fuel Poverty statistics report for 2026 (2024 and 2025 data).",
-      "link": "https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T08:34:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

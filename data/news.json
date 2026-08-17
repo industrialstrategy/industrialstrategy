@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:37:04.222601Z",
+  "generated_at": "2026-08-17T18:31:53.289381Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,64 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 17 August 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-17-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-17T15:13:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Department for Energy Security and Net Zero major projects: accounting officer assessments",
+      "summary": "Accounting officer assessment summaries for the Department for Energy Security and Net Zero programmes and projects.",
+      "link": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-17T14:45:58+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Transparency data: Small modular reactor Technology Partner: summary business case",
+      "summary": "This is a summary of the full business case produced as part of the small modular reactor Technology Partner contract approvals process.",
+      "link": "https://www.gov.uk/government/publications/small-modular-reactor-technology-partner-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-17T14:45:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Transparency data: Small modular reactor Owner’s Engineer Procurement: summary business case",
+      "summary": "This is a summary business case produced for the small modular reactor Owner’s Engineer Procurement.",
+      "link": "https://www.gov.uk/government/publications/small-modular-reactor-owners-engineer-procurement-summary-business-case",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-17T14:45:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-17T13:46:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Number of exporting registered businesses in the UK, 2016 to 2024",
       "summary": "This release provides an estimate of the number and proportion of exporting registered businesses and the number and proportion of exporting registered small and medium enterprises (SMEs) in the UK between 2016 and 2024.",
@@ -308,16 +366,6 @@
       ]
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-10T08:38:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
       "summary": "Lists of arbitrators agreed with the UK's FTA partners as part of the trade dispute settlement mechanism.",
       "link": "https://www.gov.uk/government/publications/arbitrators-for-uk-free-trade-agreements-ftas",
@@ -409,46 +457,6 @@
       "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-draft-load-control-licence-regulations-and-conditions",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-08-07T09:55:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Fuel poverty detailed tables 2023 (2021 data)",
-      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2021 data).",
-      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2023-2021-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T08:35:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Fuel poverty detailed tables 2024 (2022 data)",
-      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2022 data).",
-      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2024-2022-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T08:35:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Fuel poverty detailed tables 2025 (2023 data)",
-      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2023 data).",
-      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2025-2023-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T08:35:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Fuel poverty detailed tables 2026 (2024 data)",
-      "summary": "Fuel poverty detailed tables under the Low Income Low Energy Efficiency (LILEE) indicator (2024 data).",
-      "link": "https://www.gov.uk/government/statistics/fuel-poverty-detailed-tables-2026-2024-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T08:35:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

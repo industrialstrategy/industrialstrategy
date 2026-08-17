@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:44:34.686785Z",
+  "generated_at": "2026-08-17T12:37:04.222601Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Number of exporting registered businesses in the UK, 2016 to 2024",
+      "summary": "This release provides an estimate of the number and proportion of exporting registered businesses and the number and proportion of exporting registered small and medium enterprises (SMEs) in the UK between 2016 and 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/number-of-exporting-registered-businesses-in-the-uk-2016-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-17T12:12:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Transparency data: Post Office Capture financial redress data for 2026",
       "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
@@ -380,18 +392,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Research: BIST new quantitative trade model",
-      "summary": "Technical note detailing the background, data and parameters used to create BIST's new quantitative trade model (NQTM).",
-      "link": "https://www.gov.uk/government/publications/bist-new-quantitative-trade-model",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-07T11:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Notice: Smart Secure Electricity Systems: proposed class exemptions from the requirement to hold a load control licence",

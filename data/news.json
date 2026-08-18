@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:38:38.066528Z",
+  "generated_at": "2026-08-18T18:31:25.117431Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,18 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
+      "summary": "Lists of arbitrators eligible for and appointed to the UK’s FTAs as part of the trade dispute settlement mechanism.",
+      "link": "https://www.gov.uk/government/publications/arbitrators-for-uk-free-trade-agreements-ftas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-18T14:49:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES): Round 13",
       "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
@@ -369,18 +381,6 @@
       "link": "https://www.gov.uk/government/publications/trade-remedies-notices-s-pvc-from-china-mexico-and-south-korea",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-10T10:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
-      "summary": "Lists of arbitrators agreed with the UK's FTA partners as part of the trade dispute settlement mechanism.",
-      "link": "https://www.gov.uk/government/publications/arbitrators-for-uk-free-trade-agreements-ftas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-10T08:15:12+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

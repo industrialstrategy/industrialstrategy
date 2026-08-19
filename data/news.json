@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:36:07.030834Z",
+  "generated_at": "2026-08-19T12:39:41.332983Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,89 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Able Futures",
+      "summary": "Able Futures is a funded service that helps employees, self-employed people and employers manage mental health at work.",
+      "link": "https://www.gov.uk/business-finance-support/able-futures",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-19T12:32:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Growth Gateway: South Africa SMME JET Deal Accelerator",
+      "summary": "A blueprint for coordinated support to help South Africa’s small, medium and micro enterprises participate in the Just Energy Transition, with a focus on Mpumalanga.",
+      "link": "https://www.gov.uk/government/publications/growth-gateway-south-africa-smme-jet-deal-accelerator",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-19T12:29:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: boom lifts originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade relating to imports of boom lifts originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-boom-lifts-originating-from-china--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-19T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: Compliance with the Convention on Nuclear Safety Obligations: 10th national report",
+      "summary": "How the UK complies with its obligations under the Articles of the Convention on Nuclear Safety.",
+      "link": "https://www.gov.uk/government/publications/compliance-with-the-convention-on-nuclear-safety-obligations-10th-national-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-19T08:37:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Official Statistics: DBT national survey of registered businesses’ exporting behaviours, attitudes and needs 2025",
+      "summary": "Insights into UK companies’ exporting behaviour and attitudes towards exporting, including perceptions around trade barriers, drawn from fieldwork completed across 2025.",
+      "link": "https://www.gov.uk/government/statistics/dbt-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-19T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Corporate report: DESNZ annual report and accounts 2025 to 2026",
+      "summary": "Report on expenditure and performance of the Department for Energy Security and Net Zero, 1 April 2025 to 31 March 2026.",
+      "link": "https://www.gov.uk/government/publications/desnz-annual-report-and-accounts-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-19T08:24:26+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme: July 2026",
+      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-19T07:33:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
     {
       "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
       "summary": "Lists of arbitrators eligible for and appointed to the UK’s FTAs as part of the trade dispute settlement mechanism.",
@@ -139,18 +222,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: National survey of registered businesses’ exporting behaviours, attitudes and needs 2025",
-      "summary": "Data from fieldwork completed across 2025. The publication will consist of data tables, a written analytical report and a technical report. The data provides insights on UK registered businesses' behaviour and attitudes in relation to exporting.",
-      "link": "https://www.gov.uk/government/statistics/announcements/national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-14T13:17:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Official Statistics: Trade and investment core statistics book",
@@ -364,18 +435,6 @@
       ]
     },
     {
-      "title": "Notice: Apply for the Heat Training Grant: discounted heat pump training",
-      "summary": "If you're a heating engineer, you could receive a discount of up to £500 towards the cost of heat pump training, plus support and advice when installing a heat pump for the first time.",
-      "link": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-10T11:35:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
       "title": "Notice: Trade remedies notices: S-PVC from China, Mexico and South Korea",
       "summary": "Trade remedies notices published by the Secretary of State relating to imports of Suspension Polyvinyl Chloride (S-PVC) originating from China, Mexico and South Korea.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notices-s-pvc-from-china-mexico-and-south-korea",
@@ -403,60 +462,6 @@
       "link": "https://www.gov.uk/government/publications/designated-standards-machinery",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-07T23:05:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: UK ETS Allocation Table for operators of installations",
-      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T16:15:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Warwickshire High Growth and Innovation Programme",
-      "summary": "Business Ready is an innovative business readiness support package primarily for tech-based SMEs with the characteristics and ambition for growth.",
-      "link": "https://www.gov.uk/business-finance-support/warwickshire-high-growth-and-innovation-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-07T15:14:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "BIC Innovation Grant Sunderland",
-      "summary": "Offers grants of 40% contribution towards innovative projects valued between £5,000 and £25,000.",
-      "link": "https://www.gov.uk/business-finance-support/bic-innovation-grant-sunderland",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-07T12:01:20+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-07T11:53:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Smart Secure Electricity Systems: proposed class exemptions from the requirement to hold a load control licence",
-      "summary": "We’re seeking views on proposed class exemptions from the requirement to hold a load control licence in respect of a new load control licensing framework being introduced as part of the SSES programme under the Electricity Act 1989.",
-      "link": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-proposed-class-exemptions-from-the-requirement-to-hold-a-load-control-licence",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-07T09:55:50+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

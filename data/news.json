@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:40:07.601324Z",
+  "generated_at": "2026-08-24T18:33:28.838230Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 24 August 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-24-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-24T15:33:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Report on indirect compensation payments made to industry in the UK, 2024 to 2025",
+      "summary": "Government is required to publish the amount of compensation paid to sectors as a result of the Subsidy Control Act 2022.",
+      "link": "https://www.gov.uk/government/publications/report-on-indirect-compensation-payments-made-to-industry-in-the-uk-2024-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-24T12:40:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Report on indirect compensation payments made to industry in the UK, 2023 to 2024",
+      "summary": "Government is required to publish the amount of compensation paid to sectors as a result of the Subsidy Control Act 2022.",
+      "link": "https://www.gov.uk/government/publications/report-on-indirect-compensation-payments-made-to-industry-in-the-uk-2023-to-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-24T12:40:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Report on indirect compensation payments made to industry in the UK, 2022 to 2023",
+      "summary": "Government is required to publish the amount of compensation paid to sectors as a result of the Subsidy Control Act 2022.",
+      "link": "https://www.gov.uk/government/publications/report-on-indirect-compensation-payments-made-to-industry-in-the-uk-2022-to-2023",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-24T12:40:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Report on indirect compensation payments made to industry in the UK, 2021 to 2022",
+      "summary": "Government is required to publish the amount of compensation paid to sectors as a result of the Subsidy Control Act 2022.",
+      "link": "https://www.gov.uk/government/publications/report-on-indirect-compensation-payments-made-to-industry-in-the-uk-2021-to-2022",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-24T12:40:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -241,16 +291,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Smart Meters: April to June 2026",
-      "summary": "Quarterly statistics which show the number of smart meters installed by large energy suppliers in April to June 2026 and the total numbers of smart and non-smart meters operated by these suppliers at the end of June 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/smart-meters-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T10:02:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
       "summary": "Trade remedies notice relating to the expiry review of welded tubes and pipes originating from Belarus and China.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
@@ -419,48 +459,6 @@
         "Innovation",
         "R&D"
       ]
-    },
-    {
-      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Business and Trade",
-      "summary": "This plan sets out how the Department for Business and Trade plans to improve the use of BSL in its communications in the next 5 years.",
-      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-business-and-trade",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-12T23:01:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: Precarious Work and Economically Inactive Survey: technical report",
-      "summary": "This research examines the impacts of working in precarious employment.",
-      "link": "https://www.gov.uk/government/publications/precarious-work-and-economically-inactive-survey-technical-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-12T12:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Make Work Pay: ending one-sided flexibility – reforms of zero hours and similar contracts",
-      "summary": "We are seeking views on reforms relating to zero hours and similar contracts, to implement measures in the Employment Rights Act 2025 to end one-sided flexibility.",
-      "link": "https://www.gov.uk/government/consultations/make-work-pay-ending-one-sided-flexibility-reforms-of-zero-hours-and-similar-contracts",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-12T12:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Portsmouth PatLib Centre",
-      "summary": "Intellectual Property support and guidance for Portsmouth businesses.",
-      "link": "https://www.gov.uk/business-finance-support/portsmouth-patlib-centre",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-11T07:57:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

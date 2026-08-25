@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:38:34.884621Z",
+  "generated_at": "2026-08-25T12:41:00.644225Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,14 +19,90 @@
   "count": 40,
   "items": [
     {
-      "title": "Accredited official statistics: Road fuel prices: 24 August 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-24-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-24T15:33:26+00:00",
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-25T10:47:56+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Guidance: AI Research Resource",
+      "summary": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
+      "link": "https://www.gov.uk/government/publications/ai-research-resource",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-25T10:43:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-25T10:22:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-25T09:32:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-25T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Trade union executive elections: guide for trade unions and their members",
+      "summary": "Describes the statutory requirements which apply to trade union elections.",
+      "link": "https://www.gov.uk/government/publications/trade-union-executive-elections-guide-for-trade-unions-and-their-members",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-25T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Trade union political funds",
+      "summary": "Guidance on how a trade union political fund must be operated.",
+      "link": "https://www.gov.uk/government/publications/trade-union-political-funds",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-25T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Statutory guidance: Industrial action ballots and notice to employers: code of practice",
+      "summary": "Practical guidance to trade unions and employers to promote the improvement of industrial relations and good practice in the conduct of trade union industrial action ballots.",
+      "link": "https://www.gov.uk/government/publications/code-of-practice-industrial-action-ballots-and-notice-to-employers--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-25T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
     },
     {
       "title": "Transparency data: Report on indirect compensation payments made to industry in the UK, 2024 to 2025",
@@ -269,28 +345,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Road fuel prices: 19 July 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-19-july-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T10:38:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund: June 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T10:25:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Notice: Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
       "summary": "Trade remedies notice relating to the expiry review of welded tubes and pipes originating from Belarus and China.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
@@ -401,63 +455,6 @@
       "ai_tags": [
         "Innovation",
         "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: DBT national survey of registered businesses’ exporting behaviours, attitudes and needs 2025",
-      "summary": "Insights into UK companies’ exporting behaviour and attitudes towards exporting, including perceptions around trade barriers, drawn from fieldwork completed across 2025.",
-      "link": "https://www.gov.uk/government/statistics/dbt-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-19T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
-      "summary": "Lists of arbitrators eligible for and appointed to the UK’s FTAs as part of the trade dispute settlement mechanism.",
-      "link": "https://www.gov.uk/government/publications/arbitrators-for-uk-free-trade-agreements-ftas",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-18T14:49:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: Post Office Capture financial redress data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
-      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-14T13:23:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-14T13:23:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "DRIVE35 Funding Programme: Innovation",
-      "summary": "DRIVE35’s 'Innovation' pillar comprises 3 competition strands to support  research and development projects in the UK automotive sector: Collaborate, Demonstrate and Mobilise.",
-      "link": "https://www.gov.uk/guidance/drive35-funding-programme-innovation",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-13T14:40:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "R&D"
       ]
     }
   ]

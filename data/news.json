@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T07:02:03.048644Z",
+  "generated_at": "2026-08-27T21:40:22.755203Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,35 +19,283 @@
   "count": 40,
   "items": [
     {
-      "title": "Households can save as plug-in solar panels come to market",
-      "summary": "Households can save hundreds on bills as plug-in solar panels become legal to use and buy across the country.",
-      "link": "https://www.gov.uk/government/news/households-can-save-as-plug-in-solar-panels-come-to-market",
+      "title": "Accredited official statistics: Road fuel prices: 23 August 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-23-august-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-26T21:30:03+00:00",
+      "published": "2026-08-27T14:47:21+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "UK Emissions Trading Scheme scope expansion: waste",
-      "summary": "The UK ETS Authority is seeking views on the implementation of the expansion of the UK Emissions Trading Scheme to energy from waste and waste incineration.",
-      "link": "https://www.gov.uk/government/consultations/uk-emissions-trading-scheme-scope-expansion-waste",
+      "title": "Accredited official statistics: Road fuel prices: 16 August 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-16-august-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-26T15:40:04+00:00",
+      "published": "2026-08-27T14:47:07+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "title": "Accredited official statistics: Road fuel prices: 9 August 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-9-august-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-26T15:40:04+00:00",
+      "published": "2026-08-27T14:46:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 2 August 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-2-august-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T14:46:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "First regional solar breakdown as installations hit record highs",
+      "summary": "Families and businesses across the UK are embracing solar power.",
+      "link": "https://www.gov.uk/government/news/first-regional-solar-breakdown-as-installations-hit-record-highs",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T11:26:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Social Housing Decarbonisation Fund Wave 1: impact evaluation",
+      "summary": "Impact evaluation of Wave 1 of the Social Housing Decarbonisation Fund (SHDF), assessing the extent to which the scheme met its objectives.",
+      "link": "https://www.gov.uk/government/publications/social-housing-decarbonisation-fund-wave-1-impact-evaluation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T09:00:24+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
         "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Record number of heating oil households apply for a heat pump",
+      "summary": "Thousands of households on heating oil have applied for a heat pump, taking advantage of the £9,000 Boiler Upgrade Scheme grant.",
+      "link": "https://www.gov.uk/government/news/record-number-of-heating-oil-households-apply-for-a-heat-pump",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:38:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Guidance: Warm Homes: Local Grant and Warm Homes: Social Housing Fund Statistics methodology and background note",
+      "summary": "Provides an outline of the methodology used in compiling the Warm Homes: Local Grant (WH:LG) and Warm Homes: Social Housing Fund (WH:SHF) statistics.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-and-warm-homes-social-housing-fund-statistics-methodology-and-background-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, May 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-27T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Domestic energy price indices",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - August 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - August 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
+      "summary": "Funding to support UK-based projects that strengthen critical mineral supply chains and develop innovative capabilities across the critical minerals sector.",
+      "link": "https://www.gov.uk/government/publications/critical-minerals-programme-critical-minerals-accelerator",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK total energy",
+      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
+      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
+      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
+      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
+      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK gas",
+      "summary": "Data on the UK's gas sector, including production, trade and demand.",
+      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK electricity",
+      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
+      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK weather",
+      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-08-27T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Strategic export controls: licensing statistics",
+      "summary": "Export control licensing statistics compiled by the Export Control Joint Unit (ECJU).",
+      "link": "https://www.gov.uk/guidance/strategic-export-controls-licensing-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-27T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 January to 31 March 2026",
+      "summary": "Export control licensing data for 1 January to 31 March 2026.",
+      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-27T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, June 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-27T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Export Wins globally: April to June 2026 confirmed results",
+      "summary": "UK export deals, contracts, sales, or agreements resulting from export promotion support by the Department for Business and Trade (DBT) confirmed in April to June 2026.",
+      "link": "https://www.gov.uk/government/publications/export-wins-globally-april-to-june-2026-confirmed-results",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-08-27T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
       ]
     },
     {
@@ -83,26 +331,6 @@
       "ai_tags": []
     },
     {
-      "title": "Breathing space on your energy bill",
-      "summary": "Find out how the VAT cut on household electricity bills will work for you.",
-      "link": "https://www.gov.uk/government/news/breathing-space-on-your-energy-bill",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-26T08:44:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ workforce management information, July 2026",
-      "summary": "Report on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-25T12:51:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
       "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
       "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
@@ -118,36 +346,6 @@
       "link": "https://www.gov.uk/government/publications/ai-research-resource",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-25T10:43:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - July 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-25T10:22:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - July 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-25T09:32:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-25T08:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -229,58 +427,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-24T11:05:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: June - August 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-21T15:52:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Solar PV deployment: July 2026",
-      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-21T15:24:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Beacon Fen Energy Park Project: decision on application for development consent under the Planning Act 2008",
-      "summary": "Decision on an application for an energy park in Lincolnshire, under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/beacon-fen-energy-park-project-decision-on-application-for-development-consent-under-the-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-21T14:54:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
-      "summary": "OPRED communications issued to stakeholders in 2026.",
-      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-21T10:59:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Placing UKCA or CE marked products on the market in Great Britain",
       "summary": "What you need to do to comply with regulations which govern manufactured products placed on the market in Great Britain.",
       "link": "https://www.gov.uk/guidance/placing-ukca-or-ce-marked-products-on-the-market-in-great-britain",
@@ -290,88 +436,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Manufacturing"
-      ]
-    },
-    {
-      "title": "Oil and gas: EEMS database",
-      "summary": "Access the Environmental and Emissions Monitoring System database to get data on oil rigs and other offshore installations around the UK.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-eems-database",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T14:25:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: May - July 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-may-july-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T12:07:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: April - June 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-april-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T12:07:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: March - May 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-march-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T12:07:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: February - April 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-february-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T12:06:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: January - March 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-january-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T12:06:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: December 2026 - February 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-december-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-20T12:06:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     },
     {
@@ -385,74 +449,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Official Statistics: Number of exporting registered businesses in the UK, 2016 to 2024",
-      "summary": "Estimates of numbers of exporting registered businesses in the UK, 2016 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/number-of-exporting-registered-businesses-in-the-uk-2016-to-2024",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-20T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-20T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.",
-      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-20T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Forest of Dean District Council Business Start Up Grant",
-      "summary": "Funding to be used towards a variety of business start up activates including: research and development, installing clean technologies, premises, equipment and product/service launch.",
-      "link": "https://www.gov.uk/business-finance-support/forest-of-dean-district-council-business-start-up-grant",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-20T08:15:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "R&D"
-      ]
-    },
-    {
-      "title": "The Northumberland Small Business Service (NSBS)",
-      "summary": "(NSBS) is a fully-funded service that delivers a range of business support services to ambitious innovators, creative thinkers and small and micro businesses across Northumberland.",
-      "link": "https://www.gov.uk/business-finance-support/the-northumberland-small-business-service-nsbs",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-19T15:53:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Buckinghamshire High Street Business Support Programme",
-      "summary": "A programme for Independent high street businesses in Buckinghamshire offering free resources, webinars, events and One to one business support.",
-      "link": "https://www.gov.uk/business-finance-support/buckinghamshire-high-street-business-support-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-19T14:39:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

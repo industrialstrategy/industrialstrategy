@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:02:56.519050Z",
+  "generated_at": "2026-09-01T15:59:40.046519Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,58 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "UK trade agreements in effect",
+      "summary": "Find out about trade agreements that can be used now.",
+      "link": "https://www.gov.uk/guidance/uk-trade-agreements-in-effect",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-01T15:12:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Non-domestic National Energy Efficiency Data Framework (ND-NEED), 2026",
+      "summary": "Statistics on the metered energy consumption of non-domestic buildings in England and Wales, for the years 2012 to 2024.",
+      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-national-energy-efficiency-data-framework-nd-need-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T14:03:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 31 August 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-31-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T13:35:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: OSPAR EMS recommendation",
+      "summary": "The recommended environmental management system (EMS) designed to achieve the general objectives of the OSPAR Offshore Strategy.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-ospar-ems-recommendation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T13:15:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
+      "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
+      "link": "https://www.gov.uk/government/publications/the-uks-accession-to-cptpp-for-small-and-medium-sized-enterprises-smes",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-01T12:52:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Form: Register for the Horizon Family Members Redress Scheme",
       "summary": "Use the online form to register as an affected family member of the Post Office Horizon scandal.",
@@ -293,26 +345,6 @@
       "ai_tags": []
     },
     {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - August 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
       "summary": "Funding to support UK-based projects that strengthen critical mineral supply chains and develop innovative capabilities across the critical minerals sector.",
       "link": "https://www.gov.uk/government/publications/critical-minerals-programme-critical-minerals-accelerator",
@@ -325,16 +357,6 @@
       "ai_tags": [
         "Supply chains"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK total energy",
-      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Strategic export controls: licensing statistics",
@@ -423,28 +445,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: AI Research Resource",
-      "summary": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
-      "link": "https://www.gov.uk/government/publications/ai-research-resource",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-25T10:43:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Trade union executive elections: guide for trade unions and their members",
-      "summary": "Describes the statutory requirements which apply to trade union elections.",
-      "link": "https://www.gov.uk/government/publications/trade-union-executive-elections-guide-for-trade-unions-and-their-members",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-25T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

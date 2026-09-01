@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T03:20:58.573956Z",
+  "generated_at": "2026-09-01T11:02:56.519050Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Form: Register for the Horizon Family Members Redress Scheme",
+      "summary": "Use the online form to register as an affected family member of the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/register-for-the-horizon-family-members-redress-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-01T08:50:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Non-domestic smart meters: energy supplier obligations",
+      "summary": "Information for non-domestic energy suppliers.",
+      "link": "https://www.gov.uk/government/publications/non-domestic-smart-meters-energy-supplier-obligations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Non-domestic smart meter rollout post-2025",
+      "summary": "We're seeking views on new energy supplier obligations to drive non-domestic smart meter uptake post-2025 and protect consumers in the transition to smart-contingent contracts.",
+      "link": "https://www.gov.uk/government/consultations/non-domestic-smart-meter-rollout-post-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Communicating the rollout of smart-contingent contracts to non-domestic customers",
+      "summary": "Research findings from qualitative message testing research to understand how the rollout of smart-contingent contracts can be communicated to non-domestic customers.",
+      "link": "https://www.gov.uk/government/publications/communicating-the-rollout-of-smart-contingent-contracts-to-non-domestic-customers",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-01T07:27:35+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: UK ETS Allocation Table for operators of installations",
       "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
@@ -287,52 +337,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
-      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
-      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
-      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
-      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Strategic export controls: licensing statistics",
       "summary": "Export control licensing statistics compiled by the Export Control Joint Unit (ECJU).",
       "link": "https://www.gov.uk/guidance/strategic-export-controls-licensing-statistics",
@@ -434,18 +438,6 @@
       "title": "Statutory guidance: Trade union executive elections: guide for trade unions and their members",
       "summary": "Describes the statutory requirements which apply to trade union elections.",
       "link": "https://www.gov.uk/government/publications/trade-union-executive-elections-guide-for-trade-unions-and-their-members",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-25T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Trade union political funds",
-      "summary": "Guidance on how a trade union political fund must be operated.",
-      "link": "https://www.gov.uk/government/publications/trade-union-political-funds",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-25T08:30:03+00:00",
       "matched": [],

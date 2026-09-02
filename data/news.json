@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:38:58.740598Z",
+  "generated_at": "2026-09-02T10:33:51.703771Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,46 @@
   "count": 40,
   "items": [
     {
+      "title": "Energy savings opportunity scheme (ESOS): find out if you qualify and how to comply",
+      "summary": "Find out if you qualify for the energy savings opportunity scheme (ESOS) and how to meet the requirements to make your business more energy efficient.",
+      "link": "https://www.gov.uk/guidance/energy-savings-opportunity-scheme-esos",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-02T10:18:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Capacity Market: changes for Prequalification 2027",
+      "summary": "We are seeking views on proposed changes to the Capacity Market for Prequalification 2027.",
+      "link": "https://www.gov.uk/government/consultations/capacity-market-changes-for-prequalification-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-02T08:38:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Capacity Market: new technologies 2026",
+      "summary": "We are seeking views on whether technologies capable of contributing to electricity security of supply could enter future Capacity Market auctions.",
+      "link": "https://www.gov.uk/government/consultations/capacity-market-new-technologies-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-02T08:37:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-02T08:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "UK trade agreements in effect",
       "summary": "Find out about trade agreements that can be used now.",
       "link": "https://www.gov.uk/guidance/uk-trade-agreements-in-effect",
@@ -36,16 +76,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-national-energy-efficiency-data-framework-nd-need-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-01T14:03:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 31 August 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-31-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-01T13:35:37+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -309,36 +339,6 @@
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
       "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-may-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - August 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant (WH:LG) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/warm-homes-local-grant-statistics-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-08-27T08:30:07+00:00",
       "matched": [],
       "ai_summary": "",

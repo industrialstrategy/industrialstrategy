@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:33:51.703771Z",
+  "generated_at": "2026-09-02T15:55:45.994433Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-02T14:34:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-02T11:29:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Energy savings opportunity scheme (ESOS): find out if you qualify and how to comply",
       "summary": "Find out if you qualify for the energy savings opportunity scheme (ESOS) and how to meet the requirements to make your business more energy efficient.",
@@ -311,28 +331,6 @@
       "ai_tags": [
         "Decarbonisation"
       ]
-    },
-    {
-      "title": "Record number of heating oil households apply for a heat pump",
-      "summary": "Thousands of households on heating oil have applied for a heat pump, taking advantage of the £9,000 Boiler Upgrade Scheme grant.",
-      "link": "https://www.gov.uk/government/news/record-number-of-heating-oil-households-apply-for-a-heat-pump",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:38:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Guidance: Warm Homes: Local Grant and Warm Homes: Social Housing Fund Statistics methodology and background note",
-      "summary": "Provides an outline of the methodology used in compiling the Warm Homes: Local Grant (WH:LG) and Warm Homes: Social Housing Fund (WH:SHF) statistics.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-and-warm-homes-social-housing-fund-statistics-methodology-and-background-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Transparency data: DBT: spending over £500, May 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:45:09.560718Z",
+  "generated_at": "2026-09-03T10:38:33.021512Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "E-Factor Business - The Business Hive",
+      "summary": "Including free enterprise coaching and business advice for pre-start and established businesses. Also, offer events and workshops, and advertise tender opportunities on the website. They also run Business Hive Club (membership charge applies) and a premises search facility.",
+      "link": "https://www.gov.uk/business-finance-support/e-factor-business-the-business-hive",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-03T10:21:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Heart Of Bucks Grants",
+      "summary": "A range of grant funds are available from £300 - £5,000 for not-for-profit community charities and voluntary groups in Buckinghamshire.",
+      "link": "https://www.gov.uk/business-finance-support/heart-of-bucks-grants",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-03T10:03:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Plug-in solar: Regulatory amendment and interim product specification",
+      "summary": "We're seeking views on proposals to enable the safe and legal use of plug-in solar (plug-in microgeneration) products in the UK.",
+      "link": "https://www.gov.uk/government/consultations/plug-in-solar",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-03T09:03:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier quarterly statistics: April to June 2026",
+      "summary": "Headline summary of market access barriers resolved during Quarter 1 (April to June) of the financial year ending 2027.",
+      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-03T08:05:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Correspondence: Oil and gas: OPRED communications, 2026",
       "summary": "OPRED communications issued to stakeholders in 2026.",
@@ -321,18 +361,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Social Housing Decarbonisation Fund Wave 1: impact evaluation",
-      "summary": "Impact evaluation of Wave 1 of the Social Housing Decarbonisation Fund (SHDF), assessing the extent to which the scheme met its objectives.",
-      "link": "https://www.gov.uk/government/publications/social-housing-decarbonisation-fund-wave-1-impact-evaluation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T09:00:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Transparency data: DBT: spending over £500, May 2026",
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
       "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-may-2026",
@@ -413,36 +441,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Transparency data: DBT: workforce management information July 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-26T11:31:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Fair Work Agency: enforcement policy statement",
-      "summary": "The regulatory tools and guiding structures utilised by the Fair Work Agency to enforce labour market legislation within its remit.",
-      "link": "https://www.gov.uk/government/publications/fair-work-agency-enforcement-policy-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-26T09:54:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-25T10:47:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

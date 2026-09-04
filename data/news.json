@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:42:19.927375Z",
+  "generated_at": "2026-09-04T10:29:23.354385Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: June 2026",
+      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at June 2026.",
+      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T08:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK-China Intellectual Property newsletter",
+      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
+      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T07:56:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Investment boost for climate action and forest protection",
       "summary": "The UK has announced its intention to invest £400 million into the Tropical Forests Forever Facility (TFFF).",
@@ -417,30 +437,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Export Wins globally: April to June 2026 confirmed results",
-      "summary": "UK export deals, contracts, sales, or agreements resulting from export promotion support by the Department for Business and Trade (DBT) confirmed in April to June 2026.",
-      "link": "https://www.gov.uk/government/publications/export-wins-globally-april-to-june-2026-confirmed-results",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "New Creative Trade Forum to boost UK creative industries announced at Edinburgh International Festival",
-      "summary": "The Creative Trade Forum, a new partnership between government and industries to boost UK creative businesses, has been launched today in Edinburgh.",
-      "link": "https://www.gov.uk/government/news/new-creative-trade-forum-to-boost-uk-creative-industries-announced-at-edinburgh-international-festival",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-26T11:35:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

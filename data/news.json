@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:29:23.354385Z",
+  "generated_at": "2026-09-04T15:40:56.123469Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,66 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Apply to the Capture Redress Scheme",
+      "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
+      "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T15:08:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Capture Redress Scheme: application form",
+      "summary": "Complete this form to apply for financial redress for financial losses and harm caused by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-application-form",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T15:07:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Capture Redress Scheme: countersignatory information",
+      "summary": "Guidance and confirmation form for Capture Redress Scheme countersignatories.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-countersignatory-information",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T15:04:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-04T13:46:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Preference Tier Graduation: Bhutan",
+      "summary": "This notice sets out the preference tier graduation of Bhutan in the UK’s Developing Countries Trading Scheme (DCTS).",
+      "link": "https://www.gov.uk/government/publications/preference-tier-graduation-bhutan",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T11:09:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Country Graduation from the Developing Countries Trading Scheme: India",
+      "summary": "This notice sets out the upcoming exit of India from the Developing Countries Trading Scheme (DCTS).",
+      "link": "https://www.gov.uk/government/publications/country-graduation-from-the-developing-countries-trading-scheme-india",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-04T11:09:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: June 2026",
       "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at June 2026.",
@@ -109,11 +169,11 @@
       "ai_tags": []
     },
     {
-      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
-      "summary": "OPRED communications issued to stakeholders in 2026.",
-      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "title": "Policy paper: EM on energy and tyre labelling simplification (COM(2026)565)",
+      "summary": "The government's summary of a Proposal for a Regulation as regards simplification and better use of digital options for energy and tyre labelling.",
+      "link": "https://www.gov.uk/government/publications/em-on-energy-and-tyre-labelling-simplification-com2026565",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T14:34:24+00:00",
+      "published": "2026-09-02T15:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -366,74 +426,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-23-august-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-08-27T14:47:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 16 August 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-16-august-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-08-27T14:47:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, May 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
-      "summary": "Funding to support UK-based projects that strengthen critical mineral supply chains and develop innovative capabilities across the critical minerals sector.",
-      "link": "https://www.gov.uk/government/publications/critical-minerals-programme-critical-minerals-accelerator",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:05+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Strategic export controls: licensing statistics",
-      "summary": "Export control licensing statistics compiled by the Export Control Joint Unit (ECJU).",
-      "link": "https://www.gov.uk/guidance/strategic-export-controls-licensing-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Strategic export controls: licensing statistics: 1 January to 31 March 2026",
-      "summary": "Export control licensing data for 1 January to 31 March 2026.",
-      "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, June 2026",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-27T08:30:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

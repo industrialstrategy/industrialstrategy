@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:39:34.469123Z",
+  "generated_at": "2026-09-07T11:27:40.266314Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,120 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Electricity consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
+      "summary": "This notice sets out how we will use your personal data to analyse household energy consumption and efficiency, and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/electricity-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T10:20:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
+      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T10:11:23+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:59:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - July 2027",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-july-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:33:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - April 2027",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-april-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:32:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - January 2027",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-january-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:31:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:30:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - July 2027",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-july-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:29:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - April 2027",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-april-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:28:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - January 2027",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-january-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:24:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-07T08:23:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Boiler Upgrade Scheme: November 2026",
       "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
@@ -217,66 +331,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: EM on energy and tyre labelling simplification (COM(2026)565)",
-      "summary": "The government's summary of a Proposal for a Regulation as regards simplification and better use of digital options for energy and tyre labelling.",
-      "link": "https://www.gov.uk/government/publications/em-on-energy-and-tyre-labelling-simplification-com2026565",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T15:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T11:29:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Energy savings opportunity scheme (ESOS): find out if you qualify and how to comply",
-      "summary": "Find out if you qualify for the energy savings opportunity scheme (ESOS) and how to meet the requirements to make your business more energy efficient.",
-      "link": "https://www.gov.uk/guidance/energy-savings-opportunity-scheme-esos",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T10:18:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: changes for Prequalification 2027",
-      "summary": "We are seeking views on proposed changes to the Capacity Market for Prequalification 2027.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-changes-for-prequalification-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T08:38:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Capacity Market: new technologies 2026",
-      "summary": "We are seeking views on whether technologies capable of contributing to electricity security of supply could enter future Capacity Market auctions.",
-      "link": "https://www.gov.uk/government/consultations/capacity-market-new-technologies-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T08:37:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-02T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK trade agreements in effect",
       "summary": "Find out about trade agreements that can be used now.",
       "link": "https://www.gov.uk/guidance/uk-trade-agreements-in-effect",
@@ -287,26 +341,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Official Statistics: Non-domestic National Energy Efficiency Data Framework (ND-NEED), 2026",
-      "summary": "Statistics on the metered energy consumption of non-domestic buildings in England and Wales, for the years 2012 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-national-energy-efficiency-data-framework-nd-need-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-01T14:03:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: OSPAR EMS recommendation",
-      "summary": "The recommended environmental management system (EMS) designed to achieve the general objectives of the OSPAR Offshore Strategy.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-ospar-ems-recommendation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-01T13:15:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
@@ -324,36 +358,6 @@
       "link": "https://www.gov.uk/government/publications/register-for-the-horizon-family-members-redress-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-01T08:50:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Non-domestic smart meters: energy supplier obligations",
-      "summary": "Information for non-domestic energy suppliers.",
-      "link": "https://www.gov.uk/government/publications/non-domestic-smart-meters-energy-supplier-obligations",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-01T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Non-domestic smart meter rollout post-2025",
-      "summary": "We're seeking views on new energy supplier obligations to drive non-domestic smart meter uptake post-2025 and protect consumers in the transition to smart-contingent contracts.",
-      "link": "https://www.gov.uk/government/consultations/non-domestic-smart-meter-rollout-post-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-01T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Communicating the rollout of smart-contingent contracts to non-domestic customers",
-      "summary": "Research findings from qualitative message testing research to understand how the rollout of smart-contingent contracts can be communicated to non-domestic customers.",
-      "link": "https://www.gov.uk/government/publications/communicating-the-rollout-of-smart-contingent-contracts-to-non-domestic-customers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-01T08:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

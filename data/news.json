@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:54:07.916973Z",
+  "generated_at": "2026-09-08T10:32:17.362709Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,61 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Trade remedies notices: certain glass containers originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade relating to imports of certain glass containers originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-certain-glass-containers-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-08T10:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Pendle Town Centre Premises Improvement Grants",
+      "summary": "Grants of up to £3,000 (50% of costs) for shop front improvements across Pendle Town Centres are available. Any businesses, new or existing within a Pendle Town Centre could be eligible for funding.",
+      "link": "https://www.gov.uk/business-finance-support/town-centre-premises-improvement-grants",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-08T09:42:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Apply for the Heat Training Grant: discounted heat pump training",
+      "summary": "If you're a heating engineer, you could receive a discount of up to £500 towards the cost of heat pump training, plus support and advice when installing a heat pump for the first time.",
+      "link": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T09:25:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T08:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Renewables obligation: certificates and generation - May 2026",
+      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
+      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T08:18:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Correspondence: Oil and gas: OPRED communications, 2026",
       "summary": "OPRED communications issued to stakeholders in 2026.",
@@ -82,16 +137,6 @@
         "Innovation",
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 7 September 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-7-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T14:05:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
@@ -256,30 +301,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Boiler Upgrade Scheme: October 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-04T16:47:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: September 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-04T16:46:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
       "title": "Apply to the Capture Redress Scheme",
       "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
       "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
@@ -417,26 +438,6 @@
       "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-08-28T15:28:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): assessment framework",
-      "summary": "This assessment framework sets out how we will assess your claim if you request a detailed assessment under the Horizon Convictions Redress Scheme (HCRS).",
-      "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-assessment-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-28T15:26:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): legal cost framework",
-      "summary": "This framework sets out the legal costs we will cover for those applying for financial redress under the Horizon Convictions Redress Scheme (HCRS).",
-      "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-legal-cost-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-28T15:26:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

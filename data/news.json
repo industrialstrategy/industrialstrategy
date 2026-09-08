@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:32:17.362709Z",
+  "generated_at": "2026-09-08T15:54:36.495379Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,105 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Local net zero: support for local authorities and communities",
+      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
+      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T15:16:06+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation",
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-08T15:08:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: IPCC Methodology Report on Inventories for Short-lived Climate Forcers: Second Order Draft expert review",
+      "summary": "The Intergovernmental Panel on Climate Change (IPCC) has announced the expert review of the Second Order Draft of its Methodology Report on Inventories for Short-lived Climate Forcers.",
+      "link": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T14:36:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contributing to the IPCC",
+      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T14:36:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ Main Estimate Memorandum 2024 to 2025",
+      "summary": "Explanatory Memorandum to the Energy Security and Net Zero Committee for the 2024 to 2025 Main Estimate.",
+      "link": "https://www.gov.uk/government/publications/desnz-main-estimate-memorandum-2024-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T14:31:38+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Minister McCluskey speech on AI for clean energy vision",
+      "summary": "Minister for Local Energy and Jobs Martin McCluskey delivered a speech at the Google for Startups Accelerator: Europe event in London on 8 September.",
+      "link": "https://www.gov.uk/government/speeches/minister-mccluskey-speech-on-ai-for-clean-energy-vision",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T12:55:52+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Vision for an AI-enabled clean energy system",
+      "summary": "We're seeking evidence on how artificial intelligence can transform the energy system, including opportunities, risks, and barriers to adoption.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/vision-for-an-ai-enabled-clean-energy-system",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T11:13:58+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Independent report: AI deployment in electricity networks: independent review",
+      "summary": "Independent review by Lucy Yu looking at artificial intelligence deployment in electricity networks.",
+      "link": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-08T11:13:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Trade remedies notices: certain glass containers originating from China",
       "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade relating to imports of certain glass containers originating from China.",
@@ -227,80 +326,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - October 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T08:30:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - July 2027",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-july-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T08:29:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - April 2027",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-april-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T08:28:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - January 2027",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-january-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T08:24:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - October 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T08:23:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: November 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-04T16:48:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: December 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-december-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-04T16:47:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
       "title": "Apply to the Capture Redress Scheme",
       "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
       "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
@@ -428,16 +453,6 @@
       "link": "https://www.gov.uk/government/publications/register-for-the-horizon-family-members-redress-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-01T08:50:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: independent panel and panel chair privacy notice",
-      "summary": "How the Capture Redress Scheme independent panel and the panel chair  will process your personal data.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-independent-panel-and-panel-chair-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-08-28T15:28:33+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

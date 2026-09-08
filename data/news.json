@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:54:36.495379Z",
+  "generated_at": "2026-09-08T20:41:02.079316Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,47 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Notice to Importers 2946: Iran (nuclear weapons) import sanctions",
+      "summary": "Overview of import prohibitions in force on certain goods originating or consigned from Iran imported into the UK, including Northern Ireland.",
+      "link": "https://www.gov.uk/government/publications/notice-to-importers-2946-iran-nuclear-weapons-import-sanctions",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-08T16:04:38+00:00",
+      "matched": [
+        "IRA"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Decision: UK's steel trade measure from 1 July 2026",
+      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
+      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-08T16:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/18: Iran sanctions amendments effective from 29 September 2026",
+      "summary": "This Notice to Exporters informs UK businesses of amendments to the Iran sanctions and Iran nuclear sanctions which entered into force on 29 September 2026.",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-iran-sanctions-amendments-effective-from-29-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-08T15:59:06+00:00",
+      "matched": [
+        "IRA"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear",
+        "Trade"
+      ]
+    },
     {
       "title": "Guidance: Local net zero: support for local authorities and communities",
       "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
@@ -421,38 +462,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-april-to-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-03T08:05:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "UK trade agreements in effect",
-      "summary": "Find out about trade agreements that can be used now.",
-      "link": "https://www.gov.uk/guidance/uk-trade-agreements-in-effect",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-01T15:12:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: The UK's accession to CPTPP for small and medium-sized enterprises (SMEs)",
-      "summary": "Information on the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and how CPTPP can benefit and support SMEs.",
-      "link": "https://www.gov.uk/government/publications/the-uks-accession-to-cptpp-for-small-and-medium-sized-enterprises-smes",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-01T12:52:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Register for the Horizon Family Members Redress Scheme",
-      "summary": "Use the online form to register as an affected family member of the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/register-for-the-horizon-family-members-redress-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-01T08:50:35+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

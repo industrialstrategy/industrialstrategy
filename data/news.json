@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:43:50.849396Z",
+  "generated_at": "2026-09-09T15:50:17.730966Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--3",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T15:34:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Groceries Code Adjudicator (GCA): statutory review, 2022 to 2025",
+      "summary": "We're seeking views and evidence which will allow the government to assess the performance of the GCA against the measures set out in the GCA Act 2013.",
+      "link": "https://www.gov.uk/government/consultations/groceries-code-adjudicator-gca-statutory-review-2022-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T15:24:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-09T14:31:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Notice to exporters 2026/19: Updated Open General Licence (Global Combat Air Programme) and new Open General Export Licence (Agreement on Defence Export Controls: ‘De-Minimis’ Exports)",
       "summary": "Notice to exporters advising on updates and publication of two Open General Licences",
@@ -332,16 +364,6 @@
       "ai_tags": []
     },
     {
-      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
-      "summary": "OPRED communications issued to stakeholders in 2026.",
-      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T16:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
       "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
       "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
@@ -393,30 +415,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
-      "summary": "Find the UK's preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020.",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-07T12:43:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notices made under s32A of the Taxation (Cross-border Trade) Act 2018",
-      "summary": "Notices made which have the force of law under s32A of the Taxation (Cross-border Trade) Act 2018.",
-      "link": "https://www.gov.uk/government/publications/notices-made-under-s32a-of-the-taxation-cross-border-trade-act-2018",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-07T12:43:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
         "Trade"
       ]
     },

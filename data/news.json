@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T02:53:56.771076Z",
+  "generated_at": "2026-09-09T10:43:50.849396Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,124 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Notice to exporters 2026/19: Updated Open General Licence (Global Combat Air Programme) and new Open General Export Licence (Agreement on Defence Export Controls: ‘De-Minimis’ Exports)",
+      "summary": "Notice to exporters advising on updates and publication of two Open General Licences",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202619-updated-open-general-licence-global-combat-air-programme-and-new-open-general-export-licence-agreement-on-defence-export-co",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:56:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "South West Investment Fund (SWIF)",
+      "summary": "The fund aims to drive sustainable economic growth by supporting innovation and creating local opportunity for new and growing businesses across the South West.",
+      "link": "https://www.gov.uk/business-finance-support/south-west-investment-fund-swif",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:40:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Arts Derbyshire",
+      "summary": "Provides artists and those with an interest in employing artists in Derbyshire with useful information and advice, including funding, awards, events and free online directory listing.",
+      "link": "https://www.gov.uk/business-finance-support/arts-derbyshire",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:23:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: How to submit export licence applications under Articles 1, 2 and 3 of the Agreement on Defence Export Controls",
+      "summary": "Guidance for exporters on submitting Export Licence applications for consideration.",
+      "link": "https://www.gov.uk/government/publications/how-to-submit-export-licence-applications-under-articles-1-2-and-3-of-the-agreement-on-defence-export-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:13:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Sir James Knott Fund",
+      "summary": "Funding for charitable activity in Tyne and Wear, Northumberland, County Durham and Hartlepool.",
+      "link": "https://www.gov.uk/business-finance-support/sir-james-knott-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:06:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Open general licence (global combat air programme)",
+      "summary": "Licence allowing use of the Global Combat Air Programme (GCAP), subject to certain conditions.",
+      "link": "https://www.gov.uk/government/publications/open-general-licence-global-combat-air-programme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Open General Export Licence: Agreement on Defence Export Controls ‘De-Minimis’ Exports",
+      "summary": "Licence allowing export and transfer of specified military goods, software and technology under the 'de minimis' provision of the Agreement on Defence Export Control, subject to certain conditions.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-agreement-on-defence-export-controls-de-minimis-exports",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Standards for official statistics published by DESNZ",
+      "summary": "Documents describing the standards we follow to produce official statistics.",
+      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-09T08:42:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Peer Networks - Redbridge Council",
+      "summary": "Peer Networks is a programme for businesses that want to grow and develop their organisation for future success.",
+      "link": "https://www.gov.uk/business-finance-support/peer-networks-redbridge-council",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T08:38:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "START - West of England",
+      "summary": "A free to access programme to help entrepreneurs in the West of England who are in the early stages of starting a tech-based or digital business.",
+      "link": "https://www.gov.uk/business-finance-support/start-west-of-england",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T08:26:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Momentum Music Fund",
+      "summary": "The Momentum Music Fund offers grants of £5k-£15k for artists/bands to break through to the next level of their careers.",
+      "link": "https://www.gov.uk/business-finance-support/momentum-music-fund",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-09T08:09:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: Notice to Importers 2946: Iran (nuclear weapons) import sanctions",
       "summary": "Overview of import prohibitions in force on certain goods originating or consigned from Iran imported into the UK, including Northern Ireland.",
@@ -352,116 +470,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-april-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-07T08:32:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - January 2027",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-january-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T08:31:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Apply to the Capture Redress Scheme",
-      "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
-      "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T15:08:47+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Capture Redress Scheme: application form",
-      "summary": "Complete this form to apply for financial redress for financial losses and harm caused by the Post Office Capture software.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-application-form",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T15:07:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Capture Redress Scheme: countersignatory information",
-      "summary": "Guidance and confirmation form for Capture Redress Scheme countersignatories.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-countersignatory-information",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T15:04:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Preference Tier Graduation: Bhutan",
-      "summary": "This notice sets out the preference tier graduation of Bhutan in the UK’s Developing Countries Trading Scheme (DCTS).",
-      "link": "https://www.gov.uk/government/publications/preference-tier-graduation-bhutan",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T11:09:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Country Graduation from the Developing Countries Trading Scheme: India",
-      "summary": "This notice sets out the upcoming exit of India from the Developing Countries Trading Scheme (DCTS).",
-      "link": "https://www.gov.uk/government/publications/country-graduation-from-the-developing-countries-trading-scheme-india",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T11:09:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: COVID-19 loan guarantee schemes repayment data: June 2026",
-      "summary": "The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at June 2026.",
-      "link": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T08:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK-China Intellectual Property newsletter",
-      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
-      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-04T07:56:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "E-Factor Business - The Business Hive",
-      "summary": "Including free enterprise coaching and business advice for pre-start and established businesses. Also, offer events and workshops, and advertise tender opportunities on the website. They also run Business Hive Club (membership charge applies) and a premises search facility.",
-      "link": "https://www.gov.uk/business-finance-support/e-factor-business-the-business-hive",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-03T10:21:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Heart Of Bucks Grants",
-      "summary": "A range of grant funds are available from £300 - £5,000 for not-for-profit community charities and voluntary groups in Buckinghamshire.",
-      "link": "https://www.gov.uk/business-finance-support/heart-of-bucks-grants",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-03T10:03:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: April to June 2026",
-      "summary": "Headline summary of market access barriers resolved during Quarter 1 (April to June) of the financial year ending 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/market-access-barrier-quarterly-statistics-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-03T08:05:48+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

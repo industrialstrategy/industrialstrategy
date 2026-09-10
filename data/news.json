@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:45:29.485329Z",
+  "generated_at": "2026-09-10T20:24:33.776114Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-10T16:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): privacy notice",
       "summary": "What data is collected when you apply for the Horizon Convictions Redress Scheme (HCRS) – how it's used, where it's stored, your rights.",
@@ -457,20 +467,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "summary": "The CfD Clean Industry Bonus will allow fixed and floating offshore wind applicants to get extra CfD revenue support if they choose to invest in more sustainable supply chains.",
-      "link": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T10:11:23+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
     }
   ]
 }

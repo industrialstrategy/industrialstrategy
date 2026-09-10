@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:22:06.367091Z",
+  "generated_at": "2026-09-10T10:30:40.597265Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,16 +19,48 @@
   "count": 40,
   "items": [
     {
-      "title": "Official Statistics: Heat pump deployment: June 2026",
+      "title": "Notice: Trade remedies notices: anti-dumping duty on wire rod products originating from China",
+      "summary": "Trade remedies notices published by the Secretary of State for Business and Trade relating to the anti-dumping duty on wire rod products originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-hot-rolled-iron-and-steel-bars-and-rods-in-coils-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-10T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Heat pump deployment statistics: June 2026",
       "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/heat-pump-deployment-june-2026",
+      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-09T15:58:14+00:00",
+      "published": "2026-09-10T08:30:09+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
         "Heat pumps"
       ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-10T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Market access barrier quarterly statistics: April to June 2026",
+      "summary": "Headline summary of market access barriers resolved during Quarter 1 (April to June) of the financial year ending 2026.",
+      "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-10T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
@@ -366,16 +398,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Renewables obligation: certificates and generation - May 2026",
-      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
-      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-may-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T08:18:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
       "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
       "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
@@ -386,16 +408,6 @@
       "ai_tags": [
         "Decarbonisation"
       ]
-    },
-    {
-      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
-      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
-      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-07T15:39:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Oil and gas: offshore environmental legislation",
@@ -416,19 +428,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Department for Business, Innovation, Science and Trade (BIST) sponsorship",
-      "summary": "Commercial sponsorship with the UK government can help your organisation raise its profile and reach priority audiences in the UK and internationally.",
-      "link": "https://www.gov.uk/guidance/department-for-business-innovation-science-and-trade-bist-sponsorship",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-07T14:13:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
     },
     {
       "title": "Notice: Gas consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",

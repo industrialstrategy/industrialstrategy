@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:47:05.925753Z",
+  "generated_at": "2026-09-11T20:22:56.981740Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DBT: ministerial overseas travel and meetings, April to June 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-11T15:55:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Impact assessment and options assessment calculator",
       "summary": "Help for policy officials to calculate figures for impact assessments (IAs) and options assessments (OAs).",
@@ -283,20 +293,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to Importers 2946: Iran (nuclear weapons) import sanctions",
-      "summary": "Overview of import prohibitions in force on certain goods originating or consigned from Iran imported into the UK, including Northern Ireland.",
-      "link": "https://www.gov.uk/government/publications/notice-to-importers-2946-iran-nuclear-weapons-import-sanctions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T16:04:38+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
     },
     {
       "title": "Guidance: Local net zero: support for local authorities and communities",

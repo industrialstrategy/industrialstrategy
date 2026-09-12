@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:22:56.981740Z",
+  "generated_at": "2026-09-12T02:55:45.419898Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Form: Youth Climate and Nature Panel (closed to applications)",
+      "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies.",
+      "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-11T22:59:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DBT: ministerial overseas travel and meetings, April to June 2025",
       "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
@@ -441,16 +451,6 @@
       "link": "https://www.gov.uk/government/publications/gas-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-07T12:02:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Electricity consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
-      "summary": "This notice sets out how we will use your personal data to analyse household energy consumption and efficiency, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/electricity-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T10:20:30+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:13:55.098430Z",
+  "generated_at": "2026-09-14T03:11:10.755546Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "UK and US fusion strike partnership to accelerate clean energy",
+      "summary": "UK and US set to sign agreements at the Global Fusion Summit  to combine expertise in AI,  computing and fusion and to cooperate on regulating fusion energy.",
+      "link": "https://www.gov.uk/government/news/uk-and-us-fusion-strike-partnership-to-accelerate-clean-energy",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-13T23:01:04+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
     {
       "title": "Form: Youth Climate and Nature Panel (closed to applications)",
       "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies.",
@@ -441,16 +455,6 @@
       "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-07T15:28:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Gas consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
-      "summary": "This notice sets out how we will use your personal data to analyse household energy consumption and efficiency, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/gas-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-07T12:02:55+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

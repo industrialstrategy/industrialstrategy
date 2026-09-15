@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:57:59.614755Z",
+  "generated_at": "2026-09-15T16:10:45.633572Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,100 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Decision: Norfolk Vanguard Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application by Norfolk Vanguard East Limited and Norfolk Vanguard West Limited.",
+      "link": "https://www.gov.uk/government/publications/norfolk-vanguard-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-15T15:37:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Whistleblowing: list of prescribed people and bodies",
+      "summary": "List of prescribed people and bodies you can report malpractice to, other than your employer.",
+      "link": "https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T15:29:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: improving access to flexible working",
+      "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T15:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Local Women Local Enterprise",
+      "summary": "Women-only enterprise support services for women who are thinking about starting a business and women led businesses who need support to be better prepared to build a successful business.",
+      "link": "https://www.gov.uk/business-finance-support/local-women-local-enterprise",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T13:32:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Made Smarter London",
+      "summary": "The Made Smarter adoption programme aims to empower and support London's manufacturing businesses. The programme has a particular focus on adopting digital technology.",
+      "link": "https://www.gov.uk/business-finance-support/made-smarter-london",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:59:54+00:00",
+      "matched": [
+        "manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Official Statistics: Small Business Survey 2025: panel report",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of businesses that were interviewed in 2022, 2023, 2024 and 2025.",
+      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-panel-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:12:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Small Business Survey 2025: businesses with employees",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of businesses with employees.",
+      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-businesses-with-employees--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:12:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Small Business Survey 2025: businesses with no employees",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of small and medium-sized businesses with no employees.",
+      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-businesses-with-employees",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:11:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: National Energy Efficiency Data-framework statistics - HM Revenue and Customs (HMRC) data: privacy notice",
+      "summary": "This notice sets out how we will use your personal data, and your rights.",
+      "link": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-15T11:08:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
@@ -184,10 +278,10 @@
     },
     {
       "title": "UK and US fusion strike partnership to accelerate clean energy",
-      "summary": "UK and US set to sign agreements at the Global Fusion Summit  to combine expertise in AI,  computing and fusion and to cooperate on regulating fusion energy.",
+      "summary": "UK and US set to sign agreements at the Global Fusion Policy Summit  to combine expertise in AI,  computing and fusion and to cooperate on regulating fusion energy.",
       "link": "https://www.gov.uk/government/news/uk-and-us-fusion-strike-partnership-to-accelerate-clean-energy",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-13T23:01:04+00:00",
+      "published": "2026-09-13T23:01:00+00:00",
       "matched": [
         "clean energy"
       ],
@@ -343,28 +437,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--3",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T15:34:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Groceries Code Adjudicator (GCA): statutory review, 2022 to 2025",
-      "summary": "We're seeking views and evidence which will allow the government to assess the performance of the GCA against the measures set out in the GCA Act 2013.",
-      "link": "https://www.gov.uk/government/consultations/groceries-code-adjudicator-gca-statutory-review-2022-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T15:24:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Correspondence: Oil and gas: OPRED communications, 2026",
       "summary": "OPRED communications issued to stakeholders in 2026.",
       "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
@@ -373,87 +445,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/19: Updated Open General Licence (Global Combat Air Programme) and new Open General Export Licence (Agreement on Defence Export Controls: ‘De-Minimis’ Exports)",
-      "summary": "Notice to exporters advising on updates and publication of two Open General Licences",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202619-updated-open-general-licence-global-combat-air-programme-and-new-open-general-export-licence-agreement-on-defence-export-co",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:56:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "South West Investment Fund (SWIF)",
-      "summary": "The fund aims to drive sustainable economic growth by supporting innovation and creating local opportunity for new and growing businesses across the South West.",
-      "link": "https://www.gov.uk/business-finance-support/south-west-investment-fund-swif",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:40:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Arts Derbyshire",
-      "summary": "Provides artists and those with an interest in employing artists in Derbyshire with useful information and advice, including funding, awards, events and free online directory listing.",
-      "link": "https://www.gov.uk/business-finance-support/arts-derbyshire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:23:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: How to submit export licence applications under Articles 1, 2 and 3 of the Agreement on Defence Export Controls",
-      "summary": "Guidance for exporters on submitting Export Licence applications for consideration.",
-      "link": "https://www.gov.uk/government/publications/how-to-submit-export-licence-applications-under-articles-1-2-and-3-of-the-agreement-on-defence-export-controls",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:13:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Sir James Knott Fund",
-      "summary": "Funding for charitable activity in Tyne and Wear, Northumberland, County Durham and Hartlepool.",
-      "link": "https://www.gov.uk/business-finance-support/sir-james-knott-fund",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:06:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Standards for official statistics published by DESNZ",
-      "summary": "Documents describing the standards we follow to produce official statistics.",
-      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-09T08:42:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Local net zero: support for local authorities and communities",
-      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
-      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T15:16:06+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation",
-        "Net zero"
-      ]
     }
   ]
 }

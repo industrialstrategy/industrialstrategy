@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:46:14.547487Z",
+  "generated_at": "2026-09-16T16:01:53.597584Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,20 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Critical Minerals Programme: Critical Minerals Accelerator",
+      "summary": "Funding to support UK-based projects that strengthen critical mineral supply chains and develop innovative capabilities across the critical minerals sector.",
+      "link": "https://www.gov.uk/government/publications/critical-minerals-programme-critical-minerals-accelerator",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-16T15:16:05+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
     {
       "title": "Decision: Norfolk Vanguard Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
       "summary": "Decision by the Secretary of State on an application by Norfolk Vanguard East Limited and Norfolk Vanguard West Limited.",
@@ -63,11 +77,31 @@
       "ai_tags": []
     },
     {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-15T08:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Policy paper: Global Fusion Policy Summit: joint statement on fusion energy",
       "summary": "A joint statement following the Global Fusion Policy Summit setting out shared priorities for international cooperation on fusion energy.",
       "link": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-14T14:44:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Draft strategic policy guidance for electricity networks growth",
+      "summary": "We're seeking views on draft social and environmental guidance for the Gas and Electricity Markets Authority.",
+      "link": "https://www.gov.uk/government/consultations/draft-strategic-policy-guidance-for-electricity-networks-growth",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-14T13:30:28+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -81,6 +115,51 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-14T13:14:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Advanced Nuclear Technologies",
+      "summary": "Information about Advanced Nuclear Technologies, previously known as Small Modular Reactors.",
+      "link": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-14T13:10:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear",
+        "SMRs"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-14T12:47:27+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: UK carbon management innovation challenge (expression of interest closed)",
+      "summary": "Accelerating the development, demonstration and commercialisation of innovative solutions for carbon capture and greenhouse gas removal in the UK.",
+      "link": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-14T10:15:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
     },
     {
       "title": "Policy paper: Fusion regulation landscape",
@@ -127,6 +206,26 @@
       "ai_tags": []
     },
     {
+      "title": "Form: Youth Climate and Nature Panel (closed to applications)",
+      "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies.",
+      "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-11T22:59:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-10T16:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Corporate report: Renewables Obligation to Exchequer Scheme Expenditure: 1 April to 30 June 2026",
       "summary": "Quarterly report to Parliament on government expenditure under the Renewables Obligation to Exchequer scheme.",
       "link": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-scheme-expenditure-1-april-to-30-june-2026",
@@ -149,11 +248,31 @@
       ]
     },
     {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-10T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Official Statistics: Market access barrier quarterly statistics: April to June 2026",
       "summary": "Headline summary of market access barriers resolved during Quarter 1 (April to June) of the financial year ending 2026.",
       "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-april-to-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-10T08:30:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-09T14:31:30+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -223,16 +342,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Guidance: Standards for official statistics published by DESNZ",
-      "summary": "Documents describing the standards we follow to produce official statistics.",
-      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-09T08:42:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Peer Networks - Redbridge Council",
@@ -306,21 +415,6 @@
       ]
     },
     {
-      "title": "Guidance: Local net zero: support for local authorities and communities",
-      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
-      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T15:16:06+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation",
-        "Net zero"
-      ]
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
@@ -331,78 +425,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: IPCC Methodology Report on Inventories for Short-lived Climate Forcers: Second Order Draft expert review",
-      "summary": "The Intergovernmental Panel on Climate Change (IPCC) has announced the expert review of the Second Order Draft of its Methodology Report on Inventories for Short-lived Climate Forcers.",
-      "link": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T14:36:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contributing to the IPCC",
-      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
-      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T14:36:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ Main Estimate Memorandum 2024 to 2025",
-      "summary": "Explanatory Memorandum to the Energy Security and Net Zero Committee for the 2024 to 2025 Main Estimate.",
-      "link": "https://www.gov.uk/government/publications/desnz-main-estimate-memorandum-2024-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T14:31:38+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
-    },
-    {
-      "title": "Minister McCluskey speech on AI for clean energy vision",
-      "summary": "Minister for Local Energy and Jobs Martin McCluskey delivered a speech at the Google for Startups Accelerator: Europe event in London on 8 September.",
-      "link": "https://www.gov.uk/government/speeches/minister-mccluskey-speech-on-ai-for-clean-energy-vision",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T12:55:52+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Vision for an AI-enabled clean energy system",
-      "summary": "We're seeking evidence on how artificial intelligence can transform the energy system, including opportunities, risks, and barriers to adoption.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/vision-for-an-ai-enabled-clean-energy-system",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T11:13:58+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
-      "title": "Independent report: AI deployment in electricity networks: independent review",
-      "summary": "Independent review by Lucy Yu looking at artificial intelligence deployment in electricity networks.",
-      "link": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T11:13:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Notice: Trade remedies notices: certain glass containers originating from China",
@@ -428,28 +450,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Apply for the Heat Training Grant: discounted heat pump training",
-      "summary": "If you're a heating engineer, you could receive a discount of up to £500 towards the cost of heat pump training, plus support and advice when installing a heat pump for the first time.",
-      "link": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T09:25:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-08T08:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Gangmasters Licensing Appeals results and judgements",
       "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
       "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
@@ -458,19 +458,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Department for Business, Innovation, Science and Trade (BIST) sponsorship",
-      "summary": "Commercial sponsorship with the UK government can help your organisation raise its profile and reach priority audiences in the UK and internationally.",
-      "link": "https://www.gov.uk/guidance/department-for-business-innovation-science-and-trade-bist-sponsorship",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-07T14:13:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
     }
   ]
 }

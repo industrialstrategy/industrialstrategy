@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:11:52.622317Z",
+  "generated_at": "2026-09-17T10:55:35.892341Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: National Survey of Businesses Wave 1",
+      "summary": "The first publication of a new omnibus-style quarterly survey representative of UK businesses. This release covers fieldwork completed from June to August 2026 and delivers insight into business experiences, perceptions and challenges.",
+      "link": "https://www.gov.uk/government/statistics/announcements/national-survey-of-businesses-wave-1",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-17T10:11:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Shared parental leave and pay: employers' technical guide",
+      "summary": "This is a technical guide for employers to consider when implementing policies on shared parental leave and pay.",
+      "link": "https://www.gov.uk/government/publications/shared-parental-leave-and-pay-employers-technical-guide",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-17T08:39:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Warm Homes Loan Scheme: end-user privacy notice",
+      "summary": "How we will use your personal data and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-end-user-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-17T07:57:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "‘People’s Power’ projects to give more control over local energy",
       "summary": "Communities across the country will be able to build and control their own clean energy supply.",
@@ -57,6 +87,26 @@
       "ai_tags": []
     },
     {
+      "title": "Guidance: Whistleblowing: list of prescribed people and bodies",
+      "summary": "List of prescribed people and bodies you can report malpractice to, other than your employer.",
+      "link": "https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T15:29:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: improving access to flexible working",
+      "summary": "We are seeking views on a new process for employers to follow when handling flexible working requests, as well as insights on flexible working practices more broadly.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-improving-access-to-flexible-working",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T15:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Local Women Local Enterprise",
       "summary": "Women-only enterprise support services for women who are thinking about starting a business and women led businesses who need support to be better prepared to build a successful business.",
       "link": "https://www.gov.uk/business-finance-support/local-women-local-enterprise",
@@ -81,6 +131,36 @@
       ]
     },
     {
+      "title": "Official Statistics: Small Business Survey 2025: panel report",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of businesses that were interviewed in 2022, 2023, 2024 and 2025.",
+      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-panel-report",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:12:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Small Business Survey 2025: businesses with employees",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of businesses with employees.",
+      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-businesses-with-employees--2",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:12:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Small Business Survey 2025: businesses with no employees",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of small and medium-sized businesses with no employees.",
+      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-businesses-with-employees",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-15T11:11:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Notice: National Energy Efficiency Data-framework statistics - HM Revenue and Customs (HMRC) data: privacy notice",
       "summary": "This notice sets out how we will use your personal data, and your rights.",
       "link": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice",
@@ -99,6 +179,21 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
+    },
+    {
+      "title": "Applying for an export certificate",
+      "summary": "How to apply for an export certificate, including a Certificate of Free Sale, Certificate of Manufacture and Certificate of Good Manufacturing Practice.",
+      "link": "https://www.gov.uk/guidance/applying-for-an-export-certificate",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-14T15:54:07+00:00",
+      "matched": [
+        "manufacturing"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing",
+        "Trade"
+      ]
     },
     {
       "title": "Policy paper: Global Fusion Policy Summit: joint statement on fusion energy",
@@ -164,6 +259,28 @@
       "ai_tags": []
     },
     {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--112",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-14T11:19:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Statutory review of Pubs Code and Pubs Code Adjudicator 2022 to 2025",
+      "summary": "We are seeking views and evidence which will allow the government to assess the Pubs Code’s operation and the Pubs Code Adjudicator’s (PCA's) performance.",
+      "link": "https://www.gov.uk/government/consultations/statutory-review-of-pubs-code-and-pubs-code-adjudicator-2022-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-14T11:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Notice: UK carbon management innovation challenge (expression of interest closed)",
       "summary": "Accelerating the development, demonstration and commercialisation of innovative solutions for carbon capture and greenhouse gas removal in the UK.",
       "link": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
@@ -173,6 +290,18 @@
       "ai_summary": "",
       "ai_tags": [
         "Innovation"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--60",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-14T09:13:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
       ]
     },
     {
@@ -230,11 +359,61 @@
       "ai_tags": []
     },
     {
+      "title": "Transparency data: DBT: ministerial overseas travel and meetings, April to June 2025",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-11T15:55:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Impact assessment and options assessment calculator",
+      "summary": "Help for policy officials to calculate figures for impact assessments (IAs) and options assessments (OAs).",
+      "link": "https://www.gov.uk/government/publications/impact-assessment-and-options-assessment-calculator",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-11T12:53:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Capture financial redress data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-11T06:51:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-11T06:49:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
       "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-10T16:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): privacy notice",
+      "summary": "What data is collected when you apply for the Horizon Convictions Redress Scheme (HCRS) – how it's used, where it's stored, your rights.",
+      "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-10T12:45:13+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -250,6 +429,18 @@
       "ai_tags": []
     },
     {
+      "title": "Notice: Trade remedies notices: HVO biodiesel from the United States of America",
+      "summary": "Trade remedies notices relating to imports of hydrotreated vegetable oil (HVO) biodiesel originating from the United States of America (USA).",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-registration-of-imports-of-hydrotreated-vegetable-oil-hvo-biodiesel-originating-from-the-united-states-of-america-usa",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-10T11:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
       "title": "Official Statistics: Heat pump deployment statistics: June 2026",
       "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
       "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-june-2026",
@@ -260,208 +451,6 @@
       "ai_tags": [
         "Heat pumps"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-10T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Market access barrier quarterly statistics: April to June 2026",
-      "summary": "Headline summary of market access barriers resolved during Quarter 1 (April to June) of the financial year ending 2026.",
-      "link": "https://www.gov.uk/government/statistics/market-access-barrier-quarterly-statistics-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-10T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/19: Updated Open General Licence (Global Combat Air Programme) and new Open General Export Licence (Agreement on Defence Export Controls: ‘De-Minimis’ Exports)",
-      "summary": "Notice to exporters advising on updates and publication of two Open General Licences",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202619-updated-open-general-licence-global-combat-air-programme-and-new-open-general-export-licence-agreement-on-defence-export-co",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:56:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "South West Investment Fund (SWIF)",
-      "summary": "The fund aims to drive sustainable economic growth by supporting innovation and creating local opportunity for new and growing businesses across the South West.",
-      "link": "https://www.gov.uk/business-finance-support/south-west-investment-fund-swif",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:40:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Arts Derbyshire",
-      "summary": "Provides artists and those with an interest in employing artists in Derbyshire with useful information and advice, including funding, awards, events and free online directory listing.",
-      "link": "https://www.gov.uk/business-finance-support/arts-derbyshire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:23:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Sir James Knott Fund",
-      "summary": "Funding for charitable activity in Tyne and Wear, Northumberland, County Durham and Hartlepool.",
-      "link": "https://www.gov.uk/business-finance-support/sir-james-knott-fund",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:06:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Open general licence (global combat air programme)",
-      "summary": "Licence allowing use of the Global Combat Air Programme (GCAP), subject to certain conditions.",
-      "link": "https://www.gov.uk/government/publications/open-general-licence-global-combat-air-programme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Open General Export Licence: Agreement on Defence Export Controls ‘De-Minimis’ Exports",
-      "summary": "Licence allowing export and transfer of specified military goods, software and technology under the 'de minimis' provision of the Agreement on Defence Export Control, subject to certain conditions.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-agreement-on-defence-export-controls-de-minimis-exports",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T09:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Peer Networks - Redbridge Council",
-      "summary": "Peer Networks is a programme for businesses that want to grow and develop their organisation for future success.",
-      "link": "https://www.gov.uk/business-finance-support/peer-networks-redbridge-council",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T08:38:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "START - West of England",
-      "summary": "A free to access programme to help entrepreneurs in the West of England who are in the early stages of starting a tech-based or digital business.",
-      "link": "https://www.gov.uk/business-finance-support/start-west-of-england",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T08:26:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Momentum Music Fund",
-      "summary": "The Momentum Music Fund offers grants of £5k-£15k for artists/bands to break through to the next level of their careers.",
-      "link": "https://www.gov.uk/business-finance-support/momentum-music-fund",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-09T08:09:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to Importers 2946: Iran (nuclear weapons) import sanctions",
-      "summary": "Overview of import prohibitions in force on certain goods originating or consigned from Iran imported into the UK, including Northern Ireland.",
-      "link": "https://www.gov.uk/government/publications/notice-to-importers-2946-iran-nuclear-weapons-import-sanctions",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T16:04:38+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Decision: UK's steel trade measure from 1 July 2026",
-      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
-      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T16:00:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Notice to exporters 2026/18: Iran sanctions amendments effective from 29 September 2026",
-      "summary": "This Notice to Exporters informs UK businesses of amendments to the Iran sanctions and Iran nuclear sanctions which entered into force on 29 September 2026.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-iran-sanctions-amendments-effective-from-29-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T15:59:06+00:00",
-      "matched": [
-        "IRA"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T15:08:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Trade remedies notices: certain glass containers originating from China",
-      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade relating to imports of certain glass containers originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-certain-glass-containers-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T10:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Pendle Town Centre Premises Improvement Grants",
-      "summary": "Grants of up to £3,000 (50% of costs) for shop front improvements across Pendle Town Centres are available. Any businesses, new or existing within a Pendle Town Centre could be eligible for funding.",
-      "link": "https://www.gov.uk/business-finance-support/town-centre-premises-improvement-grants",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-08T09:42:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
-      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
-      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-07T15:39:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

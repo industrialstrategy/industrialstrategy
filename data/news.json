@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:55:35.892341Z",
+  "generated_at": "2026-09-17T16:10:47.630848Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,48 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Contact the Fair Work Agency",
+      "summary": "How to contact the Fair Work Agency (FWA)",
+      "link": "https://www.gov.uk/guidance/contact-the-fair-work-agency",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-17T13:25:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
+      "summary": "The Warm Homes Loan Scheme (WHLS) will unlock private lending and investment at scale for home retrofit.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-17T13:24:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Smart Secure Electricity Systems (SSES) Programme: first phase energy smart appliances regulations",
+      "summary": "We're seeking feedback on the SSES Programme’s draft Phase 1 energy smart appliances regulations and impact assessment.",
+      "link": "https://www.gov.uk/government/consultations/smart-secure-electricity-systems-sses-programme-first-phase-energy-smart-appliances-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-17T11:16:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "NDA galvanises cultural shift across nuclear sector",
+      "summary": "NDA brings nuclear sector senior leaders together to galvanise action on Nuclear Regulatory Taskforce (NRTF) review recommendations.",
+      "link": "https://www.gov.uk/government/news/nda-galvanises-cultural-shift-across-nuclear-sector",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-17T11:06:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
     {
       "title": "Official Statistics: National Survey of Businesses Wave 1",
       "summary": "The first publication of a new omnibus-style quarterly survey representative of UK businesses. This release covers fieldwork completed from June to August 2026 and delivers insight into business experiences, perceptions and challenges.",
@@ -399,16 +441,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-10T16:15:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Horizon Convictions Redress Scheme (HCRS): privacy notice",
       "summary": "What data is collected when you apply for the Horizon Convictions Redress Scheme (HCRS) – how it's used, where it's stored, your rights.",
       "link": "https://www.gov.uk/government/publications/horizon-convictions-redress-scheme-hcrs-privacy-notice",
@@ -417,40 +449,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Renewables Obligation to Exchequer Scheme Expenditure: 1 April to 30 June 2026",
-      "summary": "Quarterly report to Parliament on government expenditure under the Renewables Obligation to Exchequer scheme.",
-      "link": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-scheme-expenditure-1-april-to-30-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-10T12:40:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: HVO biodiesel from the United States of America",
-      "summary": "Trade remedies notices relating to imports of hydrotreated vegetable oil (HVO) biodiesel originating from the United States of America (USA).",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-registration-of-imports-of-hydrotreated-vegetable-oil-hvo-biodiesel-originating-from-the-united-states-of-america-usa",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-10T11:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Heat pump deployment statistics: June 2026",
-      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-10T08:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
     }
   ]
 }

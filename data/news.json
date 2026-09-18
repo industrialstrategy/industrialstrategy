@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:28:37.093184Z",
+  "generated_at": "2026-09-18T15:46:41.833863Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-18T13:02:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Import controls",
+      "summary": "How to import goods under national or UN-level import controls. This includes weapons, sanctioned goods, or goods that could be used for torture.",
+      "link": "https://www.gov.uk/guidance/import-controls",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-18T11:37:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Statutory guidance: Electricity networks growth: draft social and environmental guidance to GEMA",
+      "summary": "Draft guidance on delivering growth through electricity networks.",
+      "link": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-18T11:17:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
@@ -292,16 +322,6 @@
       "ai_tags": []
     },
     {
-      "title": "Statutory guidance: Electricity networks growth: draft social and environmental guidance to GEMA",
-      "summary": "Draft guidance on delivering growth through electricity networks.",
-      "link": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-14T13:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Jackdaw Field Development",
       "summary": "Project Summary",
       "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
@@ -401,16 +421,6 @@
       "ai_tags": []
     },
     {
-      "title": "Form: Youth Climate and Nature Panel (closed to applications)",
-      "summary": "We're creating a new Youth Climate and Nature Panel to put the voices of younger people at the heart of climate and nature policies.",
-      "link": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-11T22:59:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: DBT: ministerial overseas travel and meetings, April to June 2025",
       "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
       "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2025",
@@ -436,16 +446,6 @@
       "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-11T06:51:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-11T06:49:12+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

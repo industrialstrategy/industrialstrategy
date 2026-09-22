@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:56:11.613784Z",
+  "generated_at": "2026-09-22T16:11:01.549256Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Corporate report: British Hallmarking Council framework document (November 2024)",
+      "summary": "This document sets out the broad framework within which the British Hallmarking Council (BHC) operates.",
+      "link": "https://www.gov.uk/government/publications/british-hallmarking-council-framework-document-november-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-22T13:46:21+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Joint Statement on UK-Philippines Joint Economic and Trade Committee",
+      "summary": "A Joint Statement between the United Kingdom and the Philippines concluding the second Joint Economic and Trade Committee Ministerial Meeting.",
+      "link": "https://www.gov.uk/government/news/joint-statement-on-uk-philippines-joint-economic-and-trade-committee",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-22T13:23:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--3",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-22T12:31:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: UK Offshore Energy Strategic Environmental Assessment: research",
+      "summary": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
+      "link": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-22T11:21:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
@@ -362,21 +406,6 @@
       "ai_tags": []
     },
     {
-      "title": "Applying for an export certificate",
-      "summary": "How to apply for an export certificate, including a Certificate of Free Sale, Certificate of Manufacture and Certificate of Good Manufacturing Practice.",
-      "link": "https://www.gov.uk/guidance/applying-for-an-export-certificate",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-14T15:54:07+00:00",
-      "matched": [
-        "manufacturing"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing",
-        "Trade"
-      ]
-    },
-    {
       "title": "Policy paper: Global Fusion Policy Summit: joint statement on fusion energy",
       "summary": "A joint statement following the Global Fusion Policy Summit setting out shared priorities for international cooperation on fusion energy.",
       "link": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
@@ -418,38 +447,6 @@
         "Nuclear",
         "SMRs"
       ]
-    },
-    {
-      "title": "Statutory review of Pubs Code and Pubs Code Adjudicator 2022 to 2025",
-      "summary": "We are seeking views and evidence which will allow the government to assess the Pubs Code’s operation and the Pubs Code Adjudicator’s (PCA's) performance.",
-      "link": "https://www.gov.uk/government/consultations/statutory-review-of-pubs-code-and-pubs-code-adjudicator-2022-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-14T11:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: UK carbon management innovation challenge (expression of interest closed)",
-      "summary": "Accelerating the development, demonstration and commercialisation of innovative solutions for carbon capture and greenhouse gas removal in the UK.",
-      "link": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-14T10:15:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation"
-      ]
-    },
-    {
-      "title": "Transparency data: DBT: ministerial overseas travel and meetings, April to June 2025",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-11T15:55:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

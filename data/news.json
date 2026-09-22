@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:05:46.700214Z",
+  "generated_at": "2026-09-22T10:56:11.613784Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,36 @@
   "count": 40,
   "items": [
     {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-22T08:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: leave for bereavement including pregnancy loss",
+      "summary": "We are seeking views on the details of a new entitlement to bereavement leave, including for pregnancy loss before 24 weeks.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-leave-for-bereavement-including-pregnancy-loss",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-22T08:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "70th IAEA General Conference: UK national statement",
+      "summary": "Minister Michael Shanks delivered the UK's National Statement at the International Atomic Energy Agency's 2026 General Conference.",
+      "link": "https://www.gov.uk/government/speeches/70th-iaea-general-conference-uk-national-statement",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-22T08:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Official Statistics: Boiler Upgrade Scheme: August 2026",
       "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
       "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-august-2026",
@@ -36,16 +66,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/energy-consumption-in-the-uk-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-21T13:34:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 21 September 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-21-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-21T13:25:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -342,16 +362,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-15T08:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Applying for an export certificate",
       "summary": "How to apply for an export certificate, including a Certificate of Free Sale, Certificate of Manufacture and Certificate of Good Manufacturing Practice.",
       "link": "https://www.gov.uk/guidance/applying-for-an-export-certificate",
@@ -437,16 +447,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-11T15:55:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Impact assessment and options assessment calculator",
-      "summary": "Help for policy officials to calculate figures for impact assessments (IAs) and options assessments (OAs).",
-      "link": "https://www.gov.uk/government/publications/impact-assessment-and-options-assessment-calculator",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-11T12:53:38+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

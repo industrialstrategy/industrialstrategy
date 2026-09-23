@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:41:25.187725Z",
+  "generated_at": "2026-09-23T16:00:01.624675Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,50 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Contacting the Warm Home Discount helpline privacy notice",
+      "summary": "How we will use your personal data and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/contacting-the-warm-home-discount-helpline-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-23T14:55:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Establishing eligibility under the Warm Home Discount: privacy notice",
+      "summary": "How we will use your personal data and what your rights are.",
+      "link": "https://www.gov.uk/government/publications/establishing-eligibility-under-the-warm-home-discount-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-23T14:55:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Welsh communities given support to build local energy projects to tackle climate change",
+      "summary": "Communities across Wales will receive a funding boost to build and control their own clean energy supply",
+      "link": "https://www.gov.uk/government/news/welsh-communities-given-support-to-build-local-energy-projects-to-tackle-climate-change",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-23T14:43:37+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
+    {
+      "title": "Independent report: UK steel strategy demand assessment",
+      "summary": "A government commissioned report on the UK steel demand forecast to 2050, to inform the UK steel strategy.",
+      "link": "https://www.gov.uk/government/publications/uk-steel-strategy-demand-assessment",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-23T10:47:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Social Housing Decarbonisation Fund: July 2026",
       "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
@@ -354,16 +398,6 @@
       ]
     },
     {
-      "title": "Decision: Norfolk Vanguard Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application by Norfolk Vanguard East Limited and Norfolk Vanguard West Limited.",
-      "link": "https://www.gov.uk/government/publications/norfolk-vanguard-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-15T15:37:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Whistleblowing: list of prescribed people and bodies",
       "summary": "List of prescribed people and bodies you can report malpractice to, other than your employer.",
       "link": "https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2",
@@ -413,36 +447,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-panel-report",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-15T11:12:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Small Business Survey 2025: businesses with employees",
-      "summary": "Findings of the Small Business Survey 2025 on the performance of businesses with employees.",
-      "link": "https://www.gov.uk/government/statistics/announcements/small-business-survey-2025-businesses-with-employees--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-15T11:12:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: National Energy Efficiency Data-framework statistics - HM Revenue and Customs (HMRC) data: privacy notice",
-      "summary": "This notice sets out how we will use your personal data, and your rights.",
-      "link": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-15T11:08:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Fusion Policy Summit: joint statement on fusion energy",
-      "summary": "A joint statement following the Global Fusion Policy Summit setting out shared priorities for international cooperation on fusion energy.",
-      "link": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-14T14:44:17+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

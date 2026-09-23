@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:05:23.863414Z",
+  "generated_at": "2026-09-23T10:41:25.187725Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,18 @@
   "count": 40,
   "items": [
     {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund: July 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-23T08:59:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
       "title": "Correspondence: Keep Britain Working review update: a national growth opportunity, September 2026",
       "summary": "September 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces to change outcomes, improve lives and drive growth.",
       "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026",
@@ -30,10 +42,10 @@
     },
     {
       "title": "Families set to save money through new and upgraded heat networks",
-      "summary": "Hundreds of thousands of people will save money on their energy bills through £90 million investment into clean, cheaper heating",
+      "summary": "Hundreds of thousands of people will save money on their energy bills through £90 million investment into clean, cheaper heating.",
       "link": "https://www.gov.uk/government/news/families-set-to-save-money-through-new-and-upgraded-heat-networks",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-22T23:01:04+00:00",
+      "published": "2026-09-22T23:01:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -108,6 +120,16 @@
       "link": "https://www.gov.uk/government/speeches/70th-iaea-general-conference-uk-national-statement",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-22T08:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Norfolk Boreas Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
+      "summary": "Decision by the Secretary of State on an application by Norfolk Boreas Limited (RWE Renewables UK Limited).",
+      "link": "https://www.gov.uk/government/publications/norfolk-boreas-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-21T23:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -421,26 +443,6 @@
       "link": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-09-14T14:44:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Draft strategic policy guidance for electricity networks growth",
-      "summary": "We're seeking views on draft social and environmental guidance for the Gas and Electricity Markets Authority.",
-      "link": "https://www.gov.uk/government/consultations/draft-strategic-policy-guidance-for-electricity-networks-growth",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-14T13:30:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-14T13:14:14+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:01:56.632192Z",
+  "generated_at": "2026-09-24T16:24:55.019979Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,161 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Energy prices: April to June 2026",
+      "summary": "Energy prices to domestic and industrial consumers for all the major fuels, with international comparisons, for the second calendar quarter of 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:51:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: UK space cooling market landscape update",
+      "summary": "A research study to update the UK fixed space cooling market for 2024, covering market size, technologies, key players, routes to market, drivers and barriers.",
+      "link": "https://www.gov.uk/government/publications/uk-space-cooling-market-landscape-update",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:11:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Local net zero: support for local authorities and communities",
+      "summary": "Central government provides a range of support to help local authorities and communities to decarbonise.",
+      "link": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:02:57+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation",
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Transparency data: DESNZ: special advisers' gifts, hospitality and meetings, April to June 2026",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "link": "https://www.gov.uk/government/publications/desnz-special-advisers-gifts-hospitality-and-meetings-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: ministerial overseas travel and meetings, April to June 2026",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: senior officials’ business expenses and hospitality, April to June 2026",
+      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/desnz-senior-officials-business-expenses-and-hospitality-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: business appointment rules advice, April to June 2026",
+      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+      "link": "https://www.gov.uk/government/publications/desnz-business-appointment-rules-advice-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, December 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-december-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, October 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-october-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, May 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-may-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, March 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, April 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-april-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, November 2025",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-november-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T15:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: senior officials’ business expenses, hospitality, and meetings, April to June 2026",
+      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/dbt-senior-officials-business-expenses-hospitality-and-meetings-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-24T15:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-24T12:53:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Research: Impact of heat pump costs on uptake: a discrete choice experiment",
       "summary": "Research on how willingness to pay for heat pumps varies based on different upfront and running cost scenarios.",
@@ -255,16 +410,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Boiler Upgrade Scheme statistics: August 2026",
-      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
-      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-24T08:30:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Research: Trade and investment factsheets: quality and methodology report",
       "summary": "The quality and methodology report for the trade and investment factsheets.",
       "link": "https://www.gov.uk/government/publications/trade-and-investment-factsheets-quality-and-methodology-report",
@@ -274,50 +419,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Consumption in the UK 2026",
-      "summary": "Information for overall energy consumption in the UK with details of the industry, transport, domestic and services sectors.",
-      "link": "https://www.gov.uk/government/statistics/energy-consumption-in-the-uk-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-24T08:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Contacting the Warm Home Discount helpline privacy notice",
-      "summary": "How we will use your personal data and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/contacting-the-warm-home-discount-helpline-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-23T14:55:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Establishing eligibility under the Warm Home Discount: privacy notice",
-      "summary": "How we will use your personal data and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/establishing-eligibility-under-the-warm-home-discount-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-23T14:55:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Welsh communities given support to build local energy projects to tackle climate change",
-      "summary": "Communities across Wales will receive a funding boost to build and control their own clean energy supply",
-      "link": "https://www.gov.uk/government/news/welsh-communities-given-support-to-build-local-energy-projects-to-tackle-climate-change",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-23T14:43:37+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
       ]
     },
     {
@@ -341,113 +442,11 @@
       "ai_tags": []
     },
     {
-      "title": "Families set to save money through new and upgraded heat networks",
-      "summary": "Hundreds of thousands of people will save money on their energy bills through £90 million investment into clean, cheaper heating.",
-      "link": "https://www.gov.uk/government/news/families-set-to-save-money-through-new-and-upgraded-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-22T23:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: British Hallmarking Council framework document (November 2024)",
       "summary": "This document sets out the broad framework within which the British Hallmarking Council (BHC) operates.",
       "link": "https://www.gov.uk/government/publications/british-hallmarking-council-framework-document-november-2024",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-22T13:46:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Joint Statement on UK-Philippines Joint Economic and Trade Committee",
-      "summary": "A Joint Statement between the United Kingdom and the Philippines concluding the second Joint Economic and Trade Committee Ministerial Meeting.",
-      "link": "https://www.gov.uk/government/news/joint-statement-on-uk-philippines-joint-economic-and-trade-committee",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-22T13:23:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: UK Offshore Energy Strategic Environmental Assessment: research",
-      "summary": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
-      "link": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-22T11:21:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-22T08:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "70th IAEA General Conference: UK national statement",
-      "summary": "Minister Michael Shanks delivered the UK's National Statement at the International Atomic Energy Agency's 2026 General Conference.",
-      "link": "https://www.gov.uk/government/speeches/70th-iaea-general-conference-uk-national-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-22T08:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Norfolk Boreas Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application by Norfolk Boreas Limited (RWE Renewables UK Limited).",
-      "link": "https://www.gov.uk/government/publications/norfolk-boreas-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-21T23:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-21T12:56:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ workforce management information, August 2026",
-      "summary": "Report on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-21T08:39:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Ambient gamma radiation dose rates across the UK",
-      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
-      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-18T13:02:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Statutory guidance: Electricity networks growth: draft social and environmental guidance to GEMA",
-      "summary": "Draft guidance on delivering growth through electricity networks.",
-      "link": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-18T11:17:19+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

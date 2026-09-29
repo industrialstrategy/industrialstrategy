@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:04:38.618288Z",
+  "generated_at": "2026-09-29T21:47:33.733180Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Great British Grid to speed up connections and cut bills",
+      "summary": "Families and businesses across the country will benefit from faster grid connections.",
+      "link": "https://www.gov.uk/government/news/great-british-grid-to-speed-up-connections-and-cut-bills",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-29T13:45:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Non-domestic National Energy Efficiency Data Framework (ND-NEED), 2026",
       "summary": "Statistics on the metered energy consumption of non-domestic buildings in England and Wales, for the years 2012 to 2024.",
@@ -260,16 +270,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-29T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: AI Research Resource",

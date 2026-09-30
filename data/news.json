@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:46:55.807437Z",
+  "generated_at": "2026-09-30T11:51:20.848434Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,11 @@
   "count": 40,
   "items": [
     {
-      "title": "Great British Grid to speed up connections and cut bills",
-      "summary": "Families and businesses across the country will benefit from faster grid connections.",
-      "link": "https://www.gov.uk/government/news/great-british-grid-to-speed-up-connections-and-cut-bills",
+      "title": "Submit your energy infrastructure application",
+      "summary": "Apply for consents for certain energy infrastructure projects.",
+      "link": "https://www.gov.uk/guidance/submit-your-energy-infrastructure-application",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-29T13:45:20+00:00",
+      "published": "2026-09-30T11:17:51+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -31,9 +31,29 @@
     {
       "title": "Official Statistics: Non-domestic National Energy Efficiency Data Framework (ND-NEED), 2026",
       "summary": "Statistics on the metered energy consumption of non-domestic buildings in England and Wales, for the years 2012 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-national-energy-efficiency-data-framework-nd-need-2026",
+      "link": "https://www.gov.uk/government/statistics/non-domestic-national-energy-efficiency-data-framework-nd-need-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-29T11:52:45+00:00",
+      "published": "2026-09-30T08:30:05+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK-China Intellectual Property newsletter",
+      "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
+      "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-09-30T06:35:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Great British Grid to speed up connections and cut bills",
+      "summary": "Families and businesses across the country will benefit from faster grid connections.",
+      "link": "https://www.gov.uk/government/news/great-british-grid-to-speed-up-connections-and-cut-bills",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-09-29T13:45:20+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -260,18 +280,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-29T08:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: AI Research Resource",
       "summary": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
       "link": "https://www.gov.uk/government/publications/ai-research-resource",
@@ -430,16 +438,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £25,000, July 2026",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-24T08:30:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

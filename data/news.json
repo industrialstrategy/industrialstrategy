@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:51:21.315260Z",
+  "generated_at": "2026-10-02T11:48:21.426852Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Letting out a self-catering holiday home in England: rules and regulations",
+      "summary": "Regulations you need to follow when letting out a self-catering, short-term holiday home in England.",
+      "link": "https://www.gov.uk/guidance/letting-out-a-self-catering-holiday-home-in-england-rules-and-regulations",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-02T11:14:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: Business appointment rules advice, April to June 2026",
+      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+      "link": "https://www.gov.uk/government/publications/dbt-business-appointment-rules-advice-april-to-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-02T08:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Employment status and employment rights",
       "summary": "Guidance on employment status for HR advisers, and to help individuals and businesses understand which employment rights apply to them.",
@@ -426,28 +446,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Chamber Low Carbon - Lancashire",
-      "summary": "Chamber Low Carbon provides a range of 1-2-1 business support services specialising in energy, resource and water efficiency.",
-      "link": "https://www.gov.uk/business-finance-support/chamber-low-carbon-lancashire",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-28T14:11:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: Redbox@DBT trial: evaluation report",
-      "summary": "An evaluation of the Redbox@DBT trial by the Department for Business and Trade (DBT), which took place from December 2024 to March 2025.",
-      "link": "https://www.gov.uk/government/publications/redboxdbt-trial-evaluation-report",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-28T12:46:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

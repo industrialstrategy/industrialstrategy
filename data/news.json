@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:38:10.205587Z",
+  "generated_at": "2026-10-06T12:40:32.254130Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -23,7 +23,17 @@
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-05T15:42:43+00:00",
+      "published": "2026-10-06T12:03:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-06T08:30:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -34,16 +44,6 @@
       "link": "https://www.gov.uk/government/publications/five-estuaries-offshore-wind-farm-correction-of-errors-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-05T15:25:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 5 October 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-5-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-05T14:36:25+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

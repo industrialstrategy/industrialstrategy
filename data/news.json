@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:40:32.254130Z",
+  "generated_at": "2026-10-06T22:14:55.352473Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: Road fuel sales, deliveries and stock levels: 27 September 2026",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in the United Kingdom from 27 January 2020 to 27 September 2026.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-sales-deliveries-and-stock-levels-27-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-06T15:50:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Renewables obligation: certificates and generation - June 2026",
+      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
+      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-06T15:49:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Horizon redress schemes: progress report for 2026",
+      "summary": "Observations on progress and data in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA).",
+      "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-report-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-06T12:54:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
@@ -406,38 +436,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-29T10:31:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters: impact of the UK’s accession to the CPTPP on Certificates of Free Sale for cosmetic products",
-      "summary": "Notice on the impact of the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) on Certificates of Free Sale (CFS) for cosmetic products.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-impact-of-the-uks-accession-to-the-cptpp-on-certificates-of-free-sale-for-cosmetic-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-29T09:27:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
-      "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
-      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-29T09:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Domestic and Non-Domestic Renewable Heat Incentive Regulations: approved standards",
-      "summary": "List of standards approved for the scheme.",
-      "link": "https://www.gov.uk/government/publications/domestic-and-non-domestic-renewable-heat-incentive-regulations-approved-standards",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-29T09:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

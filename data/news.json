@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:16:42.692072Z",
+  "generated_at": "2026-10-08T12:46:06.102201Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-08T08:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
+      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-08T08:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Standards: general product safety",
       "summary": "Notices of publication and a consolidated list for referenced standards for general product safety.",
@@ -44,26 +64,6 @@
       "link": "https://www.gov.uk/government/publications/lionlink-multi-purpose-interconnector-section-35-direction-variation-planning-act-2008",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-07T08:30:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Road fuel sales, deliveries and stock levels: 27 September 2026",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in the United Kingdom from 27 January 2020 to 27 September 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-sales-deliveries-and-stock-levels-27-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-06T15:50:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Renewables obligation: certificates and generation - June 2026",
-      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
-      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-06T15:49:18+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

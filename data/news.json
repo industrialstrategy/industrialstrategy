@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:36:43.804277Z",
+  "generated_at": "2026-10-08T04:16:42.692072Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Standards: general product safety",
+      "summary": "Notices of publication and a consolidated list for referenced standards for general product safety.",
+      "link": "https://www.gov.uk/government/publications/standards-general-product-safety",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-07T23:01:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Drivers set to save as petrol prices launch on Google Maps",
+      "summary": "Drivers to save at the pump as near real-time petrol and diesel prices are included on Google Maps for the first time.",
+      "link": "https://www.gov.uk/government/news/drivers-set-to-save-as-petrol-prices-launch-on-google-maps",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-07T23:01:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Decision: LionLink multi-purpose interconnector, Section 35 Direction Variation, Planning Act 2008",
       "summary": "Decision by the Secretary of State for a proposed variation to the Section 35 direction for the LionLink (formerly Eurolink) multi-purpose interconnector.",
@@ -391,16 +411,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Non-domestic National Energy Efficiency Data Framework (ND-NEED), 2026",
-      "summary": "Statistics on the metered energy consumption of non-domestic buildings in England and Wales, for the years 2012 to 2024.",
-      "link": "https://www.gov.uk/government/statistics/non-domestic-national-energy-efficiency-data-framework-nd-need-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T08:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: UK-China Intellectual Property newsletter",
       "summary": "At the end of every month we publish a newsletter covering recent intellectual property (IP) developments in China.",
       "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
@@ -429,18 +439,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Notice to exporters: impact of the UK’s accession to the CPTPP on Certificates of Free Sale for cosmetic products",
-      "summary": "Notice on the impact of the UK’s accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) on Certificates of Free Sale (CFS) for cosmetic products.",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-impact-of-the-uks-accession-to-the-cptpp-on-certificates-of-free-sale-for-cosmetic-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-29T09:27:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:21:54.447410Z",
+  "generated_at": "2026-10-09T12:30:08.346773Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: Energy Related Products Policy and Energy Technology List (ETL): privacy notice",
+      "summary": "Find details here about the Energy Related Products Policy and Energy Technology List privacy policy and how we collect and process your data.",
+      "link": "https://www.gov.uk/government/publications/energy-technology-list-etl-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-09T11:40:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Keep Britain Working review update: a national growth opportunity, September 2026",
+      "summary": "September 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces to change outcomes, improve lives and drive growth.",
+      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-09T10:58:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: November 2026",
       "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
@@ -381,16 +401,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Road fuel prices: 6 September 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-6-september-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T13:24:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--114",
@@ -430,16 +440,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-special-advisers-gifts-hospitality-and-meetings-april-to-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-29T10:32:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: ministerial overseas travel and meetings, April to June 2026",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "link": "https://www.gov.uk/government/publications/dbt-ministerial-overseas-travel-and-meetings-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-29T10:31:10+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:06:21.586899Z",
+  "generated_at": "2026-10-12T14:18:16.903909Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,80 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Clean Heat Market Mechanism: revisions ahead of the 2027/28 scheme year",
+      "summary": "We're seeking views on the targets for years 3 to 6 of the scheme and other proposals, including support for investment in resilient and sustainable supply chains.",
+      "link": "https://www.gov.uk/government/consultations/clean-heat-market-mechanism-revisions-ahead-of-the-202728-scheme-year",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T13:31:55+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T11:46:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decommissioning offshore installations: guidance and associated policy proposals",
+      "summary": "We're seeking views on decommissioning offshore installations: the methodology for considering derogations under OSPAR Decision 98/3, and associated policy changes.",
+      "link": "https://www.gov.uk/government/consultations/decommissioning-offshore-installations-guidance-and-associated-policy-proposals",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T11:30:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decommissioning offshore installations: revised derogation guidance",
+      "summary": "We're inviting views on draft supplementary guidance for the decommissioning of offshore oil and gas installations.",
+      "link": "https://www.gov.uk/government/consultations/decommissioning-offshore-installations-revised-derogation-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T11:30:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Apply for the Heat Network Efficiency Scheme (HNES)",
+      "summary": "The Heat Network Efficiency Scheme supports performance improvements to existing district heating or communal heating projects.",
+      "link": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T11:30:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T10:56:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
+      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
+      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-12T10:40:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Decision: Steeple Renewables Project: development consent order, Planning Act 2008",
       "summary": "Decision on an application for a solar farm in Nottinghamshire under the Planning Act 2008.",
@@ -148,16 +222,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-report-for-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-06T12:54:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-06T12:03:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -345,62 +409,6 @@
       ]
     },
     {
-      "title": "Accredited official statistics: Energy trends: April to June 2027",
-      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the second calendar quarter of 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-april-to-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T13:36:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy prices: April to June 2027",
-      "summary": "Energy prices to domestic and industrial consumers for all the major fuels, with international comparisons, for the second calendar quarter of 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-prices-april-to-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T13:35:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: July - September 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-july-september-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T13:33:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: June - August 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-june-august-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T13:31:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 27 September 2027",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-27-september-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-09-30T13:25:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment core statistics book",
       "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--114",
@@ -430,16 +438,6 @@
       "link": "https://www.gov.uk/government/publications/china-ip-newsletter",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-30T06:35:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: special advisers' gifts, hospitality and meetings, April to June 2026",
-      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
-      "link": "https://www.gov.uk/government/publications/dbt-special-advisers-gifts-hospitality-and-meetings-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-29T10:32:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

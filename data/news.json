@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:04:43.004016Z",
+  "generated_at": "2026-10-14T16:25:42.961474Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Building an energy system that delivers for all",
+      "summary": "Speech by Energy Secretary, Miatta Fahnbulleh, on the future of our energy system at Energy UK's annual conference.",
+      "link": "https://www.gov.uk/government/speeches/building-an-energy-system-that-delivers-for-all",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-14T14:46:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Employment status and employment rights",
+      "summary": "Guidance on employment status for HR advisers, and to help individuals and businesses understand which employment rights apply to them.",
+      "link": "https://www.gov.uk/government/publications/employment-status-and-employment-rights",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-14T13:59:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Carbon capture and the renewal of British industry",
+      "summary": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, at the Carbon Capture and Storage Association (CCSA) 2026 annual conference.",
+      "link": "https://www.gov.uk/government/speeches/carbon-capture-and-the-renewal-of-british-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-14T12:46:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: Steel strategy",
       "summary": "Strategy document setting out the government’s approach to the steel sector.",
@@ -260,26 +290,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-08T08:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels",
-      "link": "https://www.gov.uk/government/statistics/average-road-fuel-sales-and-stock-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-08T08:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Standards: general product safety",
       "summary": "Notices of publication and a consolidated list for referenced standards for general product safety.",
       "link": "https://www.gov.uk/government/publications/standards-general-product-safety",
@@ -325,16 +335,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-business-appointment-rules-advice-april-to-june-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-02T08:15:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Employment status and employment rights",
-      "summary": "Guidance on employment status for HR advisers, and to help individuals and businesses understand which employment rights apply to them.",
-      "link": "https://www.gov.uk/government/publications/employment-status-and-employment-rights",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-01T10:22:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

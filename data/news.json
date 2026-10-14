@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:20:56.673672Z",
+  "generated_at": "2026-10-14T11:04:43.004016Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Steel strategy",
+      "summary": "Strategy document setting out the government’s approach to the steel sector.",
+      "link": "https://www.gov.uk/government/publications/steel-strategy",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-14T09:58:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-14T09:13:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Energy smart data legislative framework",
+      "summary": "We are consulting on the design and implementation of an energy smart data legislative framework.",
+      "link": "https://www.gov.uk/government/consultations/energy-smart-data-legislative-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-14T08:40:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Stronger protections for heating oil customers",
       "summary": "Reforms to the heating oil sector are being planned to ensure stronger regulation and protections for consumers",
@@ -260,16 +290,6 @@
       "ai_tags": []
     },
     {
-      "title": "Drivers set to save as petrol prices launch on Google Maps",
-      "summary": "Drivers to save at the pump as near real-time petrol and diesel prices are included on Google Maps for the first time.",
-      "link": "https://www.gov.uk/government/news/drivers-set-to-save-as-petrol-prices-launch-on-google-maps",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-07T23:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Horizon redress schemes: progress report for 2026",
       "summary": "Observations on progress and data in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA).",
       "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-report-for-2026",
@@ -413,30 +433,6 @@
       "link": "https://www.gov.uk/government/publications/end-user-undertaking-euu-form",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-09-30T13:43:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--114",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-30T12:57:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--62",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-09-30T12:55:27+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [

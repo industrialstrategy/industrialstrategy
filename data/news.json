@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:58:58.425098Z",
+  "generated_at": "2026-10-19T18:36:46.390490Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,70 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 19 October 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-19-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-19T16:02:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-19T15:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ workforce management information, September 2026",
+      "summary": "Report on departmental staff numbers and costs.",
+      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-19T14:43:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--61",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-19T14:27:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--113",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-19T13:34:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Retrofit System Reform Advisory Panel: terms of reference",
+      "summary": "An expert panel on consumer protection reform for home upgrade schemes.",
+      "link": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-19T13:13:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Form: Young Voices for Climate and Nature",
       "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
@@ -273,16 +337,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-13T10:07:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Heating oil: government response to CMA market study",
       "summary": "Response to the Competition and Markets Authority (CMA) market study into the retail supply of heating oil for domestic use in the UK.",
       "link": "https://www.gov.uk/government/publications/heating-oil-government-response-to-cma-market-study",
@@ -336,36 +390,6 @@
       ]
     },
     {
-      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
-      "summary": "OPRED communications issued to stakeholders in 2026.",
-      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-12T11:46:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decommissioning offshore installations: guidance and associated policy proposals",
-      "summary": "We're seeking views on decommissioning offshore installations: the methodology for considering derogations under OSPAR Decision 98/3, and associated policy changes.",
-      "link": "https://www.gov.uk/government/consultations/decommissioning-offshore-installations-guidance-and-associated-policy-proposals",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-12T11:30:38+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decommissioning offshore installations: revised derogation guidance",
-      "summary": "We're inviting views on draft supplementary guidance for the decommissioning of offshore oil and gas installations.",
-      "link": "https://www.gov.uk/government/consultations/decommissioning-offshore-installations-revised-derogation-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-12T11:30:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Gangmasters Licensing Appeals results and judgements",
       "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
       "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
@@ -411,26 +435,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-august-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-02T13:55:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Letting out a self-catering holiday home in England: rules and regulations",
-      "summary": "Regulations you need to follow when letting out a self-catering, short-term holiday home in England.",
-      "link": "https://www.gov.uk/guidance/letting-out-a-self-catering-holiday-home-in-england-rules-and-regulations",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-02T11:14:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: Business appointment rules advice, April to June 2026",
-      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
-      "link": "https://www.gov.uk/government/publications/dbt-business-appointment-rules-advice-april-to-june-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-02T08:15:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

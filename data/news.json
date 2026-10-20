@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:12:30.790018Z",
+  "generated_at": "2026-10-20T10:52:05.177933Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,11 @@
   "count": 40,
   "items": [
     {
-      "title": "Accredited official statistics: Road fuel prices: 19 October 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-19-october-2026",
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-19T16:02:44+00:00",
+      "published": "2026-10-20T08:30:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -357,16 +357,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-13T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
       "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
@@ -388,6 +378,16 @@
         "Innovation",
         "Trade"
       ]
+    },
+    {
+      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
+      "summary": "OPRED communications issued to stakeholders in 2026.",
+      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-12T11:46:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
     },
     {
       "title": "Decision: Gangmasters Licensing Appeals results and judgements",

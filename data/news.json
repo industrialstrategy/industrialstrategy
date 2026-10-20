@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:52:05.177933Z",
+  "generated_at": "2026-10-20T16:16:35.628923Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,85 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Open general export licence (export of dual-use items)",
+      "summary": "Licence permitting a wide range of dual-use listed items to a variety of destinations, including EU member states, the United States, and others.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-20T15:18:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence (military goods, software and technology: government or NATO end-use)",
+      "summary": "Licence for the export of military goods to a government or a NATO organisation in any of the destinations or countries listed in the OGEL.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods-government-or-nato-end-use--6",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-20T15:18:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Open general export licence (military goods, software and technology)",
+      "summary": "Licence for the export of a wide range of military equipment to low-risk destinations.",
+      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods--7",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-20T15:18:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Pathways to SF6 free distribution networks",
+      "summary": "Report examining the potential impacts of phasing out sulphur hexafluoride (SF6) from the distribution network in Great Britain.",
+      "link": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-20T14:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notice: definitive countervailing duty on certain excavators originating from China",
+      "summary": "The Secretary of State for Business, Innovation, Science and Trade is applying a definitive countervailing duty on certain excavators originating from China.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-countervailing-duty-on-certain-excavators-originating-from-china",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-20T13:20:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
+      "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
+      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-20T12:43:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Women in Research Charter",
+      "summary": "A voluntary commitment to improve outcomes for women across the UK research system, with actions for research funders and research performing organisations.",
+      "link": "https://www.gov.uk/government/publications/women-in-research-charter",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-20T11:00:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
@@ -231,19 +310,6 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Trade remedies notice: definitive countervailing duty on certain excavators originating from China",
-      "summary": "The Secretary of State for Business, Innovation, Science and Trade is applying a definitive countervailing duty on certain excavators originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-countervailing-duty-on-certain-excavators-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-15T13:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: Trade remedies notice: definitive anti-dumping duty on certain excavators originating from China",
       "summary": "The Secretary of State for Business, Innovation, Science and Trade is applying a definitive anti-dumping duty on certain excavators originating from China.",
       "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-anti-dumping-duty-on-certain-excavators-originating-from-china",
@@ -357,16 +423,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-12T16:15:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: BIST worldwide offices",
       "summary": "Contact details for Department for Business, Innovation, Science and Trade (BIST) offices around the world and a list of our HM Trade Commissioners.",
       "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
@@ -380,61 +436,11 @@
       ]
     },
     {
-      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
-      "summary": "OPRED communications issued to stakeholders in 2026.",
-      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-12T11:46:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: Gangmasters Licensing Appeals results and judgements",
       "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
       "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-12T10:40:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Keep Britain Working review update: a national growth opportunity, September 2026",
-      "summary": "September 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces to change outcomes, improve lives and drive growth.",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-09T10:58:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Standards: general product safety",
-      "summary": "Notices of publication and a consolidated list for referenced standards for general product safety.",
-      "link": "https://www.gov.uk/government/publications/standards-general-product-safety",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-07T23:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Horizon redress schemes: progress report for 2026",
-      "summary": "Observations on progress and data in the Group Litigation Order (GLO) Scheme, the Horizon Convictions Redress Scheme (HCRS) and the Horizon Shortfall Scheme Appeals (HSSA).",
-      "link": "https://www.gov.uk/government/publications/horizon-redress-schemes-progress-report-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-06T12:54:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: workforce management information August 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-02T13:55:53+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

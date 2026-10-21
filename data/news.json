@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:07:22.389216Z",
+  "generated_at": "2026-10-21T11:04:19.441894Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,102 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Form: Capture Redress Scheme: application form",
+      "summary": "Complete this form to apply for financial redress for financial losses and harm caused by the Post Office Capture software.",
+      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-application-form",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T10:46:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Apply to the Capture Redress Scheme",
+      "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
+      "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T10:46:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: S-PVC from China, Mexico and South Korea",
+      "summary": "Trade remedies notices published by the Secretary of State relating to imports of Suspension Polyvinyl Chloride (S-PVC) originating from China, Mexico and South Korea.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-s-pvc-from-china-mexico-and-south-korea",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T10:45:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Horizon Convictions Redress Scheme (HCRS): applying for financial redress",
+      "summary": "Follow these steps to register for the Horizon Convictions Redress Scheme (HCRS) and apply for your financial redress.",
+      "link": "https://www.gov.uk/guidance/horizon-convictions-redress-scheme-hcrs-applying-for-financial-redress",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T10:45:50+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Industrial Strategy Jobs Plans",
+      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
+      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T10:44:35+00:00",
+      "matched": [
+        "industrial strategy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Industrial strategy"
+      ]
+    },
+    {
+      "title": "Guidance: Fixed sum offer permission to appeal process: privacy notice",
+      "summary": "How BIST will use personal data processed as part of the Horizon Shortfall Scheme Appeals (HSSA) fixed sum offer permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/fixed-sum-offer-permission-to-appeal-process-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T09:59:45+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
+      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T09:59:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Jackdaw Field Development",
+      "summary": "Project Summary",
+      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-21T06:49:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Jackdaw gas field gets green light",
+      "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
+      "link": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-21T06:29:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Open general export licence (export of dual-use items)",
       "summary": "Licence permitting a wide range of dual-use listed items to a variety of destinations, including EU member states, the United States, and others.",
@@ -182,20 +278,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Industrial Strategy Jobs Plans",
-      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-19T09:30:05+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
-    },
-    {
       "title": "Clean Heat Market Mechanism: revisions ahead of the 2027/28 scheme year",
       "summary": "We're seeking views on the targets for years 3 to 6 of the scheme and other proposals, including support for investment in resilient and sustainable supply chains.",
       "link": "https://www.gov.uk/government/consultations/clean-heat-market-mechanism-revisions-ahead-of-the-202728-scheme-year",
@@ -323,16 +405,6 @@
       ]
     },
     {
-      "title": "Guidance: Designated standards: PPE",
-      "summary": "Notices of publication and a consolidated list for designated standards for personal protective equipment (PPE).",
-      "link": "https://www.gov.uk/government/publications/designated-standards-ppe",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-14T23:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Building an energy system that delivers for all",
       "summary": "Speech by Energy Secretary, Miatta Fahnbulleh, on the future of our energy system at Energy UK's annual conference.",
       "link": "https://www.gov.uk/government/speeches/building-an-energy-system-that-delivers-for-all",
@@ -343,41 +415,11 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Employment status and employment rights",
-      "summary": "Guidance on employment status for HR advisers, and to help individuals and businesses understand which employment rights apply to them.",
-      "link": "https://www.gov.uk/government/publications/employment-status-and-employment-rights",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-14T13:59:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Carbon capture and the renewal of British industry",
       "summary": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, at the Carbon Capture and Storage Association (CCSA) 2026 annual conference.",
       "link": "https://www.gov.uk/government/speeches/carbon-capture-and-the-renewal-of-british-industry",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-14T12:46:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Steel strategy",
-      "summary": "Strategy document setting out the government’s approach to the steel sector.",
-      "link": "https://www.gov.uk/government/publications/steel-strategy",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-14T09:58:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
-      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-14T09:13:25+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -398,49 +440,6 @@
       "link": "https://www.gov.uk/government/news/stronger-protections-for-heating-oil-customers",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-13T15:33:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Heating oil: government response to CMA market study",
-      "summary": "Response to the Competition and Markets Authority (CMA) market study into the retail supply of heating oil for domestic use in the UK.",
-      "link": "https://www.gov.uk/government/publications/heating-oil-government-response-to-cma-market-study",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-13T09:58:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
-      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
-      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-13T09:01:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: BIST worldwide offices",
-      "summary": "Contact details for Department for Business, Innovation, Science and Trade (BIST) offices around the world and a list of our HM Trade Commissioners.",
-      "link": "https://www.gov.uk/government/publications/dbt-worldwide-offices",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-12T15:25:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
-      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
-      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-12T10:40:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

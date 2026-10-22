@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:11:15.251204Z",
+  "generated_at": "2026-10-22T03:05:51.701222Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Designated standards: toy safety",
+      "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-toy-safety",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
+      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-21T23:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
       "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
@@ -401,26 +421,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-september-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-16T13:28:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Capture financial redress data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Capture software.",
-      "link": "https://www.gov.uk/government/publications/post-office-capture-financial-redress-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-16T10:25:57+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-16T10:25:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

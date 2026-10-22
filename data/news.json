@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:04:17.292672Z",
+  "generated_at": "2026-10-22T16:32:48.851053Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T15:07:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Corporate report: The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
+      "summary": "To update the House, in accordance with the requirements of the Energy Prices Act 2022, on expenditure incurred under Section 13 of the Act through the quarterly report to Parliament.",
+      "link": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T14:23:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Updating standards for standby, networked standby and off mode power consumption",
+      "summary": "We're seeking views on proposals to improve ecodesign standards for standby mode.",
+      "link": "https://www.gov.uk/government/consultations/updating-standards-for-standby-networked-standby-and-off-mode-power-consumption",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T14:13:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
+      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
+      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T12:04:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
       "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
@@ -40,7 +80,7 @@
     },
     {
       "title": "Make Work Pay: fire and rehire – changes to expenses, benefits, and shift patterns",
-      "summary": "We're seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
+      "summary": "We are seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-fire-and-rehire-changes-to-expenses-benefits-and-shift-patterns",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-22T09:20:33+00:00",
@@ -53,7 +93,7 @@
       "summary": "The government is working with lenders to make sure homeowners who have spray foam in their property can access finance options.",
       "link": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T09:00:04+00:00",
+      "published": "2026-10-22T09:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -337,18 +377,6 @@
       ]
     },
     {
-      "title": "Guidance: Open general export licence (military goods, software and technology: government or NATO end-use)",
-      "summary": "Licence for the export of military goods to a government or a NATO organisation in any of the destinations or countries listed in the OGEL.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods-government-or-nato-end-use--6",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-20T15:18:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Research: Pathways to SF6 free distribution networks",
       "summary": "Report examining the potential impacts of phasing out sulphur hexafluoride (SF6) from the distribution network in Great Britain.",
       "link": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
@@ -374,16 +402,6 @@
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-20T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-19T15:00:02+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -417,30 +435,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Warm Homes: Local Grant: privacy notice for end-users (householders, landlords and installers)",
-      "summary": "How we will use your personal data provided to us by local authorities and delivery partners under the Warm Homes: Local Grant, and what your rights are.",
-      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-privacy-notice-for-end-users-householders-landlords-and-installers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-19T09:52:25+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Clean Heat Market Mechanism: revisions ahead of the 2027/28 scheme year",
-      "summary": "We're seeking views on the targets for years 3 to 6 of the scheme and other proposals, including support for investment in resilient and sustainable supply chains.",
-      "link": "https://www.gov.uk/government/consultations/clean-heat-market-mechanism-revisions-ahead-of-the-202728-scheme-year",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-19T08:30:01+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
     }
   ]
 }

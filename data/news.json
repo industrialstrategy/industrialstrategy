@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:05:51.701222Z",
+  "generated_at": "2026-10-22T11:04:17.292672Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,112 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T09:49:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Households to receive £150 Warm Home Discount confirmation letter",
+      "summary": "Millions of households in England and Wales are set to receive letters confirming £150 off their energy bills this winter.",
+      "link": "https://www.gov.uk/government/news/households-to-receive-150-warm-home-discount-confirmation-letter",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T09:46:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Make Work Pay: fire and rehire – changes to expenses, benefits, and shift patterns",
+      "summary": "We're seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-fire-and-rehire-changes-to-expenses-benefits-and-shift-patterns",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T09:20:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Spray foam insulation: Remediation, removal and lending",
+      "summary": "The government is working with lenders to make sure homeowners who have spray foam in their property can access finance options.",
+      "link": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T09:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Gas system in transition: recovery of gas network costs during the transition",
+      "summary": "We're seeking evidence on how gas network and disconnection costs should be recovered as gas demand changes.",
+      "link": "https://www.gov.uk/government/calls-for-evidence/gas-system-in-transition-recovery-of-gas-network-costs-during-the-transition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T08:30:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, the former DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T08:30:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, UNCTAD, and the former DBT.",
+      "link": "https://www.gov.uk/government/statistics/uk-trade-in-numbers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T08:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Make Work Pay: enhanced dismissal protections for pregnant women and new mothers",
+      "summary": "The government is seeking views on enhancing workplace protections against dismissal for pregnant women and new mothers.",
+      "link": "https://www.gov.uk/government/consultations/make-work-pay-enhanced-dismissal-protections-for-pregnant-women-and-new-mothers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T08:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Preference utilisation of UK trade in goods, 2024",
+      "summary": "Statistics on UK utilisation of tariff preferences for imports and exports under PTAs for 2024, including trade in goods between Great Britain and the EU under the TCA.",
+      "link": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-22T08:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: Heat Network (Metering and Billing) Regulations 2014: registered heat networks",
+      "summary": "A list of registered heat networks based on notifications under the Heat Network (Metering and Billing) Regulations from January 2014 to January 2026.",
+      "link": "https://www.gov.uk/government/publications/heat-network-metering-and-billing-regulations-2014-registered-heat-networks",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-22T06:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Designated standards: toy safety",
       "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
@@ -243,18 +349,6 @@
       ]
     },
     {
-      "title": "Guidance: Open general export licence (military goods, software and technology)",
-      "summary": "Licence for the export of a wide range of military equipment to low-risk destinations.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-military-goods--7",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-20T15:18:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Research: Pathways to SF6 free distribution networks",
       "summary": "Report examining the potential impacts of phasing out sulphur hexafluoride (SF6) from the distribution network in Great Britain.",
       "link": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
@@ -265,34 +359,11 @@
       "ai_tags": []
     },
     {
-      "title": "Notice: Trade remedies notice: definitive countervailing duty on certain excavators originating from China",
-      "summary": "The Secretary of State for Business, Innovation, Science and Trade is applying a definitive countervailing duty on certain excavators originating from China.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-countervailing-duty-on-certain-excavators-originating-from-china",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-20T13:20:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
-    },
-    {
       "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
       "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
       "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-20T12:43:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Women in Research Charter",
-      "summary": "A voluntary commitment to improve outcomes for women across the UK research system, with actions for research funders and research performing organisations.",
-      "link": "https://www.gov.uk/government/publications/women-in-research-charter",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-20T11:00:14+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -326,30 +397,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--61",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-19T14:27:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--113",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-19T13:34:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Guidance: Retrofit System Reform Advisory Panel: terms of reference",
@@ -394,56 +441,6 @@
       "ai_tags": [
         "Supply chains"
       ]
-    },
-    {
-      "title": "Improving standards for industrial fans",
-      "summary": "We're seeking views on proposals to improve ecodesign standards for industrial fans.",
-      "link": "https://www.gov.uk/government/consultations/improving-standards-for-industrial-fans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-16T15:41:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Updating standards for standby, networked standby and off mode power consumption",
-      "summary": "We're seeking views on proposals to improve ecodesign standards for standby mode.",
-      "link": "https://www.gov.uk/government/consultations/updating-standards-for-standby-networked-standby-and-off-mode-power-consumption",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-16T15:41:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: workforce management information September 2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-16T13:28:35+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Green Gas Support Scheme: budget management",
-      "summary": "Details of the budget management mechanisms of the Green Gas Support Scheme.",
-      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-budget-management",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-16T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Green Gas Support Scheme (GGSS): open to applications",
-      "summary": "This scheme provides tariff support for biomethane produced via anaerobic digestion which is injected into the gas grid.",
-      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-16T09:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

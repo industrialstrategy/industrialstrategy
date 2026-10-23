@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:56:38.701601Z",
+  "generated_at": "2026-10-23T16:22:21.337996Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Heat Training Grant: discounted heat network training",
+      "summary": "If you work in heat networks, you could get up to £500 towards the cost of heat network training.",
+      "link": "https://www.gov.uk/guidance/apply-for-the-heat-training-grant-discounted-heat-network-training",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-23T15:27:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: UK national risk assessment on security of gas supply 2026",
+      "summary": "A risk assessment in relation to the security of gas supply in the UK.",
+      "link": "https://www.gov.uk/government/publications/uk-national-risk-assessment-on-security-of-gas-supply-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-23T14:59:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "The role of heat networks in the energy transition",
+      "summary": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, on heat networks to the ADE Heat Network Conference",
+      "link": "https://www.gov.uk/government/speeches/the-role-of-heat-networks-in-the-energy-transition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-23T14:43:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Improving standards for industrial fans",
+      "summary": "We're seeking views on proposals to improve ecodesign standards for industrial fans.",
+      "link": "https://www.gov.uk/government/consultations/improving-standards-for-industrial-fans",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-23T11:34:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Correspondence: Strategic Spatial Energy Plan (SSEP): timeline extension",
       "summary": "Letter to the National Energy System Operator (NESO) on extending the SSEP timeline to integrate updated data, ensuring a stronger, more credible energy plan.",
@@ -395,46 +435,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Research: Pathways to SF6 free distribution networks",
-      "summary": "Report examining the potential impacts of phasing out sulphur hexafluoride (SF6) from the distribution network in Great Britain.",
-      "link": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-20T14:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
-      "summary": "Lists of standards, grant categories and grant levels that have been approved for the scheme.",
-      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-20T12:43:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-20T08:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ workforce management information, September 2026",
-      "summary": "Report on departmental staff numbers and costs.",
-      "link": "https://www.gov.uk/government/publications/desnz-workforce-management-information-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-19T14:43:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

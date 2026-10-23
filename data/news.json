@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:22:21.337996Z",
+  "generated_at": "2026-10-23T20:55:32.906743Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Jackdaw gas field gets green light",
+      "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
+      "link": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-23T16:30:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Heat Training Grant: discounted heat network training",
       "summary": "If you work in heat networks, you could get up to £500 towards the cost of heat network training.",
@@ -410,16 +420,6 @@
       "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-21T06:49:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Jackdaw gas field gets green light",
-      "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
-      "link": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-21T06:29:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

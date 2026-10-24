@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:05:37.739523Z",
+  "generated_at": "2026-10-24T10:12:14.811042Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Form: Young Voices for Climate and Nature (closed)",
+      "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
+      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-24T07:07:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Jackdaw gas field gets green light",
       "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
@@ -410,16 +420,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-21T09:59:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Jackdaw Field Development",
-      "summary": "Project Summary",
-      "link": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-21T06:49:49+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

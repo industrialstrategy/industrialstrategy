@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:10:16.450451Z",
+  "generated_at": "2026-10-26T22:14:15.726455Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,88 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Government welcomes Official Partners for COP31 Pavilion",
+      "summary": "Kraken Technologies, National Grid, Octopus Energy, and SSE will sponsor the UK Pavilion at COP31 in Antalya, Türkiye.",
+      "link": "https://www.gov.uk/government/news/government-welcomes-official-partners-for-cop31-pavilion",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T15:21:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA financial transactions statistical data from 2026 to 2027",
+      "summary": "Datasets showing financial transactions of the UK Atomic Energy Authority from April 2026 to March 2027.",
+      "link": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2026-to-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T14:36:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA financial transactions statistical data from 2025 to 2026",
+      "summary": "Datasets showing financial transactions of the UK Atomic Energy Authority from April 2025 to March 2026.",
+      "link": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2025-to-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T14:33:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: UKAEA financial transactions statistical data from 2024 to 2025",
+      "summary": "Datasets showing financial transactions of the UK Atomic Energy Authority.",
+      "link": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2024-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T14:32:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 26 October 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-26-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T14:25:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T14:02:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Policy appraisal: risk-opportunity analysis (ROA)",
+      "summary": "Appraisal guidance for transformational change, including a systems lens of risks, opportunities, trade-offs, and managing uncertainty.",
+      "link": "https://www.gov.uk/government/publications/policy-appraisal-risk-opportunity-analysis-roa",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T13:59:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: 2026 post-implementation review of the SECR regulations 2018",
+      "summary": "This research examines how effective the Streamlined Energy and Carbon Reporting (SECR) regulations have been in increasing transparency on organisational energy use and emissions.",
+      "link": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-26T12:35:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: DESNZ Public Attitudes Tracker: Summer 2026",
       "summary": "This regular survey collects data on public awareness, behaviours and attitudes relating to the department’s policy areas. These include Net Zero and climate change, different types of energy infrastructure, energy use in the home and energy bills.",
@@ -123,16 +205,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T15:07:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Corporate report: The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
       "summary": "To update the House, in accordance with the requirements of the Energy Prices Act 2022, on expenditure incurred under Section 13 of the Act through the quarterly report to Parliament.",
       "link": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
@@ -173,41 +245,11 @@
       "ai_tags": []
     },
     {
-      "title": "Households to receive £150 Warm Home Discount confirmation letter",
-      "summary": "Millions of households in England and Wales are set to receive letters confirming £150 off their energy bills this winter.",
-      "link": "https://www.gov.uk/government/news/households-to-receive-150-warm-home-discount-confirmation-letter",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T09:46:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Make Work Pay: fire and rehire – changes to expenses, benefits, and shift patterns",
       "summary": "We are seeking views on 2 proposed changes to fire and rehire protections in relation to benefits and expenses, and to shift patterns.",
       "link": "https://www.gov.uk/government/consultations/make-work-pay-fire-and-rehire-changes-to-expenses-benefits-and-shift-patterns",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-22T09:20:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Spray foam insulation: Remediation, removal and lending",
-      "summary": "The government is working with lenders to make sure homeowners who have spray foam in their property can access finance options.",
-      "link": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T09:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Gas system in transition: recovery of gas network costs during the transition",
-      "summary": "We're seeking evidence on how gas network and disconnection costs should be recovered as gas demand changes.",
-      "link": "https://www.gov.uk/government/calls-for-evidence/gas-system-in-transition-recovery-of-gas-network-costs-during-the-transition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T08:30:39+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -259,16 +301,6 @@
       ]
     },
     {
-      "title": "Research: Heat Network (Metering and Billing) Regulations 2014: registered heat networks",
-      "summary": "A list of registered heat networks based on notifications under the Heat Network (Metering and Billing) Regulations from January 2014 to January 2026.",
-      "link": "https://www.gov.uk/government/publications/heat-network-metering-and-billing-regulations-2014-registered-heat-networks",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T06:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Designated standards: toy safety",
       "summary": "Notices of publication and a consolidated list for designated standards for toy safety.",
       "link": "https://www.gov.uk/government/publications/designated-standards-toy-safety",
@@ -287,40 +319,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-21T16:06:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
-      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
-      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
-      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-21T16:05:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Nuclear collaboration completes its mission",
-      "summary": "Cross-industry programme set up to safeguard skills has concluded its work",
-      "link": "https://www.gov.uk/government/news/nuclear-collaboration-completes-its-mission",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-21T15:28:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
     },
     {
       "title": "Guidance: Horizon Shortfall Scheme: privacy notice",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:31:30.203411Z",
+  "generated_at": "2026-10-27T11:32:02.365654Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,80 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
+      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "link": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T10:01:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Complying with trade sanctions relating to specified ships",
+      "summary": "Guidance outlining obligations under trade sanctions relating to specified ships and the Office of Trade Sanction Implementation’s (OTSI) implementation and enforcement responsibilities.",
+      "link": "https://www.gov.uk/government/publications/complying-with-trade-sanctions-relating-to-specified-ships",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T10:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Providing professional and business services to a person connected with Russia",
+      "summary": "Guidance on the services sanctions contained in The Russia (Sanctions) (EU Exit) Regulations 2019.",
+      "link": "https://www.gov.uk/government/publications/providing-professional-and-business-services-to-a-person-connected-with-russia",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T10:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Complying with construction services prohibitions related to Russia",
+      "summary": "Guidance outlining obligations under trade sanctions relating to construction services as part of the Russia Regulations.",
+      "link": "https://www.gov.uk/government/publications/complying-with-construction-services-prohibitions-related-to-russia",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T10:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Summary of questions included in the DESNZ Public Attitudes Tracker",
+      "summary": "A summary of the questions included in the DESNZ Public Attitudes Tracker since its new time series was started in autumn 2021.",
+      "link": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnz-public-attitudes-tracker",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Summer 2026",
+      "summary": "Findings from the triannual DESNZ Public Attitudes Tracker (PAT).",
+      "link": "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-summer-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T09:30:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Government welcomes Official Partners for COP31 Pavilion",
       "summary": "Kraken Technologies, National Grid, Octopus Energy, and SSE will sponsor the UK Pavilion at COP31 in Antalya, Türkiye.",
@@ -59,16 +133,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Road fuel prices: 26 October 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-26-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-26T14:25:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
@@ -99,20 +163,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Summer 2026",
-      "summary": "This regular survey collects data on public awareness, behaviours and attitudes relating to the department’s policy areas. These include Net Zero and climate change, different types of energy infrastructure, energy use in the home and energy bills.",
-      "link": "https://www.gov.uk/government/statistics/announcements/desnz-public-attitudes-tracker-summer-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-26T11:00:06+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero"
-      ]
     },
     {
       "title": "Correspondence: Oil and gas: OPRED communications, 2026",
@@ -200,26 +250,6 @@
       "link": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-deadline-extension",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-23T10:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
-      "summary": "To update the House, in accordance with the requirements of the Energy Prices Act 2022, on expenditure incurred under Section 13 of the Act through the quarterly report to Parliament.",
-      "link": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T14:23:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Updating standards for standby, networked standby and off mode power consumption",
-      "summary": "We're seeking views on proposals to improve ecodesign standards for standby mode.",
-      "link": "https://www.gov.uk/government/consultations/updating-standards-for-standby-networked-standby-and-off-mode-power-consumption",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-22T14:13:39+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -404,38 +434,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Industrial strategy"
-      ]
-    },
-    {
-      "title": "Guidance: Fixed sum offer permission to appeal process: privacy notice",
-      "summary": "How BIST will use personal data processed as part of the Horizon Shortfall Scheme Appeals (HSSA) fixed sum offer permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/fixed-sum-offer-permission-to-appeal-process-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T09:59:45+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
-      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T09:59:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Open general export licence (export of dual-use items)",
-      "summary": "Licence permitting a wide range of dual-use listed items to a variety of destinations, including EU member states, the United States, and others.",
-      "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-20T15:18:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
       ]
     }
   ]

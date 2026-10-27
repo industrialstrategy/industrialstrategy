@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:32:02.365654Z",
+  "generated_at": "2026-10-27T17:22:33.095405Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,166 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Solar PV deployment: September 2026",
+      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T17:04:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends and prices: August - October 2026",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T17:04:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T16:11:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Decision: Frodsham Solar project: development consent order Planning Act 2008",
+      "summary": "Decision on an application for the Frodsham Solar Farm.",
+      "link": "https://www.gov.uk/government/publications/frodsham-solar-project-development-consent-order-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T15:40:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T14:33:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Policy paper: Post-Consent Unit: guidance on discharging requirements",
+      "summary": "This guidance sets out how the Post-Consent Unit will manage post-consent discharge applications and how stakeholders should engage with the process.",
+      "link": "https://www.gov.uk/government/publications/post-consent-unit-guidance-on-discharging-requirements",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T14:30:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Designated standards: cosmetic products",
+      "summary": "Notices of publication and a consolidated list for designated standards for cosmetic products.",
+      "link": "https://www.gov.uk/government/publications/designated-standards-cosmetic-products",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:53:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: November 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-november-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:44:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: October 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-october-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:42:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: August 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-august-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:41:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: July 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-july-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:36:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: June 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-june-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:35:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: May 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-may-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:33:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Building materials and components statistics: March 2027",
+      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
+      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-march-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-27T13:32:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Warm Homes Loan Scheme: Factsheet",
+      "summary": "How the government's Warm Homes Loan scheme can help households install clean energy technology and save money on bills.",
+      "link": "https://www.gov.uk/government/news/warm-homes-loan-scheme-factsheet",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T13:00:00+00:00",
+      "matched": [
+        "clean energy"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy"
+      ]
+    },
     {
       "title": "Research: Carbon capture, usage and storage (CCUS): business models",
       "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
@@ -87,7 +247,7 @@
       "summary": "Findings from the triannual DESNZ Public Attitudes Tracker (PAT).",
       "link": "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-summer-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-27T09:30:01+00:00",
+      "published": "2026-10-27T09:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -195,66 +355,6 @@
       "ai_tags": []
     },
     {
-      "title": "Heat Training Grant: discounted heat network training",
-      "summary": "If you work in heat networks, you could get up to £500 towards the cost of heat network training.",
-      "link": "https://www.gov.uk/guidance/apply-for-the-heat-training-grant-discounted-heat-network-training",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T15:27:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: UK national risk assessment on security of gas supply 2026",
-      "summary": "A risk assessment in relation to the security of gas supply in the UK.",
-      "link": "https://www.gov.uk/government/publications/uk-national-risk-assessment-on-security-of-gas-supply-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T14:59:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "The role of heat networks in the energy transition",
-      "summary": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, on heat networks to the ADE Heat Network Conference",
-      "link": "https://www.gov.uk/government/speeches/the-role-of-heat-networks-in-the-energy-transition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T14:43:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Improving standards for industrial fans",
-      "summary": "We're seeking views on proposals to improve ecodesign standards for industrial fans.",
-      "link": "https://www.gov.uk/government/consultations/improving-standards-for-industrial-fans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T11:34:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Strategic Spatial Energy Plan (SSEP): timeline extension",
-      "summary": "Letter to the National Energy System Operator (NESO) on extending the SSEP timeline to integrate updated data, ensuring a stronger, more credible energy plan.",
-      "link": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T10:05:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Strategic Spatial Energy Plan: deadline extension",
-      "summary": "Direction extending the deadline for the National Energy System Operator to submit the Strategic Spatial Energy Plan from 31 December 2026 to 31 December 2027.",
-      "link": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-deadline-extension",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T10:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
       "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
@@ -339,102 +439,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: equipment for explosive atmospheres",
-      "summary": "Notices of publication and a consolidated list for designated standards for equipment for explosive atmospheres.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-atex",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T23:01:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme: privacy notice",
-      "summary": "Details of how we collect, handle and share the personal data of individuals who have applied into the Horizon Shortfall Scheme.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T11:42:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Shortfall Evidence Process Guidance",
-      "summary": "Guidance on how the Horizon Shortfall Scheme (HSS) will process claims where there is no evidence of a shortfall.",
-      "link": "https://www.gov.uk/government/publications/shortfall-evidence-process-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T11:42:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Shortfall Independent Review",
-      "summary": "Guidance on the independent review of Horizon Shortfall Scheme (HSS) claims where no fixed sum offer was awarded following the Shortfall Evidence Process.",
-      "link": "https://www.gov.uk/government/publications/shortfall-independent-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T11:42:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Capture Redress Scheme: application form",
-      "summary": "Complete this form to apply for financial redress for financial losses and harm caused by the Post Office Capture software.",
-      "link": "https://www.gov.uk/government/publications/capture-redress-scheme-application-form",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T10:46:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Apply to the Capture Redress Scheme",
-      "summary": "How to apply for financial redress if you experienced financial losses or other harm as a result of your use of the Capture software.",
-      "link": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T10:46:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: S-PVC from China, Mexico and South Korea",
-      "summary": "Trade remedies notices published by the Secretary of State relating to imports of Suspension Polyvinyl Chloride (S-PVC) originating from China, Mexico and South Korea.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-s-pvc-from-china-mexico-and-south-korea",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T10:45:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Horizon Convictions Redress Scheme (HCRS): applying for financial redress",
-      "summary": "Follow these steps to register for the Horizon Convictions Redress Scheme (HCRS) and apply for your financial redress.",
-      "link": "https://www.gov.uk/guidance/horizon-convictions-redress-scheme-hcrs-applying-for-financial-redress",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T10:45:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Industrial Strategy Jobs Plans",
-      "summary": "Plans to ensure sectors have the skilled workforce they need for future growth, working with industry and wider partners, and delivering opportunities across the country.",
-      "link": "https://www.gov.uk/government/publications/industrial-strategy-jobs-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-21T10:44:35+00:00",
-      "matched": [
-        "industrial strategy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Industrial strategy"
-      ]
     }
   ]
 }

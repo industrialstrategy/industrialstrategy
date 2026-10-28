@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:45:47.751544Z",
+  "generated_at": "2026-10-28T03:47:11.405536Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Warm Homes Loan Scheme",
+      "summary": "Find out about the Warm Homes Loan Scheme.",
+      "link": "https://www.gov.uk/warm-homes-loan-scheme",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-28T00:01:08+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Building materials and components statistics: December 2027",
       "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
@@ -380,16 +390,6 @@
       "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-24T07:07:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Jackdaw gas field gets green light",
-      "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
-      "link": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-23T16:30:25+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

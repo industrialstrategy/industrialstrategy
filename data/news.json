@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:47:11.405536Z",
+  "generated_at": "2026-10-28T12:00:55.581345Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,8 +19,64 @@
   "count": 40,
   "items": [
     {
+      "title": "Official Statistics: Great British Insulation Scheme release: January 2027",
+      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-january-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-28T11:26:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release November 2026",
+      "summary": "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures installed and the supply chain. These statistics are provisional and are subject to future revisions.",
+      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-statistics-headline-release-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-28T11:23:21+00:00",
+      "matched": [
+        "supply chain"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Supply chains"
+      ]
+    },
+    {
+      "title": "Guidance: Package holidays: complying with regulations - guidance for businesses",
+      "summary": "The Package Travel and Linked Travel Arrangements Regulations 2018 as amended by The Package Travel and Linked Travel Arrangements (Amendment) Regulations 2026.",
+      "link": "https://www.gov.uk/government/publications/package-holidays-complying-with-regulations-guidance-for-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-28T11:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme: September 2026",
+      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-28T09:57:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Chancellor abolishes standing charges on gas bills to make payments fairer",
+      "summary": "Standing charges from household gas bills will be removed for around 23 million homes.",
+      "link": "https://www.gov.uk/government/news/chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-28T09:31:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Warm Homes Loan Scheme",
-      "summary": "Find out about the Warm Homes Loan Scheme.",
+      "summary": "You could get a loan to help you pay for energy saving improvements to your home. Find out if you’re eligible and how to apply.",
       "link": "https://www.gov.uk/warm-homes-loan-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-10-28T00:01:08+00:00",
@@ -303,6 +359,16 @@
       "ai_tags": []
     },
     {
+      "title": "Notice: Great North Road Solar and Biodiversity Park: decision on application for development consent under the Planning Act 2008",
+      "summary": "Decision on an application for a solar farm in Nottinghamshire under the Planning Act 2008.",
+      "link": "https://www.gov.uk/government/publications/great-north-road-solar-and-biodiversity-park-decision-on-application-for-development-consent-under-the-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-27T00:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Government welcomes Official Partners for COP31 Pavilion",
       "summary": "Kraken Technologies, National Grid, Octopus Energy, and SSE will sponsor the UK Pavilion at COP31 in Antalya, Türkiye.",
       "link": "https://www.gov.uk/government/news/government-welcomes-official-partners-for-cop31-pavilion",
@@ -343,58 +409,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-26T14:02:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Policy appraisal: risk-opportunity analysis (ROA)",
-      "summary": "Appraisal guidance for transformational change, including a systems lens of risks, opportunities, trade-offs, and managing uncertainty.",
-      "link": "https://www.gov.uk/government/publications/policy-appraisal-risk-opportunity-analysis-roa",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-26T13:59:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Research: 2026 post-implementation review of the SECR regulations 2018",
-      "summary": "This research examines how effective the Streamlined Energy and Carbon Reporting (SECR) regulations have been in increasing transparency on organisational energy use and emissions.",
-      "link": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-26T12:35:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Oil and gas: OPRED communications, 2026",
-      "summary": "OPRED communications issued to stakeholders in 2026.",
-      "link": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-26T10:40:50+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Young Voices for Climate and Nature (closed)",
-      "summary": "We're asking young people from across the UK to share their ideas about climate and nature action.",
-      "link": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-24T07:07:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
       "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
       "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
@@ -423,18 +437,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment core statistics book",
-      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, the former DBT and others.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-22T08:30:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

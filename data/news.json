@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:10:12.452779Z",
+  "generated_at": "2026-10-29T12:12:20.733399Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,101 +19,246 @@
   "count": 40,
   "items": [
     {
-      "title": "Official Statistics: Subnational estimates of properties not connected to the gas network 2015-2025",
-      "summary": "Estimates of the number of domestic properties not connected to the gas grid, at region and local authority levels from 2015 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:37+00:00",
+      "title": "Transparency data: DBT: spending over £500, August 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-29T11:50:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Subnational gas consumption in Northern Ireland: 2015-2025",
-      "summary": "Consumption of gas in Northern Ireland at local council level from 2015 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:33+00:00",
+      "title": "Transparency data: DBT: spending over £500, July 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-29T11:50:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Subnational electricity consumption in Northern Ireland: 2009-2025",
-      "summary": "Consumption of electricity in Northern Ireland at local council level from 2009 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
+      "title": "Accredited official statistics: Energy trends and prices: August - October 2027",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-august-october-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:29+00:00",
+      "published": "2026-10-29T11:42:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 25 October 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-25-october-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T11:40:12+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Subnational gas consumption at postcode level in 2025",
-      "summary": "Postcode level gas 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-postcode-level-in-2025",
+      "title": "Accredited official statistics: Road fuel prices: 18 October 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-18-october-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:23+00:00",
+      "published": "2026-10-29T11:40:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Subnational gas consumption at LSOA, MSOA and IGZ level in 2025",
-      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level gas 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+      "title": "Accredited official statistics: Road fuel prices: 11 October 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-11-october-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:19+00:00",
+      "published": "2026-10-29T11:40:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Subnational gas consumption in 2025",
-      "summary": "Consumption of gas broken down by local authority in Great Britain in 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-2025",
+      "title": "Accredited official statistics: Road fuel prices: 4 October 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-4-october-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:15+00:00",
+      "published": "2026-10-29T11:39:53+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Subnational electricity consumption at postcode level in 2025",
-      "summary": "Postcode level electricity 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-postcode-level-in-2025",
+      "title": "Guidance: Smart meter In-Home Display: voluntary replacement principles",
+      "summary": "Principles to ensure consumers can obtain a functioning smart meter In-Home Display (IHD) from their energy supplier.",
+      "link": "https://www.gov.uk/government/publications/smart-meter-in-home-display-voluntary-replacement-principles",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:09+00:00",
+      "published": "2026-10-29T09:43:52+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Subnational electricity consumption at LSOA, MSOA and IGZ level in 2025",
-      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level electricity 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+      "title": "Research: Factors affecting the take-up of home cooling adaptations",
+      "summary": "Research exploring what factors affect decisions to adopt home cooling measures.",
+      "link": "https://www.gov.uk/government/publications/factors-affecting-the-take-up-of-home-cooling-adaptations",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:36:04+00:00",
+      "published": "2026-10-29T09:37:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Subnational electricity consumption in 2025",
-      "summary": "Consumption of electricity broken down by local authority in Great Britain in 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-2025",
+      "title": "Official Statistics: Boiler Upgrade Scheme statistics: September 2026",
+      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-september-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:35:11+00:00",
+      "published": "2026-10-29T09:30:16+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "What the Autumn Budget 2026 means for your energy bills",
-      "summary": "The Autumn Budget will create breathing space for families with the cost of living.",
-      "link": "https://www.gov.uk/government/news/what-the-autumn-budget-2026-means-for-your-energy-bills",
+      "title": "Domestic energy price indices",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T16:19:43+00:00",
+      "published": "2026-10-29T09:30:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK gas",
+      "summary": "Data on the UK's gas sector, including production, trade and demand.",
+      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK electricity",
+      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
+      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK renewables",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK weather",
+      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 29 October 2026",
+      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
+      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-29-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:14+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Net zero",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK total energy",
+      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
+      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
+      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
+      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
+      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T09:30:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Conduct Regulations 2003: guidance for employment agencies and employment businesses",
+      "summary": "Guidance for employment agencies, employment businesses and the recruitment sector on the Conduct of Employment Agencies and Employment Businesses Regulations 2003.",
+      "link": "https://www.gov.uk/government/publications/conduct-regulations-2003-guidance-for-employment-agencies-and-employment-businesses",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-29T09:21:56+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -124,16 +269,6 @@
       "link": "https://www.gov.uk/government/publications/standard-voluntary-code-of-conduct-executive-search-firms",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-28T15:58:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Standards for official statistics published by DESNZ",
-      "summary": "Documents describing the standards we follow to produce official statistics.",
-      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T15:18:05+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -159,16 +294,6 @@
       "ai_tags": []
     },
     {
-      "title": "Independent report: Cost of public electric vehicle charging review",
-      "summary": "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.",
-      "link": "https://www.gov.uk/government/publications/cost-of-public-electric-vehicle-charging-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T13:32:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
       "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
       "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
@@ -181,97 +306,11 @@
       ]
     },
     {
-      "title": "Wholesale Contracts for Difference",
-      "summary": "We are seeking views on a proposed Wholesale Contracts for Difference scheme for existing low carbon electricity generators.",
-      "link": "https://www.gov.uk/government/consultations/wholesale-contracts-for-difference",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T13:30:19+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accelerating electricity network connections for strategic demand",
-      "summary": "We're seeking views on proposals to amend the connections process to address speculation and prioritise future capacity for strategic demand, including data centres.",
-      "link": "https://www.gov.uk/government/consultations/accelerating-electricity-network-connections-for-strategic-demand",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T13:30:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Energy debt circuit breaker: a strategy for domestic energy debt",
-      "summary": "How we plan to tackle domestic energy debt.",
-      "link": "https://www.gov.uk/government/publications/energy-debt-circuit-breaker-a-strategy-for-domestic-energy-debt",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T13:30:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: UK Offshore Energy Strategic Environmental Assessment: research",
-      "summary": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
-      "link": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T12:03:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Great British Insulation Scheme release: January 2027",
-      "summary": "Statistical release on Great British Insulation Scheme (GBIS) statistics to monitor the installation of energy efficiency measures in domestic properties in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-january-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T11:26:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release November 2026",
-      "summary": "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures installed and the supply chain. These statistics are provisional and are subject to future revisions.",
-      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-statistics-headline-release-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T11:23:21+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
       "title": "Guidance: Package holidays: complying with regulations - guidance for businesses",
       "summary": "The Package Travel and Linked Travel Arrangements Regulations 2018 as amended by The Package Travel and Linked Travel Arrangements (Amendment) Regulations 2026.",
       "link": "https://www.gov.uk/government/publications/package-holidays-complying-with-regulations-guidance-for-businesses",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-28T11:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: September 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T09:57:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Chancellor abolishes standing charges on gas bills to make payments fairer",
-      "summary": "Standing charges from household gas bills will be removed for around 23 million homes.",
-      "link": "https://www.gov.uk/government/news/chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-28T09:31:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -394,38 +433,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-may-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-27T13:33:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: March 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-march-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T13:32:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Complying with trade sanctions relating to specified ships",
-      "summary": "Guidance outlining obligations under trade sanctions relating to specified ships and the Office of Trade Sanction Implementation’s (OTSI) implementation and enforcement responsibilities.",
-      "link": "https://www.gov.uk/government/publications/complying-with-trade-sanctions-relating-to-specified-ships",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T10:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Providing professional and business services to a person connected with Russia",
-      "summary": "Guidance on the services sanctions contained in The Russia (Sanctions) (EU Exit) Regulations 2019.",
-      "link": "https://www.gov.uk/government/publications/providing-professional-and-business-services-to-a-person-connected-with-russia",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T10:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

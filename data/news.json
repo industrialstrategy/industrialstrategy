@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:12:20.733399Z",
+  "generated_at": "2026-10-29T22:22:52.550108Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,98 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Transparency data: DBT: spending over £25,000, September 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-29T16:58:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, August 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-august-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-29T16:58:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, January 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-january-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T16:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, June 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-june-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T16:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £500, July 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-500-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T16:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, March 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T16:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DESNZ: spending over £25,000, February 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-february-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T16:00:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment factsheets: latest update",
+      "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-29T13:13:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK ETS: Hospital and Small Emitter status",
+      "summary": "Information for Hospitals and Small Emitters (HSEs) on eligibility and compliance.",
+      "link": "https://www.gov.uk/guidance/opt-out-of-the-uk-ets-if-your-installation-is-a-hospital-or-small-emitter",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-29T12:09:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Transparency data: DBT: spending over £500, August 2026",
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
@@ -151,18 +243,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: October 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Accredited official statistics: Energy Trends: UK gas",
       "summary": "Data on the UK's gas sector, including production, trade and demand.",
       "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
@@ -193,65 +273,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK weather",
-      "summary": "Quarterly and monthly data on weather patterns, including temperature, heating degree days, wind speeds, sun hours and rainfall.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-7-weather",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends and Prices statistical release: 29 October 2026",
-      "summary": "The latest provisional monthly energy production, trade, electricity generation, consumption and prices statistics produced by the Department for Energy Security and Net Zero.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-and-prices-statistical-release-29-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:14+00:00",
-      "matched": [
-        "net zero"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Net zero",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK total energy",
-      "summary": "Data on overall energy balances of energy supply and demand in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/total-energy-section-1-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK solid fuels and derived gases",
-      "summary": "Data on coal and coal-related products, including production, trade, consumption and stocks.",
-      "link": "https://www.gov.uk/government/statistics/solid-fuels-and-derived-gases-section-2-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK oil and oil products",
-      "summary": "Data on oil and oil products, including upstream production and UK refinery activity, trade, stocks and demand.",
-      "link": "https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "Guidance: Conduct Regulations 2003: guidance for employment agencies and employment businesses",
@@ -366,18 +387,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T16:11:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Designated standards: cosmetic products",
       "summary": "Notices of publication and a consolidated list for designated standards for cosmetic products.",
       "link": "https://www.gov.uk/government/publications/designated-standards-cosmetic-products",
@@ -413,26 +422,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-july-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-27T13:36:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: June 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T13:35:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: May 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-may-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T13:33:30+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:02:49.424697Z",
+  "generated_at": "2026-10-30T21:53:51.186567Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,38 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-30T17:05:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Major undersea power cable given green light",
+      "summary": "Government approves Sea Link, a major undersea power connection between Suffolk and Kent.",
+      "link": "https://www.gov.uk/government/news/major-undersea-power-cable-given-green-light",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-10-30T16:32:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Military goods, software and technology undertaking template",
+      "summary": "Required supporting documentation if you are registered to use the open general export licence (military goods, software and technology).",
+      "link": "https://www.gov.uk/government/publications/military-goods-ogel-undertaking-template",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-10-30T15:32:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
     {
       "title": "Make Work Pay: draft code of practice on trade union right of access",
       "summary": "We're seeking views on a draft code of practice on the new legal framework for trade unions’ access to workplaces.",
@@ -295,28 +327,6 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy Trends: UK gas",
-      "summary": "Data on the UK's gas sector, including production, trade and demand.",
-      "link": "https://www.gov.uk/government/statistics/gas-section-4-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK electricity",
-      "summary": "Data on electricity generation, supply, consumption and fuel use for generation.",
-      "link": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Conduct Regulations 2003: guidance for employment agencies and employment businesses",
       "summary": "Guidance for employment agencies, employment businesses and the recruitment sector on the Conduct of Employment Agencies and Employment Businesses Regulations 2003.",
       "link": "https://www.gov.uk/government/publications/conduct-regulations-2003-guidance-for-employment-agencies-and-employment-businesses",
@@ -414,16 +424,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/uk-overseas-trade-in-goods-statistics-april-2027",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-27T17:43:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: September 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-october-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T17:39:29+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

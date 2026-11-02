@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:37:57.197717Z",
+  "generated_at": "2026-11-02T04:08:32.821610Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,26 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
+      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-02T00:15:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: HSS fixed sum offer permission to appeal process: registration form",
+      "summary": "Registration form postmasters’ representatives must complete to begin the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-registration-form",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-02T00:15:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: UK ETS Allocation Table for operators of installations",
       "summary": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
@@ -404,26 +424,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-october-2027--3",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-27T17:48:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: October 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-october-2027--2",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T17:45:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: April 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-overseas-trade-in-goods-statistics-april-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T17:43:24+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

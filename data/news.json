@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:08:32.821610Z",
+  "generated_at": "2026-11-02T14:39:28.564782Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,56 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 2 November 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-2-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-02T14:04:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Green Gas Support Scheme: budget management",
+      "summary": "Details of the budget management mechanisms of the Green Gas Support Scheme.",
+      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-budget-management",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-02T12:11:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Hundreds of employers handed penalties for illegally underpaying workers",
+      "summary": "389 employers from across the UK named for failing to pay workers the minimum wage to tens of thousands of workers.",
+      "link": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-02T12:09:14+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Green Book supplementary guidance: valuation of energy use and greenhouse gas emissions for appraisal",
+      "summary": "Supplementary guidance to Treasury’s Green Book providing government analysts with rules for valuing energy usage and greenhouse gas emissions.",
+      "link": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-02T09:30:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Load Control Licence: standard licence conditions",
+      "summary": "Standard licence conditions for Load Control Licence holders, covering operational, cyber security and consumer protection requirements.",
+      "link": "https://www.gov.uk/government/publications/load-control-licence-standard-licence-conditions",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-02T09:00:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
       "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
@@ -307,46 +357,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Boiler Upgrade Scheme statistics: September 2026",
-      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
-      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:16+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Domestic energy price indices",
-      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Monthly and annual prices of road fuels and petroleum products",
-      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Comparisons of international road fuel prices",
-      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
-      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T09:30:15+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Conduct Regulations 2003: guidance for employment agencies and employment businesses",
       "summary": "Guidance for employment agencies, employment businesses and the recruitment sector on the Conduct of Employment Agencies and Employment Businesses Regulations 2003.",
       "link": "https://www.gov.uk/government/publications/conduct-regulations-2003-guidance-for-employment-agencies-and-employment-businesses",
@@ -414,16 +424,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-december-2026--2",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-27T17:50:24+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Building materials and components statistics: October 2027",
-      "summary": "Provides information on selected building materials and contains monthly data on price indices, bricks, cement and concrete blocks; and quarterly data on sand and gravel, slate, concrete roofing tiles and ready-mixed concrete.",
-      "link": "https://www.gov.uk/government/statistics/announcements/building-materials-and-components-statistics-october-2027--3",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-27T17:48:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

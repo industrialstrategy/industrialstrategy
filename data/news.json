@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:34:00.799966Z",
+  "generated_at": "2026-11-03T22:50:05.388821Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,68 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-03T16:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK ETS technical guidance: Free Allocation Regulation (FAR)",
+      "summary": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR).",
+      "link": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-03T15:43:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
+      "summary": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
+      "link": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-03T15:42:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: UK's steel trade measure from 1 July 2026",
+      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
+      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-03T15:31:52+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Guidance: Complying with Provision of Services Regulations for businesses and competent authorities",
+      "summary": "Guidance for service providers and competent authorities explaining how the Provision of Services Regulations operates.",
+      "link": "https://www.gov.uk/government/publications/complying-with-provision-of-services-regulations-for-businesses-and-competent-authorities",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-03T15:21:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Ambient gamma radiation dose rates across the UK",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-03T14:12:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
@@ -85,7 +147,7 @@
       "summary": "12-tonne ‘double beam box’ vessel will double MAST Upgrade’s heating power, allowing scientists to investigate plasma conditions needed for future power plants.",
       "link": "https://www.gov.uk/government/news/giant-12-tonne-box-lowered-into-place-for-fusion-upgrade",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T09:24:39+00:00",
+      "published": "2026-11-03T09:24:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -330,26 +392,6 @@
       "ai_tags": []
     },
     {
-      "title": "Transparency data: DESNZ: spending over £25,000, March 2026",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T16:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DESNZ: spending over £25,000, February 2026",
-      "summary": "Reports on departmental spending over £25,000.",
-      "link": "https://www.gov.uk/government/publications/desnz-spending-over-25000-february-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T16:00:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--4",
@@ -360,16 +402,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "UK ETS: Hospital and Small Emitter status",
-      "summary": "Information for Hospitals and Small Emitters (HSEs) on eligibility and compliance.",
-      "link": "https://www.gov.uk/guidance/opt-out-of-the-uk-ets-if-your-installation-is-a-hospital-or-small-emitter",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T12:09:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Transparency data: DBT: spending over £500, August 2026",
@@ -392,43 +424,11 @@
       "ai_tags": []
     },
     {
-      "title": "Accredited official statistics: Energy trends and prices: August - October 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-august-october-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-10-29T11:42:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
       "title": "Guidance: Conduct Regulations 2003: guidance for employment agencies and employment businesses",
       "summary": "Guidance for employment agencies, employment businesses and the recruitment sector on the Conduct of Employment Agencies and Employment Businesses Regulations 2003.",
       "link": "https://www.gov.uk/government/publications/conduct-regulations-2003-guidance-for-employment-agencies-and-employment-businesses",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-29T09:21:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Standard voluntary code of conduct: executive search firms",
-      "summary": "The voluntary code of conduct for executive search firms lays out steps for search firms to follow across the search process.",
-      "link": "https://www.gov.uk/government/publications/standard-voluntary-code-of-conduct-executive-search-firms",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-28T15:58:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Corporate report: E-invoicing implementation Roadmap",
-      "summary": "This roadmap sets out the timeline for key decisions the government will make to enable businesses and organisations to adopt  e-invoicing from 1 April 2029.",
-      "link": "https://www.gov.uk/government/publications/e-invoicing-implementation-roadmap",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-28T13:49:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

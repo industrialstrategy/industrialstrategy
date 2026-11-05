@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:55:08.959698Z",
+  "generated_at": "2026-11-05T23:12:52.762990Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-05T15:50:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Capacity Market: new technologies 2026",
       "summary": "We are seeking views on whether technologies capable of contributing to electricity security of supply could enter future Capacity Market auctions.",
@@ -425,16 +435,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, August 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-august-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-29T11:50:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

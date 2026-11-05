@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:54:52.504057Z",
+  "generated_at": "2026-11-05T13:55:08.959698Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,39 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Capacity Market: new technologies 2026",
+      "summary": "We are seeking views on whether technologies capable of contributing to electricity security of supply could enter future Capacity Market auctions.",
+      "link": "https://www.gov.uk/government/consultations/capacity-market-new-technologies-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-05T11:45:15+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notices: countervailing duty on rainbow trout from Turkey",
+      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade relating to the countervailing duty on rainbow trout from Turkey.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-rainbow-trout-from-turkey",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-05T11:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: Boiler Upgrade Scheme: approval to over-allocate vouchers, November 2026",
+      "summary": "This notice confirms changes to the Boiler Upgrade Scheme (BUS) in November 2026.",
+      "link": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-approval-to-over-allocate-vouchers-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-05T09:29:57+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Energy Independence Bill: factsheets",
       "summary": "Factsheets relating to the Energy Independence Bill.",
@@ -288,31 +321,11 @@
       ]
     },
     {
-      "title": "Notice: Green Gas Support Scheme: budget management",
-      "summary": "Details of the budget management mechanisms of the Green Gas Support Scheme.",
-      "link": "https://www.gov.uk/government/publications/green-gas-support-scheme-budget-management",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-02T12:11:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Hundreds of employers handed penalties for illegally underpaying workers",
       "summary": "389 employers from across the UK named for failing to pay workers the minimum wage to tens of thousands of workers.",
       "link": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-02T12:09:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Green Book supplementary guidance: valuation of energy use and greenhouse gas emissions for appraisal",
-      "summary": "Supplementary guidance to Treasury’s Green Book providing government analysts with rules for valuing energy usage and greenhouse gas emissions.",
-      "link": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-02T09:30:06+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -419,16 +432,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-august-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-10-29T11:50:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: DBT: spending over £500, July 2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-10-29T11:50:01+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T04:25:36.155968Z",
+  "generated_at": "2026-11-09T15:00:59.308734Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,46 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: Road fuel prices: 9 November 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-9-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-09T14:09:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals assessment framework",
+      "summary": "This framework brings together existing published material to provide more clarity on the principles applied when assessing Horizon Shortfall Scheme Appeals (HSSA) claims.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-09T11:38:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-09T11:31:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
+      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
+      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-09T10:44:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Boiler Upgrade Scheme: November 2026",
       "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
@@ -328,16 +368,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T16:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: UK ETS technical guidance: Free Allocation Regulation (FAR)",
       "summary": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR).",
       "link": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
@@ -402,16 +432,6 @@
       ]
     },
     {
-      "title": "Managing challenges from the Middle East conflict as a UK business",
-      "summary": "This guidance lists support and information that may be useful for UK businesses affected by disruption due to the conflict in the Middle East.",
-      "link": "https://www.gov.uk/guidance/managing-challenges-from-the-middle-east-conflict-as-a-uk-business",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-03T10:33:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
       "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
@@ -427,26 +447,6 @@
       "link": "https://www.gov.uk/government/consultations/proposed-legislative-changes-to-support-implementation-of-the-british-industrial-competitiveness-scheme",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-11-03T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Independent report: Independent regulatory skills and capability review of the Office of Gas and Electricity Markets (Ofgem)",
-      "summary": "Review of the future skills and capabilities of the Office of Gas and Electricity Markets (Ofgem), with recommendations from an independent expert panel",
-      "link": "https://www.gov.uk/government/publications/independent-regulatory-skills-and-capability-review-of-the-office-of-gas-and-electricity-markets-ofgem",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: radio equipment",
-      "summary": "Notices of publication and a consolidated list for designated standards for radio equipment.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-radio-equipment",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-03T00:01:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

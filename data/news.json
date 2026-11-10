@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:13:49.364465Z",
+  "generated_at": "2026-11-10T22:45:58.232708Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T18:11:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Renewables obligation: certificates and generation - July 2026",
+      "summary": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
+      "link": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-july-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T17:08:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Botley West Solar Farm: development consent order, Planning Act 2008",
+      "summary": "Decision on an application by Photovolt Development Partners (PVDP) for a solar farm in West Oxfordshire.",
+      "link": "https://www.gov.uk/government/publications/botley-west-solar-farm-development-consent-order-planning-act-2008",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T16:14:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Accredited official statistics: Weekly road fuel prices",
       "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
@@ -383,36 +413,6 @@
       "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-11-04T09:45:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Protecting the world’s most biodiverse coral reef ecosystems",
-      "summary": "Supported by the UK’s International Climate Finance (ICF), Indonesia is scaling solutions to protect its globally significant coral reefs supporting food security, sustainable livelihoods, and greater climate resilience.",
-      "link": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-04T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Bringing clean solar power to communities in Bangladesh",
-      "summary": "The UK’s International Climate Finance is helping Bangladesh sustain clean, affordable electricity for millions of people in rural and off-grid communities.",
-      "link": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-04T09:30:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: UK International Climate Finance results 2026",
-      "summary": "This page provides the 2026 International Climate Finance (ICF) results for the UK government.",
-      "link": "https://www.gov.uk/government/statistics/uk-international-climate-finance-results-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-04T09:30:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

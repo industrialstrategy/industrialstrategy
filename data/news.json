@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:06:58.671476Z",
+  "generated_at": "2026-11-10T14:13:49.364465Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,56 @@
   "count": 40,
   "items": [
     {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T09:30:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK-Japan offshore wind industrial compact",
+      "summary": "The UK and Japan’s shared commitment to strengthen industrial cooperation in offshore wind.",
+      "link": "https://www.gov.uk/government/publications/uk-japan-offshore-wind-industrial-compact",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T09:00:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Global Clean Power Alliance",
+      "summary": "The Global Clean Power Alliance (GCPA) brings together international partners through two missions focused on accelerating the transition to clean power.",
+      "link": "https://www.gov.uk/guidance/global-clean-power-alliance",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T08:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
+      "summary": "Country action plans launched with the Global Clean Power Alliance (GCPA) finance mission.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T08:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2026)",
+      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP31.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-10T08:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "COP31: what it is and the UK’s priorities",
       "summary": "An explainer on the UN's annual climate conference and the government's priorities for COP31.",
       "link": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
@@ -34,16 +84,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-09T15:15:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 9 November 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-9-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-09T14:09:28+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -378,26 +418,6 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: UK ETS technical guidance: Free Allocation Regulation (FAR)",
-      "summary": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR).",
-      "link": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T15:43:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
-      "summary": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
-      "link": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T15:42:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Decision: UK's steel trade measure from 1 July 2026",
       "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
       "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
@@ -420,16 +440,6 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Ambient gamma radiation dose rates across the UK",
-      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
-      "link": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T14:12:06+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: Trade and investment factsheets: latest update",
       "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
       "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--5",
@@ -440,16 +450,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-03T09:30:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

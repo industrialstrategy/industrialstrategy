@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:28:33.869080Z",
+  "generated_at": "2026-11-11T23:58:57.656065Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,62 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--63",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-11T16:47:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--115",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-11T16:45:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
+      "summary": "Temporary duty suspensions and autonomous tariff quotas (ATQs) for importing goods into the UK.",
+      "link": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-11T15:27:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-11T13:59:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: inspection strategy and enforcement activity",
+      "summary": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-11T13:57:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Notice: National Energy Efficiency Data-framework statistics - Gas Safe Register data: privacy notice",
       "summary": "This notice sets out how we will use your personal data, and your rights.",
@@ -144,16 +200,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-09T11:38:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-09T11:31:25+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -406,50 +452,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Guidance: Justification of Practices Involving Ionising Radiation application register",
-      "summary": "Applications and decisions made under Regulations 9, 10 and 12 of the Justification of Practices involving Ionising Radiation Regulations (JoPIIRR) 2004.",
-      "link": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-04T11:29:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: UK's steel trade measure from 1 July 2026",
-      "summary": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes.",
-      "link": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-03T15:31:52+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Guidance: Complying with Provision of Services Regulations for businesses and competent authorities",
-      "summary": "Guidance for service providers and competent authorities explaining how the Provision of Services Regulations operates.",
-      "link": "https://www.gov.uk/government/publications/complying-with-provision-of-services-regulations-for-businesses-and-competent-authorities",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-03T15:21:56+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK's trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-factsheets-latest-update--5",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-03T10:59:27+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

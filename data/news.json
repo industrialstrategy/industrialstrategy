@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:29:49.701194Z",
+  "generated_at": "2026-11-11T13:28:33.869080Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,36 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Notice: National Energy Efficiency Data-framework statistics - Gas Safe Register data: privacy notice",
+      "summary": "This notice sets out how we will use your personal data, and your rights.",
+      "link": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-gas-safe-register-data-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-11T09:49:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
+      "summary": "Country action plans launched with the Global Clean Power Alliance (GCPA) finance mission.",
+      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-11T08:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Prime Minister hails major investment in UK renewables",
+      "summary": "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister’s travel to the COP31 Leaders’ Summit in Türkiye.",
+      "link": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-11T06:10:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
       "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
@@ -79,21 +109,11 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
-      "summary": "Country action plans launched with the Global Clean Power Alliance (GCPA) finance mission.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-10T08:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2026)",
       "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP31.",
       "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-10T08:00:01+00:00",
+      "published": "2026-11-10T08:00:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -393,26 +413,6 @@
       "link": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-11-04T11:29:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Functioning of the UK carbon market, 2025",
-      "summary": "A high-level summary of the performance of the UK Emissions Trading Scheme during the fourth scheme year of its operation.",
-      "link": "https://www.gov.uk/government/publications/functioning-of-the-uk-carbon-market-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-04T09:45:55+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Standards for official statistics published by DESNZ",
-      "summary": "Documents describing the standards we follow to produce official statistics.",
-      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-04T09:45:49+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

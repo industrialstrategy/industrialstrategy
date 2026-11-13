@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:51:58.464225Z",
+  "generated_at": "2026-11-13T13:51:08.385912Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,103 @@
   "count": 40,
   "items": [
     {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--114",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-13T13:34:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Policy paper: UK-Canada climate finance: joint statement",
+      "summary": "The UK and Canada have reaffirmed their commitment to international climate finance.",
+      "link": "https://www.gov.uk/government/publications/uk-canada-climate-finance-joint-statement",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T13:00:01+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Renewable Energy Planning Database: quarterly extract",
+      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
+      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T12:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: Heat networks pipelines",
+      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
+      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T12:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance): expert review of the First Order Draft",
+      "summary": "The IPCC has announced the expert review of the First Order Draft of the Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance).",
+      "link": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-carbon-dioxide-removal-technologies-carbon-capture-utilization-and-storage-for-national-greenhouse-gas-inventories-addition",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T10:25:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: IPCC AR7: expert review of the Working Group III Contribution (Mitigation of Climate Change)",
+      "summary": "The IPCC has announced the Expert Review of the First Order Draft of its Working Group III contribution to the Seventh Assessment Report.",
+      "link": "https://www.gov.uk/government/publications/ipcc-ar7-mitigation-of-climate-change-expert-review-of-the-working-group-iii-contribution",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T10:25:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: IPCC AR7 and the Technical Guidelines for Assessing Climate Change Impacts and Adaptation including Indicators, Metrics and Methodologies: expert review of the Working Group II contribution (Impacts, Adaptation and Vulnerability)",
+      "summary": "The IPCC has announced the expert review of the First Order Draft of its Working Group II contribution to the Seventh Assessment Report and associated Technical Guidelines.",
+      "link": "https://www.gov.uk/government/publications/ipcc-ar7-and-the-technical-guidelines-for-assessing-climate-change-impacts-and-adaptation-including-indicators-metrics-and-methodologies-expert-review",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T10:24:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Contributing to the IPCC",
+      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T10:23:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Oil and gas: inspection strategy and enforcement activity",
+      "summary": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-13T09:30:39+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Global clean electricity to cut bills and boost energy security",
       "summary": "UK backs Türkiye’s COP31 '35 by 35' pledge.",
       "link": "https://www.gov.uk/government/news/global-clean-electricity-to-cut-bills-and-boost-energy-security",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T17:06:29+00:00",
+      "published": "2026-11-12T17:06:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -153,16 +245,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: inspection strategy and enforcement activity",
-      "summary": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-11T13:57:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: National Energy Efficiency Data-framework statistics - Gas Safe Register data: privacy notice",
       "summary": "This notice sets out how we will use your personal data, and your rights.",
       "link": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-gas-safe-register-data-privacy-notice",
@@ -203,56 +285,6 @@
       "ai_tags": []
     },
     {
-      "title": "Decision: Botley West Solar Farm: development consent order, Planning Act 2008",
-      "summary": "Decision on an application by Photovolt Development Partners (PVDP) for a solar farm in West Oxfordshire.",
-      "link": "https://www.gov.uk/government/publications/botley-west-solar-farm-development-consent-order-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-10T16:14:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-10T09:30:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK-Japan offshore wind industrial compact",
-      "summary": "The UK and Japan’s shared commitment to strengthen industrial cooperation in offshore wind.",
-      "link": "https://www.gov.uk/government/publications/uk-japan-offshore-wind-industrial-compact",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-10T09:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission update (November 2026)",
-      "summary": "This update sets out progress under the Global Clean Power Alliance (GCPA) finance mission at COP31.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-10T08:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "COP31: what it is and the UK’s priorities",
-      "summary": "An explainer on the UN's annual climate conference and the government's priorities for COP31.",
-      "link": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-09T16:05:58+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for Horizon Shortfall Scheme Appeals (HSSA) applicants.",
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
@@ -283,18 +315,6 @@
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Boiler Upgrade Scheme: November 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-06T15:24:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
       "title": "Exporting controlled goods from Great Britain during HMRC system issues",
       "summary": "Find out which controlled goods follow the normal export declaration rules if HMRC apply continuity plans due to system issues.",
       "link": "https://www.gov.uk/guidance/exporting-controlled-goods-from-great-britain-during-hmrc-system-issues",
@@ -304,18 +324,6 @@
       "ai_summary": "",
       "ai_tags": [
         "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Heat pump deployment statistics: September 2026",
-      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/heat-pump-deployment-statistics-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-06T10:31:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
       ]
     },
     {
@@ -447,19 +455,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notices: countervailing duty on rainbow trout from Turkey",
-      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade relating to the countervailing duty on rainbow trout from Turkey.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notices-countervailing-duty-on-rainbow-trout-from-turkey",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-05T11:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
     }
   ]
 }

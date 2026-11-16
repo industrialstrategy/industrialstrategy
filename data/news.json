@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:33:11.640065Z",
+  "generated_at": "2026-11-16T14:38:30.571933Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,61 @@
   "count": 40,
   "items": [
     {
+      "title": "Accredited official statistics: Road fuel prices: 16 November 2026",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-16-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-16T14:26:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Subnational electricity consumption in Northern Ireland: 2009-2025",
+      "summary": "Consumption of electricity in Northern Ireland at local council level from 2009 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-16T11:35:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Subnational gas consumption in Northern Ireland: 2015-2025",
+      "summary": "Consumption of gas in Northern Ireland at local council level from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-16T11:34:58+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Oil and gas: offshore environmental legislation",
       "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
       "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T15:14:17+00:00",
+      "published": "2026-11-16T10:19:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: National Energy Action Fishwick survey: privacy notice",
+      "summary": "This notice sets out how we will process and use the personal data collected from the National Energy Action Fishwick Survey, and the rights of the individuals whose data is collected.",
+      "link": "https://www.gov.uk/government/publications/national-energy-action-fishwick-survey-privacy-notice",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-16T09:53:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Red Diesel Replacement competition: successful projects",
+      "summary": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
+      "link": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-16T09:17:56+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -231,36 +281,6 @@
       "ai_tags": []
     },
     {
-      "title": "Policy paper: UK clean electrification roadmap",
-      "summary": "The UK clean electrification roadmap sets out current plans and policies to accelerate clean electrification across buildings, transport and industry.",
-      "link": "https://www.gov.uk/government/publications/uk-clean-electrification-roadmap",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T07:00:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Decision: Boreas Offshore Wind Farm Project: post-consent condition discharge, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on an application by Norfolk Boreas Limited under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/boreas-offshore-wind-farm-project-post-consent-condition-discharge-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Vanguard East and Vanguard West Offshore Wind Farm Project: post-consent condition discharge, Planning Act 2008",
-      "summary": "Decision by the Secretary of State on applications by Norfolk Vanguard East Limited and Norfolk Vanguard West Limited under the Planning Act 2008.",
-      "link": "https://www.gov.uk/government/publications/vanguard-east-and-vanguard-west-offshore-wind-farm-project-post-consent-condition-discharge-planning-act-2008",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T00:00:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Official Statistics: UK trade in numbers",
       "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
       "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--63",
@@ -295,26 +315,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Notice: National Energy Efficiency Data-framework statistics - Gas Safe Register data: privacy notice",
-      "summary": "This notice sets out how we will use your personal data, and your rights.",
-      "link": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-gas-safe-register-data-privacy-notice",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-11T09:49:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: finance mission country action plans",
-      "summary": "Country action plans launched with the Global Clean Power Alliance (GCPA) finance mission.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-country-action-plans",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-11T08:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): tariff of reasonable legal costs",

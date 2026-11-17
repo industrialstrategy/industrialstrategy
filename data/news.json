@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:29:28.175345Z",
+  "generated_at": "2026-11-17T15:26:13.796027Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,21 +19,111 @@
   "count": 40,
   "items": [
     {
-      "title": "Accredited official statistics: Road fuel prices: 16 November 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-16-november-2026",
+      "title": "Accredited official statistics: Subnational electricity and gas consumption summary report 2025",
+      "summary": "Provides estimates of annual electricity and gas consumption below national level.",
+      "link": "https://www.gov.uk/government/statistics/announcements/subnational-electricity-and-gas-consumption-summary-report-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-16T14:26:26+00:00",
+      "published": "2026-11-17T15:19:25+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
     },
     {
-      "title": "Official Statistics: Subnational electricity consumption in Northern Ireland: 2009-2025",
-      "summary": "Consumption of electricity in Northern Ireland at local council level from 2009 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
+      "title": "Statutory guidance: Electricity networks growth: social and environmental guidance to GEMA",
+      "summary": "Guidance on delivering growth through electricity networks.",
+      "link": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-16T11:35:13+00:00",
+      "published": "2026-11-17T13:29:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Subnational electricity consumption in 2025",
+      "summary": "Consumption of electricity broken down by local authority in Great Britain in 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:52:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Subnational gas consumption in 2025",
+      "summary": "Consumption of gas broken down by local authority in Great Britain in 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:52:19+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: MSOA estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Middle Super Output Area (MSOA) level estimates for the number of domestic properties without mains gas from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/msoa-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:48:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Parliamentary constituency estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Parliamentary constituency level estimates for the number of domestic properties without mains gas from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/parliamentary-constituency-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:46:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: LSOA estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Lower Super Output Area (LSOA) level estimates for the number of domestic properties without mains gas from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/lsoa-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:45:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Subnational electricity consumption at LSOA, MSOA and IGZ level in 2025",
+      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level electricity 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:42:47+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Subnational estimates of properties not connected to the gas network 2015-2025",
+      "summary": "Estimates of the number of domestic properties not connected to the gas grid, at region and local authority levels from 2015 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:42:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Subnational electricity consumption at postcode level in 2025",
+      "summary": "Postcode level electricity 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-postcode-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:41:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Subnational gas consumption at postcode level in 2025",
+      "summary": "Postcode level gas 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-postcode-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:40:24+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -43,7 +133,47 @@
       "summary": "Consumption of gas in Northern Ireland at local council level from 2015 to 2025",
       "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-16T11:34:58+00:00",
+      "published": "2026-11-17T11:39:28+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Subnational electricity consumption in Northern Ireland: 2009-2025",
+      "summary": "Consumption of electricity in Northern Ireland at local council level from 2009 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:32:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Subnational gas consumption at LSOA, MSOA and IGZ level in 2025",
+      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level gas 2025 data",
+      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T11:20:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T09:30:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
+      "summary": "Projects which received funding through the concluded Longer Duration Energy Storage Demonstration Programme Stream 1 (Phases 1 and 2) and Stream 2 (Phases 1 and 2).",
+      "link": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-17T09:13:58+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -133,149 +263,11 @@
       "ai_tags": []
     },
     {
-      "title": "Research: Renewable Energy Planning Database: quarterly extract",
-      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
-      "link": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T12:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Transparency data: Heat networks pipelines",
-      "summary": "An overview of current and planned heat networks projects and procurements, including those supported by government funding.",
-      "link": "https://www.gov.uk/government/publications/heat-networks-pipelines",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T12:00:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance): expert review of the First Order Draft",
-      "summary": "The IPCC has announced the expert review of the First Order Draft of the Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance).",
-      "link": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-carbon-dioxide-removal-technologies-carbon-capture-utilization-and-storage-for-national-greenhouse-gas-inventories-addition",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T10:25:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: IPCC AR7: expert review of the Working Group III Contribution (Mitigation of Climate Change)",
-      "summary": "The IPCC has announced the Expert Review of the First Order Draft of its Working Group III contribution to the Seventh Assessment Report.",
-      "link": "https://www.gov.uk/government/publications/ipcc-ar7-mitigation-of-climate-change-expert-review-of-the-working-group-iii-contribution",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T10:25:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: IPCC AR7 and the Technical Guidelines for Assessing Climate Change Impacts and Adaptation including Indicators, Metrics and Methodologies: expert review of the Working Group II contribution (Impacts, Adaptation and Vulnerability)",
-      "summary": "The IPCC has announced the expert review of the First Order Draft of its Working Group II contribution to the Seventh Assessment Report and associated Technical Guidelines.",
-      "link": "https://www.gov.uk/government/publications/ipcc-ar7-and-the-technical-guidelines-for-assessing-climate-change-impacts-and-adaptation-including-indicators-metrics-and-methodologies-expert-review",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T10:24:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Contributing to the IPCC",
-      "summary": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
-      "link": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T10:23:28+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Oil and gas: inspection strategy and enforcement activity",
-      "summary": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T09:30:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Global clean electricity to cut bills and boost energy security",
-      "summary": "UK backs Türkiye’s COP31 '35 by 35' pledge.",
-      "link": "https://www.gov.uk/government/news/global-clean-electricity-to-cut-bills-and-boost-energy-security",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T17:06:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Global Clean Power Alliance",
-      "summary": "The Global Clean Power Alliance (GCPA) brings together international partners through two missions focused on accelerating the transition to clean power.",
-      "link": "https://www.gov.uk/guidance/global-clean-power-alliance",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T15:35:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: Global Clean Power Alliance: supply chains mission update (November 2026)",
-      "summary": "An update on progress and next steps under the Global Clean Power Alliance Supply Chains Mission.",
-      "link": "https://www.gov.uk/government/publications/global-clean-power-alliance-supply-chains-mission-update-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T15:32:48+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Clean Energy Jobs Fair held in Birmingham",
-      "summary": "Energy Secretary joins 400 young people at Birmingham Clean Energy Jobs Fair",
-      "link": "https://www.gov.uk/government/news/clean-energy-jobs-fair-held-in-birmingham",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T15:21:29+00:00",
-      "matched": [
-        "clean energy"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy"
-      ]
-    },
-    {
       "title": "Guidance: HSS fixed sum offer permission to appeal process: tariff of reasonable legal costs",
       "summary": "This guidance sets out the legal costs we will cover for the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
       "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-tariff-of-reasonable-legal-costs",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-12T14:22:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy Trends: UK renewables",
-      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "link": "https://www.gov.uk/government/statistics/energy-trends-section-6-renewables",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T09:30:14+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Voluntary carbon and nature markets: raising integrity",
-      "summary": "We're seeking views on the implementation of the UK government’s principles for voluntary carbon and nature market integrity.",
-      "link": "https://www.gov.uk/government/consultations/voluntary-carbon-and-nature-markets-raising-integrity",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-12T07:00:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

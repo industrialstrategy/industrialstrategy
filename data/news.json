@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:26:21.103436Z",
+  "generated_at": "2026-11-18T15:00:15.138880Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,103 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Arbitrators for UK free trade agreements (FTAs)",
+      "summary": "Lists of arbitrators eligible for and appointed to the UK’s FTAs as part of the trade dispute settlement mechanism.",
+      "link": "https://www.gov.uk/government/publications/arbitrators-for-uk-free-trade-agreements-ftas",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T14:33:51+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-18T14:11:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: HSS fixed sum offer permission to appeal process: registration form",
+      "summary": "Registration form postmasters’ representatives must complete to begin the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-registration-form",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T13:51:44+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
+      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T13:51:03+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Form: Horizon Shortfall Scheme Appeals (HSSA): registration form",
+      "summary": "Registration form postmasters’ representatives must complete to begin the Horizon Shortfall Scheme Appeals (HSSA) process.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-registration-form",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T13:50:26+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
+      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
+      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T13:49:46+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Panel terms of reference and process guidance",
+      "summary": "The Independent Panel ensures fair and consistent assessment of claims from postmasters under the Horizon Shortfall Scheme Appeals (HSSA) scheme.",
+      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-independent-panel-terms-of-reference-and-process-guidance",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T13:44:13+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Trade remedies notice: hot-rolled steel plates originating from South Korea (anti-dumping)",
+      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade (BIST) relating to the dumping investigation on imports of hot-rolled steel plate originating from South Korea.",
+      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-18T13:00:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation",
+        "Trade"
+      ]
+    },
+    {
+      "title": "Notice: V2X Innovation Programme: successful projects",
+      "summary": "Successful projects under the V2X (vehicle-to-everything) Innovation Programme that aims to address barriers to enabling energy flexibility from bi-directional electric vehicle charging.",
+      "link": "https://www.gov.uk/government/publications/v2x-innovation-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-18T09:23:55+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Innovation"
+      ]
+    },
     {
       "title": "Accredited official statistics: Subnational electricity and gas consumption summary report 2025",
       "summary": "Provides estimates of annual electricity and gas consumption below national level.",
@@ -179,16 +276,6 @@
       "ai_tags": []
     },
     {
-      "title": "Oil and gas: offshore environmental legislation",
-      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-16T10:19:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
       "title": "Notice: National Energy Action Fishwick survey: privacy notice",
       "summary": "This notice sets out how we will process and use the personal data collected from the National Energy Action Fishwick Survey, and the rights of the individuals whose data is collected.",
       "link": "https://www.gov.uk/government/publications/national-energy-action-fishwick-survey-privacy-notice",
@@ -251,16 +338,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Policy paper: UK-Canada climate finance: joint statement",
-      "summary": "The UK and Canada have reaffirmed their commitment to international climate finance.",
-      "link": "https://www.gov.uk/government/publications/uk-canada-climate-finance-joint-statement",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-13T13:00:01+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "Guidance: HSS fixed sum offer permission to appeal process: tariff of reasonable legal costs",
@@ -354,90 +431,6 @@
       "title": "Official Statistics: Trade and investment factsheets (partner names beginning with A or B)",
       "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
       "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with C to F)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets: latest update",
-      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with W to Z)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with G to I)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with S)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with P to R)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-06T09:30:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Trade and investment factsheets (partner names beginning with M to O)",
-      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
-      "link": "https://www.gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-06T09:30:05+00:00",
       "matched": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:09:27.129070Z",
+  "generated_at": "2026-11-20T00:14:10.698320Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,11 +19,51 @@
   "count": 40,
   "items": [
     {
-      "title": "Accredited official statistics: Energy trends, UK submission for JODI: November 2026",
-      "summary": "Monthly data on oil and gas production, trade and stock levels, as reported to the Joint Organisations Data Initiative (JODI).",
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 26 September 2027",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-26-september-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-19T17:09:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 27 June 2027",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-27-june-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-19T17:09:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 28 March 2027",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-28-march-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-19T17:09:31+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 27 December 2026",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-27-december-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-19T17:09:29+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends, UK submission for JODI: November 2026 (Energy Trends Tables 3.16 and 4.5)",
+      "summary": "Monthly data on oil and gas production, trade and stock levels, as reported to the Joint Organisations Data Initiative (JODI), and published as part of the suite of Energy Trends products as 3.16 (oil) and 4.5 (gas). These data are published outside of the usual Energy Trends window due to later availability of these data.",
       "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-uk-submission-for-jodi-november-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T14:19:48+00:00",
+      "published": "2026-11-19T15:23:42+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": [
@@ -198,46 +238,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-11-19T10:05:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Subnational electricity consumption in 2025",
-      "summary": "Consumption of electricity broken down by local authority in Great Britain in 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T10:04:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Subnational electricity consumption at LSOA, MSOA and IGZ level in 2025",
-      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level electricity 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-lsoa-msoa-and-igz-level-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T10:04:21+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Subnational electricity consumption at postcode level in 2025",
-      "summary": "Postcode level electricity 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-postcode-level-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T10:04:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Subnational gas consumption at LSOA, MSOA and IGZ level in 2025",
-      "summary": "Lower Super Output Area (LSOA), Middle Super Output Area (MSOA) and Intermediate Geography Zone (IGZ) level gas 2025 data",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-lsoa-msoa-and-igz-level-in-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T10:03:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

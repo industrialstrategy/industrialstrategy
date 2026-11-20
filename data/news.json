@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:14:10.698320Z",
+  "generated_at": "2026-11-20T14:49:29.947770Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,136 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "summary": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "link": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T14:22:20+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "summary": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+      "link": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T14:21:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T14:21:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Policy paper: UK-EU ETS linking agreement: explainer",
+      "summary": "This is an overview of the UK-EU Emissions Trading Scheme (ETS) linking agreement.",
+      "link": "https://www.gov.uk/government/publications/uk-eu-linking-agreement-explainer",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T13:56:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Decision: Gangmasters Licensing Appeals results and judgements",
+      "summary": "Appeal results and judgements from the Gangmasters Licensing Appeals.",
+      "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-20T13:19:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Sports stadiums and supermarkets drive 2026 solar revolution",
+      "summary": "New data from MCS confirms 2026 has broken the record for the most solar panels installed in a single year in British history.",
+      "link": "https://www.gov.uk/government/news/sports-stadiums-and-supermarkets-drive-2026-solar-revolution",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T11:59:16+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends, UK submission for JODI: November 2026 (Energy Trends Tables 3.16 and 4.5)",
+      "summary": "Monthly data on oil and gas production, trade and stock levels, as reported to the Joint Organisations Data Initiative (JODI), and published as part of the suite of Energy Trends products as 3.16 (oil) and 4.5 (gas). These data are published outside of the usual Energy Trends window due to later availability of these data combined with an early publication date for Energy Trends in December.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-uk-submission-for-jodi-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T10:44:49+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 27 December 2026",
+      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
+      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-27-december-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T09:35:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Estimating clean energy R&D spending using tax credit data",
+      "summary": "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.",
+      "link": "https://www.gov.uk/government/publications/estimating-clean-energy-rd-spending-using-tax-credit-data",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T09:28:40+00:00",
+      "matched": [
+        "clean energy",
+        "R&D"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Clean energy",
+        "R&D"
+      ]
+    },
+    {
+      "title": "Research: Methane Emissions from Anaerobic Digestion (MEAD) 2.0",
+      "summary": "This study examined the mechanisms, locations, scale and mitigation of fugitive methane from anaerobic digestion sites.",
+      "link": "https://www.gov.uk/government/publications/methane-emissions-from-anaerobic-digestion-mead-20",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T09:27:11+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Life cycle assessment for anaerobic digestion (AD LCA)",
+      "summary": "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.",
+      "link": "https://www.gov.uk/government/publications/life-cycle-assessment-for-anaerobic-digestion-ad-lca",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T09:26:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: HyNet Track 1 expansion: selected projects",
+      "summary": "Projects selected to enter negotiations for expansion of HyNet CCUS cluster following assessment process.",
+      "link": "https://www.gov.uk/government/publications/hynet-track-1-expansion-selected-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-20T07:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 26 September 2027",
       "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
@@ -47,28 +177,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 27 December 2026",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-27-december-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T17:09:29+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends, UK submission for JODI: November 2026 (Energy Trends Tables 3.16 and 4.5)",
-      "summary": "Monthly data on oil and gas production, trade and stock levels, as reported to the Joint Organisations Data Initiative (JODI), and published as part of the suite of Energy Trends products as 3.16 (oil) and 4.5 (gas). These data are published outside of the usual Energy Trends window due to later availability of these data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-uk-submission-for-jodi-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T15:23:42+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "New clean power renewables auction launched to lower bills",
@@ -135,112 +243,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends: July to September 2027",
-      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the third calendar quarter of 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-july-to-september-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:43:31+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: August - October 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-august-october-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:41:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: July - September 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-july-september-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:41:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: June - August 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-june-august-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:40:37+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: April - June 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-april-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:40:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: January - March 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-january-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:39:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: October - December 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-october-december-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:38:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: September - November 2027",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; solar PV deployment; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-september-november-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:37:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Subnational gas consumption in Northern Ireland: 2015-2025",
-      "summary": "Consumption of gas in Northern Ireland at local council level from 2015 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T10:05:40+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     },
     {
       "title": "How to report serious abuse or exploitation at work",
@@ -443,16 +445,6 @@
       "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-tariff-of-reasonable-legal-costs",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-09T15:15:08+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals assessment framework",
-      "summary": "This framework brings together existing published material to provide more clarity on the principles applied when assessing Horizon Shortfall Scheme Appeals (HSSA) claims.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-09T11:38:03+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:58:14.098138Z",
+  "generated_at": "2026-11-22T23:09:28.441478Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "COP31 Outcomes - your questions answered",
+      "summary": "Q&A on the outcome of the United Nation's 31st Climate Conference.",
+      "link": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-22T22:59:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "UK Government position on COP31 Outcome",
       "summary": "UK Government position on COP31 Outcome",
@@ -227,18 +237,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends: April to June 2027",
-      "summary": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the second calendar quarter of 2027.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-april-to-june-2027",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-19T11:44:34+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     },
     {
       "title": "How to report serious abuse or exploitation at work",

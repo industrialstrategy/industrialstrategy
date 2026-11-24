@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:44:46.325625Z",
+  "generated_at": "2026-11-24T16:54:24.614831Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,80 @@
   "count": 40,
   "items": [
     {
+      "title": "Official Statistics: Boiler Upgrade Scheme: October 2026",
+      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T14:46:12+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps"
+      ]
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T14:20:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Correspondence: Nuclear Regulatory Review: joint ministerial letter to industry",
+      "summary": "Joint DESNZ, MOD and HM Treasury letter to nuclear CEOs and dutyholders on progress and next steps for the Nuclear Regulatory Review.",
+      "link": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T11:10:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Nuclear"
+      ]
+    },
+    {
+      "title": "Statement to the 31st Session of the Conference of the States Parties of the OPCW",
+      "summary": "Statement by United Kingdom of Great Britain and Northern Ireland at the 31st Conference of the States Parties of the OPCW",
+      "link": "https://www.gov.uk/government/speeches/statement-to-the-31st-session-of-the-conference-of-the-states-parties-of-the-opcw",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T11:09:41+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: UK International Climate Finance results 2026",
+      "summary": "This page provides the 2026 International Climate Finance (ICF) results for the UK government.",
+      "link": "https://www.gov.uk/government/statistics/uk-international-climate-finance-results-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T09:38:32+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Weekly road fuel prices",
+      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
+      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T09:30:09+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Electricity transmission licence exemption: Neart na Gaoithe Wind Farm",
+      "summary": "A proposal to provide an exemption from the requirement to hold a transmission licence.",
+      "link": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-neart-na-gaoithe-wind-farm",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-24T09:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
       "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
       "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
       "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
@@ -36,16 +110,6 @@
       "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-october-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-23T15:34:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Road fuel prices: 23 November 2026",
-      "summary": "Weekly prices of unleaded petrol and diesel.",
-      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-23-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-23T14:32:48+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -121,11 +185,11 @@
       "ai_tags": []
     },
     {
-      "title": "COP31 Outcomes - your questions answered",
+      "title": "COP31 outcomes - your questions answered",
       "summary": "Q&A on the outcome of the United Nation's 31st Climate Conference.",
       "link": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-22T22:59:37+00:00",
+      "published": "2026-11-22T22:59:00+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -186,74 +250,6 @@
       "link": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-20T13:19:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Sports stadiums and supermarkets drive 2026 solar revolution",
-      "summary": "New data from MCS confirms 2026 has broken the record for the most solar panels installed in a single year in British history.",
-      "link": "https://www.gov.uk/government/news/sports-stadiums-and-supermarkets-drive-2026-solar-revolution",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-20T11:59:00+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends, UK submission for JODI: November 2026 (Energy Trends Tables 3.16 and 4.5)",
-      "summary": "Monthly data on oil and gas production, trade and stock levels, as reported to the Joint Organisations Data Initiative (JODI), and published as part of the suite of Energy Trends products as 3.16 (oil) and 4.5 (gas). These data are published outside of the usual Energy Trends window due to later availability of these data combined with an early publication date for Energy Trends in December.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-uk-submission-for-jodi-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-20T10:44:49+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Official Statistics: Average road fuel sales, deliveries and stock levels for week ending Sunday 27 December 2026",
-      "summary": "Official statistics in development on average road fuel sales, deliveries and stock levels at sampled filling stations in Great Britain.",
-      "link": "https://www.gov.uk/government/statistics/announcements/average-road-fuel-sales-deliveries-and-stock-levels-for-week-ending-sunday-27-december-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-20T09:35:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Estimating clean energy R&D spending using tax credit data",
-      "summary": "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.",
-      "link": "https://www.gov.uk/government/publications/estimating-clean-energy-rd-spending-using-tax-credit-data",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-20T09:28:40+00:00",
-      "matched": [
-        "clean energy",
-        "R&D"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Clean energy",
-        "R&D"
-      ]
-    },
-    {
-      "title": "Research: Methane Emissions from Anaerobic Digestion (MEAD) 2.0",
-      "summary": "This study examined the mechanisms, locations, scale and mitigation of fugitive methane from anaerobic digestion sites.",
-      "link": "https://www.gov.uk/government/publications/methane-emissions-from-anaerobic-digestion-mead-20",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-20T09:27:11+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Research: Life cycle assessment for anaerobic digestion (AD LCA)",
-      "summary": "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.",
-      "link": "https://www.gov.uk/government/publications/life-cycle-assessment-for-anaerobic-digestion-ad-lca",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-20T09:26:32+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []

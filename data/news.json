@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:52:08.150590Z",
+  "generated_at": "2026-11-25T16:43:12.998882Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,142 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Accredited official statistics: UK residual fuel consumption at regional and local authority level, 2005 to 2025",
+      "summary": "Residual fuel is defined as non-gas, non-electricity and non-road transport fuels, and covers consumption of coal, petroleum, manufactured solid fuels and bioenergy and wastes not used for electricity generation or road transport.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-residual-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T15:44:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: UK road transport fuel consumption at regional and local authority level, 2005 to 2025",
+      "summary": "Consumption statistics for fuels used in road transport at regional and local levels from 2005.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-road-transport-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T15:44:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Local authority greenhouse gas emissions: 2025 estimates",
+      "summary": "UK local authority and regional estimates of greenhouse gas emissions from 2005.",
+      "link": "https://www.gov.uk/government/statistics/announcements/local-authority-greenhouse-gas-emissions-2025-estimates",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T15:43:48+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: UK greenhouse gas emissions: 2026 provisional figures",
+      "summary": "Provisional estimates of UK territorial greenhouse gas emissions based on provisional inland energy consumption statistics, which are published in the quarterly Energy Trends statistical publication.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-greenhouse-gas-emissions-2026-provisional-figures",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T15:43:30+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: UK greenhouse gas emissions: 2025 final figures",
+      "summary": "This publication provides the final estimates of UK territorial greenhouse gas emissions going back to 1990. Estimates are presented by source in February of each year. They are updated in March of each year to include estimates by end-user, and in June to include estimates by Standard Industrial Classification (SIC).",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-greenhouse-gas-emissions-2025-final-figures",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T15:42:56+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Policy paper: Implementing the Plan to Make Work Pay and Employment Rights Act",
+      "summary": "The updated implementation timeline for the government’s Plan to Make Work Pay and the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-25T15:24:04+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Promotional material: Employment Rights Act 2025: factsheets",
+      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
+      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-25T14:19:06+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Standards for official statistics published by DESNZ",
+      "summary": "Documents describing the standards we follow to produce official statistics.",
+      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T13:44:33+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Local Grant statistics - October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T10:03:43+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - October 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T10:03:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Energy trends and prices: September - November 2026",
+      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
+      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T10:00:53+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Accredited official statistics: Solar PV deployment: October 2026",
+      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
+      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T10:00:17+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: November 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-25T09:39:59+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
     {
       "title": "Designated standards",
       "summary": "Lists of standards that businesses can use to show their products, services or processes comply with essential requirements of legislation.",
@@ -119,141 +255,11 @@
       "ai_tags": []
     },
     {
-      "title": "20 million households to receive £100 payment",
-      "summary": "New guidance sets out how £100 Household Energy Payments will reach up to 20 million households alongside funding to help vulnerable households who might miss out",
-      "link": "https://www.gov.uk/government/news/20-million-households-to-receive-100-payment",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T21:44:18+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Smart Meters: July to September 2026",
-      "summary": "Quarterly statistics which show the number of smart meters installed by large energy suppliers in July to September 2026 and the total numbers of smart and non-smart meters operated by these suppliers at the end of September 2026.",
-      "link": "https://www.gov.uk/government/statistics/announcements/smart-meters-july-to-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T18:33:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release November 2026",
-      "summary": "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures installed and the supply chain. These statistics are provisional and are subject to future revisions.",
-      "link": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-statistics-headline-release-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T18:32:15+00:00",
-      "matched": [
-        "supply chain"
-      ],
-      "ai_summary": "",
-      "ai_tags": [
-        "Supply chains"
-      ]
-    },
-    {
-      "title": "Official Statistics: Boiler Upgrade Scheme: October 2026",
-      "summary": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
-      "link": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T14:46:12+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Heat pumps"
-      ]
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - October 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T14:20:36+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Correspondence: Nuclear Regulatory Review: joint ministerial letter to industry",
-      "summary": "Joint DESNZ, MOD and HM Treasury letter to nuclear CEOs and dutyholders on progress and next steps for the Nuclear Regulatory Review.",
-      "link": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T11:10:54+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Nuclear"
-      ]
-    },
-    {
-      "title": "Statement to the 31st Session of the Conference of the States Parties of the OPCW",
-      "summary": "Statement by United Kingdom of Great Britain and Northern Ireland at the 31st Conference of the States Parties of the OPCW",
-      "link": "https://www.gov.uk/government/speeches/statement-to-the-31st-session-of-the-conference-of-the-states-parties-of-the-opcw",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T11:09:41+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: UK International Climate Finance results 2026",
-      "summary": "This page provides the 2026 International Climate Finance (ICF) results for the UK government.",
-      "link": "https://www.gov.uk/government/statistics/uk-international-climate-finance-results-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T09:38:32+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Weekly road fuel prices",
-      "summary": "Road fuel price statistics providing average UK retail 'pump' prices on a weekly basis.",
-      "link": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T09:30:09+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Electricity transmission licence exemption: Neart na Gaoithe Wind Farm",
-      "summary": "A proposal to provide an exemption from the requirement to hold a transmission licence.",
-      "link": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-neart-na-gaoithe-wind-farm",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-24T09:30:07+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
-      "summary": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
-      "link": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-23T17:05:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Transparency data: DBT: workforce management information October 2026",
       "summary": "Reports on departmental staff numbers and costs.",
       "link": "https://www.gov.uk/government/publications/dbt-workforce-management-information-october-2026",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-23T15:34:51+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Promotional material: Employment Rights Act 2025: factsheets",
-      "summary": "Further details on the measures included within the Employment Rights Act 2025.",
-      "link": "https://www.gov.uk/government/publications/employment-rights-bill-factsheets",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-23T09:33:22+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -426,18 +432,6 @@
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: UK trade in numbers",
-      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--63",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-11T16:47:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
     }
   ]
 }

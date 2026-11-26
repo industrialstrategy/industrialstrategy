@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:29:21.805836Z",
+  "generated_at": "2026-11-26T16:17:31.271240Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -19,6 +19,292 @@
   "count": 40,
   "items": [
     {
+      "title": "Guidance: HSS fixed sum offer permission to appeal process: tariff of reasonable legal costs",
+      "summary": "This guidance sets out the legal costs we will cover for the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
+      "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-tariff-of-reasonable-legal-costs",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T16:04:10+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Notice: Heat Pump Ready Programme: successful projects",
+      "summary": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
+      "link": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T11:08:12+00:00",
+      "matched": [
+        "net zero"
+      ],
+      "ai_summary": "",
+      "ai_tags": [
+        "Heat pumps",
+        "Innovation",
+        "Net zero"
+      ]
+    },
+    {
+      "title": "Oil and gas: offshore environmental legislation",
+      "summary": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+      "link": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T10:39:54+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Trade and investment core statistics book",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, former DBT and others.",
+      "link": "https://www.gov.uk/government/statistics/announcements/trade-and-investment-core-statistics-book--116",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T10:06:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Official Statistics: UK trade in numbers",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, former DBT, and UNCTAD",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-numbers--64",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T10:04:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Transparency data: DBT: spending over £500, September 2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-500-september-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Transparency data: DBT: spending over £25,000, October 2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "link": "https://www.gov.uk/government/publications/dbt-spending-over-25000-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T10:00:02+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 29 November 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-29-november-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:59:42+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 22 November 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-22-november-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:59:40+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 15 November 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-15-november-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:59:38+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 1 November 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-1-november-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:59:36+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Road fuel prices: 8 November 2027",
+      "summary": "Weekly prices of unleaded petrol and diesel.",
+      "link": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-8-november-2027",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:59:34+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: Energy Savings Opportunity Scheme (Phase 3): interim evaluation",
+      "summary": "An evaluation into the operation and impact of Phase 3 of the Energy Savings Opportunity Scheme (ESOS).",
+      "link": "https://www.gov.uk/government/publications/energy-savings-opportunity-scheme-phase-3-interim-evaluation",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:37+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Warm Homes: Local Grant and Warm Homes: Social Housing Fund Statistics methodology and background note",
+      "summary": "Provides an outline of the methodology used in compiling the Warm Homes: Local Grant (WH:LG) and Warm Homes: Social Housing Fund (WH:SHF) statistics.",
+      "link": "https://www.gov.uk/government/publications/warm-homes-local-grant-and-warm-homes-social-housing-fund-statistics-methodology-and-background-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:25+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: November 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Decarbonisation"
+      ]
+    },
+    {
+      "title": "Research: Solid wall insulation installed under ECO4 and GBIS: Find and fix, November 2026",
+      "summary": "Statistics on the progress of the 'Find and fix' programme for solid wall insulation installed under ECO4 and GBIS.",
+      "link": "https://www.gov.uk/government/publications/solid-wall-insulation-installed-under-eco4-and-gbis-find-and-fix-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics -  November 2026",
+      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund (WH:SHF) scheme in England.",
+      "link": "https://www.gov.uk/government/statistics/warm-homes-social-housing-fund-statistics-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:24+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release November 2026",
+      "summary": "Household Energy Efficiency Statistics, headline release (November 2026).",
+      "link": "https://www.gov.uk/government/statistics/household-energy-efficiency-statistics-headline-release-november-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Official Statistics: Boiler Upgrade Scheme statistics: October 2026",
+      "summary": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+      "link": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-october-2026",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:23+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Domestic energy price indices",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "International domestic energy prices",
+      "summary": "DESNZ publishes comparisons of industrial energy prices by consumer size against other EU and G7 countries, using data from Eurostat.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/international-domestic-energy-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "International non-domestic energy prices",
+      "summary": "DESNZ publishes comparisons of non-domestic energy prices by consumer size against other EU and G7 countries, using data from Eurostat.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/international-non-domestic-energy-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Comparisons of international road fuel prices",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:22+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Guidance: Smart meters statistics: methodology note",
+      "summary": "Methodology note accompanying quarterly statistical releases on the number of smart meters in domestic properties and smaller non-domestic sites.",
+      "link": "https://www.gov.uk/government/publications/smart-meters-statistics-methodology-note",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-26T09:30:18+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
+    {
+      "title": "Research: International buyers and investors study 2024",
+      "summary": "Study providing insights on international business decision-makers’ attitudes and perceptions of the UK as a trade and investment partner.",
+      "link": "https://www.gov.uk/government/publications/international-buyers-and-investors-study-2024",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T09:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
+      "title": "Research: International buyers and investors study 2023",
+      "summary": "Study providing insights on international business decision-makers’ attitudes and perceptions of the UK as a trade and investment partner.",
+      "link": "https://www.gov.uk/government/publications/international-buyers-and-investors-study-2023",
+      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+      "published": "2026-11-26T09:30:07+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": [
+        "Trade"
+      ]
+    },
+    {
       "title": "Guidance: Designated standards: pressure equipment",
       "summary": "Notices of publication and a consolidated list for designated standards for pressure equipment.",
       "link": "https://www.gov.uk/government/publications/designated-standards-pressure-equipment",
@@ -34,68 +320,6 @@
       "link": "https://www.gov.uk/government/publications/designated-standards-machinery",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-26T00:01:02+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "£100 Household Energy Payment factsheet",
-      "summary": "A factsheet on Household Energy Payments and the £100 million discretionary fund.",
-      "link": "https://www.gov.uk/government/news/100-household-energy-payment-factsheet",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T17:26:39+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: UK residual fuel consumption at regional and local authority level, 2005 to 2025",
-      "summary": "Residual fuel is defined as non-gas, non-electricity and non-road transport fuels, and covers consumption of coal, petroleum, manufactured solid fuels and bioenergy and wastes not used for electricity generation or road transport.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-residual-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T15:44:23+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Manufacturing"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: UK road transport fuel consumption at regional and local authority level, 2005 to 2025",
-      "summary": "Consumption statistics for fuels used in road transport at regional and local levels from 2005.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-road-transport-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T15:44:10+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Local authority greenhouse gas emissions: 2025 estimates",
-      "summary": "UK local authority and regional estimates of greenhouse gas emissions from 2005.",
-      "link": "https://www.gov.uk/government/statistics/announcements/local-authority-greenhouse-gas-emissions-2025-estimates",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T15:43:48+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: UK greenhouse gas emissions: 2026 provisional figures",
-      "summary": "Provisional estimates of UK territorial greenhouse gas emissions based on provisional inland energy consumption statistics, which are published in the quarterly Energy Trends statistical publication.",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-greenhouse-gas-emissions-2026-provisional-figures",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T15:43:30+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: UK greenhouse gas emissions: 2025 final figures",
-      "summary": "This publication provides the final estimates of UK territorial greenhouse gas emissions going back to 1990. Estimates are presented by source in February of each year. They are updated in March of each year to include estimates by end-user, and in June to include estimates by Standard Industrial Classification (SIC).",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-greenhouse-gas-emissions-2025-final-figures",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T15:42:56+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -121,155 +345,11 @@
       "ai_tags": []
     },
     {
-      "title": "Guidance: Standards for official statistics published by DESNZ",
-      "summary": "Documents describing the standards we follow to produce official statistics.",
-      "link": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T13:44:33+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Local Grant statistics - October 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Local Grant scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-local-grant-statistics-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T10:03:43+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Warm Homes: Social Housing Fund statistics - October 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Warm Homes: Social Housing Fund scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/warm-homes-social-housing-fund-statistics-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T10:03:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Accredited official statistics: Energy trends and prices: September - November 2026",
-      "summary": "Monthly production, trade, electricity generation and consumption of coal, electricity, gas, oil and total energy; retail price and EU comparative price data, and petrol & diesel price data.",
-      "link": "https://www.gov.uk/government/statistics/announcements/energy-trends-and-prices-september-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T10:00:53+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Trade"
-      ]
-    },
-    {
-      "title": "Accredited official statistics: Solar PV deployment: October 2026",
-      "summary": "Monthly deployment of solar photovoltaic capacity in the United Kingdom.",
-      "link": "https://www.gov.uk/government/statistics/announcements/solar-pv-deployment-october-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T10:00:17+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: November 2026",
-      "summary": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "link": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-november-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T09:39:59+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Decarbonisation"
-      ]
-    },
-    {
       "title": "Designated standards",
       "summary": "Lists of standards that businesses can use to show their products, services or processes comply with essential requirements of legislation.",
       "link": "https://www.gov.uk/guidance/designated-standards",
       "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
       "published": "2026-11-25T00:30:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: water heaters",
-      "summary": "Notices of publication and a consolidated list for designated standards for water heaters in relation to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-water-heaters",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:05+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: Air heating and cooling products",
-      "summary": "Notices of publication and a consolidated list for designated standards for air heating and cooling products  in relation to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-air-heating-and-cooling-products",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: washing machines and washer dryers",
-      "summary": "Notices of publication and a consolidated list for designated standards for washing machines and washer dryers in relation to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-washing-machines-and-washer-dryers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: Professional refrigerated storage cabinets",
-      "summary": "Notices of publication and consolidated list for designated standards for professional refrigerated storage cabinets relating to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-professional-refrigerated-storage-cabinets",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: dishwashers",
-      "summary": "Notices of publication and a consolidated list for designated standards for dishwashers in relation to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-dishwashers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: Solid fuel boilers",
-      "summary": "Notices of publication and a consolidated list for designated standards for solid fuel boilers in relation to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-solid-fuel-boilers",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: refrigerating appliances with direct sales function",
-      "summary": "Notices of publication and consolidated list for designated standards for refrigerating appliances with direct sales function relating to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-refrigerating-appliances-with-direct-sales-function",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Designated standards: Space Heaters and combination heaters",
-      "summary": "Notices of publication and a consolidated list for designated standards for space heaters and combination heaters in relation to ecodesign and energy labelling.",
-      "link": "https://www.gov.uk/government/publications/designated-standards-space-heaters-and-combination-heaters",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-25T00:01:04+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
@@ -359,79 +439,6 @@
       "ai_tags": [
         "Trade"
       ]
-    },
-    {
-      "title": "Form: HSS fixed sum offer permission to appeal process: registration form",
-      "summary": "Registration form postmasters’ representatives must complete to begin the Horizon Shortfall Scheme (HSS) fixed sum offer permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-registration-form",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-18T13:51:44+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
-      "summary": "Guidance for HSS claimants considering making an application to the fixed sum offer (FSO) permission to appeal process.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-18T13:51:03+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Form: Horizon Shortfall Scheme Appeals (HSSA): registration form",
-      "summary": "Registration form postmasters’ representatives must complete to begin the Horizon Shortfall Scheme Appeals (HSSA) process.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-registration-form",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-18T13:50:26+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Horizon Shortfall Scheme Appeals process guidance and principles",
-      "summary": "Guidance for making an appeal under the Horizon Shortfall Scheme Appeals (HSSA) process and the underlying principles of how cases are assessed.",
-      "link": "https://www.gov.uk/guidance/horizon-shortfall-scheme-appeals-process-guidance-and-principles",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-18T13:49:46+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Horizon Shortfall Scheme Appeals (HSSA): Independent Panel terms of reference and process guidance",
-      "summary": "The Independent Panel ensures fair and consistent assessment of claims from postmasters under the Horizon Shortfall Scheme Appeals (HSSA) scheme.",
-      "link": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-hssa-independent-panel-terms-of-reference-and-process-guidance",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-18T13:44:13+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Notice: Trade remedies notice: hot-rolled steel plates originating from South Korea (anti-dumping)",
-      "summary": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade (BIST) relating to the dumping investigation on imports of hot-rolled steel plate originating from South Korea.",
-      "link": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-18T13:00:04+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": [
-        "Innovation",
-        "Trade"
-      ]
-    },
-    {
-      "title": "Transparency data: Post Office Horizon financial redress and legal costs data for 2026",
-      "summary": "Data for 2026 on redress for postmasters impacted by the Post Office Horizon scandal.",
-      "link": "https://www.gov.uk/government/publications/post-office-horizon-financial-redress-and-legal-costs-data-for-2026",
-      "source": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-      "published": "2026-11-13T15:11:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
     }
   ]
 }

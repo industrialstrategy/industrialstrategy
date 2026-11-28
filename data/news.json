@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:02:27.426805Z",
+  "generated_at": "2026-11-28T01:00:11.229688Z",
   "keywords": [
     "industrial strategy",
     "manufacturing",
@@ -18,6 +18,16 @@
   ],
   "count": 40,
   "items": [
+    {
+      "title": "Guidance: Determinations of the UK ETS carbon price",
+      "summary": "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
+      "link": "https://www.gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
+      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+      "published": "2026-11-27T17:15:00+00:00",
+      "matched": [],
+      "ai_summary": "",
+      "ai_tags": []
+    },
     {
       "title": "Guidance: Women in Research Charter",
       "summary": "A voluntary commitment to improve outcomes for women across the UK research system, with actions for research funders and research performing organisations.",
@@ -306,16 +316,6 @@
       "link": "https://www.gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
       "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
       "published": "2026-11-26T09:30:22+00:00",
-      "matched": [],
-      "ai_summary": "",
-      "ai_tags": []
-    },
-    {
-      "title": "Guidance: Smart meters statistics: methodology note",
-      "summary": "Methodology note accompanying quarterly statistical releases on the number of smart meters in domestic properties and smaller non-domestic sites.",
-      "link": "https://www.gov.uk/government/publications/smart-meters-statistics-methodology-note",
-      "source": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-      "published": "2026-11-26T09:30:18+00:00",
       "matched": [],
       "ai_summary": "",
       "ai_tags": []
